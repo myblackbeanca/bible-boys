@@ -1,224 +1,149 @@
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-//============================
-// consts
-//============================
-
 const BIBLE_SRC = 'https://bible.com/bible'
+const CHAPTER_LIMIT = 60
 
 function BIBLE_URL(bookName: string, chapter: number, translation: string) {
   return BIBLE_SRC+`/1/${bookName}.${chapter}.${translation}`
 }
 
-enum BookName {
-  GEN = "GEN",
-  EXO = "EXO",
-  LEV = "LEV",
-  NUM = "NUM",
-  DEU = "DEU",
-  JOS = "JOS",
-  JDG = "JDG",
-  RUT = "RUT",
-  "1SA" = "1SA",
-  "2SA" = "2SA",
-  "1KI" = "1KI",
-  "2KI" = "2KI",
-  "1CH" = "1CH",
-  "2CH" = "2CH",
-  EZR = "EZR",
-  NEH = "NEH",
-  EST = "EST",
-  JOB = "JOB",
-  PSA = "PSA",
-  PRO = "PRO",
-  ECC = "ECC",
-  SNG = "SNG",
-  ISA = "ISA",
-  JER = "JER",
-  LAM = "LAM",
-  EZK = "EZK",
-  DAN = "DAN",
-  HOS = "HOS",
-  JOL = "JOL",
-  AMO = "AMO",
-  OBA = "OBA",
-  JON = "JON",
-  MIC = "MIC",
-  NAM = "NAM",
-  HAB = "HAB",
-  ZEP = "ZEP",
-  HAG = "HAG",
-  ZEC = "ZEC",
-  MAL = "MAL",
-
-  MAT = "MAT",
-  MRK = "MRK",
-  LUK = "LUK",
-  JHN = "JHN",
-  ACT = "ACT",
-  ROM = "ROM",
-  "1CO" = "1CO",
-  "2CO" = "2CO",
-  GAL = "GAL",
-  EPH = "EPH",
-  PHP = "PHP",
-  COL = "COL",
-  "1TH" = "1TH",
-  "2TH" = "2TH",
-  "1TI" = "1TI",
-  "2TI" = "2TI",
-  TIT = "TIT",
-  PHM = "PHM",
-  HEB = "HEB",
-  JAS = "JAS",
-  "1PE" = "1PE",
-  "2PE" = "2PE",
-  "1JN" = "1JN",
-  "2JN" = "2JN",
-  "3JN" = "3JN",
-  JUD = "JUD",
-  REV = "REV"
-}
-
+const bookNames: Record<string, string> = {
+  GEN: "Genesis",
+  EXO: "Exodus",
+  LEV: "Leviticus",
+  NUM: "Numbers",
+  DEU: "Deuteronomy",
+  JOS: "Joshua",
+  JDG: "Judges",
+  RUT: "Ruth",
+  "1SA": "1 Samuel",
+  "2SA": "2 Samuel",
+  "1KI": "1 Kings",
+  "2KI": "2 Kings",
+  "1CH": "1 Chronicles",
+  "2CH": "2 Chronicles",
+  EZR: "Ezra",
+  NEH: "Nehemiah",
+  EST: "Esther",
+  JOB: "Job",
+  PSA: "Psalms",
+  PRO: "Proverbs",
+  ECC: "Ecclesiastes",
+  SNG: "Song of Solomon",
+  ISA: "Isaiah",
+  JER: "Jeremiah",
+  LAM: "Lamentations",
+  EZK: "Ezekiel",
+  DAN: "Daniel",
+  HOS: "Hosea",
+  JOL: "Joel",
+  AMO: "Amos",
+  OBA: "Obadiah",
+  JON: "Jonah",
+  MIC: "Micah",
+  NAM: "Nahum",
+  HAB: "Habakkuk",
+  ZEP: "Zephaniah",
+  HAG: "Haggai",
+  ZEC: "Zechariah",
+  MAL: "Malachi",
+  MAT: "Matthew",
+  MRK: "Mark",
+  LUK: "Luke",
+  JHN: "John",
+  ACT: "Acts",
+  ROM: "Romans",
+  "1CO": "1 Corinthians",
+  "2CO": "2 Corinthians",
+  GAL: "Galatians",
+  EPH: "Ephesians",
+  PHP: "Philippians",
+  COL: "Colossians",
+  "1TH": "1 Thessalonians",
+  "2TH": "2 Thessalonians",
+  "1TI": "1 Timothy",
+  "2TI": "2 Timothy",
+  TIT: "Titus",
+  PHM: "Philemon",
+  HEB: "Hebrews",
+  JAS: "James",
+  "1PE": "1 Peter",
+  "2PE": "2 Peter",
+  "1JN": "1 John",
+  "2JN": "2 John",
+  "3JN": "3 John",
+  JUD: "Jude",
+  REV: "Revelation"
+};
 
 
-enum Translation {
-  KJV = 'KJV',
-  AMP = 'AMP'
-}
+const translations: Record<string, string> = {
+  KJV: "King James Version",
+  AMP: "Amplified Bible",
+  NIV: "New International Version",
+  ESV: "English Standard Version",
+  NLT: "New Living Translation",
+  NKJV: "New King James Version",
+  NASB: "New American Standard Bible",
+  CSB: "Christian Standard Bible",
+  RSV: "Revised Standard Version",
+  NRSV: "New Revised Standard Version",
+  HCSB: "Holman Christian Standard Bible",
+  ASV: "American Standard Version",
+  DBY: "Darby Bible",
+  YLT: "Young's Literal Translation",
+  WEB: "World English Bible",
+  CEV: "Contemporary English Version",
+  GNT: "Good News Translation",
+  MSG: "The Message",
+  TPT: "The Passion Translation",
+  MEV: "Modern English Version",
+  NCV: "New Century Version",
+  ERV: "Easy-to-Read Version"
+};
 
-enum HTMLClass {
-  BOOK = 'ChapterContent_book__VkdB2',
-  VERSE = 'ChapterContent_verse__57FIw',
-  VERSE_NUMBER = 'ChapterContent_label__R2PLt',
-  VERSE_CONTENT = 'ChapterContent_content__RrUqA',
-  CHAPTER_NOT_FOUND = 'ChapterContent_not-avaliable-span__WrOM_'
-}
+let chapterRequests: BibleChapterRequest[] = []
 
-//=============================
-// utils
-//=============================
-
-
-//=============================
-// bible
-//=============================
-
-class Bible {
-  books: Record<string, Book> = {};
-  translation: Translation
-
-  private constructor(translation: Translation, books: Record<string, Book>) {
-    this.translation = translation
-    this.books = books
-  }
-
-  static async create(translation: Translation): Promise<Bible> {
-    const bookNames = Object.keys(BookName);
-    let books: Record<string, Book> = {}
-    await Promise.all(bookNames.map(async name => {
-      let book = await Book.create(name, translation)
-      books[name] = book      
-    }));
-    return new Bible(translation, books);
-  }
-
-  getBook(name: BookName) {
-    return this.books[name]
+class BibleChapterRequest {
+  src: string
+  bookKey: string
+  bookValue: string
+  chapterNumber: number
+  translationKey: string
+  translationValue: string
+  out: string
+  constructor(bookKey: string, bookValue: string, chapterNumber: number, translationKey: string, translationValue: string) {
+    this.bookKey = bookKey
+    this.bookValue = bookValue
+    this.chapterNumber = chapterNumber
+    this.translationKey = translationKey
+    this.translationValue = translationValue
+    this.src = `https://bible.com/bible/1/${bookKey}.${chapterNumber}.${translationKey}`
+    this.out = `./bible/${translationKey}/${bookKey}/${chapterNumber}.html`
   }
 }
 
-//=============================
-// books
-//=============================
-
-class Book {
-  name: string;
-  numberOfChapters: number = 0;
-  translation: Translation
-  requestUrls: string[] = [];
-  verses: Verse[] = []
-
-  private constructor(name: string, translation: Translation) {
-    this.name = name;
-    this.translation = translation
-  }
-
-  static async create(name: string, translation: Translation): Promise<Book> {
-    const book = new Book(name, translation);
-    await book.init();
-    return book;
-  }
-
-  private async init() {
-    await this.initNumberOfChapters();
-    this.initRequestUrls();
-  }
-
-  // gathers all the urls needed to get the book's verses
-  private initRequestUrls() {
-    for (let i = 1; i <= this.numberOfChapters; i++) {
-      this.requestUrls.push(BIBLE_URL(this.name, i, this.translation));
+Object.entries(bookNames).forEach(([bookKey, bookValue]) => {
+  Object.entries(translations).forEach(([translationKey, translationsValue]) => {
+    for (let chapter = 1; chapter < CHAPTER_LIMIT; chapter++) {
+      let chapterRequest = new BibleChapterRequest(bookKey, bookValue, chapter, translationKey, translationsValue)
+      chapterRequests.push(chapterRequest)
     }
+  })
+})
+
+for (let i = 0; i < chapterRequests.length; i++) {
+  let chapter = chapterRequests[i]
+  let res = await fetch(chapter.src)
+  let html = await res.text()
+  let jsdom = new JSDOM(html)
+  let document = jsdom.window.document
+  let notFoundElement = document.querySelector('.ChapterContent_not-avaliable-span__WrOM_')
+  if (notFoundElement) {
+    continue
   }
-
-  // figures out how many chapters are in the book
-  private async initNumberOfChapters() {
-    let reqUrls = [];
-    for (let i = 1; i < 70; i++) {
-      reqUrls.push(BIBLE_URL(this.name, i, this.translation));
-    }
-
-    await Promise.all(
-      reqUrls.map(async (url) => {
-        let res = await fetch(url);
-        let text = await res.text();
-        if (text.includes(HTMLClass.CHAPTER_NOT_FOUND)) {
-          return;
-        }
-        let parts = url.split("/");
-        let lastPart = parts[parts.length - 1];
-        let moreParts = lastPart.split(".");
-        let chapter = moreParts[1];
-
-        if (Number(chapter) > this.numberOfChapters) {
-          this.numberOfChapters = Number(chapter);
-        }
-      })
-    );
-  }
+  let file = Bun.file(chapter.out)
+  console.log(`writing ${chapter.src}`)
+  await file.write(html)
 }
-
-//=============================
-// verse
-//=============================
-
-class Verse {
-  number: number
-  constructor(number: number) {
-    this.number = number
-  }
-}
-
-//=============================
-// verse
-//=============================
-
-
-
-
-
-(async () => {
-
-
-  const bible = await Bible.create(Translation.AMP);
-
-  let genesis = bible.getBook(BookName.GEN)
-
-  console.log(genesis)
-
-
-
-
-})();

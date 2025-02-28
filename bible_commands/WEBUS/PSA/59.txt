@@ -1,0 +1,63 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:59
+TITLE:Psalms 59
+LABEL:1
+VERSE:Deliver me from my enemies, my God.
+VERSE:Set me on high from those who rise up against me.
+LABEL:2
+VERSE:Deliver me from the workers of iniquity.
+VERSE:Save me from the bloodthirsty men.
+LABEL:3
+VERSE:For, behold, they lie in wait for my soul.
+VERSE:The mighty gather themselves together against me,
+VERSE:not for my disobedience, nor for my sin, Yahweh.
+LABEL:4
+VERSE:I have done no wrong, yet they are ready to attack me.
+VERSE:Rise up, behold, and help me!
+LABEL:5
+VERSE:You, Yahweh God of Armies, the God of Israel,
+VERSE:rouse yourself to punish the nations.
+VERSE:Show no mercy to the wicked traitors. Selah.
+LABEL:6
+VERSE:They return at evening, howling like dogs,
+VERSE:and prowl around the city.
+LABEL:7
+VERSE:Behold, they spew with their mouth.
+VERSE:Swords are in their lips,
+VERSE:“For”, they say, “who hears us?”
+LABEL:8
+VERSE:But you, Yahweh, laugh at them.
+VERSE:You scoff at all the nations.
+LABEL:9
+VERSE:Oh, my Strength, I watch for you,
+VERSE:for God is my high tower.
+LABEL:10
+VERSE:My God will go before me with his loving kindness.
+VERSE:God will let me look at my enemies in triumph.
+LABEL:11
+VERSE:Don’t kill them, or my people may forget.
+VERSE:Scatter them by your power, and bring them down, Lord our shield.
+LABEL:12
+VERSE:For the sin of their mouth, and the words of their lips,
+VERSE:let them be caught in their pride,
+VERSE:for the curses and lies which they utter.
+LABEL:13
+VERSE:Consume them in wrath.
+VERSE:Consume them, and they will be no more.
+VERSE:Let them know that God rules in Jacob,
+VERSE:to the ends of the earth. Selah.
+LABEL:14
+VERSE:At evening let them return.
+VERSE:Let them howl like a dog, and go around the city.
+LABEL:15
+VERSE:They shall wander up and down for food,
+VERSE:and wait all night if they aren’t satisfied.
+LABEL:16
+VERSE:But I will sing of your strength.
+VERSE:Yes, I will sing aloud of your loving kindness in the morning.
+VERSE:For you have been my high tower,
+VERSE:a refuge in the day of my distress.
+LABEL:17
+VERSE:To you, my strength, I will sing praises.
+VERSE:For God is my high tower, the God of my mercy.

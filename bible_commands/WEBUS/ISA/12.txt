@@ -1,0 +1,16 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:12
+TITLE:Isaiah 12
+LABEL:1
+VERSE:In that day you will say, “I will give thanks to you, Yahweh; for though you were angry with me, your anger has turned away and you comfort me.
+LABEL:2
+VERSE:Behold, God is my salvation. I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.”
+LABEL:3
+VERSE:Therefore with joy you will draw water out of the wells of salvation.
+LABEL:4
+VERSE:In that day you will say, “Give thanks to Yahweh! Call on his name! Declare his doings among the peoples! Proclaim that his name is exalted!
+LABEL:5
+VERSE:Sing to Yahweh, for he has done excellent things! Let this be known in all the earth!
+LABEL:6
+VERSE:Cry aloud and shout, you inhabitant of Zion, for the Holy One of Israel is great among you!”

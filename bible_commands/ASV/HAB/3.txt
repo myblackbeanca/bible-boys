@@ -1,0 +1,87 @@
+TRANSLATION:ASV
+BOOK:HAB
+CHAPTER:3
+TITLE:Habakkuk 3
+LABEL:1
+VERSE:A prayer of Habakkuk the prophet, set to Shigionoth.
+LABEL:2
+VERSE:O Jehovah, I have heard the report of thee, and am afraid:
+VERSE:O Jehovah, revive thy work in the midst of the years;
+VERSE:In the midst of the years make it known;
+VERSE:In wrath remember mercy.
+LABEL:3
+VERSE:God came from Teman,
+VERSE:And the Holy One from mount Paran. [Selah
+VERSE:His glory covered the heavens,
+VERSE:And the earth was full of his praise.
+LABEL:4
+VERSE:And his brightness was as the light;
+VERSE:He had rays coming forth from his hand;
+VERSE:And there was the hiding of his power.
+LABEL:5
+VERSE:Before him went the pestilence,
+VERSE:And fiery bolts went forth at his feet.
+LABEL:6
+VERSE:He stood, and measured the earth;
+VERSE:He beheld, and drove asunder the nations;
+VERSE:And the eternal mountains were scattered;
+VERSE:The everlasting hills did bow;
+VERSE:His goings were as of old.
+LABEL:7
+VERSE:I saw the tents of Cushan in affliction;
+VERSE:The curtains of the land of Midian did tremble.
+LABEL:8
+VERSE:Was Jehovah displeased with the rivers?
+VERSE:Was thine anger against the rivers,
+VERSE:Or thy wrath against the sea,
+VERSE:That thou didst ride upon thy horses,
+VERSE:Upon thy chariots of salvation?
+LABEL:9
+VERSE:Thy bow was made quite bare;
+VERSE:The oaths to the tribes were a sure word. [Selah
+VERSE:Thou didst cleave the earth with rivers.
+LABEL:10
+VERSE:The mountains saw thee, and were afraid;
+VERSE:The tempest of waters passed by;
+VERSE:The deep uttered its voice,
+VERSE:And lifted up its hands on high.
+LABEL:11
+VERSE:The sun and moon stood still in their habitation,
+VERSE:At the light of thine arrows as they went,
+VERSE:At the shining of thy glittering spear.
+LABEL:12
+VERSE:Thou didst march through the land in indignation;
+VERSE:Thou didst thresh the nations in anger.
+LABEL:13
+VERSE:Thou wentest forth for the salvation of thy people,
+VERSE:For the salvation of thine anointed;
+VERSE:Thou woundedst the head out of the house of the wicked man,
+VERSE:Laying bare the foundation even unto the neck. [Selah
+LABEL:14
+VERSE:Thou didst pierce with his own staves the head of his warriors:
+VERSE:They came as a whirlwind to scatter me;
+VERSE:Their rejoicing was as to devour the poor secretly.
+LABEL:15
+VERSE:Thou didst tread the sea with thy horses,
+VERSE:The heap of mighty waters.
+LABEL:16
+VERSE:I heard, and my body trembled,
+VERSE:My lips quivered at the voice;
+VERSE:Rottenness entereth into my bones, and I tremble in my place;
+VERSE:Because I must wait quietly for the day of trouble,
+VERSE:For the coming up of the people that invadeth us.
+LABEL:17
+VERSE:For though the fig-tree shall not flourish,
+VERSE:Neither shall fruit be in the vines;
+VERSE:The labor of the olive shall fail,
+VERSE:And the fields shall yield no food;
+VERSE:The flock shall be cut off from the fold,
+VERSE:And there shall be no herd in the stalls:
+LABEL:18
+VERSE:Yet I will rejoice in Jehovah,
+VERSE:I will joy in the God of my salvation.
+LABEL:19
+VERSE:Jehovah, the Lord, is my strength;
+VERSE:And he maketh my feet like hinds’ feet,
+VERSE:And will make me to walk upon my high places.
+VERSE:For the Chief Musician, on my stringed instruments.

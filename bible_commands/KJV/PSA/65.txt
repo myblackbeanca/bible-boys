@@ -1,0 +1,45 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:65
+TITLE:Psalm 65
+LABEL:1
+VERSE:Praise waiteth for thee, O God, in Zion:
+VERSE:And unto thee shall the vow be performed.
+LABEL:2
+VERSE:O thou that hearest prayer,
+VERSE:Unto thee shall all flesh come.
+LABEL:3
+VERSE:Iniquities prevail against me:
+VERSE:As for our transgressions, thou shalt purge them away.
+LABEL:4
+VERSE:Blessed is the man whom thou choosest, and causest to approach unto thee,
+VERSE:That he may dwell in thy courts: We shall be satisfied with the goodness of thy house, even of thy holy temple.
+LABEL:5
+VERSE:  By terrible things in righteousness wilt thou answer us, O God of our salvation;
+VERSE:Who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:
+LABEL:6
+VERSE:Which by his strength setteth fast the mountains;
+VERSE:Being girded with power:
+LABEL:7
+VERSE:Which stilleth the noise of the seas,
+VERSE:the noise of their waves, and the tumult of the people.
+LABEL:8
+VERSE:They also that dwell in the uttermost parts are afraid at thy tokens:
+VERSE:Thou makest the outgoings of the morning and evening to rejoice.
+LABEL:9
+VERSE:Thou visitest the earth, and waterest it:
+VERSE:Thou greatly enrichest it
+VERSE:With the river of God, which is full of water:
+VERSE:Thou preparest them corn, when thou hast so provided for it.
+LABEL:10
+VERSE:Thou waterest the ridges thereof abundantly: Thou settlest the furrows thereof:
+VERSE:Thou makest it soft with showers: Thou blessest the springing thereof.
+LABEL:11
+VERSE:Thou crownest the year with thy goodness;
+VERSE:And thy paths drop fatness.
+LABEL:12
+VERSE:They drop upon the pastures of the wilderness:
+VERSE:And the little hills rejoice on every side.
+LABEL:13
+VERSE:The pastures are clothed with flocks;
+VERSE:The valleys also are covered over with corn; They shout for joy, they also sing.

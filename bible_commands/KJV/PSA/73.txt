@@ -1,0 +1,86 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:73
+TITLE:Psalm 73
+LABEL:1
+VERSE:Truly God is good to Israel,
+VERSE:Even to such as are of a clean heart.
+LABEL:2
+VERSE:But as for me, my feet were almost gone;
+VERSE:My steps had well nigh slipped.
+LABEL:3
+VERSE:For I was envious at the foolish,
+VERSE:When I saw the prosperity of the wicked.
+LABEL:4
+VERSE:For there are no bands in their death:
+VERSE:But their strength is firm.
+LABEL:5
+VERSE:They are not in trouble as other men;
+VERSE:Neither are they plagued like other men.
+LABEL:6
+VERSE:Therefore pride compasseth them about as a chain;
+VERSE:Violence covereth them as a garment.
+LABEL:7
+VERSE:Their eyes stand out with fatness:
+VERSE:They have more than heart could wish.
+LABEL:8
+VERSE:They are corrupt, and speak wickedly concerning oppression:
+VERSE:They speak loftily.
+LABEL:9
+VERSE:They set their mouth against the heavens,
+VERSE:And their tongue walketh through the earth.
+LABEL:10
+VERSE:Therefore his people return hither:
+VERSE:And waters of a full cup are wrung out to them.
+LABEL:11
+VERSE:And they say, How doth God know?
+VERSE:And is there knowledge in the most High?
+LABEL:12
+VERSE:Behold, these are the ungodly, who prosper in the world; they increase in riches.
+LABEL:13
+VERSE:Verily I have cleansed my heart in vain, and washed my hands in innocency.
+LABEL:14
+VERSE:For all the day long have I been plagued,
+VERSE:And chastened every morning.
+LABEL:15
+VERSE:If I say, I will speak thus;
+VERSE:Behold, I should offend against the generation of thy children.
+LABEL:16
+VERSE:When I thought to know this,
+VERSE:It was too painful for me;
+LABEL:17
+VERSE:Until I went into the sanctuary of God;
+VERSE:Then understood I their end.
+LABEL:18
+VERSE:Surely thou didst set them in slippery places:
+VERSE:Thou castedst them down into destruction.
+LABEL:19
+VERSE:How are they brought into desolation, as in a moment!
+VERSE:They are utterly consumed with terrors.
+LABEL:20
+VERSE:As a dream when one awaketh;
+VERSE:So, O Lord, when thou awakest, thou shalt despise their image.
+LABEL:21
+VERSE:Thus my heart was grieved,
+VERSE:And I was pricked in my reins.
+LABEL:22
+VERSE:So foolish was I, and ignorant:
+VERSE:I was as a beast before thee.
+LABEL:23
+VERSE:Nevertheless I am continually with thee:
+VERSE:Thou hast holden me by my right hand.
+LABEL:24
+VERSE:Thou shalt guide me with thy counsel,
+VERSE:And afterward receive me to glory.
+LABEL:25
+VERSE:Whom have I in heaven but thee?
+VERSE:And there is none upon earth that I desire beside thee.
+LABEL:26
+VERSE:My flesh and my heart faileth:
+VERSE:But God is the strength of my heart, and my portion for ever.
+LABEL:27
+VERSE:For, lo, they that are far from thee shall perish:
+VERSE:Thou hast destroyed all them that go a whoring from thee.
+LABEL:28
+VERSE:But it is good for me to draw near to God: I have put my trust in the Lord GOD,
+VERSE:That I may declare all thy works.

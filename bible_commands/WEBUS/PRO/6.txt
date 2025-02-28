@@ -1,0 +1,113 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:6
+TITLE:Proverbs 6
+LABEL:1
+VERSE:My son, if you have become collateral for your neighbor,
+VERSE:if you have struck your hands in pledge for a stranger,
+LABEL:2
+VERSE:you are trapped by the words of your mouth;
+VERSE:you are ensnared with the words of your mouth.
+LABEL:3
+VERSE:Do this now, my son, and deliver yourself,
+VERSE:since you have come into the hand of your neighbor.
+VERSE:Go, humble yourself.
+VERSE:Press your plea with your neighbor.
+LABEL:4
+VERSE:Give no sleep to your eyes,
+VERSE:nor slumber to your eyelids.
+LABEL:5
+VERSE:Free yourself, like a gazelle from the hand of the hunter,
+VERSE:like a bird from the snare of the fowler.
+LABEL:6
+VERSE:Go to the ant, you sluggard.
+VERSE:Consider her ways, and be wise;
+LABEL:7
+VERSE:which having no chief, overseer, or ruler,
+LABEL:8
+VERSE:provides her bread in the summer,
+VERSE:and gathers her food in the harvest.
+LABEL:9
+VERSE:How long will you sleep, sluggard?
+VERSE:When will you arise out of your sleep?
+LABEL:10
+VERSE:A little sleep, a little slumber,
+VERSE:a little folding of the hands to sleep—
+LABEL:11
+VERSE:so your poverty will come as a robber,
+VERSE:and your scarcity as an armed man.
+LABEL:12
+VERSE:A worthless person, a man of iniquity,
+VERSE:is he who walks with a perverse mouth,
+LABEL:13
+VERSE:who winks with his eyes, who signals with his feet,
+VERSE:who motions with his fingers,
+LABEL:14
+VERSE:in whose heart is perverseness,
+VERSE:who devises evil continually,
+VERSE:who always sows discord.
+LABEL:15
+VERSE:Therefore his calamity will come suddenly.
+VERSE:He will be broken suddenly, and that without remedy.
+LABEL:16
+VERSE:There are six things which Yahweh hates;
+VERSE:yes, seven which are an abomination to him:
+LABEL:17
+VERSE:arrogant eyes, a lying tongue,
+VERSE:hands that shed innocent blood,
+LABEL:18
+VERSE:a heart that devises wicked schemes,
+VERSE:feet that are swift in running to mischief,
+LABEL:19
+VERSE:a false witness who utters lies,
+VERSE:and he who sows discord among brothers.
+LABEL:20
+VERSE:My son, keep your father’s commandment,
+VERSE:and don’t forsake your mother’s teaching.
+LABEL:21
+VERSE:Bind them continually on your heart.
+VERSE:Tie them around your neck.
+LABEL:22
+VERSE:When you walk, it will lead you.
+VERSE:When you sleep, it will watch over you.
+VERSE:When you awake, it will talk with you.
+LABEL:23
+VERSE:For the commandment is a lamp,
+VERSE:and the law is light.
+VERSE:Reproofs of instruction are the way of life,
+LABEL:24
+VERSE:to keep you from the immoral woman,
+VERSE:from the flattery of the wayward wife’s tongue.
+LABEL:25
+VERSE:Don’t lust after her beauty in your heart,
+VERSE:neither let her captivate you with her eyelids.
+LABEL:26
+VERSE:For a prostitute reduces you to a piece of bread.
+VERSE:The adulteress hunts for your precious life.
+LABEL:27
+VERSE:Can a man scoop fire into his lap,
+VERSE:and his clothes not be burned?
+LABEL:28
+VERSE:Or can one walk on hot coals,
+VERSE:and his feet not be scorched?
+LABEL:29
+VERSE:So is he who goes in to his neighbor’s wife.
+VERSE:Whoever touches her will not be unpunished.
+LABEL:30
+VERSE:Men don’t despise a thief
+VERSE:if he steals to satisfy himself when he is hungry,
+LABEL:31
+VERSE:but if he is found, he shall restore seven times.
+VERSE:He shall give all the wealth of his house.
+LABEL:32
+VERSE:He who commits adultery with a woman is void of understanding.
+VERSE:He who does it destroys his own soul.
+LABEL:33
+VERSE:He will get wounds and dishonor.
+VERSE:His reproach will not be wiped away.
+LABEL:34
+VERSE:For jealousy arouses the fury of the husband.
+VERSE:He won’t spare in the day of vengeance.
+LABEL:35
+VERSE:He won’t regard any ransom,
+VERSE:neither will he rest content, though you give many gifts.

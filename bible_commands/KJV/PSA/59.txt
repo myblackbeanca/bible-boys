@@ -1,0 +1,55 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:59
+TITLE:Psalm 59
+LABEL:1
+VERSE:Deliver me from mine enemies, O my God:
+VERSE:Defend me from them that rise up against me.
+LABEL:2
+VERSE:Deliver me from the workers of iniquity,
+VERSE:And save me from bloody men.
+LABEL:3
+VERSE:For, lo, they lie in wait for my soul:
+VERSE:The mighty are gathered against me; Not for my transgression, nor for my sin, O LORD.
+LABEL:4
+VERSE:They run and prepare themselves without my fault.
+VERSE:Awake to help me, and behold.
+LABEL:5
+VERSE:Thou therefore, O LORD God of hosts, the God of Israel,
+VERSE:Awake to visit all the heathen: Be not merciful to any wicked transgressors. Selah.
+LABEL:6
+VERSE:They return at evening:
+VERSE:They make a noise like a dog, and go round about the city.
+LABEL:7
+VERSE:Behold, they belch out with their mouth: Swords are in their lips:
+VERSE:For who, say they, doth hear?
+LABEL:8
+VERSE:But thou, O LORD, shalt laugh at them;
+VERSE:Thou shalt have all the heathen in derision.
+LABEL:9
+VERSE:  Because of his strength will I wait upon thee:
+VERSE:For God is my defence.
+LABEL:10
+VERSE:The God of my mercy shall prevent me:
+VERSE:God shall let me see my desire upon mine enemies.
+LABEL:11
+VERSE:Slay them not, lest my people forget:
+VERSE:Scatter them by thy power; and bring them down, O Lord our shield.
+LABEL:12
+VERSE:  For the sin of their mouth and the words of their lips let them even be taken in their pride:
+VERSE:And for cursing and lying which they speak.
+LABEL:13
+VERSE:Consume them in wrath, consume them, that they may not be:
+VERSE:And let them know that God ruleth in Jacob unto the ends of the earth. Selah.
+LABEL:14
+VERSE:And at evening let them return;
+VERSE:And let them make a noise like a dog, and go round about the city.
+LABEL:15
+VERSE:Let them wander up and down for meat,
+VERSE:And grudge if they be not satisfied.
+LABEL:16
+VERSE:But I will sing of thy power; Yea, I will sing aloud of thy mercy in the morning:
+VERSE:For thou hast been my defence and refuge in the day of my trouble.
+LABEL:17
+VERSE:Unto thee, O my strength, will I sing:
+VERSE:For God is my defence, and the God of my mercy.

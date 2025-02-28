@@ -1,0 +1,56 @@
+TRANSLATION:WEBUS
+BOOK:HOS
+CHAPTER:11
+TITLE:Hosea 11
+LABEL:1
+VERSE:“When Israel was a child, then I loved him,
+VERSE:and called my son out of Egypt.
+LABEL:2
+VERSE:They called to them, so they went from them.
+VERSE:They sacrificed to the Baals,
+VERSE:and burned incense to engraved images.
+LABEL:3
+VERSE:Yet I taught Ephraim to walk.
+VERSE:I took them by their arms,
+VERSE:but they didn’t know that I healed them.
+LABEL:4
+VERSE:I drew them with cords of a man, with ties of love;
+VERSE:and I was to them like those who lift up the yoke on their necks;
+VERSE:and I bent down to him and I fed him.
+LABEL:5
+VERSE:“They won’t return into the land of Egypt;
+VERSE:but the Assyrian will be their king,
+VERSE:because they refused to repent.
+LABEL:6
+VERSE:The sword will fall on their cities,
+VERSE:and will destroy the bars of their gates,
+VERSE:and will put an end to their plans.
+LABEL:7
+VERSE:My people are determined to turn from me.
+VERSE:Though they call to the Most High,
+VERSE:he certainly won’t exalt them.
+LABEL:8
+VERSE:“How can I give you up, Ephraim?
+VERSE:How can I hand you over, Israel?
+VERSE:How can I make you like Admah?
+VERSE:How can I make you like Zeboiim?
+VERSE:My heart is turned within me,
+VERSE:my compassion is aroused.
+LABEL:9
+VERSE:I will not execute the fierceness of my anger.
+VERSE:I will not return to destroy Ephraim,
+VERSE:for I am God, and not man—the Holy One among you.
+VERSE:I will not come in wrath.
+LABEL:10
+VERSE:They will walk after Yahweh,
+VERSE:who will roar like a lion;
+VERSE:for he will roar, and the children will come trembling from the west.
+LABEL:11
+VERSE:They will come trembling like a bird out of Egypt,
+VERSE:and like a dove out of the land of Assyria;
+VERSE:and I will settle them in their houses,” says Yahweh.
+LABEL:12
+VERSE:Ephraim surrounds me with falsehood,
+VERSE:and the house of Israel with deceit.
+VERSE:Judah still strays from God,
+VERSE:and is unfaithful to the Holy One.

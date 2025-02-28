@@ -1,0 +1,57 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:116
+TITLE:Psalm 116
+LABEL:1
+VERSE:I love the LORD,
+VERSE:Because he hath heard my voice and my supplications.
+LABEL:2
+VERSE:Because he hath inclined his ear unto me,
+VERSE:Therefore will I call upon him as long as I live.
+LABEL:3
+VERSE:The sorrows of death compassed me,
+VERSE:And the pains of hell gat hold upon me:
+VERSE:I found trouble and sorrow.
+LABEL:4
+VERSE:Then called I upon the name of the LORD;
+VERSE:O LORD, I beseech thee, deliver my soul.
+LABEL:5
+VERSE:Gracious is the LORD, and righteous;
+VERSE:Yea, our God is merciful.
+LABEL:6
+VERSE:The LORD preserveth the simple:
+VERSE:I was brought low, and he helped me.
+LABEL:7
+VERSE:Return unto thy rest, O my soul;
+VERSE:For the LORD hath dealt bountifully with thee.
+LABEL:8
+VERSE:For thou hast delivered my soul from death,
+VERSE:Mine eyes from tears, and my feet from falling.
+LABEL:9
+VERSE:I will walk before
+VERSE:The LORD in the land of the living.
+LABEL:10
+VERSE:I believed, therefore have I spoken: I was greatly afflicted:
+LABEL:11
+VERSE:I said in my haste, all men are liars.
+LABEL:12
+VERSE:What shall I render unto the LORD
+VERSE:For all his benefits toward me?
+LABEL:13
+VERSE:I will take the cup of salvation,
+VERSE:And call upon the name of the LORD.
+LABEL:14
+VERSE:I will pay my vows unto the LORD now in the presence of all his people.
+LABEL:15
+VERSE:Precious in the sight of the LORD  is the death of his saints.
+LABEL:16
+VERSE:O LORD, truly I am thy servant;
+VERSE:I am thy servant, and the son of thine handmaid: Thou hast loosed my bonds.
+LABEL:17
+VERSE:I will offer to thee the sacrifice of thanksgiving,
+VERSE:And will call upon the name of the LORD.
+LABEL:18
+VERSE:I will pay my vows unto the LORD now in the presence of all his people,
+LABEL:19
+VERSE:In the courts of the LORD's house, in the midst of thee, O Jerusalem.
+VERSE:Praise ye the LORD.

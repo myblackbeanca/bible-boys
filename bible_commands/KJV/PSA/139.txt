@@ -1,0 +1,76 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:139
+TITLE:Psalm 139
+LABEL:1
+VERSE:O LORD, thou hast searched me, and known me.
+LABEL:2
+VERSE:Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
+LABEL:3
+VERSE:Thou compassest my path and my lying down,
+VERSE:And art acquainted with all my ways.
+LABEL:4
+VERSE:For there is not a word in my tongue,
+VERSE:But, lo, O LORD, thou knowest it altogether.
+LABEL:5
+VERSE:Thou hast beset me behind and before,
+VERSE:And laid thine hand upon me.
+LABEL:6
+VERSE:  Such knowledge is too wonderful for me;
+VERSE:It is high, I cannot attain unto it.
+LABEL:7
+VERSE:Whither shall I go from thy spirit?
+VERSE:Or whither shall I flee from thy presence?
+LABEL:8
+VERSE:If I ascend up into heaven, thou art there:
+VERSE:If I make my bed in hell, behold, thou art there.
+LABEL:9
+VERSE:  If I take the wings of the morning,
+VERSE:And dwell in the uttermost parts of the sea;
+LABEL:10
+VERSE:Even there shall thy hand lead me,
+VERSE:And thy right hand shall hold me.
+LABEL:11
+VERSE:If I say, Surely the darkness shall cover me;
+VERSE:Even the night shall be light about me.
+LABEL:12
+VERSE:Yea, the darkness hideth not from thee; But the night shineth as the day:
+VERSE:The darkness and the light are both alike to thee.
+LABEL:13
+VERSE:For thou hast possessed my reins:
+VERSE:Thou hast covered me in my mother's womb.
+LABEL:14
+VERSE:I will praise thee; for I am fearfully and wonderfully made:
+VERSE:Marvellous are thy works; And that my soul knoweth right well.
+LABEL:15
+VERSE:My substance was not hid from thee,
+VERSE:When I was made in secret, and curiously wrought in the lowest parts of the earth.
+LABEL:16
+VERSE:Thine eyes did see my substance, yet being unperfect;
+VERSE:And in thy book all my members were written,
+VERSE:Which in continuance were fashioned,
+VERSE:When as yet there was none of them.
+LABEL:17
+VERSE:How precious also are thy thoughts unto me, O God!
+VERSE:How great is the sum of them!
+LABEL:18
+VERSE:  If I should count them, they are more in number than the sand:
+VERSE:When I awake, I am still with thee.
+LABEL:19
+VERSE:Surely thou wilt slay the wicked, O God:
+VERSE:Depart from me therefore, ye bloody men.
+LABEL:20
+VERSE:For they speak against thee wickedly,
+VERSE:And thine enemies take thy name in vain.
+LABEL:21
+VERSE:Do not I hate them, O LORD, that hate thee?
+VERSE:And am not I grieved with those that rise up against thee?
+LABEL:22
+VERSE:I hate them with perfect hatred:
+VERSE:I count them mine enemies.
+LABEL:23
+VERSE:Search me, O God, and know my heart:
+VERSE:Try me, and know my thoughts:
+LABEL:24
+VERSE:And see if there be any wicked way in me,
+VERSE:And lead me in the way everlasting.

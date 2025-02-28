@@ -1,0 +1,41 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:30
+TITLE:Psalm 30
+LABEL:1
+VERSE:I will extol thee, O LORD; for thou hast lifted me up,
+VERSE:And hast not made my foes to rejoice over me.
+LABEL:2
+VERSE:O LORD my God,
+VERSE:I cried unto thee, and thou hast healed me.
+LABEL:3
+VERSE:O LORD, thou hast brought up my soul from the grave:
+VERSE:Thou hast kept me alive, that I should not go down to the pit.
+LABEL:4
+VERSE:Sing unto the LORD, O ye saints of his,
+VERSE:And give thanks at the remembrance of his holiness.
+LABEL:5
+VERSE:For his anger endureth but a moment; in his favour is life:
+VERSE:Weeping may endure for a night, but joy cometh in the morning.
+LABEL:6
+VERSE:And in my prosperity I said, I shall never be moved.
+LABEL:7
+VERSE:  LORD, by thy favour thou hast made my mountain to stand strong:
+VERSE:Thou didst hide thy face, and I was troubled.
+LABEL:8
+VERSE:I cried to thee, O LORD;
+VERSE:And unto the LORD I made supplication.
+LABEL:9
+VERSE:What profit is there in my blood,
+VERSE:When I go down to the pit?
+VERSE:Shall the dust praise thee?
+VERSE:Shall it declare thy truth?
+LABEL:10
+VERSE:Hear, O LORD, and have mercy upon me:
+VERSE:LORD, be thou my helper.
+LABEL:11
+VERSE:Thou hast turned for me my mourning into dancing:
+VERSE:Thou hast put off my sackcloth, and girded me with gladness;
+LABEL:12
+VERSE:To the end that my glory may sing praise to thee, and not be silent.
+VERSE:O LORD my God, I will give thanks unto thee for ever.

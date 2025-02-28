@@ -1,0 +1,30 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:101
+TITLE:Psalms 101
+LABEL:1
+VERSE:I will sing of lovingkindness and justice:
+VERSE:Unto thee, O Jehovah, will I sing praises.
+LABEL:2
+VERSE:I will behave myself wisely in a perfect way:
+VERSE:Oh when wilt thou come unto me?
+VERSE:I will walk within my house with a perfect heart.
+LABEL:3
+VERSE:I will set no base thing before mine eyes:
+VERSE:I hate the work of them that turn aside;
+VERSE:It shall not cleave unto me.
+LABEL:4
+VERSE:A perverse heart shall depart from me:
+VERSE:I will know no evil thing.
+LABEL:5
+VERSE:Whoso privily slandereth his neighbor, him will I destroy:
+VERSE:Him that hath a high look and a proud heart will I not suffer.
+LABEL:6
+VERSE:Mine eyes shall be upon the faithful of the land, that they may dwell with me:
+VERSE:He that walketh in a perfect way, he shall minister unto me.
+LABEL:7
+VERSE:He that worketh deceit shall not dwell within my house:
+VERSE:He that speaketh falsehood shall not be established before mine eyes.
+LABEL:8
+VERSE:Morning by morning will I destroy all the wicked of the land;
+VERSE:To cut off all the workers of iniquity from the city of Jehovah.

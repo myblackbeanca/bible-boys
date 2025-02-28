@@ -1,0 +1,63 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:20
+TITLE:Numbers 20
+LABEL:1
+VERSE:The children of Israel, even the whole congregation, came into the wilderness of Zin in the first month. The people stayed in Kadesh. Miriam died there, and was buried there.
+LABEL:2
+VERSE:There was no water for the congregation; and they assembled themselves together against Moses and against Aaron.
+LABEL:3
+VERSE:The people quarreled with Moses, and spoke, saying, “We wish that we had died when our brothers died before Yahweh!
+LABEL:4
+VERSE:Why have you brought Yahweh’s assembly into this wilderness, that we should die there, we and our animals?
+LABEL:5
+VERSE:Why have you made us to come up out of Egypt, to bring us in to this evil place? It is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.”
+LABEL:6
+VERSE:Moses and Aaron went from the presence of the assembly to the door of the Tent of Meeting, and fell on their faces. Yahweh’s glory appeared to them.
+LABEL:7
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:8
+VERSE:“Take the rod, and assemble the congregation, you, and Aaron your brother, and speak to the rock before their eyes, that it pour out its water. You shall bring water to them out of the rock; so you shall give the congregation and their livestock drink.”
+LABEL:9
+VERSE:Moses took the rod from before Yahweh, as he commanded him.
+LABEL:10
+VERSE:Moses and Aaron gathered the assembly together before the rock, and he said to them, “Hear now, you rebels! Shall we bring water out of this rock for you?”
+LABEL:11
+VERSE:Moses lifted up his hand, and struck the rock with his rod twice, and water came out abundantly. The congregation and their livestock drank.
+LABEL:12
+VERSE:Yahweh said to Moses and Aaron, “Because you didn’t believe in me, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them.”
+LABEL:13
+VERSE:These are the waters of Meribah; because the children of Israel strove with Yahweh, and he was sanctified in them.
+LABEL:14
+VERSE:Moses sent messengers from Kadesh to the king of Edom, saying:
+VERSE:“Your brother Israel says: You know all the travail that has happened to us;
+LABEL:15
+VERSE:how our fathers went down into Egypt, and we lived in Egypt a long time. The Egyptians mistreated us and our fathers.
+LABEL:16
+VERSE:When we cried to Yahweh, he heard our voice, sent an angel, and brought us out of Egypt. Behold, we are in Kadesh, a city in the edge of your border.
+LABEL:17
+VERSE:“Please let us pass through your land. We will not pass through field or through vineyard, neither will we drink from the water of the wells. We will go along the king’s highway. We will not turn away to the right hand nor to the left, until we have passed your border.”
+LABEL:18
+VERSE:Edom said to him, “You shall not pass through me, lest I come out with the sword against you.”
+LABEL:19
+VERSE:The children of Israel said to him, “We will go up by the highway; and if we drink your water, I and my livestock, then I will give its price. Only let me, without doing anything else, pass through on my feet.”
+LABEL:20
+VERSE:He said, “You shall not pass through.” Edom came out against him with many people, and with a strong hand.
+LABEL:21
+VERSE:Thus Edom refused to give Israel passage through his border, so Israel turned away from him.
+LABEL:22
+VERSE:They traveled from Kadesh, and the children of Israel, even the whole congregation, came to Mount Hor.
+LABEL:23
+VERSE:Yahweh spoke to Moses and Aaron in Mount Hor, by the border of the land of Edom, saying,
+LABEL:24
+VERSE:“Aaron shall be gathered to his people; for he shall not enter into the land which I have given to the children of Israel, because you rebelled against my word at the waters of Meribah.
+LABEL:25
+VERSE:Take Aaron and Eleazar his son, and bring them up to Mount Hor;
+LABEL:26
+VERSE:and strip Aaron of his garments, and put them on Eleazar his son. Aaron shall be gathered, and shall die there.”
+LABEL:27
+VERSE:Moses did as Yahweh commanded. They went up onto Mount Hor in the sight of all the congregation.
+LABEL:28
+VERSE:Moses stripped Aaron of his garments, and put them on Eleazar his son. Aaron died there on the top of the mountain, and Moses and Eleazar came down from the mountain.
+LABEL:29
+VERSE:When all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.

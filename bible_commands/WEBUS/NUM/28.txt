@@ -1,0 +1,66 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:28
+TITLE:Numbers 28
+LABEL:1
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:2
+VERSE:“Command the children of Israel, and tell them, ‘See that you present my offering, my food for my offerings made by fire, as a pleasant aroma to me, in their due season.’
+LABEL:3
+VERSE:You shall tell them, ‘This is the offering made by fire which you shall offer to Yahweh: male lambs a year old without defect, two day by day, for a continual burnt offering.
+LABEL:4
+VERSE:You shall offer the one lamb in the morning, and you shall offer the other lamb at evening,
+LABEL:5
+VERSE:with one tenth of an ephah of fine flour for a meal offering, mixed with the fourth part of a hin of beaten oil.
+LABEL:6
+VERSE:It is a continual burnt offering which was ordained in Mount Sinai for a pleasant aroma, an offering made by fire to Yahweh.
+LABEL:7
+VERSE:Its drink offering shall be the fourth part of a hin for each lamb. You shall pour out a drink offering of strong drink to Yahweh in the holy place.
+LABEL:8
+VERSE:The other lamb you shall offer at evening. As the meal offering of the morning, and as its drink offering, you shall offer it, an offering made by fire, for a pleasant aroma to Yahweh.
+LABEL:9
+VERSE:“‘On the Sabbath day, you shall offer two male lambs a year old without defect, and two tenths of an ephah of fine flour for a meal offering mixed with oil, and its drink offering:
+LABEL:10
+VERSE:this is the burnt offering of every Sabbath, in addition to the continual burnt offering and its drink offering.
+LABEL:11
+VERSE:“‘In the beginnings of your months, you shall offer a burnt offering to Yahweh: two young bulls, one ram, seven male lambs a year old without defect,
+LABEL:12
+VERSE:and three tenths of an ephah of fine flour for a meal offering mixed with oil, for each bull; and two tenth parts of fine flour for a meal offering mixed with oil, for the one ram;
+LABEL:13
+VERSE:and one tenth part of fine flour mixed with oil for a meal offering to every lamb, as a burnt offering of a pleasant aroma, an offering made by fire to Yahweh.
+LABEL:14
+VERSE:Their drink offerings shall be half a hin of wine for a bull, the third part of a hin for the ram, and the fourth part of a hin for a lamb. This is the burnt offering of every month throughout the months of the year.
+LABEL:15
+VERSE:Also, one male goat for a sin offering to Yahweh shall be offered in addition to the continual burnt offering and its drink offering.
+LABEL:16
+VERSE:“‘In the first month, on the fourteenth day of the month, is Yahweh’s Passover.
+LABEL:17
+VERSE:On the fifteenth day of this month shall be a feast. Unleavened bread shall be eaten for seven days.
+LABEL:18
+VERSE:In the first day shall be a holy convocation. You shall do no regular work,
+LABEL:19
+VERSE:but you shall offer an offering made by fire, a burnt offering to Yahweh: two young bulls, one ram, and seven male lambs a year old. They shall be without defect,
+LABEL:20
+VERSE:with their meal offering, fine flour mixed with oil. You shall offer three tenths for a bull, and two tenths for the ram.
+LABEL:21
+VERSE:You shall offer one tenth for every lamb of the seven lambs;
+LABEL:22
+VERSE:and one male goat for a sin offering, to make atonement for you.
+LABEL:23
+VERSE:You shall offer these in addition to the burnt offering of the morning, which is for a continual burnt offering.
+LABEL:24
+VERSE:In this way you shall offer daily, for seven days, the food of the offering made by fire, of a pleasant aroma to Yahweh. It shall be offered in addition to the continual burnt offering and its drink offering.
+LABEL:25
+VERSE:On the seventh day you shall have a holy convocation. You shall do no regular work.
+LABEL:26
+VERSE:“‘Also in the day of the first fruits, when you offer a new meal offering to Yahweh in your feast of weeks, you shall have a holy convocation. You shall do no regular work;
+LABEL:27
+VERSE:but you shall offer a burnt offering for a pleasant aroma to Yahweh: two young bulls, one ram, seven male lambs a year old;
+LABEL:28
+VERSE:and their meal offering, fine flour mixed with oil, three tenths for each bull, two tenths for the one ram,
+LABEL:29
+VERSE:one tenth for every lamb of the seven lambs;
+LABEL:30
+VERSE:and one male goat, to make atonement for you.
+LABEL:31
+VERSE:Besides the continual burnt offering and its meal offering, you shall offer them and their drink offerings. See that they are without defect.

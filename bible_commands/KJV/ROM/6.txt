@@ -1,0 +1,51 @@
+TRANSLATION:KJV
+BOOK:ROM
+CHAPTER:6
+TITLE:Romans 6
+SECTION:Complete Renewal
+LABEL:1
+VERSE:What shall we say then? Shall we continue in sin, that grace may abound?
+LABEL:2
+VERSE:God forbid. How shall we, that are dead to sin, live any longer therein?
+LABEL:3
+VERSE:Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?
+LABEL:4
+VERSE:Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
+LABEL:5
+VERSE:For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:
+LABEL:6
+VERSE:knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.
+LABEL:7
+VERSE:For he that is dead is freed from sin.
+LABEL:8
+VERSE:Now if we be dead with Christ, we believe that we shall also live with him:
+LABEL:9
+VERSE:knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.
+LABEL:10
+VERSE:For in that he died, he died unto sin once: but in that he liveth, he liveth unto God.
+LABEL:11
+VERSE:Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
+LABEL:12
+VERSE:Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
+LABEL:13
+VERSE:Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
+LABEL:14
+VERSE:For sin shall not have dominion over you: for ye are not under the law, but under grace.
+LABEL:15
+VERSE:What then? shall we sin, because we are not under the law, but under grace? God forbid.
+LABEL:16
+VERSE:Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
+LABEL:17
+VERSE:But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
+LABEL:18
+VERSE:Being then made free from sin, ye became the servants of righteousness.
+LABEL:19
+VERSE:I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
+LABEL:20
+VERSE:For when ye were the servants of sin, ye were free from righteousness.
+LABEL:21
+VERSE:What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death.
+LABEL:22
+VERSE:But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
+LABEL:23
+VERSE:For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.

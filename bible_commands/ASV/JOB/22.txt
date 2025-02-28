@@ -1,0 +1,93 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:22
+TITLE:Job 22
+LABEL:1
+VERSE:Then answered Eliphaz the Temanite, and said,
+LABEL:2
+VERSE:Can a man be profitable unto God?
+VERSE:Surely he that is wise is profitable unto himself.
+LABEL:3
+VERSE:Is it any pleasure to the Almighty, that thou art righteous?
+VERSE:Or is it gain to him, that thou makest thy ways perfect?
+LABEL:4
+VERSE:Is it for thy fear of him that he reproveth thee,
+VERSE:That he entereth with thee into judgment?
+LABEL:5
+VERSE:Is not thy wickedness great?
+VERSE:Neither is there any end to thine iniquities.
+LABEL:6
+VERSE:For thou hast taken pledges of thy brother for nought,
+VERSE:And stripped the naked of their clothing.
+LABEL:7
+VERSE:Thou hast not given water to the weary to drink,
+VERSE:And thou hast withholden bread from the hungry.
+LABEL:8
+VERSE:But as for the mighty man, he had the earth;
+VERSE:And the honorable man, he dwelt in it.
+LABEL:9
+VERSE:Thou hast sent widows away empty,
+VERSE:And the arms of the fatherless have been broken.
+LABEL:10
+VERSE:Therefore snares are round about thee,
+VERSE:And sudden fear troubleth thee,
+LABEL:11
+VERSE:Or darkness, so that thou canst not see,
+VERSE:And abundance of waters cover thee.
+LABEL:12
+VERSE:Is not God in the height of heaven?
+VERSE:And behold the height of the stars, how high they are!
+LABEL:13
+VERSE:And thou sayest, What doth God know?
+VERSE:Can he judge through the thick darkness?
+LABEL:14
+VERSE:Thick clouds are a covering to him, so that he seeth not;
+VERSE:And he walketh on the vault of heaven.
+LABEL:15
+VERSE:Wilt thou keep the old way
+VERSE:Which wicked men have trodden?
+LABEL:16
+VERSE:Who were snatched away before their time,
+VERSE:Whose foundation was poured out as a stream,
+LABEL:17
+VERSE:Who said unto God, Depart from us;
+VERSE:And, What can the Almighty do for us?
+LABEL:18
+VERSE:Yet he filled their houses with good things:
+VERSE:But the counsel of the wicked is far from me.
+LABEL:19
+VERSE:The righteous see it, and are glad;
+VERSE:And the innocent laugh them to scorn,
+LABEL:20
+VERSE:  Saying, Surely they that did rise up against us are cut off,
+VERSE:And the remnant of them the fire hath consumed.
+LABEL:21
+VERSE:Acquaint now thyself with him, and be at peace:
+VERSE:Thereby good shall come unto thee.
+LABEL:22
+VERSE:Receive, I pray thee, the law from his mouth,
+VERSE:And lay up his words in thy heart.
+LABEL:23
+VERSE:If thou return to the Almighty, thou shalt be built up,
+VERSE:If thou put away unrighteousness far from thy tents.
+LABEL:24
+VERSE:And lay thou thy treasure in the dust,
+VERSE:And the gold of Ophir among the stones of the brooks;
+LABEL:25
+VERSE:And the Almighty will be thy treasure,
+VERSE:And precious silver unto thee.
+LABEL:26
+VERSE:For then shalt thou delight thyself in the Almighty,
+VERSE:And shalt lift up thy face unto God.
+LABEL:27
+VERSE:Thou shalt make thy prayer unto him, and he will hear thee;
+VERSE:And thou shalt pay thy vows.
+LABEL:28
+VERSE:Thou shalt also decree a thing, and it shall be established unto thee;
+VERSE:And light shall shine upon thy ways.
+LABEL:29
+VERSE:When they cast thee down, thou shalt say, There is lifting up;
+VERSE:And the humble person he will save.
+LABEL:30
+VERSE:He will deliver even him that is not innocent:
+VERSE:Yea, he shall be delivered through the cleanness of thy hands.

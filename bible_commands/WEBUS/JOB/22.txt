@@ -1,0 +1,93 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:22
+TITLE:Job 22
+LABEL:1
+VERSE:Then Eliphaz the Temanite answered,
+LABEL:2
+VERSE:“Can a man be profitable to God?
+VERSE:Surely he who is wise is profitable to himself.
+LABEL:3
+VERSE:Is it any pleasure to the Almighty that you are righteous?
+VERSE:Or does it benefit him that you make your ways perfect?
+LABEL:4
+VERSE:Is it for your piety that he reproves you,
+VERSE:that he enters with you into judgment?
+LABEL:5
+VERSE:Isn’t your wickedness great?
+VERSE:Neither is there any end to your iniquities.
+LABEL:6
+VERSE:For you have taken pledges from your brother for nothing,
+VERSE:and stripped the naked of their clothing.
+LABEL:7
+VERSE:You haven’t given water to the weary to drink,
+VERSE:and you have withheld bread from the hungry.
+LABEL:8
+VERSE:But as for the mighty man, he had the earth.
+VERSE:The honorable man, he lived in it.
+LABEL:9
+VERSE:You have sent widows away empty,
+VERSE:and the arms of the fatherless have been broken.
+LABEL:10
+VERSE:Therefore snares are around you.
+VERSE:Sudden fear troubles you,
+LABEL:11
+VERSE:or darkness, so that you can not see,
+VERSE:and floods of waters cover you.
+LABEL:12
+VERSE:“Isn’t God in the heights of heaven?
+VERSE:See the height of the stars, how high they are!
+LABEL:13
+VERSE:You say, ‘What does God know?
+VERSE:Can he judge through the thick darkness?
+LABEL:14
+VERSE:Thick clouds are a covering to him, so that he doesn’t see.
+VERSE:He walks on the vault of the sky.’
+LABEL:15
+VERSE:Will you keep the old way,
+VERSE:which wicked men have trodden,
+LABEL:16
+VERSE:who were snatched away before their time,
+VERSE:whose foundation was poured out as a stream,
+LABEL:17
+VERSE:who said to God, ‘Depart from us!’
+VERSE:and, ‘What can the Almighty do for us?’
+LABEL:18
+VERSE:Yet he filled their houses with good things,
+VERSE:but the counsel of the wicked is far from me.
+LABEL:19
+VERSE:The righteous see it, and are glad.
+VERSE:The innocent ridicule them,
+LABEL:20
+VERSE:saying, ‘Surely those who rose up against us are cut off.
+VERSE:The fire has consumed their remnant.’
+LABEL:21
+VERSE:“Acquaint yourself with him now, and be at peace.
+VERSE:By it, good will come to you.
+LABEL:22
+VERSE:Please receive instruction from his mouth,
+VERSE:and lay up his words in your heart.
+LABEL:23
+VERSE:If you return to the Almighty, you will be built up,
+VERSE:if you put away unrighteousness far from your tents.
+LABEL:24
+VERSE:Lay your treasure in the dust,
+VERSE:the gold of Ophir among the stones of the brooks.
+LABEL:25
+VERSE:The Almighty will be your treasure,
+VERSE:and precious silver to you.
+LABEL:26
+VERSE:For then you will delight yourself in the Almighty,
+VERSE:and will lift up your face to God.
+LABEL:27
+VERSE:You will make your prayer to him, and he will hear you.
+VERSE:You will pay your vows.
+LABEL:28
+VERSE:You will also decree a thing, and it will be established to you.
+VERSE:Light will shine on your ways.
+LABEL:29
+VERSE:When they cast down, you will say, ‘be lifted up.’
+VERSE:He will save the humble person.
+LABEL:30
+VERSE:He will even deliver him who is not innocent.
+VERSE:Yes, he will be delivered through the cleanness of your hands.”

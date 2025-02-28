@@ -1,0 +1,61 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:116
+TITLE:Psalms 116
+LABEL:1
+VERSE:I love Yahweh, because he listens to my voice,
+VERSE:and my cries for mercy.
+LABEL:2
+VERSE:Because he has turned his ear to me,
+VERSE:therefore I will call on him as long as I live.
+LABEL:3
+VERSE:The cords of death surrounded me,
+VERSE:the pains of Sheol got a hold of me.
+VERSE:I found trouble and sorrow.
+LABEL:4
+VERSE:Then I called on Yahweh’s name:
+VERSE:“Yahweh, I beg you, deliver my soul.”
+LABEL:5
+VERSE:Yahweh is gracious and righteous.
+VERSE:Yes, our God is merciful.
+LABEL:6
+VERSE:Yahweh preserves the simple.
+VERSE:I was brought low, and he saved me.
+LABEL:7
+VERSE:Return to your rest, my soul,
+VERSE:for Yahweh has dealt bountifully with you.
+LABEL:8
+VERSE:For you have delivered my soul from death,
+VERSE:my eyes from tears,
+VERSE:and my feet from falling.
+LABEL:9
+VERSE:I will walk before Yahweh in the land of the living.
+LABEL:10
+VERSE:I believed, therefore I said,
+VERSE:“I was greatly afflicted.”
+LABEL:11
+VERSE:I said in my haste,
+VERSE:“All people are liars.”
+LABEL:12
+VERSE:What will I give to Yahweh for all his benefits toward me?
+LABEL:13
+VERSE:I will take the cup of salvation, and call on Yahweh’s name.
+LABEL:14
+VERSE:I will pay my vows to Yahweh,
+VERSE:yes, in the presence of all his people.
+LABEL:15
+VERSE:Precious in Yahweh’s sight is the death of his saints.
+LABEL:16
+VERSE:Yahweh, truly I am your servant.
+VERSE:I am your servant, the son of your servant girl.
+VERSE:You have freed me from my chains.
+LABEL:17
+VERSE:I will offer to you the sacrifice of thanksgiving,
+VERSE:and will call on Yahweh’s name.
+LABEL:18
+VERSE:I will pay my vows to Yahweh,
+VERSE:yes, in the presence of all his people,
+LABEL:19
+VERSE:in the courts of Yahweh’s house,
+VERSE:in the middle of you, Jerusalem.
+VERSE:Praise Yah!

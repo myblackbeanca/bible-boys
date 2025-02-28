@@ -1,0 +1,29 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:11
+TITLE:Psalms 11
+LABEL:1
+VERSE:In Yahweh, I take refuge.
+VERSE:How can you say to my soul, “Flee as a bird to your mountain”?
+LABEL:2
+VERSE:For, behold, the wicked bend their bows.
+VERSE:They set their arrows on the strings,
+VERSE:that they may shoot in darkness at the upright in heart.
+LABEL:3
+VERSE:If the foundations are destroyed,
+VERSE:what can the righteous do?
+LABEL:4
+VERSE:Yahweh is in his holy temple.
+VERSE:Yahweh is on his throne in heaven.
+VERSE:His eyes observe.
+VERSE:His eyes examine the children of men.
+LABEL:5
+VERSE:Yahweh examines the righteous,
+VERSE:but his soul hates the wicked and him who loves violence.
+LABEL:6
+VERSE:On the wicked he will rain blazing coals;
+VERSE:fire, sulfur, and scorching wind shall be the portion of their cup.
+LABEL:7
+VERSE:For Yahweh is righteous.
+VERSE:He loves righteousness.
+VERSE:The upright shall see his face.

@@ -1,0 +1,28 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:121
+TITLE:Psalms 121
+LABEL:1
+VERSE:I will lift up my eyes to the hills.
+VERSE:Where does my help come from?
+LABEL:2
+VERSE:My help comes from Yahweh,
+VERSE:who made heaven and earth.
+LABEL:3
+VERSE:He will not allow your foot to be moved.
+VERSE:He who keeps you will not slumber.
+LABEL:4
+VERSE:Behold, he who keeps Israel
+VERSE:will neither slumber nor sleep.
+LABEL:5
+VERSE:Yahweh is your keeper.
+VERSE:Yahweh is your shade on your right hand.
+LABEL:6
+VERSE:The sun will not harm you by day,
+VERSE:nor the moon by night.
+LABEL:7
+VERSE:Yahweh will keep you from all evil.
+VERSE:He will keep your soul.
+LABEL:8
+VERSE:Yahweh will keep your going out and your coming in,
+VERSE:from this time forward, and forever more.

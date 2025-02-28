@@ -1,0 +1,70 @@
+TRANSLATION:ASV
+BOOK:SNG
+CHAPTER:2
+TITLE:Song of Solomon 2
+LABEL:1
+VERSE:I am a rose of Sharon,
+VERSE:A lily of the valleys.
+LABEL:2
+VERSE:As a lily among thorns,
+VERSE:So is my love among the daughters.
+LABEL:3
+VERSE:As the apple-tree among the trees of the wood,
+VERSE:So is my beloved among the sons.
+VERSE:I sat down under his shadow with great delight,
+VERSE:And his fruit was sweet to my taste.
+LABEL:4
+VERSE:He brought me to the banqueting-house,
+VERSE:And his banner over me was love.
+LABEL:5
+VERSE:Stay ye me with raisins, refresh me with apples;
+VERSE:For I am sick from love.
+LABEL:6
+VERSE:His left hand is under my head,
+VERSE:And his right hand doth embrace me.
+LABEL:7
+VERSE:I adjure you, O daughters of Jerusalem,
+VERSE:By the roes, or by the hinds of the field,
+VERSE:That ye stir not up, nor awake my love,
+VERSE:Until he please.
+LABEL:8
+VERSE:The voice of my beloved! behold, he cometh,
+VERSE:Leaping upon the mountains,
+VERSE:Skipping upon the hills.
+LABEL:9
+VERSE:My beloved is like a roe or a young hart:
+VERSE:Behold, he standeth behind our wall;
+VERSE:He looketh in at the windows;
+VERSE:He glanceth through the lattice.
+LABEL:10
+VERSE:My beloved spake, and said unto me,
+VERSE:Rise up, my love, my fair one, and come away.
+LABEL:11
+VERSE:For, lo, the winter is past;
+VERSE:The rain is over and gone;
+LABEL:12
+VERSE:The flowers appear on the earth;
+VERSE:The time of the singing of birds is come,
+VERSE:And the voice of the turtle-dove is heard in our land;
+LABEL:13
+VERSE:The fig-tree ripeneth her green figs,
+VERSE:And the vines are in blossom;
+VERSE:They give forth their fragrance.
+VERSE:Arise, my love, my fair one, and come away.
+LABEL:14
+VERSE:O my dove, that art in the clefts of the rock,
+VERSE:In the covert of the steep place,
+VERSE:Let me see thy countenance,
+VERSE:Let me hear thy voice;
+VERSE:For sweet is thy voice, and thy countenance is comely.
+LABEL:15
+VERSE:Take us the foxes, the little foxes,
+VERSE:That spoil the vineyards;
+VERSE:For our vineyards are in blossom.
+LABEL:16
+VERSE:My beloved is mine, and I am his:
+VERSE:He feedeth his flock among the lilies.
+LABEL:17
+VERSE:Until the day be cool, and the shadows flee away,
+VERSE:Turn, my beloved, and be thou like a roe or a young hart
+VERSE:Upon the mountains of Bether.

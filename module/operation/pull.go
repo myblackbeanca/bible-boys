@@ -20,7 +20,7 @@ func Pull(out string, maxConcurrent int) {
 	var wg sync.WaitGroup
 	for _, b := range global.GetBibleBooks() {
 		for _, t := range global.GetBibleTranslations() {
-			for chapter := 1; chapter < 60; chapter++ {
+			for chapter := 1; chapter < 160; chapter++ {
 				book := b
 				translation := t
 				chap := chapter
@@ -63,6 +63,7 @@ func Pull(out string, maxConcurrent int) {
 						panic(err)
 					}
 				}(url, dir, outHtml)
+
 			}
 		}
 	}

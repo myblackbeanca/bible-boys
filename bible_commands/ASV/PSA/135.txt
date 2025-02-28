@@ -1,0 +1,71 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:135
+TITLE:Psalms 135
+LABEL:1
+VERSE:Praise ye Jehovah.
+VERSE:Praise ye the name of Jehovah;
+VERSE:Praise him, O ye servants of Jehovah,
+LABEL:2
+VERSE:Ye that stand in the house of Jehovah,
+VERSE:In the courts of the house of our God.
+LABEL:3
+VERSE:Praise ye Jehovah; for Jehovah is good:
+VERSE:Sing praises unto his name; for it is pleasant.
+LABEL:4
+VERSE:For Jehovah hath chosen Jacob unto himself,
+VERSE:And Israel for his own possession.
+LABEL:5
+VERSE:For I know that Jehovah is great,
+VERSE:And that our Lord is above all gods.
+LABEL:6
+VERSE:Whatsoever Jehovah pleased, that hath he done,
+VERSE:In heaven and in earth, in the seas and in all deeps;
+LABEL:7
+VERSE:Who causeth the vapors to ascend from the ends of the earth;
+VERSE:Who maketh lightnings for the rain;
+VERSE:Who bringeth forth the wind out of his treasuries;
+LABEL:8
+VERSE:Who smote the first-born of Egypt,
+VERSE:Both of man and beast;
+LABEL:9
+VERSE:Who sent signs and wonders into the midst of thee, O Egypt,
+VERSE:Upon Pharaoh, and upon all his servants;
+LABEL:10
+VERSE:Who smote many nations,
+VERSE:And slew mighty kings,
+LABEL:11
+VERSE:Sihon king of the Amorites,
+VERSE:And Og king of Bashan,
+VERSE:And all the kingdoms of Canaan,
+LABEL:12
+VERSE:And gave their land for a heritage,
+VERSE:A heritage unto Israel his people.
+LABEL:13
+VERSE:Thy name, O Jehovah, endureth for ever;
+VERSE:Thy memorial name, O Jehovah, throughout all generations.
+LABEL:14
+VERSE:For Jehovah will judge his people,
+VERSE:And repent himself concerning his servants.
+LABEL:15
+VERSE:The idols of the nations are silver and gold,
+VERSE:The work of men’s hands.
+LABEL:16
+VERSE:They have mouths, but they speak not;
+VERSE:Eyes have they, but they see not;
+LABEL:17
+VERSE:They have ears, but they hear not;
+VERSE:Neither is there any breath in their mouths.
+LABEL:18
+VERSE:They that make them shall be like unto them;
+VERSE:Yea, every one that trusteth in them.
+LABEL:19
+VERSE:O house of Israel, bless ye Jehovah:
+VERSE:O house of Aaron, bless ye Jehovah:
+LABEL:20
+VERSE:O house of Levi, bless ye Jehovah:
+VERSE:Ye that fear Jehovah, bless ye Jehovah.
+LABEL:21
+VERSE:Blessed be Jehovah out of Zion,
+VERSE:Who dwelleth at Jerusalem.
+VERSE:Praise ye Jehovah.

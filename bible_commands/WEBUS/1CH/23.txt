@@ -1,0 +1,68 @@
+TRANSLATION:WEBUS
+BOOK:1CH
+CHAPTER:23
+TITLE:1 Chronicles 23
+LABEL:1
+VERSE:Now David was old and full of days; and he made Solomon his son king over Israel.
+LABEL:2
+VERSE:He gathered together all the princes of Israel, with the priests and the Levites.
+LABEL:3
+VERSE:The Levites were counted from thirty years old and upward; and their number by their polls, man by man, was thirty-eight thousand.
+LABEL:4
+VERSE:David said, “Of these, twenty-four thousand were to oversee the work of Yahweh’s house, six thousand were officers and judges,
+LABEL:5
+VERSE:four thousand were doorkeepers, and four thousand praised Yahweh with the instruments which I made for giving praise.”
+LABEL:6
+VERSE:David divided them into divisions according to the sons of Levi: Gershon, Kohath, and Merari.
+LABEL:7
+VERSE:Of the Gershonites: Ladan and Shimei.
+LABEL:8
+VERSE:The sons of Ladan: Jehiel the chief, Zetham, and Joel, three.
+LABEL:9
+VERSE:The sons of Shimei: Shelomoth, Haziel, and Haran, three. These were the heads of the fathers’ households of Ladan.
+LABEL:10
+VERSE:The sons of Shimei: Jahath, Zina, Jeush, and Beriah. These four were the sons of Shimei.
+LABEL:11
+VERSE:Jahath was the chief, and Zizah the second; but Jeush and Beriah didn’t have many sons; therefore they became a fathers’ house in one reckoning.
+LABEL:12
+VERSE:The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four.
+LABEL:13
+VERSE:The sons of Amram: Aaron and Moses; and Aaron was separated that he should sanctify the most holy things, he and his sons forever, to burn incense before Yahweh, to minister to him, and to bless in his name forever.
+LABEL:14
+VERSE:But as for Moses the man of God, his sons were named among the tribe of Levi.
+LABEL:15
+VERSE:The sons of Moses: Gershom and Eliezer.
+LABEL:16
+VERSE:The sons of Gershom: Shebuel the chief.
+LABEL:17
+VERSE:The son of Eliezer was Rehabiah the chief; and Eliezer had no other sons, but the sons of Rehabiah were very many.
+LABEL:18
+VERSE:The son of Izhar: Shelomith the chief.
+LABEL:19
+VERSE:The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+LABEL:20
+VERSE:The sons of Uzziel: Micah the chief, and Isshiah the second.
+LABEL:21
+VERSE:The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.
+LABEL:22
+VERSE:Eleazar died, and had no sons, but daughters only; and their relatives, the sons of Kish, took them as wives.
+LABEL:23
+VERSE:The sons of Mushi: Mahli, Eder, and Jeremoth, three.
+LABEL:24
+VERSE:These were the sons of Levi after their fathers’ houses, even the heads of the fathers’ houses of those who were counted individually, in the number of names by their polls, who did the work for the service of Yahweh’s house, from twenty years old and upward.
+LABEL:25
+VERSE:For David said, “Yahweh, the God of Israel, has given rest to his people; and he dwells in Jerusalem forever.
+LABEL:26
+VERSE:Also the Levites will no longer need to carry the tabernacle and all its vessels for its service.”
+LABEL:27
+VERSE:For by the last words of David the sons of Levi were counted, from twenty years old and upward.
+LABEL:28
+VERSE:For their duty was to wait on the sons of Aaron for the service of Yahweh’s house—in the courts, in the rooms, and in the purifying of all holy things, even the work of the service of God’s house;
+LABEL:29
+VERSE:for the show bread also, and for the fine flour for a meal offering, whether of unleavened wafers, or of that which is baked in the pan, or of that which is soaked, and for all measurements of quantity and size;
+LABEL:30
+VERSE:and to stand every morning to thank and praise Yahweh, and likewise in the evening;
+LABEL:31
+VERSE:and to offer all burnt offerings to Yahweh on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before Yahweh;
+LABEL:32
+VERSE:and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers for the service of Yahweh’s house.

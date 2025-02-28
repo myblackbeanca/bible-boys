@@ -1,0 +1,168 @@
+TRANSLATION:KJV
+BOOK:1CH
+CHAPTER:6
+TITLE:1 Chronicles 6
+SECTION:Sons of Levi
+LABEL:1
+VERSE:The sons of Levi; Gershon, Kohath, and Merari.
+LABEL:2
+VERSE:And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
+LABEL:3
+VERSE:And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
+LABEL:4
+VERSE:Eleazar begat Phinehas, Phinehas begat Abishua,
+LABEL:5
+VERSE:and Abishua begat Bukki, and Bukki begat Uzzi,
+LABEL:6
+VERSE:and Uzzi begat Zerahiah, and Zerahiah begat Meraioth,
+LABEL:7
+VERSE:Meraioth begat Amariah, and Amariah begat Ahitub,
+LABEL:8
+VERSE:and Ahitub begat Zadok, and Zadok begat Ahimaaz,
+LABEL:9
+VERSE:and Ahimaaz begat Azariah, and Azariah begat Johanan,
+LABEL:10
+VERSE:and Johanan begat Azariah, (he it is that executed the priest's office in the temple that Solomon built in Jerusalem:)
+LABEL:11
+VERSE:and Azariah begat Amariah, and Amariah begat Ahitub,
+LABEL:12
+VERSE:and Ahitub begat Zadok, and Zadok begat Shallum,
+LABEL:13
+VERSE:and Shallum begat Hilkiah, and Hilkiah begat Azariah,
+LABEL:14
+VERSE:and Azariah begat Seraiah, and Seraiah begat Jehozadak,
+LABEL:15
+VERSE:and Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar.
+LABEL:16
+VERSE:The sons of Levi; Gershom, Kohath, and Merari.
+LABEL:17
+VERSE:And these be the names of the sons of Gershom; Libni, and Shimei.
+LABEL:18
+VERSE:And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
+LABEL:19
+VERSE:The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.
+LABEL:20
+VERSE:Of Gershom; Libni his son, Jahath his son, Zimmah his son,
+LABEL:21
+VERSE:Joah his son, Iddo his son, Zerah his son, Jeaterai his son.
+LABEL:22
+VERSE:The sons of Kohath; Amminadab his son, Korah his son, Assir his son,
+LABEL:23
+VERSE:Elkanah his son, and Ebiasaph his son, and Assir his son,
+LABEL:24
+VERSE:Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
+LABEL:25
+VERSE:And the sons of Elkanah; Amasai, and Ahimoth.
+LABEL:26
+VERSE:As for Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,
+LABEL:27
+VERSE:Eliab his son, Jeroham his son, Elkanah his son.
+LABEL:28
+VERSE:And the sons of Samuel; the firstborn Vashni, and Abiah.
+LABEL:29
+VERSE:The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,
+LABEL:30
+VERSE:Shimea his son, Haggiah his son, Asaiah his son.
+LABEL:31
+VERSE:And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest.
+LABEL:32
+VERSE:And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order.
+LABEL:33
+VERSE:And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,
+LABEL:34
+VERSE:the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
+LABEL:35
+VERSE:the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
+LABEL:36
+VERSE:the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
+LABEL:37
+VERSE:the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
+LABEL:38
+VERSE:the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
+LABEL:39
+VERSE:And his brother Asaph, who stood on his right hand, even Asaph the son of Berachiah, the son of Shimea,
+LABEL:40
+VERSE:the son of Michael, the son of Baaseiah, the son of Malchiah,
+LABEL:41
+VERSE:the son of Ethni, the son of Zerah, the son of Adaiah,
+LABEL:42
+VERSE:the son of Ethan, the son of Zimmah, the son of Shimei,
+LABEL:43
+VERSE:the son of Jahath, the son of Gershom, the son of Levi.
+LABEL:44
+VERSE:And their brethren the sons of Merari stood on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
+LABEL:45
+VERSE:the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
+LABEL:46
+VERSE:the son of Amzi, the son of Bani, the son of Shamer,
+LABEL:47
+VERSE:the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
+LABEL:48
+VERSE:Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God.
+SECTION:Sons of Aaron
+LABEL:49
+VERSE:But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
+LABEL:50
+VERSE:And these are the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,
+LABEL:51
+VERSE:Bukki his son, Uzzi his son, Zerahiah his son,
+LABEL:52
+VERSE:Meraioth his son, Amariah his son, Ahitub his son,
+LABEL:53
+VERSE:Zadok his son, Ahimaaz his son.
+LABEL:54
+VERSE:Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for their's was the lot.
+LABEL:55
+VERSE:And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.
+LABEL:56
+VERSE:But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
+LABEL:57
+VERSE:And to the sons of Aaron they gave the cities of Judah, namely, Hebron, the city of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,
+LABEL:58
+VERSE:and Hilen with her suburbs, Debir with her suburbs,
+LABEL:59
+VERSE:and Ashan with her suburbs, and Beth-shemesh with her suburbs:
+LABEL:60
+VERSE:and out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families were thirteen cities.
+LABEL:61
+VERSE:And unto the sons of Kohath, which were left of the family of that tribe, were cities given out of the half tribe, namely, out of the half tribe of Manasseh, by lot, ten cities.
+LABEL:62
+VERSE:And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.
+LABEL:63
+VERSE:Unto the sons of Merari were given by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
+LABEL:64
+VERSE:And the children of Israel gave to the Levites these cities with their suburbs.
+LABEL:65
+VERSE:And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names.
+LABEL:66
+VERSE:And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
+LABEL:67
+VERSE:And they gave unto them, of the cities of refuge, Shechem in mount Ephraim with her suburbs; they gave also Gezer with her suburbs,
+LABEL:68
+VERSE:and Jokmeam with her suburbs, and Beth-horon with her suburbs,
+LABEL:69
+VERSE:and Aijalon with her suburbs, and Gath-rimmon with her suburbs:
+LABEL:70
+VERSE:and out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.
+LABEL:71
+VERSE:Unto the sons of Gershom were given out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:
+LABEL:72
+VERSE:and out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,
+LABEL:73
+VERSE:and Ramoth with her suburbs, and Anem with her suburbs:
+LABEL:74
+VERSE:and out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,
+LABEL:75
+VERSE:and Hukok with her suburbs, and Rehob with her suburbs:
+LABEL:76
+VERSE:and out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.
+LABEL:77
+VERSE:Unto the rest of the children of Merari were given out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:
+LABEL:78
+VERSE:and on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
+LABEL:79
+VERSE:Kedemoth also with her suburbs, and Mephaath with her suburbs:
+LABEL:80
+VERSE:and out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,
+LABEL:81
+VERSE:and Heshbon with her suburbs, and Jazer with her suburbs.

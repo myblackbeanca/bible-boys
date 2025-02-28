@@ -1,0 +1,45 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:5
+TITLE:Psalms 5
+LABEL:1
+VERSE:Give ear to my words, Yahweh.
+VERSE:Consider my meditation.
+LABEL:2
+VERSE:Listen to the voice of my cry, my King and my God,
+VERSE:for I pray to you.
+LABEL:3
+VERSE:Yahweh, in the morning you will hear my voice.
+VERSE:In the morning I will lay my requests before you, and will watch expectantly.
+LABEL:4
+VERSE:For you are not a God who has pleasure in wickedness.
+VERSE:Evil can’t live with you.
+LABEL:5
+VERSE:The arrogant will not stand in your sight.
+VERSE:You hate all workers of iniquity.
+LABEL:6
+VERSE:You will destroy those who speak lies.
+VERSE:Yahweh abhors the bloodthirsty and deceitful man.
+LABEL:7
+VERSE:But as for me, in the abundance of your loving kindness I will come into your house.
+VERSE:I will bow toward your holy temple in reverence of you.
+LABEL:8
+VERSE:Lead me, Yahweh, in your righteousness because of my enemies.
+VERSE:Make your way straight before my face.
+LABEL:9
+VERSE:For there is no faithfulness in their mouth.
+VERSE:Their heart is destruction.
+VERSE:Their throat is an open tomb.
+VERSE:They flatter with their tongue.
+LABEL:10
+VERSE:Hold them guilty, God.
+VERSE:Let them fall by their own counsels.
+VERSE:Thrust them out in the multitude of their transgressions,
+VERSE:for they have rebelled against you.
+LABEL:11
+VERSE:But let all those who take refuge in you rejoice.
+VERSE:Let them always shout for joy, because you defend them.
+VERSE:Let them also who love your name be joyful in you.
+LABEL:12
+VERSE:For you will bless the righteous.
+VERSE:Yahweh, you will surround him with favor as with a shield.

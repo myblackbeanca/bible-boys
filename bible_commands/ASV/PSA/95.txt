@@ -1,0 +1,39 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:95
+TITLE:Psalms 95
+LABEL:1
+VERSE:Oh come, let us sing unto Jehovah;
+VERSE:Let us make a joyful noise to the rock of our salvation.
+LABEL:2
+VERSE:Let us come before his presence with thanksgiving;
+VERSE:Let us make a joyful noise unto him with psalms.
+LABEL:3
+VERSE:For Jehovah is a great God,
+VERSE:And a great King above all gods.
+LABEL:4
+VERSE:In his hand are the deep places of the earth;
+VERSE:The heights of the mountains are his also.
+LABEL:5
+VERSE:The sea is his, and he made it;
+VERSE:And his hands formed the dry land.
+LABEL:6
+VERSE:Oh come, let us worship and bow down;
+VERSE:Let us kneel before Jehovah our Maker:
+LABEL:7
+VERSE:For he is our God,
+VERSE:And we are the people of his pasture, and the sheep of his hand.
+VERSE:To-day, oh that ye would hear his voice!
+LABEL:8
+VERSE:Harden not your heart, as at Meribah,
+VERSE:As in the day of Massah in the wilderness;
+LABEL:9
+VERSE:When your fathers tempted me,
+VERSE:Proved me, and saw my work.
+LABEL:10
+VERSE:Forty years long was I grieved with that generation,
+VERSE:And said, It is a people that do err in their heart,
+VERSE:And they have not known my ways:
+LABEL:11
+VERSE:Wherefore I sware in my wrath,
+VERSE:That they should not enter into my rest.

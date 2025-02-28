@@ -1,0 +1,21 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:15
+TITLE:Psalm 15
+LABEL:1
+VERSE:  LORD, who shall abide in thy tabernacle?
+VERSE:Who shall dwell in thy holy hill?
+LABEL:2
+VERSE:He that walketh uprightly,
+VERSE:and worketh righteousness, and speaketh the truth in his heart.
+LABEL:3
+VERSE:  He that backbiteth not with his tongue, nor doeth evil to his neighbour,
+VERSE:Nor taketh up a reproach against his neighbour.
+LABEL:4
+VERSE:In whose eyes a vile person is contemned;
+VERSE:But he honoureth them that fear the LORD.
+VERSE:He that sweareth to his own hurt, and changeth not.
+LABEL:5
+VERSE:  He that putteth not out his money to usury,
+VERSE:Nor taketh reward against the innocent.
+VERSE:He that doeth these things shall never be moved.

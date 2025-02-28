@@ -1,0 +1,70 @@
+TRANSLATION:KJV
+BOOK:JER
+CHAPTER:29
+TITLE:Jeremiah 29
+SECTION:His Letter to the Exiles
+LABEL:1
+VERSE:Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;
+LABEL:2
+VERSE:(after that Jeconiah the king, and the queen, and the eunuchs, the princes of Judah and Jerusalem, and the carpenters, and the smiths, were departed from Jerusalem;)
+LABEL:3
+VERSE:by the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,
+LABEL:4
+VERSE:Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;
+LABEL:5
+VERSE:Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;
+LABEL:6
+VERSE:take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.
+LABEL:7
+VERSE:And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.
+LABEL:8
+VERSE:For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that be in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.
+LABEL:9
+VERSE:For they prophesy falsely unto you in my name: I have not sent them, saith the LORD.
+LABEL:10
+VERSE:For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.
+LABEL:11
+VERSE:For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.
+LABEL:12
+VERSE:Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.
+LABEL:13
+VERSE:And ye shall seek me, and find me, when ye shall search for me with all your heart.
+LABEL:14
+VERSE:And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.
+LABEL:15
+VERSE:Because ye have said, The LORD hath raised us up prophets in Babylon;
+LABEL:16
+VERSE:know that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brethren that are not gone forth with you into captivity;
+LABEL:17
+VERSE:thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.
+LABEL:18
+VERSE:And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:
+LABEL:19
+VERSE:because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending them; but ye would not hear, saith the LORD.
+LABEL:20
+VERSE:Hear ye therefore the word of the LORD, all ye of the captivity, whom I have sent from Jerusalem to Babylon:
+LABEL:21
+VERSE:Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;
+LABEL:22
+VERSE:and of them shall be taken up a curse by all the captivity of Judah which are in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;
+LABEL:23
+VERSE:because they have committed villany in Israel, and have committed adultery with their neighbours' wives, and have spoken lying words in my name, which I have not commanded them; even I know, and am a witness, saith the LORD.
+SECTION:Concerning Shemaiah
+LABEL:24
+VERSE:  Thus shalt thou also speak to Shemaiah the Nehelamite, saying,
+LABEL:25
+VERSE:Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that are at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
+LABEL:26
+VERSE:the LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man that is mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.
+LABEL:27
+VERSE:Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?
+LABEL:28
+VERSE:For therefore he sent unto us in Babylon, saying, This captivity is long: build ye houses, and dwell in them; and plant gardens, and eat the fruit of them.
+LABEL:29
+VERSE:And Zephaniah the priest read this letter in the ears of Jeremiah the prophet.
+LABEL:30
+VERSE:Then came the word of the LORD unto Jeremiah, saying,
+LABEL:31
+VERSE:Send to all them of the captivity, saying, Thus saith the LORD concerning Shemaiah the Nehelamite; Because that Shemaiah hath prophesied unto you, and I sent him not, and he caused you to trust in a lie:
+LABEL:32
+VERSE:therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD.

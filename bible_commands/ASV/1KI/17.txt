@@ -1,0 +1,52 @@
+TRANSLATION:ASV
+BOOK:1KI
+CHAPTER:17
+TITLE:1 Kings 17
+LABEL:1
+VERSE:And Elijah the Tishbite, who was of the sojourners of Gilead, said unto Ahab, As Jehovah, the God of Israel, liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
+LABEL:2
+VERSE:And the word of Jehovah came unto him, saying,
+LABEL:3
+VERSE:Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that is before the Jordan.
+LABEL:4
+VERSE:And it shall be, that thou shalt drink of the brook; and I have commanded the ravens to feed thee there.
+LABEL:5
+VERSE:So he went and did according unto the word of Jehovah; for he went and dwelt by the brook Cherith, that is before the Jordan.
+LABEL:6
+VERSE:And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.
+LABEL:7
+VERSE:And it came to pass after a while, that the brook dried up, because there was no rain in the land.
+LABEL:8
+VERSE:And the word of Jehovah came unto him, saying,
+LABEL:9
+VERSE:Arise, get thee to Zarephath, which belongeth to Sidon, and dwell there: behold, I have commanded a widow there to sustain thee.
+LABEL:10
+VERSE:So he arose and went to Zarephath; and when he came to the gate of the city, behold, a widow was there gathering sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.
+LABEL:11
+VERSE:And as she was going to fetch it, he called to her, and said, Bring me, I pray thee, a morsel of bread in thy hand.
+LABEL:12
+VERSE:And she said, As Jehovah thy God liveth, I have not a cake, but a handful of meal in the jar, and a little oil in the cruse: and, behold, I am gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.
+LABEL:13
+VERSE:And Elijah said unto her, Fear not; go and do as thou hast said; but make me thereof a little cake first, and bring it forth unto me, and afterward make for thee and for thy son.
+LABEL:14
+VERSE:For thus saith Jehovah, the God of Israel, The jar of meal shall not waste, neither shall the cruse of oil fail, until the day that Jehovah sendeth rain upon the earth.
+LABEL:15
+VERSE:And she went and did according to the saying of Elijah: and she, and he, and her house, did eat many days.
+LABEL:16
+VERSE:The jar of meal wasted not, neither did the cruse of oil fail, according to the word of Jehovah, which he spake by Elijah.
+LABEL:17
+VERSE:And it came to pass after these things, that the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.
+LABEL:18
+VERSE:And she said unto Elijah, What have I to do with thee, O thou man of God? thou art come unto me to bring my sin to remembrance, and to slay my son!
+LABEL:19
+VERSE:And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into the chamber, where he abode, and laid him upon his own bed.
+LABEL:20
+VERSE:And he cried unto Jehovah, and said, O Jehovah my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?
+LABEL:21
+VERSE:And he stretched himself upon the child three times, and cried unto Jehovah, and said, O Jehovah my God, I pray thee, let this child’s soul come into him again.
+LABEL:22
+VERSE:And Jehovah hearkened unto the voice of Elijah; and the soul of the child came into him again, and he revived.
+LABEL:23
+VERSE:And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother; and Elijah said, See, thy son liveth.
+LABEL:24
+VERSE:And the woman said to Elijah, Now I know that thou art a man of God, and that the word of Jehovah in thy mouth is truth.

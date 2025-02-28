@@ -1,0 +1,46 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:31
+TITLE:Isaiah 31
+LABEL:1
+VERSE:Woe to those who go down to Egypt for help,
+VERSE:and rely on horses,
+VERSE:and trust in chariots because they are many,
+VERSE:and in horsemen because they are very strong,
+VERSE:but they don’t look to the Holy One of Israel,
+VERSE:and they don’t seek Yahweh!
+LABEL:2
+VERSE:Yet he also is wise, and will bring disaster,
+VERSE:and will not call back his words, but will arise against the house of the evildoers,
+VERSE:and against the help of those who work iniquity.
+LABEL:3
+VERSE:Now the Egyptians are men, and not God;
+VERSE:and their horses flesh, and not spirit.
+VERSE:When Yahweh stretches out his hand, both he who helps shall stumble,
+VERSE:and he who is helped shall fall,
+VERSE:and they all shall be consumed together.
+LABEL:4
+VERSE:For Yahweh says to me,
+VERSE:“As the lion and the young lion growling over his prey,
+VERSE:if a multitude of shepherds is called together against him,
+VERSE:will not be dismayed at their voice,
+VERSE:nor abase himself for their noise,
+VERSE:so Yahweh of Armies will come down to fight on Mount Zion and on its heights.
+LABEL:5
+VERSE:As birds hovering, so Yahweh of Armies will protect Jerusalem.
+VERSE:He will protect and deliver it.
+VERSE:He will pass over and preserve it.”
+LABEL:6
+VERSE:Return to him from whom you have deeply revolted, children of Israel.
+LABEL:7
+VERSE:For in that day everyone shall cast away his idols of silver and his idols of gold—sin which your own hands have made for you.
+LABEL:8
+VERSE:“The Assyrian will fall by the sword, not of man;
+VERSE:and the sword, not of mankind, shall devour him.
+VERSE:He will flee from the sword,
+VERSE:and his young men will become subject to forced labor.
+LABEL:9
+VERSE:His rock will pass away by reason of terror,
+VERSE:and his princes will be afraid of the banner,”
+VERSE:says Yahweh, whose fire is in Zion,
+VERSE:and his furnace in Jerusalem.

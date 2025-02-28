@@ -1,0 +1,96 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:2
+TITLE:Isaiah 2
+LABEL:1
+VERSE:This is what Isaiah the son of Amoz saw concerning Judah and Jerusalem.
+LABEL:2
+VERSE:It shall happen in the latter days, that the mountain of Yahweh’s house shall be established on the top of the mountains,
+VERSE:and shall be raised above the hills;
+VERSE:and all nations shall flow to it.
+LABEL:3
+VERSE:Many peoples shall go and say,
+VERSE:“Come, let’s go up to the mountain of Yahweh,
+VERSE:to the house of the God of Jacob;
+VERSE:and he will teach us of his ways,
+VERSE:and we will walk in his paths.”
+VERSE:For the law shall go out of Zion,
+VERSE:and Yahweh’s word from Jerusalem.
+LABEL:4
+VERSE:He will judge between the nations,
+VERSE:and will decide concerning many peoples.
+VERSE:They shall beat their swords into plowshares,
+VERSE:and their spears into pruning hooks.
+VERSE:Nation shall not lift up sword against nation,
+VERSE:neither shall they learn war any more.
+LABEL:5
+VERSE:House of Jacob, come, and let’s walk in the light of Yahweh.
+LABEL:6
+VERSE:For you have forsaken your people, the house of Jacob,
+VERSE:because they are filled from the east,
+VERSE:with those who practice divination like the Philistines,
+VERSE:and they clasp hands with the children of foreigners.
+LABEL:7
+VERSE:Their land is full of silver and gold,
+VERSE:neither is there any end of their treasures.
+VERSE:Their land also is full of horses,
+VERSE:neither is there any end of their chariots.
+LABEL:8
+VERSE:Their land also is full of idols.
+VERSE:They worship the work of their own hands,
+VERSE:that which their own fingers have made.
+LABEL:9
+VERSE:Man is brought low,
+VERSE:and mankind is humbled;
+VERSE:therefore don’t forgive them.
+LABEL:10
+VERSE:Enter into the rock,
+VERSE:and hide in the dust,
+VERSE:from before the terror of Yahweh,
+VERSE:and from the glory of his majesty.
+LABEL:11
+VERSE:The lofty looks of man will be brought low,
+VERSE:the arrogance of men will be bowed down,
+VERSE:and Yahweh alone will be exalted in that day.
+LABEL:12
+VERSE:For there will be a day of Yahweh of Armies for all that is proud and arrogant,
+VERSE:and for all that is lifted up,
+VERSE:and it shall be brought low—
+LABEL:13
+VERSE:for all the cedars of Lebanon, that are high and lifted up,
+VERSE:for all the oaks of Bashan,
+LABEL:14
+VERSE:for all the high mountains,
+VERSE:for all the hills that are lifted up,
+LABEL:15
+VERSE:for every lofty tower,
+VERSE:for every fortified wall,
+LABEL:16
+VERSE:for all the ships of Tarshish,
+VERSE:and for all pleasant imagery.
+LABEL:17
+VERSE:The loftiness of man shall be bowed down,
+VERSE:and the arrogance of men shall be brought low;
+VERSE:and Yahweh alone shall be exalted in that day.
+LABEL:18
+VERSE:The idols shall utterly pass away.
+LABEL:19
+VERSE:Men shall go into the caves of the rocks,
+VERSE:and into the holes of the earth,
+VERSE:from before the terror of Yahweh,
+VERSE:and from the glory of his majesty,
+VERSE:when he arises to shake the earth mightily.
+LABEL:20
+VERSE:In that day, men shall cast away their idols of silver
+VERSE:and their idols of gold,
+VERSE:which have been made for themselves to worship,
+VERSE:to the moles and to the bats,
+LABEL:21
+VERSE:to go into the caverns of the rocks,
+VERSE:and into the clefts of the ragged rocks,
+VERSE:from before the terror of Yahweh,
+VERSE:and from the glory of his majesty,
+VERSE:when he arises to shake the earth mightily.
+LABEL:22
+VERSE:Stop trusting in man, whose breath is in his nostrils;
+VERSE:for of what account is he?

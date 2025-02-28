@@ -1,0 +1,83 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:55
+TITLE:Psalms 55
+LABEL:1
+VERSE:Listen to my prayer, God.
+VERSE:Don’t hide yourself from my supplication.
+LABEL:2
+VERSE:Attend to me, and answer me.
+VERSE:I am restless in my complaint,
+VERSE:and moan
+LABEL:3
+VERSE:because of the voice of the enemy,
+VERSE:because of the oppression of the wicked.
+VERSE:For they bring suffering on me.
+VERSE:In anger they hold a grudge against me.
+LABEL:4
+VERSE:My heart is severely pained within me.
+VERSE:The terrors of death have fallen on me.
+LABEL:5
+VERSE:Fearfulness and trembling have come on me.
+VERSE:Horror has overwhelmed me.
+LABEL:6
+VERSE:I said, “Oh that I had wings like a dove!
+VERSE:Then I would fly away, and be at rest.
+LABEL:7
+VERSE:Behold, then I would wander far off.
+VERSE:I would lodge in the wilderness.” Selah.
+LABEL:8
+VERSE:“I would hurry to a shelter from the stormy wind and storm.”
+LABEL:9
+VERSE:Confuse them, Lord, and confound their language,
+VERSE:for I have seen violence and strife in the city.
+LABEL:10
+VERSE:Day and night they prowl around on its walls.
+VERSE:Malice and abuse are also within her.
+LABEL:11
+VERSE:Destructive forces are within her.
+VERSE:Threats and lies don’t depart from her streets.
+LABEL:12
+VERSE:For it was not an enemy who insulted me,
+VERSE:then I could have endured it.
+VERSE:Neither was it he who hated me who raised himself up against me,
+VERSE:then I would have hidden myself from him.
+LABEL:13
+VERSE:But it was you, a man like me,
+VERSE:my companion, and my familiar friend.
+LABEL:14
+VERSE:We took sweet fellowship together.
+VERSE:We walked in God’s house with company.
+LABEL:15
+VERSE:Let death come suddenly on them.
+VERSE:Let them go down alive into Sheol.
+VERSE:For wickedness is among them, in their dwelling.
+LABEL:16
+VERSE:As for me, I will call on God.
+VERSE:Yahweh will save me.
+LABEL:17
+VERSE:Evening, morning, and at noon, I will cry out in distress.
+VERSE:He will hear my voice.
+LABEL:18
+VERSE:He has redeemed my soul in peace from the battle that was against me,
+VERSE:although there are many who oppose me.
+LABEL:19
+VERSE:God, who is enthroned forever,
+VERSE:will hear and answer them. Selah.
+VERSE:They never change
+VERSE:and don’t fear God.
+LABEL:20
+VERSE:He raises his hands against his friends.
+VERSE:He has violated his covenant.
+LABEL:21
+VERSE:His mouth was smooth as butter,
+VERSE:but his heart was war.
+VERSE:His words were softer than oil,
+VERSE:yet they were drawn swords.
+LABEL:22
+VERSE:Cast your burden on Yahweh and he will sustain you.
+VERSE:He will never allow the righteous to be moved.
+LABEL:23
+VERSE:But you, God, will bring them down into the pit of destruction.
+VERSE:Bloodthirsty and deceitful men shall not live out half their days,
+VERSE:but I will trust in you.

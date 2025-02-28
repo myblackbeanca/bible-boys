@@ -1,0 +1,116 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:23
+TITLE:Proverbs 23
+LABEL:1
+VERSE:When thou sittest to eat with a ruler,
+VERSE:Consider diligently what is before thee:
+LABEL:2
+VERSE:And put a knife to thy throat,
+VERSE:If thou be a man given to appetite.
+LABEL:3
+VERSE:Be not desirous of his dainties:
+VERSE:For they are deceitful meat.
+LABEL:4
+VERSE:Labour not to be rich:
+VERSE:Cease from thine own wisdom.
+LABEL:5
+VERSE:Wilt thou set thine eyes upon that which is not?
+VERSE:For riches certainly make themselves wings;
+VERSE:They fly away as an eagle toward heaven.
+LABEL:6
+VERSE:Eat thou not the bread of him that hath an evil eye,
+VERSE:Neither desire thou his dainty meats:
+LABEL:7
+VERSE:For as he thinketh in his heart, so is he:
+VERSE:Eat and drink, saith he to thee;
+VERSE:But his heart is not with thee.
+LABEL:8
+VERSE:The morsel which thou hast eaten shalt thou vomit up,
+VERSE:And lose thy sweet words.
+LABEL:9
+VERSE:Speak not in the ears of a fool:
+VERSE:For he will despise the wisdom of thy words.
+LABEL:10
+VERSE:Remove not the old landmark;
+VERSE:And enter not into the fields of the fatherless:
+LABEL:11
+VERSE:For their redeemer is mighty;
+VERSE:He shall plead their cause with thee.
+LABEL:12
+VERSE:Apply thine heart unto instruction,
+VERSE:And thine ears to the words of knowledge.
+LABEL:13
+VERSE:Withhold not correction from the child:
+VERSE:For if thou beatest him with the rod, he shall not die.
+LABEL:14
+VERSE:Thou shalt beat him with the rod,
+VERSE:And shalt deliver his soul from hell.
+LABEL:15
+VERSE:My son, if thine heart be wise,
+VERSE:My heart shall rejoice, even mine.
+LABEL:16
+VERSE:Yea, my reins shall rejoice,
+VERSE:When thy lips speak right things.
+LABEL:17
+VERSE:Let not thine heart envy sinners:
+VERSE:But be thou in the fear of the LORD all the day long.
+LABEL:18
+VERSE:For surely there is an end;
+VERSE:And thine expectation shall not be cut off.
+LABEL:19
+VERSE:Hear thou, my son, and be wise,
+VERSE:And guide thine heart in the way.
+LABEL:20
+VERSE:Be not among winebibbers;
+VERSE:Among riotous eaters of flesh:
+LABEL:21
+VERSE:For the drunkard and the glutton shall come to poverty:
+VERSE:And drowsiness shall clothe a man with rags.
+LABEL:22
+VERSE:Hearken unto thy father that begat thee,
+VERSE:And despise not thy mother when she is old.
+LABEL:23
+VERSE:Buy the truth, and sell it not;
+VERSE:Also wisdom, and instruction, and understanding.
+LABEL:24
+VERSE:The father of the righteous shall greatly rejoice:
+VERSE:And he that begetteth a wise child shall have joy of him.
+LABEL:25
+VERSE:Thy father and thy mother shall be glad,
+VERSE:And she that bare thee shall rejoice.
+LABEL:26
+VERSE:My son, give me thine heart,
+VERSE:And let thine eyes observe my ways.
+LABEL:27
+VERSE:For a whore is a deep ditch;
+VERSE:And a strange woman is a narrow pit.
+LABEL:28
+VERSE:She also lieth in wait as for a prey,
+VERSE:And increaseth the transgressors among men.
+LABEL:29
+VERSE:Who hath woe? Who hath sorrow?
+VERSE:Who hath contentions? Who hath babbling?
+VERSE:Who hath wounds without cause?
+VERSE:Who hath redness of eyes?
+LABEL:30
+VERSE:They that tarry long at the wine;
+VERSE:They that go to seek mixed wine.
+LABEL:31
+VERSE:Look not thou upon the wine when it is red,
+VERSE:When it giveth his colour in the cup,
+VERSE:When it moveth itself aright.
+LABEL:32
+VERSE:At the last it biteth like a serpent,
+VERSE:And stingeth like an adder.
+LABEL:33
+VERSE:Thine eyes shall behold strange women,
+VERSE:And thine heart shall utter perverse things.
+LABEL:34
+VERSE:Yea, thou shalt be as he that lieth down in the midst of the sea,
+VERSE:Or as he that lieth upon the top of a mast.
+LABEL:35
+VERSE:They have stricken me, shalt thou say, and I was not sick;
+VERSE:They have beaten me, and I felt it not:
+VERSE:When shall I awake?
+VERSE:I will seek it yet again.

@@ -1,0 +1,98 @@
+TRANSLATION:WEBUS
+BOOK:MRK
+CHAPTER:1
+TITLE:Mark 1
+LABEL:1
+VERSE:The beginning of the Good News of Jesus Christ, the Son of God.
+LABEL:2
+VERSE:As it is written in the prophets,
+VERSE:“Behold, I send my messenger before your face,
+VERSE:who will prepare your way before you:
+LABEL:3
+VERSE:the voice of one crying in the wilderness,
+VERSE:‘Make ready the way of the Lord!
+VERSE:Make his paths straight!’”
+LABEL:4
+VERSE:John came baptizing in the wilderness and preaching the baptism of repentance for forgiveness of sins.
+LABEL:5
+VERSE:All the country of Judea and all those of Jerusalem went out to him. They were baptized by him in the Jordan river, confessing their sins.
+LABEL:6
+VERSE:John was clothed with camel’s hair and a leather belt around his waist. He ate locusts and wild honey.
+LABEL:7
+VERSE:He preached, saying, “After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and loosen.
+LABEL:8
+VERSE:I baptized you in water, but he will baptize you in the Holy Spirit.”
+LABEL:9
+VERSE:In those days, Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan.
+LABEL:10
+VERSE:Immediately coming up from the water, he saw the heavens parting and the Spirit descending on him like a dove.
+LABEL:11
+VERSE:A voice came out of the sky, “You are my beloved Son, in whom I am well pleased.”
+LABEL:12
+VERSE:Immediately the Spirit drove him out into the wilderness.
+LABEL:13
+VERSE:He was there in the wilderness forty days, tempted by Satan. He was with the wild animals; and the angels were serving him.
+LABEL:14
+VERSE:Now after John was taken into custody, Jesus came into Galilee, preaching the Good News of God’s Kingdom,
+LABEL:15
+VERSE:and saying, “The time is fulfilled, and God’s Kingdom is at hand! Repent, and believe in the Good News.”
+LABEL:16
+VERSE:Passing along by the sea of Galilee, he saw Simon and Andrew, the brother of Simon, casting a net into the sea, for they were fishermen.
+LABEL:17
+VERSE:Jesus said to them, “Come after me, and I will make you into fishers for men.”
+LABEL:18
+VERSE:Immediately they left their nets, and followed him.
+LABEL:19
+VERSE:Going on a little further from there, he saw James the son of Zebedee, and John his brother, who were also in the boat mending the nets.
+LABEL:20
+VERSE:Immediately he called them, and they left their father, Zebedee, in the boat with the hired servants, and went after him.
+LABEL:21
+VERSE:They went into Capernaum, and immediately on the Sabbath day he entered into the synagogue and taught.
+LABEL:22
+VERSE:They were astonished at his teaching, for he taught them as having authority, and not as the scribes.
+LABEL:23
+VERSE:Immediately there was in their synagogue a man with an unclean spirit, and he cried out,
+LABEL:24
+VERSE:saying, “Ha! What do we have to do with you, Jesus, you Nazarene? Have you come to destroy us? I know who you are: the Holy One of God!”
+LABEL:25
+VERSE:Jesus rebuked him, saying, “Be quiet, and come out of him!”
+LABEL:26
+VERSE:The unclean spirit, convulsing him and crying with a loud voice, came out of him.
+LABEL:27
+VERSE:They were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching? For with authority he commands even the unclean spirits, and they obey him!”
+LABEL:28
+VERSE:The report of him went out immediately everywhere into all the region of Galilee and its surrounding area.
+LABEL:29
+VERSE:Immediately, when they had come out of the synagogue, they came into the house of Simon and Andrew, with James and John.
+LABEL:30
+VERSE:Now Simon’s wife’s mother lay sick with a fever, and immediately they told him about her.
+LABEL:31
+VERSE:He came and took her by the hand and raised her up. The fever left her immediately, and she served them.
+LABEL:32
+VERSE:At evening, when the sun had set, they brought to him all who were sick and those who were possessed by demons.
+LABEL:33
+VERSE:All the city was gathered together at the door.
+LABEL:34
+VERSE:He healed many who were sick with various diseases and cast out many demons. He didn’t allow the demons to speak, because they knew him.
+LABEL:35
+VERSE:Early in the morning, while it was still dark, he rose up and went out, and departed into a deserted place, and prayed there.
+LABEL:36
+VERSE:Simon and those who were with him searched for him.
+LABEL:37
+VERSE:They found him and told him, “Everyone is looking for you.”
+LABEL:38
+VERSE:He said to them, “Let’s go elsewhere into the next towns, that I may preach there also, because I came out for this reason.”
+LABEL:39
+VERSE:He went into their synagogues throughout all Galilee, preaching and casting out demons.
+LABEL:40
+VERSE:A leper came to him, begging him, kneeling down to him, and saying to him, “If you want to, you can make me clean.”
+LABEL:41
+VERSE:Being moved with compassion, he stretched out his hand, and touched him, and said to him, “I want to. Be made clean.”
+LABEL:42
+VERSE:When he had said this, immediately the leprosy departed from him and he was made clean.
+LABEL:43
+VERSE:He strictly warned him and immediately sent him out,
+LABEL:44
+VERSE:and said to him, “See that you say nothing to anybody, but go show yourself to the priest and offer for your cleansing the things which Moses commanded, for a testimony to them.”
+LABEL:45
+VERSE:But he went out, and began to proclaim it much, and to spread about the matter, so that Jesus could no more openly enter into a city, but was outside in desert places. People came to him from everywhere.

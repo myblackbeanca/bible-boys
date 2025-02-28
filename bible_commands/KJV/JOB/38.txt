@@ -1,0 +1,130 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:38
+TITLE:Job 38
+SECTION:The
+SECTION:LORD
+SECTION:Answered Job
+LABEL:1
+VERSE:Then the LORD answered Job out of the whirlwind, and said,
+LABEL:2
+VERSE:Who is this that darkeneth counsel
+VERSE:By words without knowledge?
+LABEL:3
+VERSE:Gird up now thy loins like a man;
+VERSE:For I will demand of thee, and answer thou me.
+LABEL:4
+VERSE:Where wast thou when I laid the foundations of the earth?
+VERSE:Declare, if thou hast understanding.
+LABEL:5
+VERSE:Who hath laid the measures thereof, if thou knowest?
+VERSE:Or who hath stretched the line upon it?
+LABEL:6
+VERSE:Whereupon are the foundations thereof fastened?
+VERSE:Or who laid the corner stone thereof;
+LABEL:7
+VERSE:When the morning stars sang together,
+VERSE:And all the sons of God shouted for joy?
+LABEL:8
+VERSE:Or who shut up the sea with doors,
+VERSE:When it brake forth, as if it had issued out of the womb?
+LABEL:9
+VERSE:When I made the cloud the garment thereof,
+VERSE:And thick darkness a swaddlingband for it,
+LABEL:10
+VERSE:And brake up for it my decreed place,
+VERSE:And set bars and doors,
+LABEL:11
+VERSE:And said, Hitherto shalt thou come, but no further:
+VERSE:And here shall thy proud waves be stayed?
+LABEL:12
+VERSE:Hast thou commanded the morning since thy days;
+VERSE:And caused the dayspring to know his place;
+LABEL:13
+VERSE:That it might take hold of the ends of the earth,
+VERSE:That the wicked might be shaken out of it?
+LABEL:14
+VERSE:It is turned as clay to the seal;
+VERSE:And they stand as a garment.
+LABEL:15
+VERSE:And from the wicked their light is withholden,
+VERSE:And the high arm shall be broken.
+LABEL:16
+VERSE:Hast thou entered into the springs of the sea?
+VERSE:Or hast thou walked in the search of the depth?
+LABEL:17
+VERSE:Have the gates of death been opened unto thee?
+VERSE:Or hast thou seen the doors of the shadow of death?
+LABEL:18
+VERSE:Hast thou perceived the breadth of the earth?
+VERSE:Declare if thou knowest it all.
+LABEL:19
+VERSE:Where is the way where light dwelleth?
+VERSE:And as for darkness, where is the place thereof,
+LABEL:20
+VERSE:That thou shouldest take it to the bound thereof,
+VERSE:And that thou shouldest know the paths to the house thereof?
+LABEL:21
+VERSE:Knowest thou it, because thou wast then born?
+VERSE:Or because the number of thy days is great?
+LABEL:22
+VERSE:Hast thou entered into the treasures of the snow?
+VERSE:Or hast thou seen the treasures of the hail,
+LABEL:23
+VERSE:Which I have reserved against the time of trouble,
+VERSE:Against the day of battle and war?
+LABEL:24
+VERSE:By what way is the light parted,
+VERSE:Which scattereth the east wind upon the earth?
+LABEL:25
+VERSE:Who hath divided a watercourse for the overflowing of waters,
+VERSE:Or a way for the lightning of thunder;
+LABEL:26
+VERSE:To cause it to rain on the earth, where no man is;
+VERSE:On the wilderness, wherein there is no man;
+LABEL:27
+VERSE:To satisfy the desolate and waste ground;
+VERSE:And to cause the bud of the tender herb to spring forth?
+LABEL:28
+VERSE:Hath the rain a father?
+VERSE:Or who hath begotten the drops of dew?
+LABEL:29
+VERSE:Out of whose womb came the ice?
+VERSE:And the hoary frost of heaven, who hath gendered it?
+LABEL:30
+VERSE:The waters are hid as with a stone,
+VERSE:And the face of the deep is frozen.
+LABEL:31
+VERSE:Canst thou bind the sweet influences of Pleiades,
+VERSE:Or loose the bands of Orion?
+LABEL:32
+VERSE:Canst thou bring forth Mazzaroth in his season?
+VERSE:Or canst thou guide Arcturus with his sons?
+LABEL:33
+VERSE:Knowest thou the ordinances of heaven?
+VERSE:Canst thou set the dominion thereof in the earth?
+LABEL:34
+VERSE:Canst thou lift up thy voice to the clouds,
+VERSE:That abundance of waters may cover thee?
+LABEL:35
+VERSE:Canst thou send lightnings, that they may go,
+VERSE:And say unto thee, Here we are?
+LABEL:36
+VERSE:Who hath put wisdom in the inward parts?
+VERSE:Or who hath given understanding to the heart?
+LABEL:37
+VERSE:Who can number the clouds in wisdom?
+VERSE:Or who can stay the bottles of heaven,
+LABEL:38
+VERSE:When the dust groweth into hardness,
+VERSE:And the clods cleave fast together?
+LABEL:39
+VERSE:Wilt thou hunt the prey for the lion?
+VERSE:Or fill the appetite of the young lions,
+LABEL:40
+VERSE:When they couch in their dens,
+VERSE:And abide in the covert to lie in wait?
+LABEL:41
+VERSE:Who provideth for the raven his food?
+VERSE:When his young ones cry unto God,
+VERSE:They wander for lack of meat.

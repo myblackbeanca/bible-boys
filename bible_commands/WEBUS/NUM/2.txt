@@ -1,0 +1,72 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:2
+TITLE:Numbers 2
+LABEL:1
+VERSE:Yahweh spoke to Moses and to Aaron, saying,
+LABEL:2
+VERSE:“The children of Israel shall encamp every man by his own standard, with the banners of their fathers’ houses. They shall encamp around the Tent of Meeting at a distance from it.
+LABEL:3
+VERSE:“Those who encamp on the east side toward the sunrise shall be of the standard of the camp of Judah, according to their divisions. The prince of the children of Judah shall be Nahshon the son of Amminadab.
+LABEL:4
+VERSE:His division, and those who were counted of them, were seventy-four thousand six hundred.
+LABEL:5
+VERSE:“Those who encamp next to him shall be the tribe of Issachar. The prince of the children of Issachar shall be Nethanel the son of Zuar.
+LABEL:6
+VERSE:His division, and those who were counted of it, were fifty-four thousand four hundred.
+LABEL:7
+VERSE:“The tribe of Zebulun: the prince of the children of Zebulun shall be Eliab the son of Helon.
+LABEL:8
+VERSE:His division, and those who were counted of it, were fifty-seven thousand four hundred.
+LABEL:9
+VERSE:“All who were counted of the camp of Judah were one hundred eighty-six thousand four hundred, according to their divisions. They shall set out first.
+LABEL:10
+VERSE:“On the south side shall be the standard of the camp of Reuben according to their divisions. The prince of the children of Reuben shall be Elizur the son of Shedeur.
+LABEL:11
+VERSE:His division, and those who were counted of it, were forty-six thousand five hundred.
+LABEL:12
+VERSE:“Those who encamp next to him shall be the tribe of Simeon. The prince of the children of Simeon shall be Shelumiel the son of Zurishaddai.
+LABEL:13
+VERSE:His division, and those who were counted of them, were fifty-nine thousand three hundred.
+LABEL:14
+VERSE:“The tribe of Gad: the prince of the children of Gad shall be Eliasaph the son of Reuel.
+LABEL:15
+VERSE:His division, and those who were counted of them, were forty-five thousand six hundred fifty.
+LABEL:16
+VERSE:“All who were counted of the camp of Reuben were one hundred fifty-one thousand four hundred fifty, according to their armies. They shall set out second.
+LABEL:17
+VERSE:“Then the Tent of Meeting shall set out, with the camp of the Levites in the middle of the camps. As they encamp, so shall they set out, every man in his place, by their standards.
+LABEL:18
+VERSE:“On the west side shall be the standard of the camp of Ephraim according to their divisions. The prince of the children of Ephraim shall be Elishama the son of Ammihud.
+LABEL:19
+VERSE:His division, and those who were counted of them, were forty thousand five hundred.
+LABEL:20
+VERSE:“Next to him shall be the tribe of Manasseh. The prince of the children of Manasseh shall be Gamaliel the son of Pedahzur.
+LABEL:21
+VERSE:His division, and those who were counted of them, were thirty-two thousand two hundred.
+LABEL:22
+VERSE:“The tribe of Benjamin: the prince of the children of Benjamin shall be Abidan the son of Gideoni.
+LABEL:23
+VERSE:His army, and those who were counted of them, were thirty-five thousand four hundred.
+LABEL:24
+VERSE:“All who were counted of the camp of Ephraim were one hundred eight thousand one hundred, according to their divisions. They shall set out third.
+LABEL:25
+VERSE:“On the north side shall be the standard of the camp of Dan according to their divisions. The prince of the children of Dan shall be Ahiezer the son of Ammishaddai.
+LABEL:26
+VERSE:His division, and those who were counted of them, were sixty-two thousand seven hundred.
+LABEL:27
+VERSE:“Those who encamp next to him shall be the tribe of Asher. The prince of the children of Asher shall be Pagiel the son of Ochran.
+LABEL:28
+VERSE:His division, and those who were counted of them, were forty-one thousand five hundred.
+LABEL:29
+VERSE:“The tribe of Naphtali: the prince of the children of Naphtali shall be Ahira the son of Enan.
+LABEL:30
+VERSE:His division, and those who were counted of them, were fifty-three thousand four hundred.
+LABEL:31
+VERSE:“All who were counted of the camp of Dan were one hundred fifty-seven thousand six hundred. They shall set out last by their standards.”
+LABEL:32
+VERSE:These are those who were counted of the children of Israel by their fathers’ houses. All who were counted of the camps according to their armies were six hundred three thousand five hundred fifty.
+LABEL:33
+VERSE:But the Levites were not counted among the children of Israel, as Yahweh commanded Moses.
+LABEL:34
+VERSE:Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses.

@@ -1,0 +1,44 @@
+TRANSLATION:WEBUS
+BOOK:1TI
+CHAPTER:1
+TITLE:1 Timothy 1
+LABEL:1
+VERSE:Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope,
+LABEL:2
+VERSE:to Timothy, my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord.
+LABEL:3
+VERSE:As I urged you when I was going into Macedonia, stay at Ephesus that you might command certain men not to teach a different doctrine,
+LABEL:4
+VERSE:and not to pay attention to myths and endless genealogies, which cause disputes rather than God’s stewardship, which is in faith.
+LABEL:5
+VERSE:But the goal of this command is love from a pure heart, a good conscience, and sincere faith,
+LABEL:6
+VERSE:from which things some, having missed the mark, have turned away to vain talking,
+LABEL:7
+VERSE:desiring to be teachers of the law, though they understand neither what they say nor about what they strongly affirm.
+LABEL:8
+VERSE:But we know that the law is good if a person uses it lawfully,
+LABEL:9
+VERSE:as knowing this, that law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+LABEL:10
+VERSE:for the sexually immoral, for homosexuals, for slave-traders, for liars, for perjurers, and for any other thing contrary to the sound doctrine,
+LABEL:11
+VERSE:according to the Good News of the glory of the blessed God, which was committed to my trust.
+LABEL:12
+VERSE:I thank him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service,
+LABEL:13
+VERSE:although I used to be a blasphemer, a persecutor, and insolent. However, I obtained mercy because I did it ignorantly in unbelief.
+LABEL:14
+VERSE:The grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus.
+LABEL:15
+VERSE:The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief.
+LABEL:16
+VERSE:However, for this cause I obtained mercy, that in me first, Jesus Christ might display all his patience for an example of those who were going to believe in him for eternal life.
+LABEL:17
+VERSE:Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.
+LABEL:18
+VERSE:I commit this instruction to you, my child Timothy, according to the prophecies which were given to you before, that by them you may wage the good warfare,
+LABEL:19
+VERSE:holding faith and a good conscience, which some having thrust away made a shipwreck concerning the faith,
+LABEL:20
+VERSE:of whom are Hymenaeus and Alexander, whom I delivered to Satan that they might be taught not to blaspheme.

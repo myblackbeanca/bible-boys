@@ -1,0 +1,72 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:38
+TITLE:Psalms 38
+LABEL:1
+VERSE:Yahweh, don’t rebuke me in your wrath,
+VERSE:neither chasten me in your hot displeasure.
+LABEL:2
+VERSE:For your arrows have pierced me,
+VERSE:your hand presses hard on me.
+LABEL:3
+VERSE:There is no soundness in my flesh because of your indignation,
+VERSE:neither is there any health in my bones because of my sin.
+LABEL:4
+VERSE:For my iniquities have gone over my head.
+VERSE:As a heavy burden, they are too heavy for me.
+LABEL:5
+VERSE:My wounds are loathsome and corrupt
+VERSE:because of my foolishness.
+LABEL:6
+VERSE:I am in pain and bowed down greatly.
+VERSE:I go mourning all day long.
+LABEL:7
+VERSE:For my waist is filled with burning.
+VERSE:There is no soundness in my flesh.
+LABEL:8
+VERSE:I am faint and severely bruised.
+VERSE:I have groaned by reason of the anguish of my heart.
+LABEL:9
+VERSE:Lord, all my desire is before you.
+VERSE:My groaning is not hidden from you.
+LABEL:10
+VERSE:My heart throbs.
+VERSE:My strength fails me.
+VERSE:As for the light of my eyes, it has also left me.
+LABEL:11
+VERSE:My lovers and my friends stand aloof from my plague.
+VERSE:My kinsmen stand far away.
+LABEL:12
+VERSE:They also who seek after my life lay snares.
+VERSE:Those who seek my hurt speak mischievous things,
+VERSE:and meditate deceits all day long.
+LABEL:13
+VERSE:But I, as a deaf man, don’t hear.
+VERSE:I am as a mute man who doesn’t open his mouth.
+LABEL:14
+VERSE:Yes, I am as a man who doesn’t hear,
+VERSE:in whose mouth are no reproofs.
+LABEL:15
+VERSE:For I hope in you, Yahweh.
+VERSE:You will answer, Lord my God.
+LABEL:16
+VERSE:For I said, “Don’t let them gloat over me,
+VERSE:or exalt themselves over me when my foot slips.”
+LABEL:17
+VERSE:For I am ready to fall.
+VERSE:My pain is continually before me.
+LABEL:18
+VERSE:For I will declare my iniquity.
+VERSE:I will be sorry for my sin.
+LABEL:19
+VERSE:But my enemies are vigorous and many.
+VERSE:Those who hate me without reason are numerous.
+LABEL:20
+VERSE:They who render evil for good are also adversaries to me,
+VERSE:because I follow what is good.
+LABEL:21
+VERSE:Don’t forsake me, Yahweh.
+VERSE:My God, don’t be far from me.
+LABEL:22
+VERSE:Hurry to help me,
+VERSE:Lord, my salvation.

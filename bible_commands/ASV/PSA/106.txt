@@ -1,0 +1,159 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:106
+TITLE:Psalms 106
+LABEL:1
+VERSE:Praise ye Jehovah.
+VERSE:Oh give thanks unto Jehovah; for he is good;
+VERSE:For his lovingkindness endureth for ever.
+LABEL:2
+VERSE:Who can utter the mighty acts of Jehovah,
+VERSE:Or show forth all his praise?
+LABEL:3
+VERSE:Blessed are they that keep justice,
+VERSE:And he that doeth righteousness at all times.
+LABEL:4
+VERSE:Remember me, O Jehovah, with the favor that thou bearest unto thy people;
+VERSE:Oh visit me with thy salvation,
+LABEL:5
+VERSE:That I may see the prosperity of thy chosen,
+VERSE:That I may rejoice in the gladness of thy nation,
+VERSE:That I may glory with thine inheritance.
+LABEL:6
+VERSE:We have sinned with our fathers,
+VERSE:We have committed iniquity, we have done wickedly.
+LABEL:7
+VERSE:Our fathers understood not thy wonders in Egypt;
+VERSE:They remembered not the multitude of thy lovingkindnesses,
+VERSE:But were rebellious at the sea, even at the Red Sea.
+LABEL:8
+VERSE:Nevertheless he saved them for his name’s sake,
+VERSE:That he might make his mighty power to be known.
+LABEL:9
+VERSE:He rebuked the Red Sea also, and it was dried up:
+VERSE:So he led them through the depths, as through a wilderness.
+LABEL:10
+VERSE:And he saved them from the hand of him that hated them,
+VERSE:And redeemed them from the hand of the enemy.
+LABEL:11
+VERSE:And the waters covered their adversaries;
+VERSE:There was not one of them left.
+LABEL:12
+VERSE:Then believed they his words;
+VERSE:They sang his praise.
+LABEL:13
+VERSE:They soon forgat his works;
+VERSE:They waited not for his counsel,
+LABEL:14
+VERSE:But lusted exceedingly in the wilderness,
+VERSE:And tempted God in the desert.
+LABEL:15
+VERSE:And he gave them their request,
+VERSE:But sent leanness into their soul.
+LABEL:16
+VERSE:They envied Moses also in the camp,
+VERSE:And Aaron the saint of Jehovah.
+LABEL:17
+VERSE:The earth opened and swallowed up Dathan,
+VERSE:And covered the company of Abiram.
+LABEL:18
+VERSE:And a fire was kindled in their company;
+VERSE:The flame burned up the wicked.
+LABEL:19
+VERSE:They made a calf in Horeb,
+VERSE:And worshipped a molten image.
+LABEL:20
+VERSE:Thus they changed their glory
+VERSE:For the likeness of an ox that eateth grass.
+LABEL:21
+VERSE:They forgat God their Saviour,
+VERSE:Who had done great things in Egypt,
+LABEL:22
+VERSE:Wondrous works in the land of Ham,
+VERSE:And terrible things by the Red Sea.
+LABEL:23
+VERSE:Therefore he said that he would destroy them,
+VERSE:Had not Moses his chosen stood before him in the breach,
+VERSE:To turn away his wrath, lest he should destroy them.
+LABEL:24
+VERSE:Yea, they despised the pleasant land,
+VERSE:They believed not his word,
+LABEL:25
+VERSE:But murmured in their tents,
+VERSE:And hearkened not unto the voice of Jehovah.
+LABEL:26
+VERSE:Therefore he sware unto them,
+VERSE:That he would overthrow them in the wilderness,
+LABEL:27
+VERSE:And that he would overthrow their seed among the nations,
+VERSE:And scatter them in the lands.
+LABEL:28
+VERSE:They joined themselves also unto Baal-peor,
+VERSE:And ate the sacrifices of the dead.
+LABEL:29
+VERSE:Thus they provoked him to anger with their doings;
+VERSE:And the plague brake in upon them.
+LABEL:30
+VERSE:Then stood up Phinehas, and executed judgment;
+VERSE:And so the plague was stayed.
+LABEL:31
+VERSE:And that was reckoned unto him for righteousness,
+VERSE:Unto all generations for evermore.
+LABEL:32
+VERSE:They angered him also at the waters of Meribah,
+VERSE:So that it went ill with Moses for their sakes;
+LABEL:33
+VERSE:Because they were rebellious against his spirit,
+VERSE:And he spake unadvisedly with his lips.
+LABEL:34
+VERSE:They did not destroy the peoples,
+VERSE:As Jehovah commanded them,
+LABEL:35
+VERSE:But mingled themselves with the nations,
+VERSE:And learned their works,
+LABEL:36
+VERSE:And served their idols,
+VERSE:Which became a snare unto them.
+LABEL:37
+VERSE:Yea, they sacrificed their sons and their daughters unto demons,
+LABEL:38
+VERSE:And shed innocent blood,
+VERSE:Even the blood of their sons and of their daughters,
+VERSE:Whom they sacrificed unto the idols of Canaan;
+VERSE:And the land was polluted with blood.
+LABEL:39
+VERSE:Thus were they defiled with their works,
+VERSE:And played the harlot in their doings.
+LABEL:40
+VERSE:Therefore was the wrath of Jehovah kindled against his people,
+VERSE:And he abhorred his inheritance.
+LABEL:41
+VERSE:And he gave them into the hand of the nations;
+VERSE:And they that hated them ruled over them.
+LABEL:42
+VERSE:Their enemies also oppressed them,
+VERSE:And they were brought into subjection under their hand.
+LABEL:43
+VERSE:Many times did he deliver them;
+VERSE:But they were rebellious in their counsel,
+VERSE:And were brought low in their iniquity.
+LABEL:44
+VERSE:Nevertheless he regarded their distress,
+VERSE:When he heard their cry:
+LABEL:45
+VERSE:And he remembered for them his covenant,
+VERSE:And repented according to the multitude of his lovingkindnesses.
+LABEL:46
+VERSE:He made them also to be pitied
+VERSE:Of all those that carried them captive.
+LABEL:47
+VERSE:Save us, O Jehovah our God,
+VERSE:And gather us from among the nations,
+VERSE:To give thanks unto thy holy name,
+VERSE:And to triumph in thy praise.
+LABEL:48
+VERSE:Blessed be Jehovah, the God of Israel,
+VERSE:From everlasting even to everlasting.
+VERSE:And let all the people say, Amen.
+VERSE:Praise ye Jehovah.
+SECTION:BOOK V

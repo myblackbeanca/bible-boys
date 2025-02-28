@@ -1,0 +1,32 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:113
+TITLE:Psalms 113
+LABEL:1
+VERSE:Praise Yah!
+VERSE:Praise, you servants of Yahweh,
+VERSE:praise Yahweh’s name.
+LABEL:2
+VERSE:Blessed be Yahweh’s name,
+VERSE:from this time forward and forever more.
+LABEL:3
+VERSE:From the rising of the sun to its going down,
+VERSE:Yahweh’s name is to be praised.
+LABEL:4
+VERSE:Yahweh is high above all nations,
+VERSE:his glory above the heavens.
+LABEL:5
+VERSE:Who is like Yahweh, our God,
+VERSE:who has his seat on high,
+LABEL:6
+VERSE:who stoops down to see in heaven and in the earth?
+LABEL:7
+VERSE:He raises up the poor out of the dust,
+VERSE:and lifts up the needy from the ash heap,
+LABEL:8
+VERSE:that he may set him with princes,
+VERSE:even with the princes of his people.
+LABEL:9
+VERSE:He settles the barren woman in her home
+VERSE:as a joyful mother of children.
+VERSE:Praise Yah!

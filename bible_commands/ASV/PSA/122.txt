@@ -1,0 +1,32 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:122
+TITLE:Psalms 122
+LABEL:1
+VERSE:I was glad when they said unto me,
+VERSE:Let us go unto the house of Jehovah.
+LABEL:2
+VERSE:Our feet are standing
+VERSE:Within thy gates, O Jerusalem,
+LABEL:3
+VERSE:Jerusalem, that art builded
+VERSE:As a city that is compact together;
+LABEL:4
+VERSE:Whither the tribes go up, even the tribes of Jehovah,
+VERSE:For an ordinance for Israel,
+VERSE:To give thanks unto the name of Jehovah.
+LABEL:5
+VERSE:For there are set thrones for judgment,
+VERSE:The thrones of the house of David.
+LABEL:6
+VERSE:Pray for the peace of Jerusalem:
+VERSE:They shall prosper that love thee.
+LABEL:7
+VERSE:Peace be within thy walls,
+VERSE:And prosperity within thy palaces.
+LABEL:8
+VERSE:For my brethren and companions’ sakes,
+VERSE:I will now say, Peace be within thee.
+LABEL:9
+VERSE:For the sake of the house of Jehovah our God
+VERSE:I will seek thy good.

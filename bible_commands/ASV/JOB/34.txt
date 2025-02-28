@@ -1,0 +1,120 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:34
+TITLE:Job 34
+LABEL:1
+VERSE:Moreover Elihu answered and said,
+LABEL:2
+VERSE:Hear my words, ye wise men;
+VERSE:And give ear unto me, ye that have knowledge.
+LABEL:3
+VERSE:For the ear trieth words,
+VERSE:As the palate tasteth food.
+LABEL:4
+VERSE:Let us choose for us that which is right:
+VERSE:Let us know among ourselves what is good.
+LABEL:5
+VERSE:For Job hath said, I am righteous,
+VERSE:And God hath taken away my right:
+LABEL:6
+VERSE:Notwithstanding my right I am accounted a liar;
+VERSE:My wound is incurable, though I am without transgression.
+LABEL:7
+VERSE:What man is like Job,
+VERSE:Who drinketh up scoffing like water,
+LABEL:8
+VERSE:Who goeth in company with the workers of iniquity,
+VERSE:And walketh with wicked men?
+LABEL:9
+VERSE:For he hath said, It profiteth a man nothing
+VERSE:That he should delight himself with God.
+LABEL:10
+VERSE:Therefore hearken unto me, ye men of understanding:
+VERSE:Far be it from God, that he should do wickedness,
+VERSE:And from the Almighty, that he should commit iniquity.
+LABEL:11
+VERSE:For the work of a man will he render unto him,
+VERSE:And cause every man to find according to his ways.
+LABEL:12
+VERSE:Yea, of a surety, God will not do wickedly,
+VERSE:Neither will the Almighty pervert justice.
+LABEL:13
+VERSE:Who gave him a charge over the earth?
+VERSE:Or who hath disposed the whole world?
+LABEL:14
+VERSE:If he set his heart upon himself,
+VERSE:If he gather unto himself his spirit and his breath;
+LABEL:15
+VERSE:All flesh shall perish together,
+VERSE:And man shall turn again unto dust.
+LABEL:16
+VERSE:If now thou hast understanding, hear this:
+VERSE:Hearken to the voice of my words.
+LABEL:17
+VERSE:Shall even one that hateth justice govern?
+VERSE:And wilt thou condemn him that is righteous and mighty?—
+LABEL:18
+VERSE:  Him that saith to a king, Thou art vile,
+VERSE:Or to nobles, Ye are wicked;
+LABEL:19
+VERSE:That respecteth not the persons of princes,
+VERSE:Nor regardeth the rich more than the poor;
+VERSE:For they all are the work of his hands.
+LABEL:20
+VERSE:In a moment they die, even at midnight;
+VERSE:The people are shaken and pass away,
+VERSE:And the mighty are taken away without hand.
+LABEL:21
+VERSE:For his eyes are upon the ways of a man,
+VERSE:And he seeth all his goings.
+LABEL:22
+VERSE:There is no darkness, nor thick gloom,
+VERSE:Where the workers of iniquity may hide themselves.
+LABEL:23
+VERSE:For he needeth not further to consider a man,
+VERSE:That he should go before God in judgment.
+LABEL:24
+VERSE:He breaketh in pieces mighty men in ways past finding out,
+VERSE:And setteth others in their stead.
+LABEL:25
+VERSE:Therefore he taketh knowledge of their works;
+VERSE:And he overturneth them in the night, so that they are destroyed.
+LABEL:26
+VERSE:He striketh them as wicked men
+VERSE:In the open sight of others;
+LABEL:27
+VERSE:Because they turned aside from following him,
+VERSE:And would not have regard in any of his ways:
+LABEL:28
+VERSE:So that they caused the cry of the poor to come unto him,
+VERSE:And he heard the cry of the afflicted.
+LABEL:29
+VERSE:When he giveth quietness, who then can condemn?
+VERSE:And when he hideth his face, who then can behold him?
+VERSE:Alike whether it be done unto a nation, or unto a man:
+LABEL:30
+VERSE:That the godless man reign not,
+VERSE:That there be none to ensnare the people.
+LABEL:31
+VERSE:For hath any said unto God,
+VERSE:I have borne chastisement, I will not offend any more:
+LABEL:32
+VERSE:That which I see not teach thou me:
+VERSE:If I have done iniquity, I will do it no more?
+LABEL:33
+VERSE:Shall his recompense be as thou wilt, that thou refusest it?
+VERSE:For thou must choose, and not I:
+VERSE:Therefore speak what thou knowest.
+LABEL:34
+VERSE:Men of understanding will say unto me,
+VERSE:Yea, every wise man that heareth me:
+LABEL:35
+VERSE:Job speaketh without knowledge,
+VERSE:And his words are without wisdom.
+LABEL:36
+VERSE:Would that Job were tried unto the end,
+VERSE:Because of his answering like wicked men.
+LABEL:37
+VERSE:For he addeth rebellion unto his sin;
+VERSE:He clappeth his hands among us,
+VERSE:And multiplieth his words against God.

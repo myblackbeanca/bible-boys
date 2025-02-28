@@ -1,0 +1,57 @@
+TRANSLATION:ASV
+BOOK:SNG
+CHAPTER:7
+TITLE:Song of Solomon 7
+LABEL:1
+VERSE:How beautiful are thy feet in sandals, O prince’s daughter!
+VERSE:Thy rounded thighs are like jewels,
+VERSE:The work of the hands of a skilful workman.
+LABEL:2
+VERSE:Thy body is like a round goblet,
+VERSE:Wherein no mingled wine is wanting:
+VERSE:Thy waist is like a heap of wheat
+VERSE:Set about with lilies.
+LABEL:3
+VERSE:Thy two breasts are like two fawns
+VERSE:That are twins of a roe.
+LABEL:4
+VERSE:Thy neck is like the tower of ivory;
+VERSE:Thine eyes as the pools in Heshbon,
+VERSE:By the gate of Bath-rabbim;
+VERSE:Thy nose is like the tower of Lebanon
+VERSE:Which looketh toward Damascus.
+LABEL:5
+VERSE:Thy head upon thee is like Carmel,
+VERSE:And the hair of thy head like purple;
+VERSE:The king is held captive in the tresses thereof.
+LABEL:6
+VERSE:How fair and how pleasant art thou,
+VERSE:O love, for delights!
+LABEL:7
+VERSE:This thy stature is like to a palm-tree,
+VERSE:And thy breasts to its clusters.
+LABEL:8
+VERSE:I said, I will climb up into the palm-tree,
+VERSE:I will take hold of the branches thereof:
+VERSE:Let thy breasts be as clusters of the vine,
+VERSE:And the smell of thy breath like apples,
+LABEL:9
+VERSE:And thy mouth like the best wine,
+VERSE:That goeth down smoothly for my beloved,
+VERSE:Gliding through the lips of those that are asleep.
+LABEL:10
+VERSE:I am my beloved’s;
+VERSE:And his desire is toward me.
+LABEL:11
+VERSE:Come, my beloved, let us go forth into the field;
+VERSE:Let us lodge in the villages.
+LABEL:12
+VERSE:Let us get up early to the vineyards;
+VERSE:Let us see whether the vine hath budded,
+VERSE:And its blossom is open,
+VERSE:And the pomegranates are in flower:
+VERSE:There will I give thee my love.
+LABEL:13
+VERSE:The mandrakes give forth fragrance;
+VERSE:And at our doors are all manner of precious fruits, new and old,
+VERSE:Which I have laid up for thee, O my beloved.

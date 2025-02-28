@@ -1,0 +1,93 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:19
+TITLE:Proverbs 19
+LABEL:1
+VERSE:Better is the poor that walketh in his integrity
+VERSE:Than he that is perverse in his lips and is a fool.
+LABEL:2
+VERSE:Also, that the soul be without knowledge is not good;
+VERSE:And he that hasteth with his feet sinneth.
+LABEL:3
+VERSE:The foolishness of man subverteth his way;
+VERSE:And his heart fretteth against Jehovah.
+LABEL:4
+VERSE:Wealth addeth many friends;
+VERSE:But the poor is separated from his friend.
+LABEL:5
+VERSE:A false witness shall not be unpunished;
+VERSE:And he that uttereth lies shall not escape.
+LABEL:6
+VERSE:Many will entreat the favor of the liberal man;
+VERSE:And every man is a friend to him that giveth gifts.
+LABEL:7
+VERSE:All the brethren of the poor do hate him:
+VERSE:How much more do his friends go far from him!
+VERSE:He pursueth them with words, but they are gone.
+LABEL:8
+VERSE:He that getteth wisdom loveth his own soul:
+VERSE:He that keepeth understanding shall find good.
+LABEL:9
+VERSE:A false witness shall not be unpunished;
+VERSE:And he that uttereth lies shall perish.
+LABEL:10
+VERSE:Delicate living is not seemly for a fool;
+VERSE:Much less for a servant to have rule over princes.
+LABEL:11
+VERSE:The discretion of a man maketh him slow to anger;
+VERSE:And it is his glory to pass over a transgression.
+LABEL:12
+VERSE:The king’s wrath is as the roaring of a lion;
+VERSE:But his favor is as dew upon the grass.
+LABEL:13
+VERSE:A foolish son is the calamity of his father;
+VERSE:And the contentions of a wife are a continual dropping.
+LABEL:14
+VERSE:House and riches are an inheritance from fathers;
+VERSE:But a prudent wife is from Jehovah.
+LABEL:15
+VERSE:Slothfulness casteth into a deep sleep;
+VERSE:And the idle soul shall suffer hunger.
+LABEL:16
+VERSE:He that keepeth the commandment keepeth his soul;
+VERSE:But he that is careless of his ways shall die.
+LABEL:17
+VERSE:He that hath pity upon the poor lendeth unto Jehovah,
+VERSE:And his good deed will he pay him again.
+LABEL:18
+VERSE:Chasten thy son, seeing there is hope;
+VERSE:And set not thy heart on his destruction.
+LABEL:19
+VERSE:A man of great wrath shall bear the penalty;
+VERSE:For if thou deliver him, thou must do it yet again.
+LABEL:20
+VERSE:Hear counsel, and receive instruction,
+VERSE:That thou mayest be wise in thy latter end.
+LABEL:21
+VERSE:There are many devices in a man’s heart;
+VERSE:But the counsel of Jehovah, that shall stand.
+LABEL:22
+VERSE:That which maketh a man to be desired is his kindness;
+VERSE:And a poor man is better than a liar.
+LABEL:23
+VERSE:The fear of Jehovah tendeth to life;
+VERSE:And he that hath it shall abide satisfied;
+VERSE:He shall not be visited with evil.
+LABEL:24
+VERSE:The sluggard burieth his hand in the dish,
+VERSE:And will not so much as bring it to his mouth again.
+LABEL:25
+VERSE:Smite a scoffer, and the simple will learn prudence;
+VERSE:And reprove one that hath understanding, and he will understand knowledge.
+LABEL:26
+VERSE:He that doeth violence to his father, and chaseth away his mother,
+VERSE:Is a son that causeth shame and bringeth reproach.
+LABEL:27
+VERSE:Cease, my son, to hear instruction
+VERSE:Only to err from the words of knowledge.
+LABEL:28
+VERSE:A worthless witness mocketh at justice;
+VERSE:And the mouth of the wicked swalloweth iniquity.
+LABEL:29
+VERSE:Judgments are prepared for scoffers,
+VERSE:And stripes for the back of fools.

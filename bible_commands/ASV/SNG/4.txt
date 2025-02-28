@@ -1,0 +1,73 @@
+TRANSLATION:ASV
+BOOK:SNG
+CHAPTER:4
+TITLE:Song of Solomon 4
+LABEL:1
+VERSE:Behold, thou art fair, my love; behold, thou art fair;
+VERSE:Thine eyes are as doves behind thy veil.
+VERSE:Thy hair is as a flock of goats,
+VERSE:That lie along the side of mount Gilead.
+LABEL:2
+VERSE:Thy teeth are like a flock of ewes that are newly shorn,
+VERSE:Which are come up from the washing,
+VERSE:Whereof every one hath twins,
+VERSE:And none is bereaved among them.
+LABEL:3
+VERSE:Thy lips are like a thread of scarlet,
+VERSE:And thy mouth is comely.
+VERSE:Thy temples are like a piece of a pomegranate
+VERSE:Behind thy veil.
+LABEL:4
+VERSE:Thy neck is like the tower of David
+VERSE:Builded for an armory,
+VERSE:Whereon there hang a thousand bucklers,
+VERSE:All the shields of the mighty men.
+LABEL:5
+VERSE:Thy two breasts are like two fawns
+VERSE:That are twins of a roe,
+VERSE:Which feed among the lilies.
+LABEL:6
+VERSE:Until the day be cool, and the shadows flee away,
+VERSE:I will get me to the mountain of myrrh,
+VERSE:And to the hill of frankincense.
+LABEL:7
+VERSE:Thou art all fair, my love;
+VERSE:And there is no spot in thee.
+LABEL:8
+VERSE:Come with me from Lebanon, my bride,
+VERSE:With me from Lebanon:
+VERSE:Look from the top of Amana,
+VERSE:From the top of Senir and Hermon,
+VERSE:From the lions’ dens,
+VERSE:From the mountains of the leopards.
+LABEL:9
+VERSE:Thou hast ravished my heart, my sister, my bride;
+VERSE:Thou hast ravished my heart with one of thine eyes,
+VERSE:With one chain of thy neck.
+LABEL:10
+VERSE:How fair is thy love, my sister, my bride!
+VERSE:How much better is thy love than wine!
+VERSE:And the fragrance of thine oils than all manner of spices!
+LABEL:11
+VERSE:Thy lips, O my bride, drop as the honeycomb:
+VERSE:Honey and milk are under thy tongue;
+VERSE:And the smell of thy garments is like the smell of Lebanon.
+LABEL:12
+VERSE:A garden shut up is my sister, my bride;
+VERSE:A spring shut up, a fountain sealed.
+LABEL:13
+VERSE:Thy shoots are an orchard of pomegranates, with precious fruits;
+VERSE:Henna with spikenard plants,
+LABEL:14
+VERSE:Spikenard and saffron,
+VERSE:Calamus and cinnamon, with all trees of frankincense;
+VERSE:Myrrh and aloes, with all the chief spices.
+LABEL:15
+VERSE:  Thou art a fountain of gardens,
+VERSE:A well of living waters,
+VERSE:And flowing streams from Lebanon.
+LABEL:16
+VERSE:Awake, O north wind; and come, thou south;
+VERSE:Blow upon my garden, that the spices thereof may flow out.
+VERSE:Let my beloved come into his garden,
+VERSE:And eat his precious fruits.

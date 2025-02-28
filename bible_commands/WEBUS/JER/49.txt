@@ -1,0 +1,189 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:49
+TITLE:Jeremiah 49
+LABEL:1
+VERSE:Of the children of Ammon. Yahweh says:
+VERSE:“Has Israel no sons?
+VERSE:Has he no heir?
+VERSE:Why then does Malcam possess Gad,
+VERSE:and his people dwell in its cities?
+LABEL:2
+VERSE:Therefore behold, the days come,”
+VERSE:says Yahweh,
+VERSE:“that I will cause an alarm of war to be heard against Rabbah of the children of Ammon,
+VERSE:and it will become a desolate heap,
+VERSE:and her daughters will be burned with fire;
+VERSE:then Israel will possess those who possessed him,”
+VERSE:says Yahweh.
+LABEL:3
+VERSE:“Wail, Heshbon, for Ai is laid waste!
+VERSE:Cry, you daughters of Rabbah!
+VERSE:Clothe yourself in sackcloth.
+VERSE:Lament, and run back and forth among the fences;
+VERSE:for Malcam will go into captivity,
+VERSE:his priests and his princes together.
+LABEL:4
+VERSE:Why do you boast in the valleys,
+VERSE:your flowing valley, backsliding daughter?
+VERSE:You trusted in her treasures,
+VERSE:saying, ‘Who will come to me?’
+LABEL:5
+VERSE:Behold, I will bring a terror on you,”
+VERSE:says the Lord, Yahweh of Armies,
+VERSE:“from all who are around you.
+VERSE:All of you will be driven completely out,
+VERSE:and there will be no one to gather together the fugitives.
+LABEL:6
+VERSE:“But afterward I will reverse the captivity of the children of Ammon,”
+VERSE:says Yahweh.
+LABEL:7
+VERSE:Of Edom, Yahweh of Armies says:
+VERSE:“Is wisdom no more in Teman?
+VERSE:Has counsel perished from the prudent?
+VERSE:Has their wisdom vanished?
+LABEL:8
+VERSE:Flee! Turn back!
+VERSE:Dwell in the depths, inhabitants of Dedan;
+VERSE:for I will bring the calamity of Esau on him when I visit him.
+LABEL:9
+VERSE:If grape gatherers came to you,
+VERSE:would they not leave some gleaning grapes?
+VERSE:If thieves came by night,
+VERSE:wouldn’t they steal until they had enough?
+LABEL:10
+VERSE:But I have made Esau bare,
+VERSE:I have uncovered his secret places,
+VERSE:and he will not be able to hide himself.
+VERSE:His offspring is destroyed,
+VERSE:with his brothers and his neighbors;
+VERSE:and he is no more.
+LABEL:11
+VERSE:Leave your fatherless children.
+VERSE:I will preserve them alive.
+VERSE:Let your widows trust in me.”
+LABEL:12
+VERSE:For Yahweh says: “Behold, they to whom it didn’t pertain to drink of the cup will certainly drink; and are you he who will altogether go unpunished? You won’t go unpunished, but you will surely drink.
+LABEL:13
+VERSE:For I have sworn by myself,” says Yahweh, “that Bozrah will become an astonishment, a reproach, a waste, and a curse. All its cities will be perpetual wastes.”
+LABEL:14
+VERSE:I have heard news from Yahweh,
+VERSE:and an ambassador is sent among the nations,
+VERSE:saying, “Gather yourselves together!
+VERSE:Come against her!
+VERSE:Rise up to the battle!”
+LABEL:15
+VERSE:“For, behold, I have made you small among the nations,
+VERSE:and despised among men.
+LABEL:16
+VERSE:As for your terror,
+VERSE:the pride of your heart has deceived you,
+VERSE:O you who dwell in the clefts of the rock,
+VERSE:who hold the height of the hill,
+VERSE:though you should make your nest as high as the eagle,
+VERSE:I will bring you down from there,” says Yahweh.
+LABEL:17
+VERSE:“Edom will become an astonishment.
+VERSE:Everyone who passes by it will be astonished,
+VERSE:and will hiss at all its plagues.
+LABEL:18
+VERSE:As in the overthrow of Sodom and Gomorrah and its neighbor cities,” says Yahweh,
+VERSE:“no man will dwell there,
+VERSE:neither will any son of man live therein.
+LABEL:19
+VERSE:“Behold, he will come up like a lion from the pride of the Jordan against the strong habitation;
+VERSE:for I will suddenly make them run away from it,
+VERSE:and whoever is chosen,
+VERSE:I will appoint him over it.
+VERSE:For who is like me?
+VERSE:Who will appoint me a time?
+VERSE:Who is the shepherd who will stand before me?”
+LABEL:20
+VERSE:Therefore hear the counsel of Yahweh, that he has taken against Edom,
+VERSE:and his purposes that he has purposed against the inhabitants of Teman:
+VERSE:Surely they will drag them away,
+VERSE:the little ones of the flock.
+VERSE:Surely he will make their habitation desolate over them.
+LABEL:21
+VERSE:The earth trembles at the noise of their fall;
+VERSE:there is a cry, the noise which is heard in the Red Sea.
+LABEL:22
+VERSE:Behold, he will come up and fly as the eagle,
+VERSE:and spread out his wings against Bozrah.
+VERSE:The heart of the mighty men of Edom at that day will be as the heart of a woman in her pangs.
+LABEL:23
+VERSE:Of Damascus:
+VERSE:“Hamath and Arpad are confounded,
+VERSE:for they have heard evil news.
+VERSE:They have melted away.
+VERSE:There is sorrow on the sea.
+VERSE:It can’t be quiet.
+LABEL:24
+VERSE:Damascus has grown feeble,
+VERSE:she turns herself to flee,
+VERSE:and trembling has seized her.
+VERSE:Anguish and sorrows have taken hold of her,
+VERSE:as of a woman in travail.
+LABEL:25
+VERSE:How is the city of praise not forsaken,
+VERSE:the city of my joy?
+LABEL:26
+VERSE:Therefore her young men will fall in her streets,
+VERSE:and all the men of war will be brought to silence in that day,”
+VERSE:says Yahweh of Armies.
+LABEL:27
+VERSE:“I will kindle a fire in the wall of Damascus,
+VERSE:and it will devour the palaces of Ben Hadad.”
+LABEL:28
+VERSE:Of Kedar, and of the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck, Yahweh says:
+VERSE:“Arise, go up to Kedar,
+VERSE:and destroy the children of the east.
+LABEL:29
+VERSE:They will take their tents and their flocks.
+VERSE:they will carry away for themselves their curtains,
+VERSE:all their vessels, and their camels;
+VERSE:and they will cry to them, ‘Terror on every side!’
+LABEL:30
+VERSE:Flee!
+VERSE:Wander far off!
+VERSE:Dwell in the depths, you inhabitants of Hazor,” says Yahweh;
+VERSE:“for Nebuchadnezzar king of Babylon has taken counsel against you,
+VERSE:and has conceived a purpose against you.
+LABEL:31
+VERSE:Arise! Go up to a nation that is at ease,
+VERSE:that dwells without care,” says Yahweh;
+VERSE:“that has neither gates nor bars,
+VERSE:that dwells alone.
+LABEL:32
+VERSE:Their camels will be a booty,
+VERSE:and the multitude of their livestock a plunder.
+VERSE:I will scatter to all winds those who have the corners of their beards cut off;
+VERSE:and I will bring their calamity from every side of them,”
+VERSE:says Yahweh.
+LABEL:33
+VERSE:Hazor will be a dwelling place of jackals,
+VERSE:a desolation forever.
+VERSE:No man will dwell there,
+VERSE:neither will any son of man live therein.”
+LABEL:34
+VERSE:Yahweh’s word that came to Jeremiah the prophet concerning Elam, in the beginning of the reign of Zedekiah king of Judah, saying,
+LABEL:35
+VERSE:“Yahweh of Armies says:
+VERSE:‘Behold, I will break the bow of Elam,
+VERSE:the chief of their might.
+LABEL:36
+VERSE:I will bring on Elam the four winds from the four quarters of the sky,
+VERSE:and will scatter them toward all those winds.
+VERSE:There will be no nation where the outcasts of Elam will not come.
+LABEL:37
+VERSE:I will cause Elam to be dismayed before their enemies,
+VERSE:and before those who seek their life.
+VERSE:I will bring evil on them, even my fierce anger,’ says Yahweh;
+VERSE:‘and I will send the sword after them,
+VERSE:until I have consumed them.
+LABEL:38
+VERSE:I will set my throne in Elam,
+VERSE:and will destroy from there king and princes,’ says Yahweh.
+LABEL:39
+VERSE:‘But it will happen in the latter days
+VERSE:that I will reverse the captivity of Elam,’ says Yahweh.”

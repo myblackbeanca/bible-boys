@@ -1,0 +1,121 @@
+TRANSLATION:WEBUS
+BOOK:JHN
+CHAPTER:11
+TITLE:John 11
+LABEL:1
+VERSE:Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha.
+LABEL:2
+VERSE:It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick.
+LABEL:3
+VERSE:The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”
+LABEL:4
+VERSE:But when Jesus heard it, he said, “This sickness is not to death, but for the glory of God, that God’s Son may be glorified by it.”
+LABEL:5
+VERSE:Now Jesus loved Martha, and her sister, and Lazarus.
+LABEL:6
+VERSE:When therefore he heard that he was sick, he stayed two days in the place where he was.
+LABEL:7
+VERSE:Then after this he said to the disciples, “Let’s go into Judea again.”
+LABEL:8
+VERSE:The disciples asked him, “Rabbi, the Jews were just trying to stone you. Are you going there again?”
+LABEL:9
+VERSE:Jesus answered, “Aren’t there twelve hours of daylight? If a man walks in the day, he doesn’t stumble, because he sees the light of this world.
+LABEL:10
+VERSE:But if a man walks in the night, he stumbles, because the light isn’t in him.”
+LABEL:11
+VERSE:He said these things, and after that, he said to them, “Our friend Lazarus has fallen asleep, but I am going so that I may awake him out of sleep.”
+LABEL:12
+VERSE:The disciples therefore said, “Lord, if he has fallen asleep, he will recover.”
+LABEL:13
+VERSE:Now Jesus had spoken of his death, but they thought that he spoke of taking rest in sleep.
+LABEL:14
+VERSE:So Jesus said to them plainly then, “Lazarus is dead.
+LABEL:15
+VERSE:I am glad for your sakes that I was not there, so that you may believe. Nevertheless, let’s go to him.”
+LABEL:16
+VERSE:Thomas therefore, who is called Didymus, said to his fellow disciples, “Let’s also go, that we may die with him.”
+LABEL:17
+VERSE:So when Jesus came, he found that he had been in the tomb four days already.
+LABEL:18
+VERSE:Now Bethany was near Jerusalem, about fifteen stadia away.
+LABEL:19
+VERSE:Many of the Jews had joined the women around Martha and Mary, to console them concerning their brother.
+LABEL:20
+VERSE:Then when Martha heard that Jesus was coming, she went and met him, but Mary stayed in the house.
+LABEL:21
+VERSE:Therefore Martha said to Jesus, “Lord, if you would have been here, my brother wouldn’t have died.
+LABEL:22
+VERSE:Even now I know that whatever you ask of God, God will give you.”
+LABEL:23
+VERSE:Jesus said to her, “Your brother will rise again.”
+LABEL:24
+VERSE:Martha said to him, “I know that he will rise again in the resurrection at the last day.”
+LABEL:25
+VERSE:Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.
+LABEL:26
+VERSE:Whoever lives and believes in me will never die. Do you believe this?”
+LABEL:27
+VERSE:She said to him, “Yes, Lord. I have come to believe that you are the Christ, God’s Son, he who comes into the world.”
+LABEL:28
+VERSE:When she had said this, she went away and called Mary, her sister, secretly, saying, “The Teacher is here and is calling you.”
+LABEL:29
+VERSE:When she heard this, she arose quickly and went to him.
+LABEL:30
+VERSE:Now Jesus had not yet come into the village, but was in the place where Martha met him.
+LABEL:31
+VERSE:Then the Jews who were with her in the house and were consoling her, when they saw Mary, that she rose up quickly and went out, followed her, saying, “She is going to the tomb to weep there.”
+LABEL:32
+VERSE:Therefore when Mary came to where Jesus was and saw him, she fell down at his feet, saying to him, “Lord, if you would have been here, my brother wouldn’t have died.”
+LABEL:33
+VERSE:When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit and was troubled,
+LABEL:34
+VERSE:and said, “Where have you laid him?”
+VERSE:They told him, “Lord, come and see.”
+LABEL:35
+VERSE:Jesus wept.
+LABEL:36
+VERSE:The Jews therefore said, “See how much affection he had for him!”
+LABEL:37
+VERSE:Some of them said, “Couldn’t this man, who opened the eyes of him who was blind, have also kept this man from dying?”
+LABEL:38
+VERSE:Jesus therefore, again groaning in himself, came to the tomb. Now it was a cave, and a stone lay against it.
+LABEL:39
+VERSE:Jesus said, “Take away the stone.”
+VERSE:Martha, the sister of him who was dead, said to him, “Lord, by this time there is a stench, for he has been dead four days.”
+LABEL:40
+VERSE:Jesus said to her, “Didn’t I tell you that if you believed, you would see God’s glory?”
+LABEL:41
+VERSE:So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes and said, “Father, I thank you that you listened to me.
+LABEL:42
+VERSE:I know that you always listen to me, but because of the multitude standing around I said this, that they may believe that you sent me.”
+LABEL:43
+VERSE:When he had said this, he cried with a loud voice, “Lazarus, come out!”
+LABEL:44
+VERSE:He who was dead came out, bound hand and foot with wrappings, and his face was wrapped around with a cloth.
+VERSE:Jesus said to them, “Free him, and let him go.”
+LABEL:45
+VERSE:Therefore many of the Jews who came to Mary and saw what Jesus did believed in him.
+LABEL:46
+VERSE:But some of them went away to the Pharisees and told them the things which Jesus had done.
+LABEL:47
+VERSE:The chief priests therefore and the Pharisees gathered a council, and said, “What are we doing? For this man does many signs.
+LABEL:48
+VERSE:If we leave him alone like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.”
+LABEL:49
+VERSE:But a certain one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all,
+LABEL:50
+VERSE:nor do you consider that it is advantageous for us that one man should die for the people, and that the whole nation not perish.”
+LABEL:51
+VERSE:Now he didn’t say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation,
+LABEL:52
+VERSE:and not for the nation only, but that he might also gather together into one the children of God who are scattered abroad.
+LABEL:53
+VERSE:So from that day forward they took counsel that they might put him to death.
+LABEL:54
+VERSE:Jesus therefore walked no more openly among the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples.
+LABEL:55
+VERSE:Now the Passover of the Jews was at hand. Many went up from the country to Jerusalem before the Passover, to purify themselves.
+LABEL:56
+VERSE:Then they sought for Jesus and spoke with one another as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?”
+LABEL:57
+VERSE:Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him.

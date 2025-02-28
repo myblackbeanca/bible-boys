@@ -1,0 +1,74 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:71
+TITLE:Psalm 71
+LABEL:1
+VERSE:In thee, O LORD, do I put my trust: Let me never be put to confusion.
+LABEL:2
+VERSE:Deliver me in thy righteousness, and cause me to escape: Incline thine ear unto me, and save me.
+LABEL:3
+VERSE:Be thou my strong habitation, whereunto I may continually resort:
+VERSE:Thou hast given commandment to save me; For thou art my rock and my fortress.
+LABEL:4
+VERSE:Deliver me, O my God, out of the hand of the wicked,
+VERSE:Out of the hand of the unrighteous and cruel man.
+LABEL:5
+VERSE:For thou art my hope, O Lord GOD:
+VERSE:Thou art my trust from my youth.
+LABEL:6
+VERSE:By thee have I been holden up from the womb:
+VERSE:Thou art he that took me out of my mother's bowels: My praise shall be continually of thee.
+LABEL:7
+VERSE:I am as a wonder unto many;
+VERSE:But thou art my strong refuge.
+LABEL:8
+VERSE:Let my mouth be filled with thy praise
+VERSE:And with thy honour all the day.
+LABEL:9
+VERSE:Cast me not off in the time of old age;
+VERSE:Forsake me not when my strength faileth.
+LABEL:10
+VERSE:For mine enemies speak against me;
+VERSE:And they that lay wait for my soul take counsel together,
+LABEL:11
+VERSE:saying,
+VERSE:God hath forsaken him: Persecute and take him; for there is none to deliver him.
+LABEL:12
+VERSE:O God, be not far from me:
+VERSE:O my God, make haste for my help.
+LABEL:13
+VERSE:Let them be confounded and consumed that are adversaries to my soul;
+VERSE:Let them be covered with reproach and dishonour that seek my hurt.
+LABEL:14
+VERSE:But I will hope continually,
+VERSE:And will yet praise thee more and more.
+LABEL:15
+VERSE:My mouth shall shew forth thy righteousness and thy salvation all the day;
+VERSE:For I know not the numbers thereof.
+LABEL:16
+VERSE:I will go in the strength of the Lord GOD:
+VERSE:I will make mention of thy righteousness, even of thine only.
+LABEL:17
+VERSE:O God, thou hast taught me from my youth:
+VERSE:And hitherto have I declared thy wondrous works.
+LABEL:18
+VERSE:Now also when I am old and greyheaded, O God, forsake me not;
+VERSE:Until I have shewed thy strength unto this generation, and thy power to every one that is to come.
+LABEL:19
+VERSE:Thy righteousness also, O God, is very high,
+VERSE:Who hast done great things: O God, who is like unto thee!
+LABEL:20
+VERSE:  Thou, which hast shewed me great and sore troubles, shalt quicken me again,
+VERSE:And shalt bring me up again from the depths of the earth.
+LABEL:21
+VERSE:Thou shalt increase my greatness,
+VERSE:And comfort me on every side.
+LABEL:22
+VERSE:I will also praise thee with the psaltery, even thy truth, O my God:
+VERSE:Unto thee will I sing with the harp, O thou Holy One of Israel.
+LABEL:23
+VERSE:My lips shall greatly rejoice when I sing unto thee;
+VERSE:And my soul, which thou hast redeemed.
+LABEL:24
+VERSE:My tongue also shall talk of thy righteousness all the day long:
+VERSE:For they are confounded, for they are brought unto shame, that seek my hurt.

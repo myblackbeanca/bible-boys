@@ -1,0 +1,50 @@
+TRANSLATION:WEBUS
+BOOK:2CH
+CHAPTER:7
+TITLE:2 Chronicles 7
+LABEL:1
+VERSE:Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and Yahweh’s glory filled the house.
+LABEL:2
+VERSE:The priests could not enter into Yahweh’s house, because Yahweh’s glory filled Yahweh’s house.
+LABEL:3
+VERSE:All the children of Israel looked on, when the fire came down, and Yahweh’s glory was on the house. They bowed themselves with their faces to the ground on the pavement, worshiped, and gave thanks to Yahweh, saying,
+VERSE:“For he is good,
+VERSE:for his loving kindness endures forever!”
+LABEL:4
+VERSE:Then the king and all the people offered sacrifices before Yahweh.
+LABEL:5
+VERSE:King Solomon offered a sacrifice of twenty-two thousand head of cattle and a hundred twenty thousand sheep. So the king and all the people dedicated God’s house.
+LABEL:6
+VERSE:The priests stood, according to their positions; the Levites also with instruments of music of Yahweh, which David the king had made to give thanks to Yahweh, when David praised by their ministry, saying “For his loving kindness endures forever.” The priests sounded trumpets before them; and all Israel stood.
+LABEL:7
+VERSE:Moreover Solomon made the middle of the court that was before Yahweh’s house holy; for there he offered the burnt offerings and the fat of the peace offerings, because the bronze altar which Solomon had made was not able to receive the burnt offering, the meal offering, and the fat.
+LABEL:8
+VERSE:So Solomon held the feast at that time for seven days, and all Israel with him, a very great assembly, from the entrance of Hamath to the brook of Egypt.
+LABEL:9
+VERSE:On the eighth day, they held a solemn assembly; for they kept the dedication of the altar seven days, and the feast seven days.
+LABEL:10
+VERSE:On the twenty-third day of the seventh month, he sent the people away to their tents, joyful and glad of heart for the goodness that Yahweh had shown to David, to Solomon, and to Israel his people.
+LABEL:11
+VERSE:Thus Solomon finished Yahweh’s house and the king’s house; and he successfully completed all that came into Solomon’s heart to make in Yahweh’s house and in his own house.
+LABEL:12
+VERSE:Then Yahweh appeared to Solomon by night, and said to him, “I have heard your prayer, and have chosen this place for myself for a house of sacrifice.
+LABEL:13
+VERSE:“If I shut up the sky so that there is no rain, or if I command the locust to devour the land, or if I send pestilence among my people,
+LABEL:14
+VERSE:if my people who are called by my name will humble themselves, pray, seek my face, and turn from their wicked ways, then I will hear from heaven, will forgive their sin, and will heal their land.
+LABEL:15
+VERSE:Now my eyes will be open and my ears attentive to prayer that is made in this place.
+LABEL:16
+VERSE:For now I have chosen and made this house holy, that my name may be there forever; and my eyes and my heart will be there perpetually.
+LABEL:17
+VERSE:“As for you, if you will walk before me as David your father walked, and do according to all that I have commanded you, and will keep my statutes and my ordinances,
+LABEL:18
+VERSE:then I will establish the throne of your kingdom, according as I covenanted with David your father, saying, ‘There shall not fail you a man to be ruler in Israel.’
+LABEL:19
+VERSE:But if you turn away and forsake my statutes and my commandments which I have set before you, and go and serve other gods and worship them,
+LABEL:20
+VERSE:then I will pluck them up by the roots out of my land which I have given them; and this house, which I have made holy for my name, I will cast out of my sight, and I will make it a proverb and a byword among all peoples.
+LABEL:21
+VERSE:This house, which is so high, everyone who passes by it will be astonished and say, ‘Why has Yahweh done this to this land and to this house?’
+LABEL:22
+VERSE:They shall answer, ‘Because they abandoned Yahweh, the God of their fathers, who brought them out of the land of Egypt, and took other gods, worshiped them, and served them. Therefore he has brought all this evil on them.’”

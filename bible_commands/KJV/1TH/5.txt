@@ -1,0 +1,62 @@
+TRANSLATION:KJV
+BOOK:1TH
+CHAPTER:5
+TITLE:1 Thessalonians 5
+LABEL:1
+VERSE:But of the times and the seasons, brethren, ye have no need that I write unto you.
+LABEL:2
+VERSE:For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.
+LABEL:3
+VERSE:For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.
+LABEL:4
+VERSE:But ye, brethren, are not in darkness, that that day should overtake you as a thief.
+LABEL:5
+VERSE:Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.
+LABEL:6
+VERSE:Therefore let us not sleep, as do others; but let us watch and be sober.
+LABEL:7
+VERSE:For they that sleep, sleep in the night; and they that be drunken are drunken in the night.
+LABEL:8
+VERSE:But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
+LABEL:9
+VERSE:For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
+LABEL:10
+VERSE:who died for us, that, whether we wake or sleep, we should live together with him.
+LABEL:11
+VERSE:Wherefore comfort yourselves together, and edify one another, even as also ye do.
+SECTION:Be at Peace
+LABEL:12
+VERSE:And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;
+LABEL:13
+VERSE:and to esteem them very highly in love for their work's sake. And be at peace among yourselves.
+LABEL:14
+VERSE:Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.
+LABEL:15
+VERSE:See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.
+LABEL:16
+VERSE:Rejoice evermore.
+LABEL:17
+VERSE:Pray without ceasing.
+LABEL:18
+VERSE:In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
+LABEL:19
+VERSE:Quench not the Spirit.
+LABEL:20
+VERSE:Despise not prophesyings.
+LABEL:21
+VERSE:Prove all things; hold fast that which is good.
+LABEL:22
+VERSE:Abstain from all appearance of evil.
+LABEL:23
+VERSE:And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.
+LABEL:24
+VERSE:Faithful is he that calleth you, who also will do it.
+LABEL:25
+VERSE:Brethren, pray for us.
+LABEL:26
+VERSE:Greet all the brethren with an holy kiss.
+LABEL:27
+VERSE:I charge you by the Lord that this epistle be read unto all the holy brethren.
+LABEL:28
+VERSE:The grace of our Lord Jesus Christ be with you. Amen.
+VERSE:The first epistle unto the Thessalonians was written from Athens.

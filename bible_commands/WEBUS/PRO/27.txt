@@ -1,0 +1,92 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:27
+TITLE:Proverbs 27
+LABEL:1
+VERSE:Don’t boast about tomorrow;
+VERSE:for you don’t know what a day may bring.
+LABEL:2
+VERSE:Let another man praise you,
+VERSE:and not your own mouth;
+VERSE:a stranger, and not your own lips.
+LABEL:3
+VERSE:A stone is heavy,
+VERSE:and sand is a burden;
+VERSE:but a fool’s provocation is heavier than both.
+LABEL:4
+VERSE:Wrath is cruel,
+VERSE:and anger is overwhelming;
+VERSE:but who is able to stand before jealousy?
+LABEL:5
+VERSE:Better is open rebuke
+VERSE:than hidden love.
+LABEL:6
+VERSE:The wounds of a friend are faithful,
+VERSE:although the kisses of an enemy are profuse.
+LABEL:7
+VERSE:A full soul loathes a honeycomb;
+VERSE:but to a hungry soul, every bitter thing is sweet.
+LABEL:8
+VERSE:As a bird that wanders from her nest,
+VERSE:so is a man who wanders from his home.
+LABEL:9
+VERSE:Perfume and incense bring joy to the heart;
+VERSE:so does earnest counsel from a man’s friend.
+LABEL:10
+VERSE:Don’t forsake your friend and your father’s friend.
+VERSE:Don’t go to your brother’s house in the day of your disaster.
+VERSE:A neighbor who is near is better than a distant brother.
+LABEL:11
+VERSE:Be wise, my son,
+VERSE:and bring joy to my heart,
+VERSE:then I can answer my tormentor.
+LABEL:12
+VERSE:A prudent man sees danger and takes refuge;
+VERSE:but the simple pass on, and suffer for it.
+LABEL:13
+VERSE:Take his garment when he puts up collateral for a stranger.
+VERSE:Hold it for a wayward woman!
+LABEL:14
+VERSE:He who blesses his neighbor with a loud voice early in the morning,
+VERSE:it will be taken as a curse by him.
+LABEL:15
+VERSE:A continual dropping on a rainy day
+VERSE:and a contentious wife are alike:
+LABEL:16
+VERSE:restraining her is like restraining the wind,
+VERSE:or like grasping oil in his right hand.
+LABEL:17
+VERSE:Iron sharpens iron;
+VERSE:so a man sharpens his friend’s countenance.
+LABEL:18
+VERSE:Whoever tends the fig tree shall eat its fruit.
+VERSE:He who looks after his master shall be honored.
+LABEL:19
+VERSE:Like water reflects a face,
+VERSE:so a man’s heart reflects the man.
+LABEL:20
+VERSE:Sheol and Abaddon are never satisfied;
+VERSE:and a man’s eyes are never satisfied.
+LABEL:21
+VERSE:The crucible is for silver,
+VERSE:and the furnace for gold;
+VERSE:but man is refined by his praise.
+LABEL:22
+VERSE:Though you grind a fool in a mortar with a pestle along with grain,
+VERSE:yet his foolishness will not be removed from him.
+LABEL:23
+VERSE:Know well the state of your flocks,
+VERSE:and pay attention to your herds,
+LABEL:24
+VERSE:for riches are not forever,
+VERSE:nor does the crown endure to all generations.
+LABEL:25
+VERSE:The hay is removed, and the new growth appears,
+VERSE:the grasses of the hills are gathered in.
+LABEL:26
+VERSE:The lambs are for your clothing,
+VERSE:and the goats are the price of a field.
+LABEL:27
+VERSE:There will be plenty of goats’ milk for your food,
+VERSE:for your family’s food,
+VERSE:and for the nourishment of your servant girls.

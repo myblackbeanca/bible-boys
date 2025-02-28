@@ -1,0 +1,134 @@
+TRANSLATION:WEBUS
+BOOK:JDG
+CHAPTER:5
+TITLE:Judges 5
+LABEL:1
+VERSE:Then Deborah and Barak the son of Abinoam sang on that day, saying,
+LABEL:2
+VERSE:“Because the leaders took the lead in Israel,
+VERSE:because the people offered themselves willingly,
+VERSE:be blessed, Yahweh!
+LABEL:3
+VERSE:“Hear, you kings!
+VERSE:Give ear, you princes!
+VERSE:I, even I, will sing to Yahweh.
+VERSE:I will sing praise to Yahweh, the God of Israel.
+LABEL:4
+VERSE:“Yahweh, when you went out of Seir,
+VERSE:when you marched out of the field of Edom,
+VERSE:the earth trembled, the sky also dropped.
+VERSE:Yes, the clouds dropped water.
+LABEL:5
+VERSE:The mountains quaked at Yahweh’s presence,
+VERSE:even Sinai at the presence of Yahweh, the God of Israel.
+LABEL:6
+VERSE:“In the days of Shamgar the son of Anath,
+VERSE:in the days of Jael, the highways were unoccupied.
+VERSE:The travelers walked through byways.
+LABEL:7
+VERSE:The rulers ceased in Israel.
+VERSE:They ceased until I, Deborah, arose;
+VERSE:Until I arose a mother in Israel.
+LABEL:8
+VERSE:They chose new gods.
+VERSE:Then war was in the gates.
+VERSE:Was there a shield or spear seen among forty thousand in Israel?
+LABEL:9
+VERSE:My heart is toward the governors of Israel,
+VERSE:who offered themselves willingly among the people.
+VERSE:Bless Yahweh!
+LABEL:10
+VERSE:“Speak, you who ride on white donkeys,
+VERSE:you who sit on rich carpets,
+VERSE:and you who walk by the way.
+LABEL:11
+VERSE:Far from the noise of archers, in the places of drawing water,
+VERSE:there they will rehearse Yahweh’s righteous acts,
+VERSE:the righteous acts of his rule in Israel.
+VERSE:“Then Yahweh’s people went down to the gates.
+LABEL:12
+VERSE:‘Awake, awake, Deborah!
+VERSE:Awake, awake, utter a song!
+VERSE:Arise, Barak, and lead away your captives, you son of Abinoam.’
+LABEL:13
+VERSE:“Then a remnant of the nobles and the people came down.
+VERSE:Yahweh came down for me against the mighty.
+LABEL:14
+VERSE:Those whose root is in Amalek came out of Ephraim,
+VERSE:after you, Benjamin, among your peoples.
+VERSE:Governors come down out of Machir.
+VERSE:Those who handle the marshal’s staff came out of Zebulun.
+LABEL:15
+VERSE:The princes of Issachar were with Deborah.
+VERSE:As was Issachar, so was Barak.
+VERSE:They rushed into the valley at his feet.
+VERSE:By the watercourses of Reuben,
+VERSE:there were great resolves of heart.
+LABEL:16
+VERSE:Why did you sit among the sheepfolds?
+VERSE:To hear the whistling for the flocks?
+VERSE:At the watercourses of Reuben,
+VERSE:there were great searchings of heart.
+LABEL:17
+VERSE:Gilead lived beyond the Jordan.
+VERSE:Why did Dan remain in ships?
+VERSE:Asher sat still at the haven of the sea,
+VERSE:and lived by his creeks.
+LABEL:18
+VERSE:Zebulun was a people that jeopardized their lives to the death;
+VERSE:Naphtali also, on the high places of the field.
+LABEL:19
+VERSE:“The kings came and fought,
+VERSE:then the kings of Canaan fought at Taanach by the waters of Megiddo.
+VERSE:They took no plunder of silver.
+LABEL:20
+VERSE:From the sky the stars fought.
+VERSE:From their courses, they fought against Sisera.
+LABEL:21
+VERSE:The river Kishon swept them away,
+VERSE:that ancient river, the river Kishon.
+VERSE:My soul, march on with strength.
+LABEL:22
+VERSE:Then the horse hoofs stamped because of the prancing,
+VERSE:the prancing of their strong ones.
+LABEL:23
+VERSE:‘Curse Meroz,’ said Yahweh’s angel.
+VERSE:‘Curse bitterly its inhabitants,
+VERSE:because they didn’t come to help Yahweh,
+VERSE:to help Yahweh against the mighty.’
+LABEL:24
+VERSE:“Jael shall be blessed above women,
+VERSE:the wife of Heber the Kenite;
+VERSE:blessed shall she be above women in the tent.
+LABEL:25
+VERSE:He asked for water.
+VERSE:She gave him milk.
+VERSE:She brought him butter in a lordly dish.
+LABEL:26
+VERSE:She put her hand to the tent peg,
+VERSE:and her right hand to the workmen’s hammer.
+VERSE:With the hammer she struck Sisera.
+VERSE:She struck through his head.
+VERSE:Yes, she pierced and struck through his temples.
+LABEL:27
+VERSE:At her feet he bowed, he fell, he lay.
+VERSE:At her feet he bowed, he fell.
+VERSE:Where he bowed, there he fell down dead.
+LABEL:28
+VERSE:“Through the window she looked out, and cried:
+VERSE:Sisera’s mother looked through the lattice.
+VERSE:‘Why is his chariot so long in coming?
+VERSE:Why do the wheels of his chariots wait?’
+LABEL:29
+VERSE:Her wise ladies answered her,
+VERSE:Yes, she returned answer to herself,
+LABEL:30
+VERSE:‘Have they not found, have they not divided the plunder?
+VERSE:A lady, two ladies to every man;
+VERSE:to Sisera a plunder of dyed garments,
+VERSE:a plunder of dyed garments embroidered,
+VERSE:of dyed garments embroidered on both sides, on the necks of the plunder?’
+LABEL:31
+VERSE:“So let all your enemies perish, Yahweh,
+VERSE:but let those who love him be as the sun when it rises in its strength.”
+VERSE:Then the land had rest forty years.

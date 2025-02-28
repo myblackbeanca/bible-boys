@@ -1,0 +1,50 @@
+TRANSLATION:WEBUS
+BOOK:HEB
+CHAPTER:3
+TITLE:Hebrews 3
+LABEL:1
+VERSE:Therefore, holy brothers, partakers of a heavenly calling, consider the Apostle and High Priest of our confession: Jesus,
+LABEL:2
+VERSE:who was faithful to him who appointed him, as also Moses was in all his house.
+LABEL:3
+VERSE:For he has been counted worthy of more glory than Moses, because he who built the house has more honor than the house.
+LABEL:4
+VERSE:For every house is built by someone; but he who built all things is God.
+LABEL:5
+VERSE:Moses indeed was faithful in all his house as a servant, for a testimony of those things which were afterward to be spoken,
+LABEL:6
+VERSE:but Christ is faithful as a Son over his house. We are his house, if we hold fast our confidence and the glorying of our hope firm to the end.
+LABEL:7
+VERSE:Therefore, even as the Holy Spirit says,
+VERSE:“Today if you will hear his voice,
+LABEL:8
+VERSE:don’t harden your hearts as in the rebellion,
+VERSE:in the day of the trial in the wilderness,
+LABEL:9
+VERSE:where your fathers tested me and tried me,
+VERSE:and saw my deeds for forty years.
+LABEL:10
+VERSE:Therefore I was displeased with that generation,
+VERSE:and said, ‘They always err in their heart,
+VERSE:but they didn’t know my ways.’
+LABEL:11
+VERSE:As I swore in my wrath,
+VERSE:‘They will not enter into my rest.’”
+LABEL:12
+VERSE:Beware, brothers, lest perhaps there might be in any one of you an evil heart of unbelief, in falling away from the living God;
+LABEL:13
+VERSE:but exhort one another day by day, so long as it is called “today”, lest any one of you be hardened by the deceitfulness of sin.
+LABEL:14
+VERSE:For we have become partakers of Christ, if we hold the beginning of our confidence firm to the end,
+LABEL:15
+VERSE:while it is said,
+VERSE:“Today if you will hear his voice,
+VERSE:don’t harden your hearts, as in the rebellion.”
+LABEL:16
+VERSE:For who, when they heard, rebelled? Wasn’t it all those who came out of Egypt led by Moses?
+LABEL:17
+VERSE:With whom was he displeased forty years? Wasn’t it with those who sinned, whose bodies fell in the wilderness?
+LABEL:18
+VERSE:To whom did he swear that they wouldn’t enter into his rest, but to those who were disobedient?
+LABEL:19
+VERSE:We see that they weren’t able to enter in because of unbelief.

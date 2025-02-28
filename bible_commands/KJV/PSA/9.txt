@@ -1,0 +1,74 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:9
+TITLE:Psalm 9
+SECTION:א Aleph
+LABEL:1
+VERSE:I will praise thee, O LORD, with my whole heart;
+VERSE:I will shew forth all thy marvellous works.
+LABEL:2
+VERSE:I will be glad and rejoice in thee:
+VERSE:I will sing praise to thy name, O thou Most High.
+SECTION:ב Bet
+LABEL:3
+VERSE:When mine enemies are turned back,
+VERSE:They shall fall and perish at thy presence.
+LABEL:4
+VERSE:For thou hast maintained my right and my cause;
+VERSE:Thou satest in the throne judging right.
+SECTION:ג Gimel
+LABEL:5
+VERSE:Thou hast rebuked the heathen, thou hast destroyed the wicked,
+VERSE:Thou hast put out their name for ever and ever.
+LABEL:6
+VERSE:O thou enemy, destructions are come to a perpetual end:
+VERSE:And thou hast destroyed cities; Their memorial is perished with them.
+SECTION:ה He
+LABEL:7
+VERSE:But the LORD shall endure for ever:
+VERSE:He hath prepared his throne for judgment.
+LABEL:8
+VERSE:And he shall judge the world in righteousness,
+VERSE:He shall minister judgment to the people in uprightness.
+SECTION:ו Waw
+LABEL:9
+VERSE:The LORD also will be a refuge for the oppressed,
+VERSE:A refuge in times of trouble.
+LABEL:10
+VERSE:And they that know thy name will put their trust in thee:
+VERSE:For thou, LORD, hast not forsaken them that seek thee.
+SECTION:ז Zain
+LABEL:11
+VERSE:Sing praises to the LORD, which dwelleth in Zion:
+VERSE:Declare among the people his doings.
+LABEL:12
+VERSE:When he maketh inquisition for blood, he remembereth them:
+VERSE:He forgetteth not the cry of the humble.
+SECTION:ח Het
+LABEL:13
+VERSE:Have mercy upon me, O LORD; Consider my trouble which I suffer of them that hate me,
+VERSE:Thou that liftest me up from the gates of death:
+LABEL:14
+VERSE:That I may shew forth all thy praise in the gates of the daughter of Zion:
+VERSE:I will rejoice in thy salvation.
+SECTION:ט Tet
+LABEL:15
+VERSE:The heathen are sunk down in the pit that they made:
+VERSE:In the net which they hid is their own foot taken.
+LABEL:16
+VERSE:The LORD is known by the judgment which he executeth:
+VERSE:The wicked is snared in the work of his own hands. Higgaion. Selah.
+SECTION:י Yod
+LABEL:17
+VERSE:The wicked shall be turned into hell,
+VERSE:And all the nations that forget God.
+SECTION:כ Kaph
+LABEL:18
+VERSE:For the needy shall not alway be forgotten:
+VERSE:The expectation of the poor shall not perish for ever.
+LABEL:19
+VERSE:Arise, O LORD; let not man prevail:
+VERSE:Let the heathen be judged in thy sight.
+LABEL:20
+VERSE:Put them in fear, O LORD:
+VERSE:That the nations may know themselves to be but men. Selah.

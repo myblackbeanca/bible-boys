@@ -1,0 +1,72 @@
+TRANSLATION:WEBUS
+BOOK:1CO
+CHAPTER:11
+TITLE:1 Corinthians 11
+LABEL:1
+VERSE:Be imitators of me, even as I also am of Christ.
+LABEL:2
+VERSE:Now I praise you, brothers, that you remember me in all things, and hold firm the traditions, even as I delivered them to you.
+LABEL:3
+VERSE:But I would have you know that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.
+LABEL:4
+VERSE:Every man praying or prophesying, having his head covered, dishonors his head.
+LABEL:5
+VERSE:But every woman praying or prophesying with her head uncovered dishonors her head. For it is one and the same thing as if she were shaved.
+LABEL:6
+VERSE:For if a woman is not covered, let her hair also be cut off. But if it is shameful for a woman to have her hair cut off or be shaved, let her be covered.
+LABEL:7
+VERSE:For a man indeed ought not to have his head covered, because he is the image and glory of God, but the woman is the glory of the man.
+LABEL:8
+VERSE:For man is not from woman, but woman from man;
+LABEL:9
+VERSE:for man wasn’t created for the woman, but woman for the man.
+LABEL:10
+VERSE:For this cause the woman ought to have authority over her own head, because of the angels.
+LABEL:11
+VERSE:Nevertheless, neither is the woman independent of the man, nor the man independent of the woman, in the Lord.
+LABEL:12
+VERSE:For as woman came from man, so a man also comes through a woman; but all things are from God.
+LABEL:13
+VERSE:Judge for yourselves. Is it appropriate that a woman pray to God unveiled?
+LABEL:14
+VERSE:Doesn’t even nature itself teach you that if a man has long hair, it is a dishonor to him?
+LABEL:15
+VERSE:But if a woman has long hair, it is a glory to her, for her hair is given to her for a covering.
+LABEL:16
+VERSE:But if any man seems to be contentious, we have no such custom, neither do God’s assemblies.
+LABEL:17
+VERSE:But in giving you this command I don’t praise you, because you come together not for the better but for the worse.
+LABEL:18
+VERSE:For first of all, when you come together in the assembly, I hear that divisions exist among you, and I partly believe it.
+LABEL:19
+VERSE:For there also must be factions among you, that those who are approved may be revealed among you.
+LABEL:20
+VERSE:When therefore you assemble yourselves together, it is not the Lord’s supper that you eat.
+LABEL:21
+VERSE:For in your eating each one takes his own supper first. One is hungry, and another is drunken.
+LABEL:22
+VERSE:What, don’t you have houses to eat and to drink in? Or do you despise God’s assembly and put them to shame who don’t have enough? What shall I tell you? Shall I praise you? In this I don’t praise you.
+LABEL:23
+VERSE:For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread.
+LABEL:24
+VERSE:When he had given thanks, he broke it and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.”
+LABEL:25
+VERSE:In the same way he also took the cup after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”
+LABEL:26
+VERSE:For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.
+LABEL:27
+VERSE:Therefore whoever eats this bread or drinks the Lord’s cup in a way unworthy of the Lord will be guilty of the body and the blood of the Lord.
+LABEL:28
+VERSE:But let a man examine himself, and so let him eat of the bread and drink of the cup.
+LABEL:29
+VERSE:For he who eats and drinks in an unworthy way eats and drinks judgment to himself if he doesn’t discern the Lord’s body.
+LABEL:30
+VERSE:For this cause many among you are weak and sickly, and not a few sleep.
+LABEL:31
+VERSE:For if we discerned ourselves, we wouldn’t be judged.
+LABEL:32
+VERSE:But when we are judged, we are disciplined by the Lord, that we may not be condemned with the world.
+LABEL:33
+VERSE:Therefore, my brothers, when you come together to eat, wait for one another.
+LABEL:34
+VERSE:But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come.

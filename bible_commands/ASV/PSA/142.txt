@@ -1,0 +1,34 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:142
+TITLE:Psalms 142
+LABEL:1
+VERSE:I cry with my voice unto Jehovah;
+VERSE:With my voice unto Jehovah do I make supplication.
+LABEL:2
+VERSE:I pour out my complaint before him;
+VERSE:I show before him my trouble.
+LABEL:3
+VERSE:When my spirit was overwhelmed within me,
+VERSE:Thou knewest my path.
+VERSE:In the way wherein I walk
+VERSE:Have they hidden a snare for me.
+LABEL:4
+VERSE:Look on my right hand, and see;
+VERSE:For there is no man that knoweth me:
+VERSE:Refuge hath failed me;
+VERSE:No man careth for my soul.
+LABEL:5
+VERSE:I cried unto thee, O Jehovah;
+VERSE:I said, Thou art my refuge,
+VERSE:My portion in the land of the living.
+LABEL:6
+VERSE:Attend unto my cry;
+VERSE:For I am brought very low:
+VERSE:Deliver me from my persecutors;
+VERSE:For they are stronger than I.
+LABEL:7
+VERSE:Bring my soul out of prison,
+VERSE:That I may give thanks unto thy name:
+VERSE:The righteous shall compass me about;
+VERSE:For thou wilt deal bountifully with me.

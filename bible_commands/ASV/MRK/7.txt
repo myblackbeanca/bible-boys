@@ -1,0 +1,81 @@
+TRANSLATION:ASV
+BOOK:MRK
+CHAPTER:7
+TITLE:Mark 7
+LABEL:1
+VERSE:And there are gathered together unto him the Pharisees, and certain of the scribes, who had come from Jerusalem,
+LABEL:2
+VERSE:and had seen that some of his disciples ate their bread with defiled, that is, unwashen, hands.
+LABEL:3
+VERSE:(For the Pharisees, and all the Jews, except they wash their hands diligently, eat not, holding the tradition of the elders;
+LABEL:4
+VERSE:and when they come from the marketplace, except they bathe themselves, they eat not; and many other things there are, which they have received to hold, washings of cups, and pots, and brasen vessels.)
+LABEL:5
+VERSE:And the Pharisees and the scribes ask him, Why walk not thy disciples according to the tradition of the elders, but eat their bread with defiled hands?
+LABEL:6
+VERSE:And he said unto them, Well did Isaiah prophesy of you hypocrites, as it is written,
+VERSE:This people honoreth me with their lips,
+VERSE:But their heart is far from me.
+LABEL:7
+VERSE:But in vain do they worship me,
+VERSE:Teaching as their doctrines the precepts of men.
+LABEL:8
+VERSE:Ye leave the commandment of God, and hold fast the tradition of men.
+LABEL:9
+VERSE:And he said unto them, Full well do ye reject the commandment of God, that ye may keep your tradition.
+LABEL:10
+VERSE:For Moses said, Honor thy father and thy mother; and, He that speaketh evil of father or mother, let him die the death:
+LABEL:11
+VERSE:but ye say, If a man shall say to his father or his mother, That wherewith thou mightest have been profited by me is Corban, that is to say, Given to God;
+LABEL:12
+VERSE:ye no longer suffer him to do aught for his father or his mother;
+LABEL:13
+VERSE:making void the word of God by your tradition, which ye have delivered: and many such like things ye do.
+LABEL:14
+VERSE:And he called to him the multitude again, and said unto them, Hear me all of you, and understand:
+LABEL:15
+VERSE:there is nothing from without the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man.
+LABEL:16
+VERSE:
+LABEL:17
+VERSE:And when he was entered into the house from the multitude, his disciples asked of him the parable.
+LABEL:18
+VERSE:And he saith unto them, Are ye so without understanding also? Perceive ye not, that whatsoever from without goeth into the man, it cannot defile him;
+LABEL:19
+VERSE:because it goeth not into his heart, but into his belly, and goeth out into the draught? This he said, making all meats clean.
+LABEL:20
+VERSE:And he said, That which proceedeth out of the man, that defileth the man.
+LABEL:21
+VERSE:For from within, out of the heart of men, evil thoughts proceed, fornications, thefts, murders, adulteries,
+LABEL:22
+VERSE:covetings, wickednesses, deceit, lasciviousness, an evil eye, railing, pride, foolishness:
+LABEL:23
+VERSE:all these evil things proceed from within, and defile the man.
+LABEL:24
+VERSE:And from thence he arose, and went away into the borders of Tyre and Sidon. And he entered into a house, and would have no man know it; and he could not be hid.
+LABEL:25
+VERSE:But straightway a woman, whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet.
+LABEL:26
+VERSE:Now the woman was a Greek, a Syrophoenician by race. And she besought him that he would cast forth the demon out of her daughter.
+LABEL:27
+VERSE:And he said unto her, Let the children first be filled: for it is not meet to take the children’s bread and cast it to the dogs.
+LABEL:28
+VERSE:But she answered and saith unto him, Yea, Lord; even the dogs under the table eat of the children’s crumbs.
+LABEL:29
+VERSE:And he said unto her, For this saying go thy way; the demon is gone out of thy daughter.
+LABEL:30
+VERSE:And she went away unto her house, and found the child laid upon the bed, and the demon gone out.
+LABEL:31
+VERSE:And again he went out from the borders of Tyre, and came through Sidon unto the sea of Galilee, through the midst of the borders of Decapolis.
+LABEL:32
+VERSE:And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to lay his hand upon him.
+LABEL:33
+VERSE:And he took him aside from the multitude privately, and put his fingers into his ears, and he spat, and touched his tongue;
+LABEL:34
+VERSE:and looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.
+LABEL:35
+VERSE:And his ears were opened, and the bond of his tongue was loosed, and he spake plain.
+LABEL:36
+VERSE:And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it.
+LABEL:37
+VERSE:And they were beyond measure astonished, saying, He hath done all things well; he maketh even the deaf to hear, and the dumb to speak.

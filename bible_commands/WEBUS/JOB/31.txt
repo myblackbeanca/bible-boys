@@ -1,0 +1,129 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:31
+TITLE:Job 31
+LABEL:1
+VERSE:“I made a covenant with my eyes;
+VERSE:how then should I look lustfully at a young woman?
+LABEL:2
+VERSE:For what is the portion from God above,
+VERSE:and the heritage from the Almighty on high?
+LABEL:3
+VERSE:Is it not calamity to the unrighteous,
+VERSE:and disaster to the workers of iniquity?
+LABEL:4
+VERSE:Doesn’t he see my ways,
+VERSE:and count all my steps?
+LABEL:5
+VERSE:“If I have walked with falsehood,
+VERSE:and my foot has hurried to deceit
+LABEL:6
+VERSE:(let me be weighed in an even balance,
+VERSE:that God may know my integrity);
+LABEL:7
+VERSE:if my step has turned out of the way,
+VERSE:if my heart walked after my eyes,
+VERSE:if any defilement has stuck to my hands,
+LABEL:8
+VERSE:then let me sow, and let another eat.
+VERSE:Yes, let the produce of my field be rooted out.
+LABEL:9
+VERSE:“If my heart has been enticed to a woman,
+VERSE:and I have laid wait at my neighbor’s door,
+LABEL:10
+VERSE:then let my wife grind for another,
+VERSE:and let others sleep with her.
+LABEL:11
+VERSE:For that would be a heinous crime.
+VERSE:Yes, it would be an iniquity to be punished by the judges,
+LABEL:12
+VERSE:for it is a fire that consumes to destruction,
+VERSE:and would root out all my increase.
+LABEL:13
+VERSE:“If I have despised the cause of my male servant
+VERSE:or of my female servant,
+VERSE:when they contended with me,
+LABEL:14
+VERSE:what then will I do when God rises up?
+VERSE:When he visits, what will I answer him?
+LABEL:15
+VERSE:Didn’t he who made me in the womb make him?
+VERSE:Didn’t one fashion us in the womb?
+LABEL:16
+VERSE:“If I have withheld the poor from their desire,
+VERSE:or have caused the eyes of the widow to fail,
+LABEL:17
+VERSE:or have eaten my morsel alone,
+VERSE:and the fatherless has not eaten of it
+LABEL:18
+VERSE:(no, from my youth he grew up with me as with a father,
+VERSE:I have guided her from my mother’s womb);
+LABEL:19
+VERSE:if I have seen any perish for want of clothing,
+VERSE:or that the needy had no covering;
+LABEL:20
+VERSE:if his heart hasn’t blessed me,
+VERSE:if he hasn’t been warmed with my sheep’s fleece;
+LABEL:21
+VERSE:if I have lifted up my hand against the fatherless,
+VERSE:because I saw my help in the gate;
+LABEL:22
+VERSE:then let my shoulder fall from the shoulder blade,
+VERSE:and my arm be broken from the bone.
+LABEL:23
+VERSE:For calamity from God is a terror to me.
+VERSE:Because of his majesty, I can do nothing.
+LABEL:24
+VERSE:“If I have made gold my hope,
+VERSE:and have said to the fine gold, ‘You are my confidence;’
+LABEL:25
+VERSE:If I have rejoiced because my wealth was great,
+VERSE:and because my hand had gotten much;
+LABEL:26
+VERSE:if I have seen the sun when it shined,
+VERSE:or the moon moving in splendor,
+LABEL:27
+VERSE:and my heart has been secretly enticed,
+VERSE:and my hand threw a kiss from my mouth;
+LABEL:28
+VERSE:this also would be an iniquity to be punished by the judges,
+VERSE:for I would have denied the God who is above.
+LABEL:29
+VERSE:“If I have rejoiced at the destruction of him who hated me,
+VERSE:or lifted up myself when evil found him
+LABEL:30
+VERSE:(I have certainly not allowed my mouth to sin
+VERSE:by asking his life with a curse);
+LABEL:31
+VERSE:if the men of my tent have not said,
+VERSE:‘Who can find one who has not been filled with his meat?’
+LABEL:32
+VERSE:(the foreigner has not camped in the street,
+VERSE:but I have opened my doors to the traveler);
+LABEL:33
+VERSE:if like Adam I have covered my transgressions,
+VERSE:by hiding my iniquity in my heart,
+LABEL:34
+VERSE:because I feared the great multitude,
+VERSE:and the contempt of families terrified me,
+VERSE:so that I kept silence, and didn’t go out of the door—
+LABEL:35
+VERSE:oh that I had one to hear me!
+VERSE:Behold, here is my signature! Let the Almighty answer me!
+VERSE:Let the accuser write my indictment!
+LABEL:36
+VERSE:Surely I would carry it on my shoulder,
+VERSE:and I would bind it to me as a crown.
+LABEL:37
+VERSE:I would declare to him the number of my steps.
+VERSE:I would go near to him like a prince.
+LABEL:38
+VERSE:If my land cries out against me,
+VERSE:and its furrows weep together;
+LABEL:39
+VERSE:if I have eaten its fruits without money,
+VERSE:or have caused its owners to lose their life,
+LABEL:40
+VERSE:let briers grow instead of wheat,
+VERSE:and stinkweed instead of barley.”
+VERSE:The words of Job are ended.

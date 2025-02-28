@@ -1,0 +1,72 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:25
+TITLE:Psalms 25
+LABEL:1
+VERSE:To you, Yahweh, I lift up my soul.
+LABEL:2
+VERSE:My God, I have trusted in you.
+VERSE:Don’t let me be shamed.
+VERSE:Don’t let my enemies triumph over me.
+LABEL:3
+VERSE:Yes, no one who waits for you will be shamed.
+VERSE:They will be shamed who deal treacherously without cause.
+LABEL:4
+VERSE:Show me your ways, Yahweh.
+VERSE:Teach me your paths.
+LABEL:5
+VERSE:Guide me in your truth, and teach me,
+VERSE:for you are the God of my salvation.
+VERSE:I wait for you all day long.
+LABEL:6
+VERSE:Yahweh, remember your tender mercies and your loving kindness,
+VERSE:for they are from old times.
+LABEL:7
+VERSE:Don’t remember the sins of my youth, nor my transgressions.
+VERSE:Remember me according to your loving kindness,
+VERSE:for your goodness’ sake, Yahweh.
+LABEL:8
+VERSE:Good and upright is Yahweh,
+VERSE:therefore he will instruct sinners in the way.
+LABEL:9
+VERSE:He will guide the humble in justice.
+VERSE:He will teach the humble his way.
+LABEL:10
+VERSE:All the paths of Yahweh are loving kindness and truth
+VERSE:to such as keep his covenant and his testimonies.
+LABEL:11
+VERSE:For your name’s sake, Yahweh,
+VERSE:pardon my iniquity, for it is great.
+LABEL:12
+VERSE:What man is he who fears Yahweh?
+VERSE:He shall instruct him in the way that he shall choose.
+LABEL:13
+VERSE:His soul will dwell at ease.
+VERSE:His offspring will inherit the land.
+LABEL:14
+VERSE:The friendship of Yahweh is with those who fear him.
+VERSE:He will show them his covenant.
+LABEL:15
+VERSE:My eyes are ever on Yahweh,
+VERSE:for he will pluck my feet out of the net.
+LABEL:16
+VERSE:Turn to me, and have mercy on me,
+VERSE:for I am desolate and afflicted.
+LABEL:17
+VERSE:The troubles of my heart are enlarged.
+VERSE:Oh bring me out of my distresses.
+LABEL:18
+VERSE:Consider my affliction and my travail.
+VERSE:Forgive all my sins.
+LABEL:19
+VERSE:Consider my enemies, for they are many.
+VERSE:They hate me with cruel hatred.
+LABEL:20
+VERSE:Oh keep my soul, and deliver me.
+VERSE:Let me not be disappointed, for I take refuge in you.
+LABEL:21
+VERSE:Let integrity and uprightness preserve me,
+VERSE:for I wait for you.
+LABEL:22
+VERSE:God, redeem Israel
+VERSE:out of all his troubles.

@@ -1,0 +1,75 @@
+TRANSLATION:KJV
+BOOK:SNG
+CHAPTER:5
+TITLE:Song of Solomon 5
+LABEL:1
+VERSE:I am come into my garden, my sister, my spouse:
+VERSE:I have gathered my myrrh with my spice;
+VERSE:I have eaten my honeycomb with my honey;
+VERSE:I have drunk my wine with my milk:
+VERSE:Eat, O friends;
+VERSE:Drink, yea, drink abundantly, O beloved.
+LABEL:2
+VERSE:I sleep, but my heart waketh:
+VERSE:It is the voice of my beloved that knocketh, saying,
+VERSE:Open to me, my sister, my love,
+VERSE:My dove, my undefiled:
+VERSE:For my head is filled with dew,
+VERSE:And my locks with the drops of the night.
+LABEL:3
+VERSE:I have put off my coat;
+VERSE:How shall I put it on?
+VERSE:I have washed my feet;
+VERSE:How shall I defile them?
+LABEL:4
+VERSE:My beloved put in his hand by the hole of the door,
+VERSE:And my bowels were moved for him.
+LABEL:5
+VERSE:I rose up to open to my beloved;
+VERSE:And my hands dropped with myrrh,
+VERSE:And my fingers with sweet smelling myrrh,
+VERSE:Upon the handles of the lock.
+LABEL:6
+VERSE:I opened to my beloved;
+VERSE:But my beloved had withdrawn himself, and was gone:
+VERSE:My soul failed when he spake:
+VERSE:I sought him, but I could not find him;
+VERSE:I called him, but he gave me no answer.
+LABEL:7
+VERSE:The watchmen that went about the city found me,
+VERSE:They smote me, they wounded me;
+VERSE:The keepers of the walls took away my veil from me.
+LABEL:8
+VERSE:I charge you, O daughters of Jerusalem,
+VERSE:If ye find my beloved,
+VERSE:That ye tell him,
+VERSE:that I am sick of love.
+LABEL:9
+VERSE:What is thy beloved more than another beloved,
+VERSE:O thou fairest among women?
+VERSE:What is thy beloved more than another beloved,
+VERSE:That thou dost so charge us?
+LABEL:10
+VERSE:My beloved is white and ruddy,
+VERSE:The chiefest among ten thousand.
+LABEL:11
+VERSE:His head is as the most fine gold,
+VERSE:His locks are bushy,
+VERSE:And black as a raven.
+LABEL:12
+VERSE:His eyes are as the eyes of doves by the rivers of waters,
+VERSE:Washed with milk, and fitly set.
+LABEL:13
+VERSE:His cheeks are as a bed of spices, as sweet flowers:
+VERSE:His lips like lilies, dropping sweet smelling myrrh.
+LABEL:14
+VERSE:His hands are as gold rings set with the beryl:
+VERSE:His belly is as bright ivory overlaid with sapphires.
+LABEL:15
+VERSE:His legs are as pillars of marble, set upon sockets of fine gold:
+VERSE:His countenance is as Lebanon, excellent as the cedars.
+LABEL:16
+VERSE:His mouth is most sweet:
+VERSE:Yea, he is altogether lovely.
+VERSE:This is my beloved, and this is my friend,
+VERSE:O daughters of Jerusalem.

@@ -1,0 +1,34 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:52
+TITLE:Psalms 52
+LABEL:1
+VERSE:Why do you boast of mischief, mighty man?
+VERSE:God’s loving kindness endures continually.
+LABEL:2
+VERSE:Your tongue plots destruction,
+VERSE:like a sharp razor, working deceitfully.
+LABEL:3
+VERSE:You love evil more than good,
+VERSE:lying rather than speaking the truth. Selah.
+LABEL:4
+VERSE:You love all devouring words,
+VERSE:you deceitful tongue.
+LABEL:5
+VERSE:God will likewise destroy you forever.
+VERSE:He will take you up, and pluck you out of your tent,
+VERSE:and root you out of the land of the living. Selah.
+LABEL:6
+VERSE:The righteous also will see it, and fear,
+VERSE:and laugh at him, saying,
+LABEL:7
+VERSE:“Behold, this is the man who didn’t make God his strength,
+VERSE:but trusted in the abundance of his riches,
+VERSE:and strengthened himself in his wickedness.”
+LABEL:8
+VERSE:But as for me, I am like a green olive tree in God’s house.
+VERSE:I trust in God’s loving kindness forever and ever.
+LABEL:9
+VERSE:I will give you thanks forever, because you have done it.
+VERSE:I will hope in your name, for it is good,
+VERSE:in the presence of your saints.

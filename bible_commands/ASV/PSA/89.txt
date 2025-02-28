@@ -1,0 +1,163 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:89
+TITLE:Psalms 89
+LABEL:1
+VERSE:I will sing of the lovingkindness of Jehovah for ever:
+VERSE:With my mouth will I make known thy faithfulness to all generations.
+LABEL:2
+VERSE:For I have said, Mercy shall be built up for ever;
+VERSE:Thy faithfulness wilt thou establish in the very heavens.
+LABEL:3
+VERSE:I have made a covenant with my chosen,
+VERSE:I have sworn unto David my servant:
+LABEL:4
+VERSE:Thy seed will I establish for ever,
+VERSE:And build up thy throne to all generations. [Selah
+LABEL:5
+VERSE:And the heavens shall praise thy wonders, O Jehovah;
+VERSE:Thy faithfulness also in the assembly of the holy ones.
+LABEL:6
+VERSE:For who in the skies can be compared unto Jehovah?
+VERSE:Who among the sons of the mighty is like unto Jehovah,
+LABEL:7
+VERSE:A God very terrible in the council of the holy ones,
+VERSE:And to be feared above all them that are round about him?
+LABEL:8
+VERSE:O Jehovah God of hosts,
+VERSE:Who is a mighty one, like unto thee, O Jehovah?
+VERSE:And thy faithfulness is round about thee.
+LABEL:9
+VERSE:Thou rulest the pride of the sea:
+VERSE:When the waves thereof arise, thou stillest them.
+LABEL:10
+VERSE:Thou hast broken Rahab in pieces, as one that is slain;
+VERSE:Thou hast scattered thine enemies with the arm of thy strength.
+LABEL:11
+VERSE:The heavens are thine, the earth also is thine:
+VERSE:The world and the fulness thereof, thou hast founded them.
+LABEL:12
+VERSE:The north and the south, thou hast created them:
+VERSE:Tabor and Hermon rejoice in thy name.
+LABEL:13
+VERSE:Thou hast a mighty arm;
+VERSE:Strong is thy hand, and high is thy right hand.
+LABEL:14
+VERSE:Righteousness and justice are the foundation of thy throne:
+VERSE:Lovingkindness and truth go before thy face.
+LABEL:15
+VERSE:Blessed is the people that know the joyful sound:
+VERSE:They walk, O Jehovah, in the light of thy countenance.
+LABEL:16
+VERSE:In thy name do they rejoice all the day;
+VERSE:And in thy righteousness are they exalted.
+LABEL:17
+VERSE:For thou art the glory of their strength;
+VERSE:And in thy favor our horn shall be exalted.
+LABEL:18
+VERSE:For our shield belongeth unto Jehovah;
+VERSE:And our king to the Holy One of Israel.
+LABEL:19
+VERSE:Then thou spakest in vision to thy saints,
+VERSE:And saidst, I have laid help upon one that is mighty;
+VERSE:I have exalted one chosen out of the people.
+LABEL:20
+VERSE:I have found David my servant;
+VERSE:With my holy oil have I anointed him:
+LABEL:21
+VERSE:With whom my hand shall be established;
+VERSE:Mine arm also shall strengthen him.
+LABEL:22
+VERSE:The enemy shall not exact from him,
+VERSE:Nor the son of wickedness afflict him.
+LABEL:23
+VERSE:And I will beat down his adversaries before him,
+VERSE:And smite them that hate him.
+LABEL:24
+VERSE:But my faithfulness and my lovingkindness shall be with him;
+VERSE:And in my name shall his horn be exalted.
+LABEL:25
+VERSE:I will set his hand also on the sea,
+VERSE:And his right hand on the rivers.
+LABEL:26
+VERSE:He shall cry unto me, Thou art my Father,
+VERSE:My God, and the rock of my salvation.
+LABEL:27
+VERSE:I also will make him my first-born,
+VERSE:The highest of the kings of the earth.
+LABEL:28
+VERSE:My lovingkindness will I keep for him for evermore;
+VERSE:And my covenant shall stand fast with him.
+LABEL:29
+VERSE:His seed also will I make to endure for ever,
+VERSE:And his throne as the days of heaven.
+LABEL:30
+VERSE:If his children forsake my law,
+VERSE:And walk not in mine ordinances;
+LABEL:31
+VERSE:If they break my statutes,
+VERSE:And keep not my commandments;
+LABEL:32
+VERSE:Then will I visit their transgression with the rod,
+VERSE:And their iniquity with stripes.
+LABEL:33
+VERSE:But my lovingkindness will I not utterly take from him,
+VERSE:Nor suffer my faithfulness to fail.
+LABEL:34
+VERSE:My covenant will I not break,
+VERSE:Nor alter the thing that is gone out of my lips.
+LABEL:35
+VERSE:Once have I sworn by my holiness:
+VERSE:I will not lie unto David:
+LABEL:36
+VERSE:His seed shall endure for ever,
+VERSE:And his throne as the sun before me.
+LABEL:37
+VERSE:It shall be established for ever as the moon,
+VERSE:And as the faithful witness in the sky. [Selah
+LABEL:38
+VERSE:But thou hast cast off and rejected,
+VERSE:Thou hast been wroth with thine anointed.
+LABEL:39
+VERSE:Thou hast abhorred the covenant of thy servant:
+VERSE:Thou hast profaned his crown by casting it to the ground.
+LABEL:40
+VERSE:Thou hast broken down all his hedges;
+VERSE:Thou hast brought his strongholds to ruin.
+LABEL:41
+VERSE:All that pass by the way rob him:
+VERSE:He is become a reproach to his neighbors.
+LABEL:42
+VERSE:Thou hast exalted the right hand of his adversaries;
+VERSE:Thou hast made all his enemies to rejoice.
+LABEL:43
+VERSE:Yea, thou turnest back the edge of his sword,
+VERSE:And hast not made him to stand in the battle.
+LABEL:44
+VERSE:Thou hast made his brightness to cease,
+VERSE:And cast his throne down to the ground.
+LABEL:45
+VERSE:The days of his youth hast thou shortened:
+VERSE:Thou hast covered him with shame. [Selah
+LABEL:46
+VERSE:How long, O Jehovah? wilt thou hide thyself for ever?
+VERSE:How long shall thy wrath burn like fire?
+LABEL:47
+VERSE:Oh remember how short my time is:
+VERSE:For what vanity hast thou created all the children of men!
+LABEL:48
+VERSE:What man is he that shall live and not see death,
+VERSE:That shall deliver his soul from the power of Sheol? [Selah
+LABEL:49
+VERSE:Lord, where are thy former lovingkindnesses,
+VERSE:Which thou swarest unto David in thy faithfulness?
+LABEL:50
+VERSE:Remember, Lord, the reproach of thy servants;
+VERSE:How I do bear in my bosom the reproach of all the mighty peoples,
+LABEL:51
+VERSE:Wherewith thine enemies have reproached, O Jehovah,
+VERSE:Wherewith they have reproached the footsteps of thine anointed.
+LABEL:52
+VERSE:Blessed be Jehovah for evermore.
+VERSE:Amen, and Amen.
+SECTION:BOOK IV

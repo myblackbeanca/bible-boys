@@ -1,0 +1,114 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:9
+TITLE:Jeremiah 9
+LABEL:1
+VERSE:Oh that my head were waters,
+VERSE:and my eyes a spring of tears,
+VERSE:that I might weep day and night
+VERSE:for the slain of the daughter of my people!
+LABEL:2
+VERSE:Oh that I had in the wilderness
+VERSE:a lodging place of wayfaring men,
+VERSE:that I might leave my people
+VERSE:and go from them!
+VERSE:For they are all adulterers,
+VERSE:an assembly of treacherous men.
+LABEL:3
+VERSE:“They bend their tongue,
+VERSE:as their bow, for falsehood.
+VERSE:They have grown strong in the land,
+VERSE:but not for truth;
+VERSE:for they proceed from evil to evil,
+VERSE:and they don’t know me,” says Yahweh.
+LABEL:4
+VERSE:“Everyone beware of his neighbor,
+VERSE:and don’t trust in any brother;
+VERSE:for every brother will utterly supplant,
+VERSE:and every neighbor will go around like a slanderer.
+LABEL:5
+VERSE:Friends deceive each other,
+VERSE:and will not speak the truth.
+VERSE:They have taught their tongue to speak lies.
+VERSE:They weary themselves committing iniquity.
+LABEL:6
+VERSE:Your habitation is in the middle of deceit.
+VERSE:Through deceit, they refuse to know me,” says Yahweh.
+LABEL:7
+VERSE:Therefore Yahweh of Armies says,
+VERSE:“Behold, I will melt them and test them;
+VERSE:for how should I deal with the daughter of my people?
+LABEL:8
+VERSE:Their tongue is a deadly arrow.
+VERSE:It speaks deceit.
+VERSE:One speaks peaceably to his neighbor with his mouth,
+VERSE:but in his heart, he waits to ambush him.
+LABEL:9
+VERSE:Shouldn’t I punish them for these things?” says Yahweh.
+VERSE:“Shouldn’t my soul be avenged on a nation such as this?
+LABEL:10
+VERSE:I will weep and wail for the mountains,
+VERSE:and lament for the pastures of the wilderness,
+VERSE:because they are burned up, so that no one passes through;
+VERSE:Men can’t hear the voice of the livestock.
+VERSE:Both the birds of the sky and the animals have fled.
+VERSE:They are gone.
+LABEL:11
+VERSE:“I will make Jerusalem heaps,
+VERSE:a dwelling place of jackals.
+VERSE:I will make the cities of Judah a desolation,
+VERSE:without inhabitant.”
+LABEL:12
+VERSE:Who is wise enough to understand this? Who is he to whom the mouth of Yahweh has spoken, that he may declare it? Why has the land perished and burned up like a wilderness, so that no one passes through?
+LABEL:13
+VERSE:Yahweh says, “Because they have forsaken my law which I set before them, and have not obeyed my voice or walked in my ways,
+LABEL:14
+VERSE:but have walked after the stubbornness of their own heart and after the Baals, which their fathers taught them.”
+LABEL:15
+VERSE:Therefore Yahweh of Armies, the God of Israel, says, “Behold, I will feed them, even this people, with wormwood and give them poisoned water to drink.
+LABEL:16
+VERSE:I will scatter them also among the nations, whom neither they nor their fathers have known. I will send the sword after them, until I have consumed them.”
+LABEL:17
+VERSE:Yahweh of Armies says,
+VERSE:“Consider, and call for the mourning women, that they may come.
+VERSE:Send for the skillful women, that they may come.
+LABEL:18
+VERSE:Let them make haste
+VERSE:and take up a wailing for us,
+VERSE:that our eyes may run down with tears
+VERSE:and our eyelids gush out with waters.
+LABEL:19
+VERSE:For a voice of wailing is heard out of Zion,
+VERSE:‘How we are ruined!
+VERSE:We are greatly confounded
+VERSE:because we have forsaken the land,
+VERSE:because they have cast down our dwellings.’”
+LABEL:20
+VERSE:Yet hear Yahweh’s word, you women.
+VERSE:Let your ear receive the word of his mouth.
+VERSE:Teach your daughters wailing.
+VERSE:Everyone teach her neighbor a lamentation.
+LABEL:21
+VERSE:For death has come up into our windows.
+VERSE:It has entered into our palaces
+VERSE:to cut off the children from outside,
+VERSE:and the young men from the streets.
+LABEL:22
+VERSE:Speak, “Yahweh says,
+VERSE:“‘The dead bodies of men will fall as dung on the open field,
+VERSE:and as the handful after the harvester.
+VERSE:No one will gather them.’”
+LABEL:23
+VERSE:Yahweh says,
+VERSE:“Don’t let the wise man glory in his wisdom.
+VERSE:Don’t let the mighty man glory in his might.
+VERSE:Don’t let the rich man glory in his riches.
+LABEL:24
+VERSE:But let him who glories glory in this,
+VERSE:that he has understanding, and knows me,
+VERSE:that I am Yahweh who exercises loving kindness, justice, and righteousness in the earth,
+VERSE:for I delight in these things,” says Yahweh.
+LABEL:25
+VERSE:“Behold, the days come,” says Yahweh, “that I will punish all those who are circumcised only in their flesh:
+LABEL:26
+VERSE:Egypt, Judah, Edom, the children of Ammon, Moab, and all who have the corners of their hair cut off, who dwell in the wilderness, for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”

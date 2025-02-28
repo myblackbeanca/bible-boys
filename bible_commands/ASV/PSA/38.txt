@@ -1,0 +1,71 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:38
+TITLE:Psalms 38
+LABEL:1
+VERSE:O Jehovah, rebuke me not in thy wrath;
+VERSE:Neither chasten me in thy hot displeasure.
+LABEL:2
+VERSE:For thine arrows stick fast in me,
+VERSE:And thy hand presseth me sore.
+LABEL:3
+VERSE:There is no soundness in my flesh because of thine indignation;
+VERSE:Neither is there any health in my bones because of my sin.
+LABEL:4
+VERSE:For mine iniquities are gone over my head:
+VERSE:As a heavy burden they are too heavy for me.
+LABEL:5
+VERSE:My wounds are loathsome and corrupt,
+VERSE:Because of my foolishness.
+LABEL:6
+VERSE:I am pained and bowed down greatly;
+VERSE:I go mourning all the day long.
+LABEL:7
+VERSE:For my loins are filled with burning;
+VERSE:And there is no soundness in my flesh.
+LABEL:8
+VERSE:I am faint and sore bruised:
+VERSE:I have groaned by reason of the disquietness of my heart.
+LABEL:9
+VERSE:Lord, all my desire is before thee;
+VERSE:And my groaning is not hid from thee.
+LABEL:10
+VERSE:My heart throbbeth, my strength faileth me:
+VERSE:As for the light of mine eyes, it also is gone from me.
+LABEL:11
+VERSE:My lovers and my friends stand aloof from my plague;
+VERSE:And my kinsmen stand afar off.
+LABEL:12
+VERSE:They also that seek after my life lay snares for me;
+VERSE:And they that seek my hurt speak mischievous things,
+VERSE:And meditate deceits all the day long.
+LABEL:13
+VERSE:But I, as a deaf man, hear not;
+VERSE:And I am as a dumb man that openeth not his mouth.
+LABEL:14
+VERSE:Yea, I am as a man that heareth not,
+VERSE:And in whose mouth are no reproofs.
+LABEL:15
+VERSE:For in thee, O Jehovah, do I hope:
+VERSE:Thou wilt answer, O Lord my God.
+LABEL:16
+VERSE:For I said, Lest they rejoice over me:
+VERSE:When my foot slippeth, they magnify themselves against me.
+LABEL:17
+VERSE:For I am ready to fall,
+VERSE:And my sorrow is continually before me.
+LABEL:18
+VERSE:For I will declare mine iniquity;
+VERSE:I will be sorry for my sin.
+LABEL:19
+VERSE:But mine enemies are lively, and are strong;
+VERSE:And they that hate me wrongfully are multiplied.
+LABEL:20
+VERSE:They also that render evil for good
+VERSE:Are adversaries unto me, because I follow the thing that is good.
+LABEL:21
+VERSE:Forsake me not, O Jehovah:
+VERSE:O my God, be not far from me.
+LABEL:22
+VERSE:Make haste to help me,
+VERSE:O Lord, my salvation.

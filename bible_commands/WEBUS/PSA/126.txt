@@ -1,0 +1,23 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:126
+TITLE:Psalms 126
+LABEL:1
+VERSE:When Yahweh brought back those who returned to Zion,
+VERSE:we were like those who dream.
+LABEL:2
+VERSE:Then our mouth was filled with laughter,
+VERSE:and our tongue with singing.
+VERSE:Then they said among the nations,
+VERSE:“Yahweh has done great things for them.”
+LABEL:3
+VERSE:Yahweh has done great things for us,
+VERSE:and we are glad.
+LABEL:4
+VERSE:Restore our fortunes again, Yahweh,
+VERSE:like the streams in the Negev.
+LABEL:5
+VERSE:Those who sow in tears will reap in joy.
+LABEL:6
+VERSE:He who goes out weeping, carrying seed for sowing,
+VERSE:will certainly come again with joy, carrying his sheaves.

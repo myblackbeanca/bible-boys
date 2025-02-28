@@ -1,0 +1,43 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:140
+TITLE:Psalm 140
+LABEL:1
+VERSE:Deliver me, O LORD, from the evil man:
+VERSE:Preserve me from the violent man;
+LABEL:2
+VERSE:Which imagine mischiefs in their heart;
+VERSE:Continually are they gathered together for war.
+LABEL:3
+VERSE:They have sharpened their tongues like a serpent;
+VERSE:Adders' poison is under their lips. Selah.
+LABEL:4
+VERSE:Keep me, O LORD, from the hands of the wicked;
+VERSE:Preserve me from the violent man; Who have purposed to overthrow my goings.
+LABEL:5
+VERSE:The proud have hid a snare for me, and cords; They have spread a net by the wayside;
+VERSE:They have set gins for me. Selah.
+LABEL:6
+VERSE:I said unto the LORD, Thou art my God:
+VERSE:Hear the voice of my supplications, O LORD.
+LABEL:7
+VERSE:O GOD the Lord, the strength of my salvation,
+VERSE:Thou hast covered my head in the day of battle.
+LABEL:8
+VERSE:Grant not, O LORD, the desires of the wicked:
+VERSE:Further not his wicked device; lest they exalt themselves. Selah.
+LABEL:9
+VERSE:  As for the head of those that compass me about,
+VERSE:Let the mischief of their own lips cover them.
+LABEL:10
+VERSE:Let burning coals fall upon them:
+VERSE:Let them be cast into the fire; Into deep pits, that they rise not up again.
+LABEL:11
+VERSE:Let not an evil speaker be established in the earth:
+VERSE:Evil shall hunt the violent man to overthrow him.
+LABEL:12
+VERSE:I know that the LORD will maintain the cause of the afflicted,
+VERSE:And the right of the poor.
+LABEL:13
+VERSE:Surely the righteous shall give thanks unto thy name:
+VERSE:The upright shall dwell in thy presence.

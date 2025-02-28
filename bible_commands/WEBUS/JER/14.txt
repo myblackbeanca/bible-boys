@@ -1,0 +1,99 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:14
+TITLE:Jeremiah 14
+LABEL:1
+VERSE:This is Yahweh’s word that came to Jeremiah concerning the drought:
+LABEL:2
+VERSE:“Judah mourns,
+VERSE:and its gates languish.
+VERSE:They sit in black on the ground.
+VERSE:The cry of Jerusalem goes up.
+LABEL:3
+VERSE:Their nobles send their little ones to the waters.
+VERSE:They come to the cisterns,
+VERSE:and find no water.
+VERSE:They return with their vessels empty.
+VERSE:They are disappointed and confounded,
+VERSE:and cover their heads.
+LABEL:4
+VERSE:Because of the ground which is cracked,
+VERSE:because no rain has been in the land,
+VERSE:the plowmen are disappointed.
+VERSE:They cover their heads.
+LABEL:5
+VERSE:Yes, the doe in the field also calves and forsakes her young,
+VERSE:because there is no grass.
+LABEL:6
+VERSE:The wild donkeys stand on the bare heights.
+VERSE:They pant for air like jackals.
+VERSE:Their eyes fail,
+VERSE:because there is no vegetation.
+LABEL:7
+VERSE:Though our iniquities testify against us,
+VERSE:work for your name’s sake, Yahweh;
+VERSE:for our rebellions are many.
+VERSE:We have sinned against you.
+LABEL:8
+VERSE:You hope of Israel,
+VERSE:its Savior in the time of trouble,
+VERSE:why should you be as a foreigner in the land,
+VERSE:and as a wayfaring man who turns aside to stay for a night?
+LABEL:9
+VERSE:Why should you be like a scared man,
+VERSE:as a mighty man who can’t save?
+VERSE:Yet you, Yahweh, are in the middle of us,
+VERSE:and we are called by your name.
+VERSE:Don’t leave us.
+LABEL:10
+VERSE:Yahweh says to this people:
+VERSE:“Even so they have loved to wander.
+VERSE:They have not restrained their feet.
+VERSE:Therefore Yahweh does not accept them.
+VERSE:Now he will remember their iniquity,
+VERSE:and punish them for their sins.”
+LABEL:11
+VERSE:Yahweh said to me, “Don’t pray for this people for their good.
+LABEL:12
+VERSE:When they fast, I will not hear their cry; and when they offer burnt offering and meal offering, I will not accept them; but I will consume them by the sword, by famine, and by pestilence.”
+LABEL:13
+VERSE:Then I said, “Ah, Lord Yahweh! Behold, the prophets tell them, ‘You will not see the sword, neither will you have famine; but I will give you assured peace in this place.’”
+LABEL:14
+VERSE:Then Yahweh said to me, “The prophets prophesy lies in my name. I didn’t send them. I didn’t command them. I didn’t speak to them. They prophesy to you a lying vision, divination, and a thing of nothing, and the deceit of their own heart.
+LABEL:15
+VERSE:Therefore Yahweh says concerning the prophets who prophesy in my name, but I didn’t send them, yet they say, ‘Sword and famine will not be in this land.’ Those prophets will be consumed by sword and famine.
+LABEL:16
+VERSE:The people to whom they prophesy will be cast out in the streets of Jerusalem because of the famine and the sword. They will have no one to bury them—them, their wives, their sons, or their daughters, for I will pour their wickedness on them.
+LABEL:17
+VERSE:“You shall say this word to them:
+VERSE:“‘Let my eyes run down with tears night and day,
+VERSE:and let them not cease;
+VERSE:for the virgin daughter of my people is broken with a great breach,
+VERSE:with a very grievous wound.
+LABEL:18
+VERSE:If I go out into the field,
+VERSE:then behold, the slain with the sword!
+VERSE:If I enter into the city,
+VERSE:then behold, those who are sick with famine!
+VERSE:For both the prophet and the priest go about in the land,
+VERSE:and have no knowledge.’”
+LABEL:19
+VERSE:Have you utterly rejected Judah?
+VERSE:Has your soul loathed Zion?
+VERSE:Why have you struck us, and there is no healing for us?
+VERSE:We looked for peace, but no good came;
+VERSE:and for a time of healing, and behold, dismay!
+LABEL:20
+VERSE:We acknowledge, Yahweh, our wickedness,
+VERSE:and the iniquity of our fathers;
+VERSE:for we have sinned against you.
+LABEL:21
+VERSE:Do not abhor us, for your name’s sake.
+VERSE:Do not disgrace the throne of your glory.
+VERSE:Remember, and don’t break your covenant with us.
+LABEL:22
+VERSE:Are there any among the vanities of the nations that can cause rain?
+VERSE:Or can the sky give showers?
+VERSE:Aren’t you he, Yahweh our God?
+VERSE:Therefore we will wait for you;
+VERSE:for you have made all these things.

@@ -1,0 +1,46 @@
+TRANSLATION:WEBUS
+BOOK:1JN
+CHAPTER:4
+TITLE:1 John 4
+LABEL:1
+VERSE:Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.
+LABEL:2
+VERSE:By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,
+LABEL:3
+VERSE:and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God; and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.
+LABEL:4
+VERSE:You are of God, little children, and have overcome them, because greater is he who is in you than he who is in the world.
+LABEL:5
+VERSE:They are of the world. Therefore they speak of the world, and the world hears them.
+LABEL:6
+VERSE:We are of God. He who knows God listens to us. He who is not of God doesn’t listen to us. By this we know the spirit of truth, and the spirit of error.
+LABEL:7
+VERSE:Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God and knows God.
+LABEL:8
+VERSE:He who doesn’t love doesn’t know God, for God is love.
+LABEL:9
+VERSE:By this God’s love was revealed in us, that God has sent his only born Son into the world that we might live through him.
+LABEL:10
+VERSE:In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.
+LABEL:11
+VERSE:Beloved, if God loved us in this way, we also ought to love one another.
+LABEL:12
+VERSE:No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.
+LABEL:13
+VERSE:By this we know that we remain in him and he in us, because he has given us of his Spirit.
+LABEL:14
+VERSE:We have seen and testify that the Father has sent the Son as the Savior of the world.
+LABEL:15
+VERSE:Whoever confesses that Jesus is the Son of God, God remains in him, and he in God.
+LABEL:16
+VERSE:We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.
+LABEL:17
+VERSE:In this, love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so we are in this world.
+LABEL:18
+VERSE:There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.
+LABEL:19
+VERSE:We love him, because he first loved us.
+LABEL:20
+VERSE:If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?
+LABEL:21
+VERSE:This commandment we have from him, that he who loves God should also love his brother.

@@ -1,0 +1,82 @@
+TRANSLATION:WEBUS
+BOOK:MAT
+CHAPTER:23
+TITLE:Matthew 23
+LABEL:1
+VERSE:Then Jesus spoke to the multitudes and to his disciples,
+LABEL:2
+VERSE:saying, “The scribes and the Pharisees sit on Moses’ seat.
+LABEL:3
+VERSE:All things therefore whatever they tell you to observe, observe and do, but don’t do their works; for they say, and don’t do.
+LABEL:4
+VERSE:For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them.
+LABEL:5
+VERSE:But they do all their works to be seen by men. They make their phylacteries  broad and enlarge the fringes  of their garments,
+LABEL:6
+VERSE:and love the place of honor at feasts, the best seats in the synagogues,
+LABEL:7
+VERSE:the salutations in the marketplaces, and to be called ‘Rabbi, Rabbi’  by men.
+LABEL:8
+VERSE:But you are not to be called ‘Rabbi’, for one is your teacher, the Christ, and all of you are brothers.
+LABEL:9
+VERSE:Call no man on the earth your father, for one is your Father, he who is in heaven.
+LABEL:10
+VERSE:Neither be called masters, for one is your master, the Christ.
+LABEL:11
+VERSE:But he who is greatest among you will be your servant.
+LABEL:12
+VERSE:Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
+LABEL:13
+VERSE:  “Woe to you, scribes and Pharisees, hypocrites! For you devour widows’ houses, and as a pretense you make long prayers. Therefore you will receive greater condemnation.
+LABEL:14
+VERSE:  “But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don’t enter in yourselves, neither do you allow those who are entering in to enter.
+LABEL:15
+VERSE:Woe to you, scribes and Pharisees, hypocrites! For you travel around by sea and land to make one proselyte; and when he becomes one, you make him twice as much a son of Gehenna  as yourselves.
+LABEL:16
+VERSE:  “Woe to you, you blind guides, who say, ‘Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is obligated.’
+LABEL:17
+VERSE:You blind fools! For which is greater, the gold or the temple that sanctifies the gold?
+LABEL:18
+VERSE:And, ‘Whoever swears by the altar, it is nothing; but whoever swears by the gift that is on it, he is obligated.’
+LABEL:19
+VERSE:You blind fools! For which is greater, the gift, or the altar that sanctifies the gift?
+LABEL:20
+VERSE:He therefore who swears by the altar, swears by it and by everything on it.
+LABEL:21
+VERSE:He who swears by the temple, swears by it and by him who has been living  in it.
+LABEL:22
+VERSE:He who swears by heaven, swears by the throne of God and by him who sits on it.
+LABEL:23
+VERSE:  “Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin,    and have left undone the weightier matters of the law: justice, mercy, and faith. But you ought to have done these, and not to have left the other undone.
+LABEL:24
+VERSE:You blind guides, who strain out a gnat, and swallow a camel!
+LABEL:25
+VERSE:  “Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the platter, but within they are full of extortion and unrighteousness.
+LABEL:26
+VERSE:You blind Pharisee, first clean the inside of the cup and of the platter, that its outside may become clean also.
+LABEL:27
+VERSE:  “Woe to you, scribes and Pharisees, hypocrites! For you are like whitened tombs, which outwardly appear beautiful, but inwardly are full of dead men’s bones and of all uncleanness.
+LABEL:28
+VERSE:Even so you also outwardly appear righteous to men, but inwardly you are full of hypocrisy and iniquity.
+LABEL:29
+VERSE:  “Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets and decorate the tombs of the righteous,
+LABEL:30
+VERSE:and say, ‘If we had lived in the days of our fathers, we wouldn’t have been partakers with them in the blood of the prophets.’
+LABEL:31
+VERSE:Therefore you testify to yourselves that you are children of those who killed the prophets.
+LABEL:32
+VERSE:Fill up, then, the measure of your fathers.
+LABEL:33
+VERSE:You serpents, you offspring of vipers, how will you escape the judgment of Gehenna?
+LABEL:34
+VERSE:Therefore, behold, I send to you prophets, wise men, and scribes. Some of them you will kill and crucify; and some of them you will scourge in your synagogues and persecute from city to city,
+LABEL:35
+VERSE:that on you may come all the righteous blood shed on the earth, from the blood of righteous Abel to the blood of Zachariah son of Barachiah, whom you killed between the sanctuary and the altar.
+LABEL:36
+VERSE:Most certainly I tell you, all these things will come upon this generation.
+LABEL:37
+VERSE:  “Jerusalem, Jerusalem, who kills the prophets and stones those who are sent to her! How often I would have gathered your children together, even as a hen gathers her chicks under her wings, and you would not!
+LABEL:38
+VERSE:Behold, your house is left to you desolate.
+LABEL:39
+VERSE:For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’”

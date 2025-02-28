@@ -1,0 +1,52 @@
+TRANSLATION:ASV
+BOOK:1CH
+CHAPTER:3
+TITLE:1 Chronicles 3
+LABEL:1
+VERSE:Now these were the sons of David, that were born unto him in Hebron: the first-born, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess;
+LABEL:2
+VERSE:the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; the fourth, Adonijah the son of Haggith;
+LABEL:3
+VERSE:the fifth, Shephatiah of Abital; the sixth, Ithream by Eglah his wife:
+LABEL:4
+VERSE:six were born unto him in Hebron; and there he reigned seven years and six months. And in Jerusalem he reigned thirty and three years;
+LABEL:5
+VERSE:and these were born unto him in Jerusalem: Shimea, and Shobab, and Nathan, and Solomon, four, of Bath-shua the daughter of Ammiel;
+LABEL:6
+VERSE:and Ibhar, and Elishama, and Eliphelet,
+LABEL:7
+VERSE:and Nogah, and Nepheg, and Japhia,
+LABEL:8
+VERSE:and Elishama, and Eliada, and Eliphelet, nine.
+LABEL:9
+VERSE:All these were the sons of David, besides the sons of the concubines; and Tamar was their sister.
+LABEL:10
+VERSE:And Solomon’s son was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son,
+LABEL:11
+VERSE:Joram his son, Ahaziah his son, Joash his son,
+LABEL:12
+VERSE:Amaziah his son, Azariah his son, Jotham his son,
+LABEL:13
+VERSE:Ahaz his son, Hezekiah his son, Manasseh his son,
+LABEL:14
+VERSE:Amon his son, Josiah his son.
+LABEL:15
+VERSE:And the sons of Josiah: the first-born Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
+LABEL:16
+VERSE:And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
+LABEL:17
+VERSE:And the sons of Jeconiah, the captive: Shealtiel his son,
+LABEL:18
+VERSE:and Malchiram, and Pedaiah, and Shenazzar, Jekamiah, Hoshama, and Nedabiah.
+LABEL:19
+VERSE:And the sons of Pedaiah: Zerubbabel, and Shimei. And the sons of Zerubbabel: Meshullam, and Hananiah; and Shelomith was their sister;
+LABEL:20
+VERSE:and Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushab-hesed, five.
+LABEL:21
+VERSE:And the sons of Hananiah: Pelatiah, and Jeshaiah; the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah.
+LABEL:22
+VERSE:And the sons of Shecaniah: Shemaiah. And the sons of Shemaiah: Hattush, and Igal, and Bariah, and Neariah, and Shaphat, six.
+LABEL:23
+VERSE:And the sons of Neariah: Elioenai, and Hizkiah, and Azrikam, three.
+LABEL:24
+VERSE:And the sons of Elioenai: Hodaviah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Delaiah, and Anani, seven.

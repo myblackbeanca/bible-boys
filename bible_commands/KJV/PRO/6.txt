@@ -1,0 +1,111 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:6
+TITLE:Proverbs 6
+LABEL:1
+VERSE:My son, if thou be surety for thy friend,
+VERSE:If thou hast stricken thy hand with a stranger,
+LABEL:2
+VERSE:Thou art snared with the words of thy mouth,
+VERSE:Thou art taken with the words of thy mouth.
+LABEL:3
+VERSE:Do this now, my son, and deliver thyself,
+VERSE:When thou art come into the hand of thy friend;
+VERSE:Go, humble thyself, and make sure thy friend.
+LABEL:4
+VERSE:Give not sleep to thine eyes,
+VERSE:Nor slumber to thine eyelids.
+LABEL:5
+VERSE:Deliver thyself as a roe from the hand of the hunter,
+VERSE:And as a bird from the hand of the fowler.
+LABEL:6
+VERSE:Go to the ant, thou sluggard;
+VERSE:Consider her ways, and be wise:
+LABEL:7
+VERSE:Which having no guide,
+VERSE:Overseer, or ruler,
+LABEL:8
+VERSE:Provideth her meat in the summer,
+VERSE:And gathereth her food in the harvest.
+LABEL:9
+VERSE:How long wilt thou sleep, O sluggard?
+VERSE:When wilt thou arise out of thy sleep?
+LABEL:10
+VERSE:  Yet a little sleep, a little slumber,
+VERSE:A little folding of the hands to sleep:
+LABEL:11
+VERSE:So shall thy poverty come as one that travelleth,
+VERSE:And thy want as an armed man.
+LABEL:12
+VERSE:A naughty person, a wicked man,
+VERSE:Walketh with a froward mouth.
+LABEL:13
+VERSE:He winketh with his eyes, he speaketh with his feet,
+VERSE:He teacheth with his fingers;
+LABEL:14
+VERSE:Frowardness is in his heart, he deviseth mischief continually;
+VERSE:He soweth discord.
+LABEL:15
+VERSE:Therefore shall his calamity come suddenly;
+VERSE:Suddenly shall he be broken without remedy.
+LABEL:16
+VERSE:These six things doth the LORD hate:
+VERSE:Yea, seven are an abomination unto him:
+LABEL:17
+VERSE:A proud look, a lying tongue,
+VERSE:And hands that shed innocent blood,
+LABEL:18
+VERSE:An heart that deviseth wicked imaginations,
+VERSE:Feet that be swift in running to mischief,
+LABEL:19
+VERSE:A false witness that speaketh lies,
+VERSE:And he that soweth discord among brethren.
+LABEL:20
+VERSE:My son, keep thy father's commandment,
+VERSE:And forsake not the law of thy mother:
+LABEL:21
+VERSE:Bind them continually upon thine heart,
+VERSE:And tie them about thy neck.
+LABEL:22
+VERSE:When thou goest, it shall lead thee;
+VERSE:When thou sleepest, it shall keep thee;
+VERSE:And when thou awakest, it shall talk with thee.
+LABEL:23
+VERSE:For the commandment is a lamp; and the law is light;
+VERSE:And reproofs of instruction are the way of life:
+LABEL:24
+VERSE:To keep thee from the evil woman,
+VERSE:From the flattery of the tongue of a strange woman.
+LABEL:25
+VERSE:Lust not after her beauty in thine heart;
+VERSE:Neither let her take thee with her eyelids.
+LABEL:26
+VERSE:For by means of a whorish woman a man is brought to a piece of bread:
+VERSE:And the adulteress will hunt for the precious life.
+LABEL:27
+VERSE:Can a man take fire in his bosom,
+VERSE:And his clothes not be burned?
+LABEL:28
+VERSE:Can one go upon hot coals,
+VERSE:And his feet not be burned?
+LABEL:29
+VERSE:So he that goeth in to his neighbour's wife;
+VERSE:Whosoever toucheth her shall not be innocent.
+LABEL:30
+VERSE:  Men do not despise a thief, if he steal
+VERSE:To satisfy his soul when he is hungry;
+LABEL:31
+VERSE:But if he be found, he shall restore sevenfold;
+VERSE:He shall give all the substance of his house.
+LABEL:32
+VERSE:  But whoso committeth adultery with a woman lacketh understanding:
+VERSE:He that doeth it destroyeth his own soul.
+LABEL:33
+VERSE:A wound and dishonour shall he get;
+VERSE:And his reproach shall not be wiped away.
+LABEL:34
+VERSE:For jealousy is the rage of a man:
+VERSE:Therefore he will not spare in the day of vengeance.
+LABEL:35
+VERSE:He will not regard any ransom;
+VERSE:Neither will he rest content, though thou givest many gifts.

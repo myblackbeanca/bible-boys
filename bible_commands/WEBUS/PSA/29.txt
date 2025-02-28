@@ -1,0 +1,37 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:29
+TITLE:Psalms 29
+LABEL:1
+VERSE:Ascribe to Yahweh, you sons of the mighty,
+VERSE:ascribe to Yahweh glory and strength.
+LABEL:2
+VERSE:Ascribe to Yahweh the glory due to his name.
+VERSE:Worship Yahweh in holy array.
+LABEL:3
+VERSE:Yahweh’s voice is on the waters.
+VERSE:The God of glory thunders, even Yahweh on many waters.
+LABEL:4
+VERSE:Yahweh’s voice is powerful.
+VERSE:Yahweh’s voice is full of majesty.
+LABEL:5
+VERSE:Yahweh’s voice breaks the cedars.
+VERSE:Yes, Yahweh breaks in pieces the cedars of Lebanon.
+LABEL:6
+VERSE:He makes them also to skip like a calf;
+VERSE:Lebanon and Sirion like a young, wild ox.
+LABEL:7
+VERSE:Yahweh’s voice strikes with flashes of lightning.
+LABEL:8
+VERSE:Yahweh’s voice shakes the wilderness.
+VERSE:Yahweh shakes the wilderness of Kadesh.
+LABEL:9
+VERSE:Yahweh’s voice makes the deer calve,
+VERSE:and strips the forests bare.
+VERSE:In his temple everything says, “Glory!”
+LABEL:10
+VERSE:Yahweh sat enthroned at the Flood.
+VERSE:Yes, Yahweh sits as King forever.
+LABEL:11
+VERSE:Yahweh will give strength to his people.
+VERSE:Yahweh will bless his people with peace.

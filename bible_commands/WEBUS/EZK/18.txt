@@ -1,0 +1,103 @@
+TRANSLATION:WEBUS
+BOOK:EZK
+CHAPTER:18
+TITLE:Ezekiel 18
+LABEL:1
+VERSE:Yahweh’s word came to me again, saying,
+LABEL:2
+VERSE:“What do you mean, that you use this proverb concerning the land of Israel, saying,
+VERSE:‘The fathers have eaten sour grapes,
+VERSE:and the children’s teeth are set on edge’?
+LABEL:3
+VERSE:“As I live,” says the Lord Yahweh, “you shall not use this proverb any more in Israel.
+LABEL:4
+VERSE:Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine. The soul who sins, he shall die.
+LABEL:5
+VERSE:“But if a man is just,
+VERSE:and does that which is lawful and right,
+LABEL:6
+VERSE:and has not eaten on the mountains,
+VERSE:hasn’t lifted up his eyes to the idols of the house of Israel,
+VERSE:hasn’t defiled his neighbor’s wife,
+VERSE:hasn’t come near a woman in her impurity,
+LABEL:7
+VERSE:and has not wronged any,
+VERSE:but has restored to the debtor his pledge,
+VERSE:has taken nothing by robbery,
+VERSE:has given his bread to the hungry,
+VERSE:and has covered the naked with a garment;
+LABEL:8
+VERSE:he who hasn’t lent to them with interest,
+VERSE:hasn’t taken any increase from them,
+VERSE:who has withdrawn his hand from iniquity,
+VERSE:has executed true justice between man and man,
+LABEL:9
+VERSE:has walked in my statutes,
+VERSE:and has kept my ordinances,
+VERSE:to deal truly;
+VERSE:he is just,
+VERSE:he shall surely live,” says the Lord Yahweh.
+LABEL:10
+VERSE:“If he fathers a son who is a robber who sheds blood, and who does any one of these things,
+LABEL:11
+VERSE:or who does not do any of those things
+VERSE:but has eaten at the mountain shrines
+VERSE:and defiled his neighbor’s wife,
+LABEL:12
+VERSE:has wronged the poor and needy,
+VERSE:has taken by robbery,
+VERSE:has not restored the pledge,
+VERSE:and has lifted up his eyes to the idols,
+VERSE:has committed abomination,
+LABEL:13
+VERSE:has lent with interest,
+VERSE:and has taken increase from the poor,
+VERSE:shall he then live? He shall not live. He has done all these abominations. He shall surely die. His blood will be on him.
+LABEL:14
+VERSE:“Now, behold, if he fathers a son who sees all his father’s sins which he has done, and fears, and doesn’t do likewise,
+LABEL:15
+VERSE:who hasn’t eaten on the mountains,
+VERSE:hasn’t lifted up his eyes to the idols of the house of Israel,
+VERSE:hasn’t defiled his neighbor’s wife,
+LABEL:16
+VERSE:hasn’t wronged any,
+VERSE:hasn’t taken anything to pledge,
+VERSE:hasn’t taken by robbery,
+VERSE:but has given his bread to the hungry,
+VERSE:and has covered the naked with a garment;
+LABEL:17
+VERSE:who has withdrawn his hand from the poor,
+VERSE:who hasn’t received interest or increase,
+VERSE:has executed my ordinances,
+VERSE:has walked in my statutes;
+VERSE:he shall not die for the iniquity of his father. He shall surely live.
+LABEL:18
+VERSE:As for his father, because he cruelly oppressed, robbed his brother, and did that which is not good among his people, behold, he will die in his iniquity.
+LABEL:19
+VERSE:“Yet you say, ‘Why doesn’t the son bear the iniquity of the father?’ When the son has done that which is lawful and right, and has kept all my statutes, and has done them, he will surely live.
+LABEL:20
+VERSE:The soul who sins, he shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son. The righteousness of the righteous shall be on him, and the wickedness of the wicked shall be on him.
+LABEL:21
+VERSE:“But if the wicked turns from all his sins that he has committed, and keeps all my statutes, and does that which is lawful and right, he shall surely live. He shall not die.
+LABEL:22
+VERSE:None of his transgressions that he has committed will be remembered against him. In his righteousness that he has done, he shall live.
+LABEL:23
+VERSE:Have I any pleasure in the death of the wicked?” says the Lord Yahweh, “and not rather that he should return from his way, and live?
+LABEL:24
+VERSE:“But when the righteous turns away from his righteousness, and commits iniquity, and does according to all the abominations that the wicked man does, should he live? None of his righteous deeds that he has done will be remembered. In his trespass that he has trespassed, and in his sin that he has sinned, in them he shall die.
+LABEL:25
+VERSE:“Yet you say, ‘The way of the Lord is not equal.’ Hear now, house of Israel: Is my way not equal? Aren’t your ways unequal?
+LABEL:26
+VERSE:When the righteous man turns away from his righteousness, and commits iniquity, and dies in it, then he dies in his iniquity that he has done.
+LABEL:27
+VERSE:Again, when the wicked man turns away from his wickedness that he has committed, and does that which is lawful and right, he will save his soul alive.
+LABEL:28
+VERSE:Because he considers, and turns away from all his transgressions that he has committed, he shall surely live. He shall not die.
+LABEL:29
+VERSE:Yet the house of Israel says, ‘The way of the Lord is not fair.’ House of Israel, aren’t my ways fair? Aren’t your ways unfair?
+LABEL:30
+VERSE:“Therefore I will judge you, house of Israel, everyone according to his ways,” says the Lord Yahweh. “Return, and turn yourselves from all your transgressions, so iniquity will not be your ruin.
+LABEL:31
+VERSE:Cast away from you all your transgressions in which you have transgressed; and make yourself a new heart and a new spirit. For why will you die, house of Israel?
+LABEL:32
+VERSE:For I have no pleasure in the death of him who dies,” says the Lord Yahweh. “Therefore turn yourselves, and live!

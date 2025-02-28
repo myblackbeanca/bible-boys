@@ -1,0 +1,39 @@
+TRANSLATION:ASV
+BOOK:JON
+CHAPTER:2
+TITLE:Jonah 2
+LABEL:1
+VERSE:Then Jonah prayed unto Jehovah his God out of the fish’s belly.
+LABEL:2
+VERSE:And he said,
+VERSE:I called by reason of mine affliction unto Jehovah,
+VERSE:And he answered me;
+VERSE:Out of the belly of Sheol cried I,
+VERSE:And thou heardest my voice.
+LABEL:3
+VERSE:For thou didst cast me into the depth, in the heart of the seas,
+VERSE:And the flood was round about me;
+VERSE:All thy waves and thy billows passed over me.
+LABEL:4
+VERSE:And I said, I am cast out from before thine eyes;
+VERSE:Yet I will look again toward thy holy temple.
+LABEL:5
+VERSE:The waters compassed me about, even to the soul;
+VERSE:The deep was round about me;
+VERSE:The weeds were wrapped about my head.
+LABEL:6
+VERSE:I went down to the bottoms of the mountains;
+VERSE:The earth with its bars closed upon me for ever:
+VERSE:Yet hast thou brought up my life from the pit, O Jehovah my God.
+LABEL:7
+VERSE:When my soul fainted within me, I remembered Jehovah;
+VERSE:And my prayer came in unto thee, into thy holy temple.
+LABEL:8
+VERSE:They that regard lying vanities
+VERSE:Forsake their own mercy.
+LABEL:9
+VERSE:But I will sacrifice unto thee with the voice of thanksgiving;
+VERSE:I will pay that which I have vowed.
+VERSE:Salvation is of Jehovah.
+LABEL:10
+VERSE:And Jehovah spake unto the fish, and it vomited out Jonah upon the dry land.

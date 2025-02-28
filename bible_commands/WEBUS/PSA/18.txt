@@ -1,0 +1,165 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:18
+TITLE:Psalms 18
+LABEL:1
+VERSE:I love you, Yahweh, my strength.
+LABEL:2
+VERSE:Yahweh is my rock, my fortress, and my deliverer;
+VERSE:my God, my rock, in whom I take refuge;
+VERSE:my shield, and the horn of my salvation, my high tower.
+LABEL:3
+VERSE:I call on Yahweh, who is worthy to be praised;
+VERSE:and I am saved from my enemies.
+LABEL:4
+VERSE:The cords of death surrounded me.
+VERSE:The floods of ungodliness made me afraid.
+LABEL:5
+VERSE:The cords of Sheol were around me.
+VERSE:The snares of death came on me.
+LABEL:6
+VERSE:In my distress I called on Yahweh,
+VERSE:and cried to my God.
+VERSE:He heard my voice out of his temple.
+VERSE:My cry before him came into his ears.
+LABEL:7
+VERSE:Then the earth shook and trembled.
+VERSE:The foundations also of the mountains quaked and were shaken,
+VERSE:because he was angry.
+LABEL:8
+VERSE:Smoke went out of his nostrils.
+VERSE:Consuming fire came out of his mouth.
+VERSE:Coals were kindled by it.
+LABEL:9
+VERSE:He bowed the heavens also, and came down.
+VERSE:Thick darkness was under his feet.
+LABEL:10
+VERSE:He rode on a cherub, and flew.
+VERSE:Yes, he soared on the wings of the wind.
+LABEL:11
+VERSE:He made darkness his hiding place, his pavilion around him,
+VERSE:darkness of waters, thick clouds of the skies.
+LABEL:12
+VERSE:At the brightness before him his thick clouds passed,
+VERSE:hailstones and coals of fire.
+LABEL:13
+VERSE:Yahweh also thundered in the sky.
+VERSE:The Most High uttered his voice:
+VERSE:hailstones and coals of fire.
+LABEL:14
+VERSE:He sent out his arrows, and scattered them.
+VERSE:He routed them with great lightning bolts.
+LABEL:15
+VERSE:Then the channels of waters appeared.
+VERSE:The foundations of the world were laid bare at your rebuke, Yahweh,
+VERSE:at the blast of the breath of your nostrils.
+LABEL:16
+VERSE:He sent from on high.
+VERSE:He took me.
+VERSE:He drew me out of many waters.
+LABEL:17
+VERSE:He delivered me from my strong enemy,
+VERSE:from those who hated me; for they were too mighty for me.
+LABEL:18
+VERSE:They came on me in the day of my calamity,
+VERSE:but Yahweh was my support.
+LABEL:19
+VERSE:He brought me out also into a large place.
+VERSE:He delivered me, because he delighted in me.
+LABEL:20
+VERSE:Yahweh has rewarded me according to my righteousness.
+VERSE:According to the cleanness of my hands, he has recompensed me.
+LABEL:21
+VERSE:For I have kept the ways of Yahweh,
+VERSE:and have not wickedly departed from my God.
+LABEL:22
+VERSE:For all his ordinances were before me.
+VERSE:I didn’t put away his statutes from me.
+LABEL:23
+VERSE:I was also blameless with him.
+VERSE:I kept myself from my iniquity.
+LABEL:24
+VERSE:Therefore Yahweh has rewarded me according to my righteousness,
+VERSE:according to the cleanness of my hands in his eyesight.
+LABEL:25
+VERSE:With the merciful you will show yourself merciful.
+VERSE:With the perfect man, you will show yourself perfect.
+LABEL:26
+VERSE:With the pure, you will show yourself pure.
+VERSE:With the crooked you will show yourself shrewd.
+LABEL:27
+VERSE:For you will save the afflicted people,
+VERSE:but the arrogant eyes you will bring down.
+LABEL:28
+VERSE:For you will light my lamp, Yahweh.
+VERSE:My God will light up my darkness.
+LABEL:29
+VERSE:For by you, I advance through a troop.
+VERSE:By my God, I leap over a wall.
+LABEL:30
+VERSE:As for God, his way is perfect.
+VERSE:Yahweh’s word is tried.
+VERSE:He is a shield to all those who take refuge in him.
+LABEL:31
+VERSE:For who is God, except Yahweh?
+VERSE:Who is a rock, besides our God,
+LABEL:32
+VERSE:the God who arms me with strength, and makes my way perfect?
+LABEL:33
+VERSE:He makes my feet like deer’s feet,
+VERSE:and sets me on my high places.
+LABEL:34
+VERSE:He teaches my hands to war,
+VERSE:so that my arms bend a bow of bronze.
+LABEL:35
+VERSE:You have also given me the shield of your salvation.
+VERSE:Your right hand sustains me.
+VERSE:Your gentleness has made me great.
+LABEL:36
+VERSE:You have enlarged my steps under me,
+VERSE:My feet have not slipped.
+LABEL:37
+VERSE:I will pursue my enemies, and overtake them.
+VERSE:I won’t turn away until they are consumed.
+LABEL:38
+VERSE:I will strike them through, so that they will not be able to rise.
+VERSE:They shall fall under my feet.
+LABEL:39
+VERSE:For you have armed me with strength to the battle.
+VERSE:You have subdued under me those who rose up against me.
+LABEL:40
+VERSE:You have also made my enemies turn their backs to me,
+VERSE:that I might cut off those who hate me.
+LABEL:41
+VERSE:They cried, but there was no one to save;
+VERSE:even to Yahweh, but he didn’t answer them.
+LABEL:42
+VERSE:Then I beat them small as the dust before the wind.
+VERSE:I cast them out as the mire of the streets.
+LABEL:43
+VERSE:You have delivered me from the strivings of the people.
+VERSE:You have made me the head of the nations.
+VERSE:A people whom I have not known shall serve me.
+LABEL:44
+VERSE:As soon as they hear of me they shall obey me.
+VERSE:The foreigners shall submit themselves to me.
+LABEL:45
+VERSE:The foreigners shall fade away,
+VERSE:and shall come trembling out of their strongholds.
+LABEL:46
+VERSE:Yahweh lives! Blessed be my rock.
+VERSE:Exalted be the God of my salvation,
+LABEL:47
+VERSE:even the God who executes vengeance for me,
+VERSE:and subdues peoples under me.
+LABEL:48
+VERSE:He rescues me from my enemies.
+VERSE:Yes, you lift me up above those who rise up against me.
+VERSE:You deliver me from the violent man.
+LABEL:49
+VERSE:Therefore I will give thanks to you, Yahweh, among the nations,
+VERSE:and will sing praises to your name.
+LABEL:50
+VERSE:He gives great deliverance to his king,
+VERSE:and shows loving kindness to his anointed,
+VERSE:to David and to his offspring, forever more.

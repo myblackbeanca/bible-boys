@@ -1,0 +1,41 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:76
+TITLE:Psalms 76
+LABEL:1
+VERSE:In Judah, God is known.
+VERSE:His name is great in Israel.
+LABEL:2
+VERSE:His tabernacle is also in Salem.
+VERSE:His dwelling place in Zion.
+LABEL:3
+VERSE:There he broke the flaming arrows of the bow,
+VERSE:the shield, and the sword, and the weapons of war. Selah.
+LABEL:4
+VERSE:Glorious are you, and excellent,
+VERSE:more than mountains of game.
+LABEL:5
+VERSE:Valiant men lie plundered,
+VERSE:they have slept their last sleep.
+VERSE:None of the men of war can lift their hands.
+LABEL:6
+VERSE:At your rebuke, God of Jacob,
+VERSE:both chariot and horse are cast into a dead sleep.
+LABEL:7
+VERSE:You, even you, are to be feared.
+VERSE:Who can stand in your sight when you are angry?
+LABEL:8
+VERSE:You pronounced judgment from heaven.
+VERSE:The earth feared, and was silent,
+LABEL:9
+VERSE:when God arose to judgment,
+VERSE:to save all the afflicted ones of the earth. Selah.
+LABEL:10
+VERSE:Surely the wrath of man praises you.
+VERSE:The survivors of your wrath are restrained.
+LABEL:11
+VERSE:Make vows to Yahweh your God, and fulfill them!
+VERSE:Let all of his neighbors bring presents to him who is to be feared.
+LABEL:12
+VERSE:He will cut off the spirit of princes.
+VERSE:He is feared by the kings of the earth.

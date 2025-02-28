@@ -1,0 +1,141 @@
+TRANSLATION:KJV
+BOOK:DEU
+CHAPTER:33
+TITLE:Deuteronomy 33
+SECTION:The Blessing of Moses
+LABEL:1
+VERSE:And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
+LABEL:2
+VERSE:And he said,
+VERSE:The LORD came from Sinai,
+VERSE:And rose up from Seir unto them;
+VERSE:He shined forth from mount Paran,
+VERSE:And he came with ten thousands of saints:
+VERSE:From his right hand went a fiery law for them.
+LABEL:3
+VERSE:Yea, he loved the people;
+VERSE:All his saints are in thy hand:
+VERSE:And they sat down at thy feet;
+VERSE:Every one shall receive of thy words.
+LABEL:4
+VERSE:Moses commanded us a law,
+VERSE:Even the inheritance of the congregation of Jacob.
+LABEL:5
+VERSE:And he was king in Jeshurun,
+VERSE:When the heads of the people
+VERSE:And the tribes of Israel were gathered together.
+LABEL:6
+VERSE:Let Reuben live, and not die;
+VERSE:And let not his men be few.
+LABEL:7
+VERSE:And this is the blessing of Judah: and he said,
+VERSE:Hear, LORD, the voice of Judah,
+VERSE:And bring him unto his people:
+VERSE:Let his hands be sufficient for him;
+VERSE:And be thou an help to him from his enemies.
+LABEL:8
+VERSE:And of Levi he said,
+VERSE:Let thy Thummim and thy Urim be with thy holy one,
+VERSE:Whom thou didst prove at Massah,
+VERSE:And with whom thou didst strive at the waters of Meribah;
+LABEL:9
+VERSE:Who said unto his father and to his mother, I have not seen him;
+VERSE:Neither did he acknowledge his brethren,
+VERSE:Nor knew his own children:
+VERSE:For they have observed thy word,
+VERSE:And kept thy covenant.
+LABEL:10
+VERSE:They shall teach Jacob thy judgments,
+VERSE:And Israel thy law:
+VERSE:They shall put incense before thee,
+VERSE:And whole burnt sacrifice upon thine altar.
+LABEL:11
+VERSE:Bless, LORD, his substance,
+VERSE:And accept the work of his hands:
+VERSE:Smite through the loins of them that rise against him,
+VERSE:And of them that hate him, that they rise not again.
+LABEL:12
+VERSE:  And of Benjamin he said,
+VERSE:The beloved of the LORD shall dwell in safety by him;
+VERSE:And the LORD shall cover him all the day long,
+VERSE:And he shall dwell between his shoulders.
+LABEL:13
+VERSE:And of Joseph he said,
+VERSE:Blessed of the LORD  be his land,
+VERSE:For the precious things of heaven, for the dew,
+VERSE:And for the deep that coucheth beneath,
+LABEL:14
+VERSE:And for the precious fruits brought forth by the sun,
+VERSE:And for the precious things put forth by the moon,
+LABEL:15
+VERSE:And for the chief things of the ancient mountains,
+VERSE:And for the precious things of the lasting hills,
+LABEL:16
+VERSE:And for the precious things of the earth and fulness thereof,
+VERSE:And for the good will of him that dwelt in the bush:
+VERSE:Let the blessing come upon the head of Joseph,
+VERSE:And upon the top of the head of him that was separated from his brethren.
+LABEL:17
+VERSE:His glory is like the firstling of his bullock,
+VERSE:And his horns are like the horns of unicorns:
+VERSE:With them he shall push the people together to the ends of the earth:
+VERSE:And they are the ten thousands of Ephraim,
+VERSE:And they are the thousands of Manasseh.
+LABEL:18
+VERSE:And of Zebulun he said,
+VERSE:Rejoice, Zebulun, in thy going out;
+VERSE:And, Issachar, in thy tents.
+LABEL:19
+VERSE:They shall call the people unto the mountain;
+VERSE:There they shall offer sacrifices of righteousness:
+VERSE:For they shall suck of the abundance of the seas,
+VERSE:And of treasures hid in the sand.
+LABEL:20
+VERSE:And of Gad he said,
+VERSE:Blessed be he that enlargeth Gad:
+VERSE:He dwelleth as a lion,
+VERSE:And teareth the arm with the crown of the head.
+LABEL:21
+VERSE:And he provided the first part for himself,
+VERSE:Because there, in a portion of the lawgiver, was he seated;
+VERSE:And he came with the heads of the people,
+VERSE:He executed the justice of the LORD,
+VERSE:And his judgments with Israel.
+LABEL:22
+VERSE:And of Dan he said,
+VERSE:Dan is a lion's whelp:
+VERSE:He shall leap from Bashan.
+LABEL:23
+VERSE:And of Naphtali he said,
+VERSE:O Naphtali, satisfied with favour,
+VERSE:And full with the blessing of the LORD:
+VERSE:Possess thou the west and the south.
+LABEL:24
+VERSE:And of Asher he said,
+VERSE:Let Asher be blessed with children;
+VERSE:Let him be acceptable to his brethren,
+VERSE:And let him dip his foot in oil.
+LABEL:25
+VERSE:Thy shoes shall be iron and brass;
+VERSE:And as thy days, so shall thy strength be.
+LABEL:26
+VERSE:  There is none like unto the God of Jeshurun,
+VERSE:Who rideth upon the heaven in thy help,
+VERSE:And in his excellency on the sky.
+LABEL:27
+VERSE:The eternal God is thy refuge,
+VERSE:And underneath are the everlasting arms:
+VERSE:And he shall thrust out the enemy from before thee;
+VERSE:And shall say, Destroy them.
+LABEL:28
+VERSE:Israel then shall dwell in safety alone:
+VERSE:The fountain of Jacob
+VERSE:Shall be upon a land of corn and wine;
+VERSE:Also his heavens shall drop down dew.
+LABEL:29
+VERSE:Happy art thou, O Israel:
+VERSE:Who is like unto thee, O people saved by the LORD,
+VERSE:The shield of thy help,
+VERSE:And who is the sword of thy excellency!
+VERSE:And thine enemies shall be found liars unto thee;
+VERSE:And thou shalt tread upon their high places.

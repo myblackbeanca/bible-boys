@@ -1,0 +1,68 @@
+TRANSLATION:WEBUS
+BOOK:JOS
+CHAPTER:12
+TITLE:Joshua 12
+LABEL:1
+VERSE:Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward:
+LABEL:2
+VERSE:Sihon king of the Amorites, who lived in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and the middle of the valley, and half Gilead, even to the river Jabbok, the border of the children of Ammon;
+LABEL:3
+VERSE:and the Arabah to the sea of Chinneroth, eastward, and to the sea of the Arabah, even the Salt Sea, eastward, the way to Beth Jeshimoth; and on the south, under the slopes of Pisgah:
+LABEL:4
+VERSE:and the border of Og king of Bashan, of the remnant of the Rephaim, who lived at Ashtaroth and at Edrei,
+LABEL:5
+VERSE:and ruled in Mount Hermon, and in Salecah, and in all Bashan, to the border of the Geshurites and the Maacathites, and half Gilead, the border of Sihon king of Heshbon.
+LABEL:6
+VERSE:Moses the servant of Yahweh and the children of Israel struck them. Moses the servant of Yahweh gave it for a possession to the Reubenites, and the Gadites, and the half-tribe of Manasseh.
+LABEL:7
+VERSE:These are the kings of the land whom Joshua and the children of Israel struck beyond the Jordan westward, from Baal Gad in the valley of Lebanon even to Mount Halak, that goes up to Seir. Joshua gave it to the tribes of Israel for a possession according to their divisions;
+LABEL:8
+VERSE:in the hill country, and in the lowland, and in the Arabah, and in the slopes, and in the wilderness, and in the South; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:
+LABEL:9
+VERSE:the king of Jericho, one;
+VERSE:the king of Ai, which is beside Bethel, one;
+LABEL:10
+VERSE:the king of Jerusalem, one;
+VERSE:the king of Hebron, one;
+LABEL:11
+VERSE:the king of Jarmuth, one;
+VERSE:the king of Lachish, one;
+LABEL:12
+VERSE:the king of Eglon, one;
+VERSE:the king of Gezer, one;
+LABEL:13
+VERSE:the king of Debir, one;
+VERSE:the king of Geder, one;
+LABEL:14
+VERSE:the king of Hormah, one;
+VERSE:the king of Arad, one;
+LABEL:15
+VERSE:the king of Libnah, one;
+VERSE:the king of Adullam, one;
+LABEL:16
+VERSE:the king of Makkedah, one;
+VERSE:the king of Bethel, one;
+LABEL:17
+VERSE:the king of Tappuah, one;
+VERSE:the king of Hepher, one;
+LABEL:18
+VERSE:the king of Aphek, one;
+VERSE:the king of Lassharon, one;
+LABEL:19
+VERSE:the king of Madon, one;
+VERSE:the king of Hazor, one;
+LABEL:20
+VERSE:the king of Shimron Meron, one;
+VERSE:the king of Achshaph, one;
+LABEL:21
+VERSE:the king of Taanach, one;
+VERSE:the king of Megiddo, one;
+LABEL:22
+VERSE:the king of Kedesh, one;
+VERSE:the king of Jokneam in Carmel, one;
+LABEL:23
+VERSE:the king of Dor in the height of Dor, one;
+VERSE:the king of Goiim in Gilgal, one;
+LABEL:24
+VERSE:the king of Tirzah, one:
+VERSE:all the kings thirty-one.

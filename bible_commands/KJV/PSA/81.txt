@@ -1,0 +1,55 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:81
+TITLE:Psalm 81
+LABEL:1
+VERSE:Sing aloud unto God our strength:
+VERSE:Make a joyful noise unto the God of Jacob.
+LABEL:2
+VERSE:Take a psalm, and bring hither the timbrel,
+VERSE:The pleasant harp with the psaltery.
+LABEL:3
+VERSE:Blow up the trumpet in the new moon,
+VERSE:In the time appointed, on our solemn feast day.
+LABEL:4
+VERSE:For this was a statute for Israel,
+VERSE:And a law of the God of Jacob.
+LABEL:5
+VERSE:This he ordained in Joseph for a testimony,
+VERSE:When he went out through the land of Egypt:
+VERSE:Where I heard a language that I understood not.
+LABEL:6
+VERSE:I removed his shoulder from the burden:
+VERSE:His hands were delivered from the pots.
+LABEL:7
+VERSE:Thou calledst in trouble, and I delivered thee;
+VERSE:I answered thee in the secret place of thunder:
+VERSE:I proved thee
+VERSE:At the waters of Meribah. Selah.
+LABEL:8
+VERSE:Hear, O my people, and I will testify unto thee:
+VERSE:O Israel, if thou wilt hearken unto me;
+LABEL:9
+VERSE:There shall no strange god be in thee;
+VERSE:Neither shalt thou worship any strange god.
+LABEL:10
+VERSE:I am the LORD thy God, which brought thee out of the land of Egypt:
+VERSE:Open thy mouth wide, and I will fill it.
+LABEL:11
+VERSE:But my people would not hearken to my voice;
+VERSE:And Israel would none of me.
+LABEL:12
+VERSE:So I gave them up unto their own hearts' lust:
+VERSE:And they walked in their own counsels.
+LABEL:13
+VERSE:Oh that my people had hearkened unto me,
+VERSE:And Israel had walked in my ways!
+LABEL:14
+VERSE:I should soon have subdued their enemies,
+VERSE:And turned my hand against their adversaries.
+LABEL:15
+VERSE:The haters of the LORD should have submitted themselves unto him:
+VERSE:But their time should have endured for ever.
+LABEL:16
+VERSE:He should have fed them also with the finest of the wheat:
+VERSE:And with honey out of the rock should I have satisfied thee.

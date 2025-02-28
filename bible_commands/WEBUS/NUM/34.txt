@@ -1,0 +1,62 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:34
+TITLE:Numbers 34
+LABEL:1
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:2
+VERSE:“Command the children of Israel, and tell them, ‘When you come into the land of Canaan (this is the land that shall fall to you for an inheritance, even the land of Canaan according to its borders),
+LABEL:3
+VERSE:then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward.
+LABEL:4
+VERSE:Your border shall turn about southward of the ascent of Akrabbim, and pass along to Zin; and it shall pass southward of Kadesh Barnea; and it shall go from there to Hazar Addar, and pass along to Azmon.
+LABEL:5
+VERSE:The border shall turn about from Azmon to the brook of Egypt, and it shall end at the sea.
+LABEL:6
+VERSE:“‘For the western border, you shall have the great sea and its border. This shall be your west border.
+LABEL:7
+VERSE:“‘This shall be your north border: from the great sea you shall mark out for yourselves Mount Hor.
+LABEL:8
+VERSE:From Mount Hor you shall mark out to the entrance of Hamath; and the border shall pass by Zedad.
+LABEL:9
+VERSE:Then the border shall go to Ziphron, and it shall end at Hazar Enan. This shall be your north border.
+LABEL:10
+VERSE:“‘You shall mark out your east border from Hazar Enan to Shepham.
+LABEL:11
+VERSE:The border shall go down from Shepham to Riblah, on the east side of Ain. The border shall go down, and shall reach to the side of the sea of Chinnereth eastward.
+LABEL:12
+VERSE:The border shall go down to the Jordan, and end at the Salt Sea. This shall be your land according to its borders around it.’”
+LABEL:13
+VERSE:Moses commanded the children of Israel, saying, “This is the land which you shall inherit by lot, which Yahweh has commanded to give to the nine tribes, and to the half-tribe;
+LABEL:14
+VERSE:for the tribe of the children of Reuben according to their fathers’ houses, the tribe of the children of Gad according to their fathers’ houses, and the half-tribe of Manasseh have received their inheritance.
+LABEL:15
+VERSE:The two tribes and the half-tribe have received their inheritance beyond the Jordan at Jericho eastward, toward the sunrise.”
+LABEL:16
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:17
+VERSE:“These are the names of the men who shall divide the land to you for inheritance: Eleazar the priest, and Joshua the son of Nun.
+LABEL:18
+VERSE:You shall take one prince of every tribe, to divide the land for inheritance.
+LABEL:19
+VERSE:These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh.
+LABEL:20
+VERSE:Of the tribe of the children of Simeon, Shemuel the son of Ammihud.
+LABEL:21
+VERSE:Of the tribe of Benjamin, Elidad the son of Chislon.
+LABEL:22
+VERSE:Of the tribe of the children of Dan a prince, Bukki the son of Jogli.
+LABEL:23
+VERSE:Of the children of Joseph: of the tribe of the children of Manasseh a prince, Hanniel the son of Ephod.
+LABEL:24
+VERSE:Of the tribe of the children of Ephraim a prince, Kemuel the son of Shiphtan.
+LABEL:25
+VERSE:Of the tribe of the children of Zebulun a prince, Elizaphan the son of Parnach.
+LABEL:26
+VERSE:Of the tribe of the children of Issachar a prince, Paltiel the son of Azzan.
+LABEL:27
+VERSE:Of the tribe of the children of Asher a prince, Ahihud the son of Shelomi.
+LABEL:28
+VERSE:Of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud.”
+LABEL:29
+VERSE:These are they whom Yahweh commanded to divide the inheritance to the children of Israel in the land of Canaan.

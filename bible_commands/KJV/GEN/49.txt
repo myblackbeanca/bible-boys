@@ -1,0 +1,124 @@
+TRANSLATION:KJV
+BOOK:GEN
+CHAPTER:49
+TITLE:Genesis 49
+SECTION:Jacob's Blessing
+LABEL:1
+VERSE:And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
+LABEL:2
+VERSE:Gather yourselves together, and hear, ye sons of Jacob;
+VERSE:And hearken unto Israel your father.
+LABEL:3
+VERSE:Reuben, thou art my firstborn, my might, and the beginning of my strength,
+VERSE:The excellency of dignity, and the excellency of power:
+LABEL:4
+VERSE:Unstable as water, thou shalt not excel;
+VERSE:Because thou wentest up to thy father's bed;
+VERSE:Then defiledst thou it: he went up to my couch.
+LABEL:5
+VERSE:Simeon and Levi are brethren;
+VERSE:Instruments of cruelty are in their habitations.
+LABEL:6
+VERSE:O my soul, come not thou into their secret;
+VERSE:Unto their assembly, mine honour, be not thou united:
+VERSE:For in their anger they slew a man,
+VERSE:And in their selfwill they digged down a wall.
+LABEL:7
+VERSE:Cursed be their anger, for it was fierce;
+VERSE:And their wrath, for it was cruel:
+VERSE:I will divide them in Jacob,
+VERSE:And scatter them in Israel.
+LABEL:8
+VERSE:Judah, thou art he whom thy brethren shall praise:
+VERSE:Thy hand shall be in the neck of thine enemies;
+VERSE:Thy father's children shall bow down before thee.
+LABEL:9
+VERSE:Judah is a lion's whelp:
+VERSE:From the prey, my son, thou art gone up:
+VERSE:He stooped down, he couched as a lion,
+VERSE:And as an old lion; who shall rouse him up?
+LABEL:10
+VERSE:The sceptre shall not depart from Judah,
+VERSE:Nor a lawgiver from between his feet,
+VERSE:Until Shiloh come;
+VERSE:And unto him shall the gathering of the people be.
+LABEL:11
+VERSE:Binding his foal unto the vine,
+VERSE:And his ass's colt unto the choice vine;
+VERSE:He washed his garments in wine,
+VERSE:And his clothes in the blood of grapes:
+LABEL:12
+VERSE:His eyes shall be red with wine,
+VERSE:And his teeth white with milk.
+LABEL:13
+VERSE:Zebulun shall dwell at the haven of the sea;
+VERSE:And he shall be for an haven of ships;
+VERSE:And his border shall be unto Zidon.
+LABEL:14
+VERSE:Issachar is a strong ass
+VERSE:Couching down between two burdens:
+LABEL:15
+VERSE:And he saw that rest was good,
+VERSE:And the land that it was pleasant;
+VERSE:And bowed his shoulder to bear,
+VERSE:And became a servant unto tribute.
+LABEL:16
+VERSE:Dan shall judge his people,
+VERSE:As one of the tribes of Israel.
+LABEL:17
+VERSE:Dan shall be a serpent by the way,
+VERSE:An adder in the path,
+VERSE:That biteth the horse heels,
+VERSE:So that his rider shall fall backward.
+LABEL:18
+VERSE:I have waited for thy salvation, O LORD.
+LABEL:19
+VERSE:Gad, a troop shall overcome him:
+VERSE:But he shall overcome at the last.
+LABEL:20
+VERSE:Out of Asher his bread shall be fat,
+VERSE:And he shall yield royal dainties.
+LABEL:21
+VERSE:Naphtali is a hind let loose:
+VERSE:He giveth goodly words.
+LABEL:22
+VERSE:Joseph is a fruitful bough,
+VERSE:Even a fruitful bough by a well;
+VERSE:Whose branches run over the wall:
+LABEL:23
+VERSE:The archers have sorely grieved him,
+VERSE:And shot at him, and hated him:
+LABEL:24
+VERSE:But his bow abode in strength,
+VERSE:And the arms of his hands were made strong
+VERSE:By the hands of the mighty God of Jacob;
+VERSE:(From thence is the shepherd, the stone of Israel:)
+LABEL:25
+VERSE:  Even by the God of thy father, who shall help thee;
+VERSE:And by the Almighty, who shall bless thee
+VERSE:With blessings of heaven above,
+VERSE:Blessings of the deep that lieth under,
+VERSE:Blessings of the breasts, and of the womb:
+LABEL:26
+VERSE:The blessings of thy father
+VERSE:Have prevailed above the blessings of my progenitors
+VERSE:Unto the utmost bound of the everlasting hills:
+VERSE:They shall be on the head of Joseph,
+VERSE:And on the crown of the head of him that was separate from his brethren.
+LABEL:27
+VERSE:Benjamin shall ravin as a wolf:
+VERSE:In the morning he shall devour the prey,
+VERSE:And at night he shall divide the spoil.
+SECTION:Death of Jacob
+LABEL:28
+VERSE:All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.
+LABEL:29
+VERSE:And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+LABEL:30
+VERSE:in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
+LABEL:31
+VERSE:There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
+LABEL:32
+VERSE:The purchase of the field and of the cave that is therein was from the children of Heth.
+LABEL:33
+VERSE:And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.

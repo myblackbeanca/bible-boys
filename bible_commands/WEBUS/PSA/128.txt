@@ -1,0 +1,21 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:128
+TITLE:Psalms 128
+LABEL:1
+VERSE:Blessed is everyone who fears Yahweh,
+VERSE:who walks in his ways.
+LABEL:2
+VERSE:For you will eat the labor of your hands.
+VERSE:You will be happy, and it will be well with you.
+LABEL:3
+VERSE:Your wife will be as a fruitful vine in the innermost parts of your house,
+VERSE:your children like olive shoots around your table.
+LABEL:4
+VERSE:Behold, this is how the man who fears Yahweh is blessed.
+LABEL:5
+VERSE:May Yahweh bless you out of Zion,
+VERSE:and may you see the good of Jerusalem all the days of your life.
+LABEL:6
+VERSE:Yes, may you see your children’s children.
+VERSE:Peace be upon Israel.

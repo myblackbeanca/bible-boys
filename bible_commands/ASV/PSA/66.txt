@@ -1,0 +1,69 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:66
+TITLE:Psalms 66
+LABEL:1
+VERSE:Make a joyful noise unto God, all the earth:
+LABEL:2
+VERSE:Sing forth the glory of his name:
+VERSE:Make his praise glorious.
+LABEL:3
+VERSE:Say unto God, How terrible are thy works!
+VERSE:Through the greatness of thy power shall thine enemies submit themselves unto thee.
+LABEL:4
+VERSE:All the earth shall worship thee,
+VERSE:And shall sing unto thee;
+VERSE:They shall sing to thy name. [Selah
+LABEL:5
+VERSE:Come, and see the works of God;
+VERSE:He is terrible in his doing toward the children of men.
+LABEL:6
+VERSE:He turned the sea into dry land;
+VERSE:They went through the river on foot:
+VERSE:There did we rejoice in him.
+LABEL:7
+VERSE:He ruleth by his might for ever;
+VERSE:His eyes observe the nations:
+VERSE:Let not the rebellious exalt themselves. [Selah
+LABEL:8
+VERSE:Oh bless our God, ye peoples,
+VERSE:And make the voice of his praise to be heard;
+LABEL:9
+VERSE:Who holdeth our soul in life,
+VERSE:And suffereth not our feet to be moved.
+LABEL:10
+VERSE:For thou, O God, hast proved us:
+VERSE:Thou hast tried us, as silver is tried.
+LABEL:11
+VERSE:Thou broughtest us into the net;
+VERSE:Thou layedst a sore burden upon our loins.
+LABEL:12
+VERSE:Thou didst cause men to ride over our heads;
+VERSE:We went through fire and through water;
+VERSE:But thou broughtest us out into a wealthy place.
+LABEL:13
+VERSE:I will come into thy house with burnt-offerings;
+VERSE:I will pay thee my vows,
+LABEL:14
+VERSE:Which my lips uttered,
+VERSE:And my mouth spake, when I was in distress.
+LABEL:15
+VERSE:I will offer unto thee burnt-offerings of fatlings,
+VERSE:With the incense of rams;
+VERSE:I will offer bullocks with goats. [Selah
+LABEL:16
+VERSE:Come, and hear, all ye that fear God,
+VERSE:And I will declare what he hath done for my soul.
+LABEL:17
+VERSE:I cried unto him with my mouth,
+VERSE:And he was extolled with my tongue.
+LABEL:18
+VERSE:If I regard iniquity in my heart,
+VERSE:The Lord will not hear:
+LABEL:19
+VERSE:But verily God hath heard;
+VERSE:He hath attended to the voice of my prayer.
+LABEL:20
+VERSE:Blessed be God,
+VERSE:Who hath not turned away my prayer,
+VERSE:Nor his lovingkindness from me.

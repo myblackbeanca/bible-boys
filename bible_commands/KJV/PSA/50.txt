@@ -1,0 +1,74 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:50
+TITLE:Psalm 50
+LABEL:1
+VERSE:The mighty God, even the LORD, hath spoken,
+VERSE:And called the earth from the rising of the sun unto the going down thereof.
+LABEL:2
+VERSE:Out of Zion, the perfection of beauty,
+VERSE:God hath shined.
+LABEL:3
+VERSE:Our God shall come, and shall not keep silence:
+VERSE:A fire shall devour before him, and it shall be very tempestuous round about him.
+LABEL:4
+VERSE:He shall call to the heavens from above,
+VERSE:And to the earth, that he may judge his people.
+LABEL:5
+VERSE:Gather my saints together unto me;
+VERSE:Those that have made a covenant with me by sacrifice.
+LABEL:6
+VERSE:And the heavens shall declare his righteousness:
+VERSE:For God is judge himself. Selah.
+LABEL:7
+VERSE:Hear, O my people, and I will speak;
+VERSE:O Israel, and I will testify against thee: I am God, even thy God.
+LABEL:8
+VERSE:I will not reprove thee for thy sacrifices
+VERSE:Or thy burnt offerings, to have been continually before me.
+LABEL:9
+VERSE:I will take no bullock out of thy house,
+VERSE:Nor he goats out of thy folds.
+LABEL:10
+VERSE:For every beast of the forest is mine,
+VERSE:And the cattle upon a thousand hills.
+LABEL:11
+VERSE:I know all the fowls of the mountains:
+VERSE:And the wild beasts of the field are mine.
+LABEL:12
+VERSE:If I were hungry, I would not tell thee:
+VERSE:For the world is mine, and the fulness thereof.
+LABEL:13
+VERSE:Will I eat the flesh of bulls,
+VERSE:Or drink the blood of goats?
+LABEL:14
+VERSE:Offer unto God thanksgiving;
+VERSE:And pay thy vows unto the most High:
+LABEL:15
+VERSE:And call upon me in the day of trouble:
+VERSE:I will deliver thee, and thou shalt glorify me.
+LABEL:16
+VERSE:But unto the wicked God saith,
+VERSE:What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
+LABEL:17
+VERSE:Seeing thou hatest instruction,
+VERSE:And castest my words behind thee.
+LABEL:18
+VERSE:When thou sawest a thief, then thou consentedst with him,
+VERSE:And hast been partaker with adulterers.
+LABEL:19
+VERSE:Thou givest thy mouth to evil,
+VERSE:And thy tongue frameth deceit.
+LABEL:20
+VERSE:Thou sittest and speakest against thy brother;
+VERSE:Thou slanderest thine own mother's son.
+LABEL:21
+VERSE:These things hast thou done, and I kept silence;
+VERSE:Thou thoughtest that I was altogether such an one as thyself:
+VERSE:But I will reprove thee, and set them in order before thine eyes.
+LABEL:22
+VERSE:Now consider this, ye that forget God,
+VERSE:Lest I tear you in pieces, and there be none to deliver.
+LABEL:23
+VERSE:Whoso offereth praise glorifieth me:
+VERSE:And to him that ordereth his conversation aright will I shew the salvation of God.

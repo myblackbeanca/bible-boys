@@ -1,0 +1,98 @@
+TRANSLATION:WEBUS
+BOOK:NEH
+CHAPTER:12
+TITLE:Nehemiah 12
+LABEL:1
+VERSE:Now these are the priests and the Levites who went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
+LABEL:2
+VERSE:Amariah, Malluch, Hattush,
+LABEL:3
+VERSE:Shecaniah, Rehum, Meremoth,
+LABEL:4
+VERSE:Iddo, Ginnethoi, Abijah,
+LABEL:5
+VERSE:Mijamin, Maadiah, Bilgah,
+LABEL:6
+VERSE:Shemaiah, Joiarib, Jedaiah,
+LABEL:7
+VERSE:Sallu, Amok, Hilkiah, and Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua.
+LABEL:8
+VERSE:Moreover the Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was over the thanksgiving songs, he and his brothers.
+LABEL:9
+VERSE:Also Bakbukiah and Unno, their brothers, were close to them according to their offices.
+LABEL:10
+VERSE:Jeshua became the father of Joiakim, and Joiakim became the father of Eliashib, and Eliashib became the father of Joiada,
+LABEL:11
+VERSE:and Joiada became the father of Jonathan, and Jonathan became the father of Jaddua.
+LABEL:12
+VERSE:In the days of Joiakim were priests, heads of fathers’ households: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+LABEL:13
+VERSE:of Ezra, Meshullam; of Amariah, Jehohanan;
+LABEL:14
+VERSE:of Malluchi, Jonathan; of Shebaniah, Joseph;
+LABEL:15
+VERSE:of Harim, Adna; of Meraioth, Helkai;
+LABEL:16
+VERSE:of Iddo, Zechariah; of Ginnethon, Meshullam;
+LABEL:17
+VERSE:of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;
+LABEL:18
+VERSE:of Bilgah, Shammua; of Shemaiah, Jehonathan;
+LABEL:19
+VERSE:of Joiarib, Mattenai; of Jedaiah, Uzzi;
+LABEL:20
+VERSE:of Sallai, Kallai; of Amok, Eber;
+LABEL:21
+VERSE:of Hilkiah, Hashabiah; of Jedaiah, Nethanel.
+LABEL:22
+VERSE:As for the Levites, in the days of Eliashib, Joiada, Johanan, and Jaddua, there were recorded the heads of fathers’ households; also the priests, in the reign of Darius the Persian.
+LABEL:23
+VERSE:The sons of Levi, heads of fathers’ households, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
+LABEL:24
+VERSE:The chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers close to them, to praise and give thanks according to the commandment of David the man of God, section next to section.
+LABEL:25
+VERSE:Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers keeping the watch at the storehouses of the gates.
+LABEL:26
+VERSE:These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest and scribe.
+LABEL:27
+VERSE:At the dedication of the wall of Jerusalem, they sought the Levites out of all their places, to bring them to Jerusalem to keep the dedication with gladness, both with giving thanks and with singing, with cymbals, stringed instruments, and with harps.
+LABEL:28
+VERSE:The sons of the singers gathered themselves together, both out of the plain around Jerusalem and from the villages of the Netophathites;
+LABEL:29
+VERSE:also from Beth Gilgal and out of the fields of Geba and Azmaveth, for the singers had built themselves villages around Jerusalem.
+LABEL:30
+VERSE:The priests and the Levites purified themselves; and they purified the people, the gates, and the wall.
+LABEL:31
+VERSE:Then I brought the princes of Judah up on the wall, and appointed two great companies who gave thanks and went in procession. One went on the right hand on the wall toward the dung gate;
+LABEL:32
+VERSE:and after them went Hoshaiah, with half of the princes of Judah,
+LABEL:33
+VERSE:and Azariah, Ezra, and Meshullam,
+LABEL:34
+VERSE:Judah, Benjamin, Shemaiah, Jeremiah,
+LABEL:35
+VERSE:and some of the priests’ sons with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph;
+LABEL:36
+VERSE:and his brothers, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, with the musical instruments of David the man of God; and Ezra the scribe was before them.
+LABEL:37
+VERSE:By the spring gate, and straight before them, they went up by the stairs of David’s city, at the ascent of the wall, above David’s house, even to the water gate eastward.
+LABEL:38
+VERSE:The other company of those who gave thanks went to meet them, and I after them, with the half of the people on the wall above the tower of the furnaces, even to the wide wall,
+LABEL:39
+VERSE:and above the gate of Ephraim, and by the old gate, and by the fish gate, the tower of Hananel, and the tower of Hammeah, even to the sheep gate; and they stood still in the gate of the guard.
+LABEL:40
+VERSE:So the two companies of those who gave thanks in God’s house stood, and I and the half of the rulers with me;
+LABEL:41
+VERSE:and the priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
+LABEL:42
+VERSE:and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. The singers sang loud, with Jezrahiah their overseer.
+LABEL:43
+VERSE:They offered great sacrifices that day, and rejoiced, for God had made them rejoice with great joy; and the women and the children also rejoiced, so that the joy of Jerusalem was heard even far away.
+LABEL:44
+VERSE:On that day, men were appointed over the rooms for the treasures, for the wave offerings, for the first fruits, and for the tithes, to gather into them according to the fields of the cities the portions appointed by the law for the priests and Levites; for Judah rejoiced for the priests and for the Levites who served.
+LABEL:45
+VERSE:They performed the duty of their God and the duty of the purification, and so did the singers and the gatekeepers, according to the commandment of David and of Solomon his son.
+LABEL:46
+VERSE:For in the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving to God.
+LABEL:47
+VERSE:All Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, as every day required; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron.

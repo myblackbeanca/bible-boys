@@ -1,0 +1,55 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:17
+TITLE:Psalms 17
+LABEL:1
+VERSE:Hear the right, O Jehovah, attend unto my cry;
+VERSE:Give ear unto my prayer, that goeth not out of feigned lips.
+LABEL:2
+VERSE:Let my sentence come forth from thy presence;
+VERSE:Let thine eyes look upon equity.
+LABEL:3
+VERSE:Thou hast proved my heart; thou hast visited me in the night;
+VERSE:Thou hast tried me, and findest nothing;
+VERSE:I am purposed that my mouth shall not transgress.
+LABEL:4
+VERSE:As for the works of men, by the word of thy lips
+VERSE:I have kept me from the ways of the violent.
+LABEL:5
+VERSE:My steps have held fast to thy paths,
+VERSE:My feet have not slipped.
+LABEL:6
+VERSE:I have called upon thee, for thou wilt answer me, O God:
+VERSE:Incline thine ear unto me, and hear my speech.
+LABEL:7
+VERSE:Show thy marvellous lovingkindness,
+VERSE:O thou that savest by thy right hand them that take refuge in thee
+VERSE:From those that rise up against them.
+LABEL:8
+VERSE:Keep me as the apple of the eye;
+VERSE:Hide me under the shadow of thy wings,
+LABEL:9
+VERSE:From the wicked that oppress me,
+VERSE:My deadly enemies, that compass me about.
+LABEL:10
+VERSE:They are inclosed in their own fat:
+VERSE:With their mouth they speak proudly.
+LABEL:11
+VERSE:They have now compassed us in our steps;
+VERSE:They set their eyes to cast us down to the earth.
+LABEL:12
+VERSE:He is like a lion that is greedy of his prey,
+VERSE:And as it were a young lion lurking in secret places.
+LABEL:13
+VERSE:Arise, O Jehovah,
+VERSE:Confront him, cast him down:
+VERSE:Deliver my soul from the wicked by thy sword;
+LABEL:14
+VERSE:From men by thy hand, O Jehovah,
+VERSE:From men of the world, whose portion is in this life,
+VERSE:And whose belly thou fillest with thy treasure:
+VERSE:They are satisfied with children,
+VERSE:And leave the rest of their substance to their babes.
+LABEL:15
+VERSE:As for me, I shall behold thy face in righteousness;
+VERSE:I shall be satisfied, when I awake, with beholding thy form.

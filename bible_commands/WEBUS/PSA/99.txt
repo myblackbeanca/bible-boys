@@ -1,0 +1,38 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:99
+TITLE:Psalms 99
+LABEL:1
+VERSE:Yahweh reigns! Let the peoples tremble.
+VERSE:He sits enthroned among the cherubim.
+VERSE:Let the earth be moved.
+LABEL:2
+VERSE:Yahweh is great in Zion.
+VERSE:He is high above all the peoples.
+LABEL:3
+VERSE:Let them praise your great and awesome name.
+VERSE:He is Holy!
+LABEL:4
+VERSE:The King’s strength also loves justice.
+VERSE:You establish equity.
+VERSE:You execute justice and righteousness in Jacob.
+LABEL:5
+VERSE:Exalt Yahweh our God.
+VERSE:Worship at his footstool.
+VERSE:He is Holy!
+LABEL:6
+VERSE:Moses and Aaron were among his priests,
+VERSE:Samuel was among those who call on his name.
+VERSE:They called on Yahweh, and he answered them.
+LABEL:7
+VERSE:He spoke to them in the pillar of cloud.
+VERSE:They kept his testimonies,
+VERSE:the statute that he gave them.
+LABEL:8
+VERSE:You answered them, Yahweh our God.
+VERSE:You are a God who forgave them,
+VERSE:although you took vengeance for their doings.
+LABEL:9
+VERSE:Exalt Yahweh, our God.
+VERSE:Worship at his holy hill,
+VERSE:for Yahweh, our God, is holy!

@@ -1,0 +1,62 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:88
+TITLE:Psalms 88
+LABEL:1
+VERSE:O Jehovah, the God of my salvation,
+VERSE:I have cried day and night before thee.
+LABEL:2
+VERSE:Let my prayer enter into thy presence;
+VERSE:Incline thine ear unto my cry.
+LABEL:3
+VERSE:For my soul is full of troubles,
+VERSE:And my life draweth nigh unto Sheol.
+LABEL:4
+VERSE:I am reckoned with them that go down into the pit;
+VERSE:I am as a man that hath no help,
+LABEL:5
+VERSE:Cast off among the dead,
+VERSE:Like the slain that lie in the grave,
+VERSE:Whom thou rememberest no more,
+VERSE:And they are cut off from thy hand.
+LABEL:6
+VERSE:Thou hast laid me in the lowest pit,
+VERSE:In dark places, in the deeps.
+LABEL:7
+VERSE:Thy wrath lieth hard upon me,
+VERSE:And thou hast afflicted me with all thy waves. [Selah
+LABEL:8
+VERSE:Thou hast put mine acquaintance far from me;
+VERSE:Thou hast made me an abomination unto them:
+VERSE:I am shut up, and I cannot come forth.
+LABEL:9
+VERSE:Mine eye wasteth away by reason of affliction:
+VERSE:I have called daily upon thee, O Jehovah;
+VERSE:I have spread forth my hands unto thee.
+LABEL:10
+VERSE:Wilt thou show wonders to the dead?
+VERSE:Shall they that are deceased arise and praise thee? [Selah
+LABEL:11
+VERSE:Shall thy lovingkindness be declared in the grave?
+VERSE:Or thy faithfulness in Destruction?
+LABEL:12
+VERSE:Shall thy wonders be known in the dark?
+VERSE:And thy righteousness in the land of forgetfulness?
+LABEL:13
+VERSE:But unto thee, O Jehovah, have I cried;
+VERSE:And in the morning shall my prayer come before thee.
+LABEL:14
+VERSE:Jehovah, why castest thou off my soul?
+VERSE:Why hidest thou thy face from me?
+LABEL:15
+VERSE:I am afflicted and ready to die from my youth up:
+VERSE:While I suffer thy terrors I am distracted.
+LABEL:16
+VERSE:Thy fierce wrath is gone over me;
+VERSE:Thy terrors have cut me off.
+LABEL:17
+VERSE:They came round about me like water all the day long;
+VERSE:They compassed me about together.
+LABEL:18
+VERSE:Lover and friend hast thou put far from me,
+VERSE:And mine acquaintance into darkness.

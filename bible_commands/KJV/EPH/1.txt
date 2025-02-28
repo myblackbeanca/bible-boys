@@ -1,0 +1,51 @@
+TRANSLATION:KJV
+BOOK:EPH
+CHAPTER:1
+TITLE:Ephesians 1
+LABEL:1
+VERSE:Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
+LABEL:2
+VERSE:grace be to you, and peace, from God our Father, and from the Lord Jesus Christ.
+SECTION:The Gospel of Your Salvation
+LABEL:3
+VERSE:Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
+LABEL:4
+VERSE:according as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
+LABEL:5
+VERSE:having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
+LABEL:6
+VERSE:to the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
+LABEL:7
+VERSE:In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+LABEL:8
+VERSE:wherein he hath abounded toward us in all wisdom and prudence;
+LABEL:9
+VERSE:having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
+LABEL:10
+VERSE:that in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+LABEL:11
+VERSE:in whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
+LABEL:12
+VERSE:that we should be to the praise of his glory, who first trusted in Christ.
+LABEL:13
+VERSE:In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+LABEL:14
+VERSE:which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
+LABEL:15
+VERSE:Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,
+LABEL:16
+VERSE:cease not to give thanks for you, making mention of you in my prayers;
+LABEL:17
+VERSE:that the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
+LABEL:18
+VERSE:the eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
+LABEL:19
+VERSE:and what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
+LABEL:20
+VERSE:which he wrought in Christ, when he raised him from the dead, and set him at his own right hand in the heavenly places,
+LABEL:21
+VERSE:far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
+LABEL:22
+VERSE:and hath put all things under his feet, and gave him to be the head over all things to the church,
+LABEL:23
+VERSE:which is his body, the fulness of him that filleth all in all.

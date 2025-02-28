@@ -1,0 +1,79 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:13
+TITLE:Proverbs 13
+LABEL:1
+VERSE:A wise son heareth his father's instruction:
+VERSE:But a scorner heareth not rebuke.
+LABEL:2
+VERSE:A man shall eat good by the fruit of his mouth:
+VERSE:But the soul of the transgressors shall eat violence.
+LABEL:3
+VERSE:He that keepeth his mouth keepeth his life:
+VERSE:But he that openeth wide his lips shall have destruction.
+LABEL:4
+VERSE:The soul of the sluggard desireth, and hath nothing:
+VERSE:But the soul of the diligent shall be made fat.
+LABEL:5
+VERSE:A righteous man hateth lying:
+VERSE:But a wicked man is loathsome, and cometh to shame.
+LABEL:6
+VERSE:Righteousness keepeth him that is upright in the way:
+VERSE:But wickedness overthroweth the sinner.
+LABEL:7
+VERSE:There is that maketh himself rich, yet hath nothing:
+VERSE:There is that maketh himself poor, yet hath great riches.
+LABEL:8
+VERSE:The ransom of a man's life are his riches:
+VERSE:But the poor heareth not rebuke.
+LABEL:9
+VERSE:The light of the righteous rejoiceth:
+VERSE:But the lamp of the wicked shall be put out.
+LABEL:10
+VERSE:Only by pride cometh contention:
+VERSE:But with the well advised is wisdom.
+LABEL:11
+VERSE:Wealth gotten by vanity shall be diminished:
+VERSE:But he that gathereth by labour shall increase.
+LABEL:12
+VERSE:Hope deferred maketh the heart sick:
+VERSE:But when the desire cometh, it is a tree of life.
+LABEL:13
+VERSE:Whoso despiseth the word shall be destroyed:
+VERSE:But he that feareth the commandment shall be rewarded.
+LABEL:14
+VERSE:The law of the wise is a fountain of life,
+VERSE:To depart from the snares of death.
+LABEL:15
+VERSE:Good understanding giveth favour:
+VERSE:But the way of transgressors is hard.
+LABEL:16
+VERSE:Every prudent man dealeth with knowledge:
+VERSE:But a fool layeth open his folly.
+LABEL:17
+VERSE:A wicked messenger falleth into mischief:
+VERSE:But a faithful ambassador is health.
+LABEL:18
+VERSE:Poverty and shame shall be to him that refuseth instruction:
+VERSE:But he that regardeth reproof shall be honoured.
+LABEL:19
+VERSE:The desire accomplished is sweet to the soul:
+VERSE:But it is abomination to fools to depart from evil.
+LABEL:20
+VERSE:He that walketh with wise men shall be wise:
+VERSE:But a companion of fools shall be destroyed.
+LABEL:21
+VERSE:Evil pursueth sinners:
+VERSE:But to the righteous good shall be repaid.
+LABEL:22
+VERSE:A good man leaveth an inheritance to his children's children:
+VERSE:And the wealth of the sinner is laid up for the just.
+LABEL:23
+VERSE:Much food is in the tillage of the poor:
+VERSE:But there is that is destroyed for want of judgment.
+LABEL:24
+VERSE:He that spareth his rod hateth his son:
+VERSE:But he that loveth him chasteneth him betimes.
+LABEL:25
+VERSE:The righteous eateth to the satisfying of his soul:
+VERSE:But the belly of the wicked shall want.

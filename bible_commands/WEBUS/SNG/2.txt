@@ -1,0 +1,78 @@
+TRANSLATION:WEBUS
+BOOK:SNG
+CHAPTER:2
+TITLE:Song of Solomon 2
+SECTION:Beloved
+LABEL:1
+VERSE:I am a rose of Sharon,
+VERSE:a lily of the valleys.
+SECTION:Lover
+LABEL:2
+VERSE:As a lily among thorns,
+VERSE:so is my love among the daughters.
+SECTION:Beloved
+LABEL:3
+VERSE:As the apple tree among the trees of the wood,
+VERSE:so is my beloved among the sons.
+VERSE:I sat down under his shadow with great delight,
+VERSE:his fruit was sweet to my taste.
+LABEL:4
+VERSE:He brought me to the banquet hall.
+VERSE:His banner over me is love.
+LABEL:5
+VERSE:Strengthen me with raisins,
+VERSE:refresh me with apples;
+VERSE:for I am faint with love.
+LABEL:6
+VERSE:His left hand is under my head.
+VERSE:His right hand embraces me.
+LABEL:7
+VERSE:I adjure you, daughters of Jerusalem,
+VERSE:by the roes, or by the hinds of the field,
+VERSE:that you not stir up, nor awaken love,
+VERSE:until it so desires.
+LABEL:8
+VERSE:The voice of my beloved!
+VERSE:Behold, he comes,
+VERSE:leaping on the mountains,
+VERSE:skipping on the hills.
+LABEL:9
+VERSE:My beloved is like a roe or a young deer.
+VERSE:Behold, he stands behind our wall!
+VERSE:He looks in at the windows.
+VERSE:He glances through the lattice.
+LABEL:10
+VERSE:My beloved spoke, and said to me,
+VERSE:“Rise up, my love, my beautiful one, and come away.
+LABEL:11
+VERSE:For behold, the winter is past.
+VERSE:The rain is over and gone.
+LABEL:12
+VERSE:The flowers appear on the earth.
+VERSE:The time of the singing has come,
+VERSE:and the voice of the turtledove is heard in our land.
+LABEL:13
+VERSE:The fig tree ripens her green figs.
+VERSE:The vines are in blossom.
+VERSE:They give out their fragrance.
+VERSE:Arise, my love, my beautiful one,
+VERSE:and come away.”
+SECTION:Lover
+LABEL:14
+VERSE:My dove in the clefts of the rock,
+VERSE:in the hiding places of the mountainside,
+VERSE:let me see your face.
+VERSE:Let me hear your voice;
+VERSE:for your voice is sweet and your face is lovely.
+LABEL:15
+VERSE:Catch for us the foxes,
+VERSE:the little foxes that plunder the vineyards;
+VERSE:for our vineyards are in blossom.
+SECTION:Beloved
+LABEL:16
+VERSE:My beloved is mine, and I am his.
+VERSE:He browses among the lilies.
+LABEL:17
+VERSE:Until the day is cool, and the shadows flee away,
+VERSE:turn, my beloved,
+VERSE:and be like a roe or a young deer on the mountains of Bether.

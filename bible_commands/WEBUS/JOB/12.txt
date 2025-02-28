@@ -1,0 +1,81 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:12
+TITLE:Job 12
+LABEL:1
+VERSE:Then Job answered,
+LABEL:2
+VERSE:“No doubt, but you are the people,
+VERSE:and wisdom will die with you.
+LABEL:3
+VERSE:But I have understanding as well as you;
+VERSE:I am not inferior to you.
+VERSE:Yes, who doesn’t know such things as these?
+LABEL:4
+VERSE:I am like one who is a joke to his neighbor,
+VERSE:I, who called on God, and he answered.
+VERSE:The just, the blameless man is a joke.
+LABEL:5
+VERSE:In the thought of him who is at ease there is contempt for misfortune.
+VERSE:It is ready for them whose foot slips.
+LABEL:6
+VERSE:The tents of robbers prosper.
+VERSE:Those who provoke God are secure,
+VERSE:who carry their god in their hands.
+LABEL:7
+VERSE:“But ask the animals now, and they will teach you;
+VERSE:the birds of the sky, and they will tell you.
+LABEL:8
+VERSE:Or speak to the earth, and it will teach you.
+VERSE:The fish of the sea will declare to you.
+LABEL:9
+VERSE:Who doesn’t know that in all these,
+VERSE:Yahweh’s hand has done this,
+LABEL:10
+VERSE:in whose hand is the life of every living thing,
+VERSE:and the breath of all mankind?
+LABEL:11
+VERSE:Doesn’t the ear try words,
+VERSE:even as the palate tastes its food?
+LABEL:12
+VERSE:With aged men is wisdom,
+VERSE:in length of days understanding.
+LABEL:13
+VERSE:“With God is wisdom and might.
+VERSE:He has counsel and understanding.
+LABEL:14
+VERSE:Behold, he breaks down, and it can’t be built again.
+VERSE:He imprisons a man, and there can be no release.
+LABEL:15
+VERSE:Behold, he withholds the waters, and they dry up.
+VERSE:Again, he sends them out, and they overturn the earth.
+LABEL:16
+VERSE:With him is strength and wisdom.
+VERSE:The deceived and the deceiver are his.
+LABEL:17
+VERSE:He leads counselors away stripped.
+VERSE:He makes judges fools.
+LABEL:18
+VERSE:He loosens the bond of kings.
+VERSE:He binds their waist with a belt.
+LABEL:19
+VERSE:He leads priests away stripped,
+VERSE:and overthrows the mighty.
+LABEL:20
+VERSE:He removes the speech of those who are trusted,
+VERSE:and takes away the understanding of the elders.
+LABEL:21
+VERSE:He pours contempt on princes,
+VERSE:and loosens the belt of the strong.
+LABEL:22
+VERSE:He uncovers deep things out of darkness,
+VERSE:and brings out to light the shadow of death.
+LABEL:23
+VERSE:He increases the nations, and he destroys them.
+VERSE:He enlarges the nations, and he leads them captive.
+LABEL:24
+VERSE:He takes away understanding from the chiefs of the people of the earth,
+VERSE:and causes them to wander in a wilderness where there is no way.
+LABEL:25
+VERSE:They grope in the dark without light.
+VERSE:He makes them stagger like a drunken man.

@@ -1,0 +1,62 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:80
+TITLE:Psalms 80
+LABEL:1
+VERSE:Give ear, O Shepherd of Israel,
+VERSE:Thou that leadest Joseph like a flock;
+VERSE:Thou that sittest above the cherubim, shine forth.
+LABEL:2
+VERSE:Before Ephraim and Benjamin and Manasseh, stir up thy might,
+VERSE:And come to save us.
+LABEL:3
+VERSE:Turn us again, O God;
+VERSE:And cause thy face to shine, and we shall be saved.
+LABEL:4
+VERSE:O Jehovah God of hosts,
+VERSE:How long wilt thou be angry against the prayer of thy people?
+LABEL:5
+VERSE:Thou hast fed them with the bread of tears,
+VERSE:And given them tears to drink in large measure.
+LABEL:6
+VERSE:Thou makest us a strife unto our neighbors;
+VERSE:And our enemies laugh among themselves.
+LABEL:7
+VERSE:Turn us again, O God of hosts;
+VERSE:And cause thy face to shine, and we shall be saved.
+LABEL:8
+VERSE:Thou broughtest a vine out of Egypt:
+VERSE:Thou didst drive out the nations, and plantedst it.
+LABEL:9
+VERSE:Thou preparedst room before it,
+VERSE:And it took deep root, and filled the land.
+LABEL:10
+VERSE:The mountains were covered with the shadow of it,
+VERSE:And the boughs thereof were like cedars of God.
+LABEL:11
+VERSE:It sent out its branches unto the sea,
+VERSE:And its shoots unto the River.
+LABEL:12
+VERSE:Why hast thou broken down its walls,
+VERSE:So that all they that pass by the way do pluck it?
+LABEL:13
+VERSE:The boar out of the wood doth ravage it,
+VERSE:And the wild beasts of the field feed on it.
+LABEL:14
+VERSE:Turn again, we beseech thee, O God of hosts:
+VERSE:Look down from heaven, and behold, and visit this vine,
+LABEL:15
+VERSE:And the stock which thy right hand planted,
+VERSE:And the branch that thou madest strong for thyself.
+LABEL:16
+VERSE:It is burned with fire, it is cut down:
+VERSE:They perish at the rebuke of thy countenance.
+LABEL:17
+VERSE:Let thy hand be upon the man of thy right hand,
+VERSE:Upon the son of man whom thou madest strong for thyself.
+LABEL:18
+VERSE:So shall we not go back from thee:
+VERSE:Quicken thou us, and we will call upon thy name.
+LABEL:19
+VERSE:Turn us again, O Jehovah God of hosts;
+VERSE:Cause thy face to shine, and we shall be saved.

@@ -1,0 +1,29 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:110
+TITLE:Psalms 110
+LABEL:1
+VERSE:Jehovah saith unto my Lord, Sit thou at my right hand,
+VERSE:Until I make thine enemies thy footstool.
+LABEL:2
+VERSE:Jehovah will send forth the rod of thy strength out of Zion:
+VERSE:Rule thou in the midst of thine enemies.
+LABEL:3
+VERSE:Thy people offer themselves willingly
+VERSE:In the day of thy power, in holy array:
+VERSE:Out of the womb of the morning
+VERSE:Thou hast the dew of thy youth.
+LABEL:4
+VERSE:Jehovah hath sworn, and will not repent:
+VERSE:Thou art a priest for ever
+VERSE:After the order of Melchizedek.
+LABEL:5
+VERSE:The Lord at thy right hand
+VERSE:Will strike through kings in the day of his wrath.
+LABEL:6
+VERSE:He will judge among the nations,
+VERSE:He will fill the places with dead bodies;
+VERSE:He will strike through the head in many countries.
+LABEL:7
+VERSE:He will drink of the brook in the way:
+VERSE:Therefore will he lift up the head.

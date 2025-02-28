@@ -1,0 +1,75 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:14
+TITLE:Job 14
+LABEL:1
+VERSE:Man, that is born of a woman,
+VERSE:Is of few days, and full of trouble.
+LABEL:2
+VERSE:He cometh forth like a flower, and is cut down:
+VERSE:He fleeth also as a shadow, and continueth not.
+LABEL:3
+VERSE:And dost thou open thine eyes upon such a one,
+VERSE:And bringest me into judgment with thee?
+LABEL:4
+VERSE:Who can bring a clean thing out of an unclean? not one.
+LABEL:5
+VERSE:Seeing his days are determined,
+VERSE:The number of his months is with thee,
+VERSE:And thou hast appointed his bounds that he cannot pass;
+LABEL:6
+VERSE:Look away from him, that he may rest,
+VERSE:Till he shall accomplish, as a hireling, his day.
+LABEL:7
+VERSE:For there is hope of a tree,
+VERSE:If it be cut down, that it will sprout again,
+VERSE:And that the tender branch thereof will not cease.
+LABEL:8
+VERSE:Though the root thereof wax old in the earth,
+VERSE:And the stock thereof die in the ground;
+LABEL:9
+VERSE:Yet through the scent of water it will bud,
+VERSE:And put forth boughs like a plant.
+LABEL:10
+VERSE:But man dieth, and is laid low:
+VERSE:Yea, man giveth up the ghost, and where is he?
+LABEL:11
+VERSE:  As the waters fail from the sea,
+VERSE:And the river wasteth and drieth up;
+LABEL:12
+VERSE:So man lieth down and riseth not:
+VERSE:Till the heavens be no more, they shall not awake,
+VERSE:Nor be roused out of their sleep.
+LABEL:13
+VERSE:Oh that thou wouldest hide me in Sheol,
+VERSE:That thou wouldest keep me secret, until thy wrath be past,
+VERSE:That thou wouldest appoint me a set time, and remember me!
+LABEL:14
+VERSE:If a man die, shall he live again?
+VERSE:All the days of my warfare would I wait,
+VERSE:Till my release should come.
+LABEL:15
+VERSE:Thou wouldest call, and I would answer thee:
+VERSE:Thou wouldest have a desire to the work of thy hands.
+LABEL:16
+VERSE:But now thou numberest my steps:
+VERSE:Dost thou not watch over my sin?
+LABEL:17
+VERSE:My transgression is sealed up in a bag,
+VERSE:And thou fastenest up mine iniquity.
+LABEL:18
+VERSE:But the mountain falling cometh to nought;
+VERSE:And the rock is removed out of its place;
+LABEL:19
+VERSE:The waters wear the stones;
+VERSE:The overflowings thereof wash away the dust of the earth:
+VERSE:So thou destroyest the hope of man.
+LABEL:20
+VERSE:Thou prevailest for ever against him, and he passeth;
+VERSE:Thou changest his countenance, and sendest him away.
+LABEL:21
+VERSE:His sons come to honor, and he knoweth it not;
+VERSE:And they are brought low, but he perceiveth it not of them.
+LABEL:22
+VERSE:But his flesh upon him hath pain,
+VERSE:And his soul within him mourneth.

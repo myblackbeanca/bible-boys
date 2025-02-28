@@ -1,0 +1,23 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:126
+TITLE:Psalms 126
+LABEL:1
+VERSE:When Jehovah brought back those that returned to Zion,
+VERSE:We were like unto them that dream.
+LABEL:2
+VERSE:Then was our mouth filled with laughter,
+VERSE:And our tongue with singing:
+VERSE:Then said they among the nations,
+VERSE:Jehovah hath done great things for them.
+LABEL:3
+VERSE:Jehovah hath done great things for us,
+VERSE:Whereof we are glad.
+LABEL:4
+VERSE:Turn again our captivity, O Jehovah,
+VERSE:As the streams in the South.
+LABEL:5
+VERSE:They that sow in tears shall reap in joy.
+LABEL:6
+VERSE:He that goeth forth and weepeth, bearing seed for sowing,
+VERSE:Shall doubtless come again with joy, bringing his sheaves with him.

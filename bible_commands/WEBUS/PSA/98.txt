@@ -1,0 +1,34 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:98
+TITLE:Psalms 98
+LABEL:1
+VERSE:Sing to Yahweh a new song,
+VERSE:for he has done marvelous things!
+VERSE:His right hand and his holy arm have worked salvation for him.
+LABEL:2
+VERSE:Yahweh has made known his salvation.
+VERSE:He has openly shown his righteousness in the sight of the nations.
+LABEL:3
+VERSE:He has remembered his loving kindness and his faithfulness toward the house of Israel.
+VERSE:All the ends of the earth have seen the salvation of our God.
+LABEL:4
+VERSE:Make a joyful noise to Yahweh, all the earth!
+VERSE:Burst out and sing for joy, yes, sing praises!
+LABEL:5
+VERSE:Sing praises to Yahweh with the harp,
+VERSE:with the harp and the voice of melody.
+LABEL:6
+VERSE:With trumpets and sound of the ram’s horn,
+VERSE:make a joyful noise before the King, Yahweh.
+LABEL:7
+VERSE:Let the sea roar with its fullness;
+VERSE:the world, and those who dwell therein.
+LABEL:8
+VERSE:Let the rivers clap their hands.
+VERSE:Let the mountains sing for joy together.
+LABEL:9
+VERSE:Let them sing before Yahweh,
+VERSE:for he comes to judge the earth.
+VERSE:He will judge the world with righteousness,
+VERSE:and the peoples with equity.

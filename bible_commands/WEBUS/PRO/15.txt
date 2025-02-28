@@ -1,0 +1,103 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:15
+TITLE:Proverbs 15
+LABEL:1
+VERSE:A gentle answer turns away wrath,
+VERSE:but a harsh word stirs up anger.
+LABEL:2
+VERSE:The tongue of the wise commends knowledge,
+VERSE:but the mouths of fools gush out folly.
+LABEL:3
+VERSE:Yahweh’s eyes are everywhere,
+VERSE:keeping watch on the evil and the good.
+LABEL:4
+VERSE:A gentle tongue is a tree of life,
+VERSE:but deceit in it crushes the spirit.
+LABEL:5
+VERSE:A fool despises his father’s correction,
+VERSE:but he who heeds reproof shows prudence.
+LABEL:6
+VERSE:In the house of the righteous is much treasure,
+VERSE:but the income of the wicked brings trouble.
+LABEL:7
+VERSE:The lips of the wise spread knowledge;
+VERSE:not so with the heart of fools.
+LABEL:8
+VERSE:The sacrifice made by the wicked is an abomination to Yahweh,
+VERSE:but the prayer of the upright is his delight.
+LABEL:9
+VERSE:The way of the wicked is an abomination to Yahweh,
+VERSE:but he loves him who follows after righteousness.
+LABEL:10
+VERSE:There is stern discipline for one who forsakes the way.
+VERSE:Whoever hates reproof shall die.
+LABEL:11
+VERSE:Sheol and Abaddon are before Yahweh—
+VERSE:how much more then the hearts of the children of men!
+LABEL:12
+VERSE:A scoffer doesn’t love to be reproved;
+VERSE:he will not go to the wise.
+LABEL:13
+VERSE:A glad heart makes a cheerful face,
+VERSE:but an aching heart breaks the spirit.
+LABEL:14
+VERSE:The heart of one who has understanding seeks knowledge,
+VERSE:but the mouths of fools feed on folly.
+LABEL:15
+VERSE:All the days of the afflicted are wretched,
+VERSE:but one who has a cheerful heart enjoys a continual feast.
+LABEL:16
+VERSE:Better is little, with the fear of Yahweh,
+VERSE:than great treasure with trouble.
+LABEL:17
+VERSE:Better is a dinner of herbs, where love is,
+VERSE:than a fattened calf with hatred.
+LABEL:18
+VERSE:A wrathful man stirs up contention,
+VERSE:but one who is slow to anger appeases strife.
+LABEL:19
+VERSE:The way of the sluggard is like a thorn patch,
+VERSE:but the path of the upright is a highway.
+LABEL:20
+VERSE:A wise son makes a father glad,
+VERSE:but a foolish man despises his mother.
+LABEL:21
+VERSE:Folly is joy to one who is void of wisdom,
+VERSE:but a man of understanding keeps his way straight.
+LABEL:22
+VERSE:Where there is no counsel, plans fail;
+VERSE:but in a multitude of counselors they are established.
+LABEL:23
+VERSE:Joy comes to a man with the reply of his mouth.
+VERSE:How good is a word at the right time!
+LABEL:24
+VERSE:The path of life leads upward for the wise,
+VERSE:to keep him from going downward to Sheol.
+LABEL:25
+VERSE:Yahweh will uproot the house of the proud,
+VERSE:but he will keep the widow’s borders intact.
+LABEL:26
+VERSE:Yahweh detests the thoughts of the wicked,
+VERSE:but the thoughts of the pure are pleasing.
+LABEL:27
+VERSE:He who is greedy for gain troubles his own house,
+VERSE:but he who hates bribes will live.
+LABEL:28
+VERSE:The heart of the righteous weighs answers,
+VERSE:but the mouth of the wicked gushes out evil.
+LABEL:29
+VERSE:Yahweh is far from the wicked,
+VERSE:but he hears the prayer of the righteous.
+LABEL:30
+VERSE:The light of the eyes rejoices the heart.
+VERSE:Good news gives health to the bones.
+LABEL:31
+VERSE:The ear that listens to reproof lives,
+VERSE:and will be at home among the wise.
+LABEL:32
+VERSE:He who refuses correction despises his own soul,
+VERSE:but he who listens to reproof gets understanding.
+LABEL:33
+VERSE:The fear of Yahweh teaches wisdom.
+VERSE:Before honor is humility.

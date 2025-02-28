@@ -1,0 +1,78 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:10
+TITLE:Job 10
+LABEL:1
+VERSE:“My soul is weary of my life.
+VERSE:I will give free course to my complaint.
+VERSE:I will speak in the bitterness of my soul.
+LABEL:2
+VERSE:I will tell God, ‘Do not condemn me.
+VERSE:Show me why you contend with me.
+LABEL:3
+VERSE:Is it good to you that you should oppress,
+VERSE:that you should despise the work of your hands,
+VERSE:and smile on the counsel of the wicked?
+LABEL:4
+VERSE:Do you have eyes of flesh?
+VERSE:Or do you see as man sees?
+LABEL:5
+VERSE:Are your days as the days of mortals,
+VERSE:or your years as man’s years,
+LABEL:6
+VERSE:that you inquire after my iniquity,
+VERSE:and search after my sin?
+LABEL:7
+VERSE:Although you know that I am not wicked,
+VERSE:there is no one who can deliver out of your hand.
+LABEL:8
+VERSE:“‘Your hands have framed me and fashioned me altogether,
+VERSE:yet you destroy me.
+LABEL:9
+VERSE:Remember, I beg you, that you have fashioned me as clay.
+VERSE:Will you bring me into dust again?
+LABEL:10
+VERSE:Haven’t you poured me out like milk,
+VERSE:and curdled me like cheese?
+LABEL:11
+VERSE:You have clothed me with skin and flesh,
+VERSE:and knit me together with bones and sinews.
+LABEL:12
+VERSE:You have granted me life and loving kindness.
+VERSE:Your visitation has preserved my spirit.
+LABEL:13
+VERSE:Yet you hid these things in your heart.
+VERSE:I know that this is with you:
+LABEL:14
+VERSE:if I sin, then you mark me.
+VERSE:You will not acquit me from my iniquity.
+LABEL:15
+VERSE:If I am wicked, woe to me.
+VERSE:If I am righteous, I still will not lift up my head,
+VERSE:being filled with disgrace,
+VERSE:and conscious of my affliction.
+LABEL:16
+VERSE:If my head is held high, you hunt me like a lion.
+VERSE:Again you show yourself powerful to me.
+LABEL:17
+VERSE:You renew your witnesses against me,
+VERSE:and increase your indignation on me.
+VERSE:Changes and warfare are with me.
+LABEL:18
+VERSE:“‘Why, then, have you brought me out of the womb?
+VERSE:I wish I had given up the spirit, and no eye had seen me.
+LABEL:19
+VERSE:I should have been as though I had not been.
+VERSE:I should have been carried from the womb to the grave.
+LABEL:20
+VERSE:Aren’t my days few?
+VERSE:Stop!
+VERSE:Leave me alone, that I may find a little comfort,
+LABEL:21
+VERSE:before I go where I will not return from,
+VERSE:to the land of darkness and of the shadow of death;
+LABEL:22
+VERSE:the land dark as midnight,
+VERSE:of the shadow of death,
+VERSE:without any order,
+VERSE:where the light is as midnight.’”

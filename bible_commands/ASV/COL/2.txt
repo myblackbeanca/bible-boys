@@ -1,0 +1,50 @@
+TRANSLATION:ASV
+BOOK:COL
+CHAPTER:2
+TITLE:Colossians 2
+LABEL:1
+VERSE:For I would have you know how greatly I strive for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;
+LABEL:2
+VERSE:that their hearts may be comforted, they being knit together in love, and unto all riches of the full assurance of understanding, that they may know the mystery of God, even Christ,
+LABEL:3
+VERSE:in whom are all the treasures of wisdom and knowledge hidden.
+LABEL:4
+VERSE:This I say, that no one may delude you with persuasiveness of speech.
+LABEL:5
+VERSE:For though I am absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
+LABEL:6
+VERSE:As therefore ye received Christ Jesus the Lord, so walk in him,
+LABEL:7
+VERSE:rooted and builded up in him, and established in your faith, even as ye were taught, abounding in thanksgiving.
+LABEL:8
+VERSE:Take heed lest there shall be any one that maketh spoil of you through his philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ:
+LABEL:9
+VERSE:for in him dwelleth all the fulness of the Godhead bodily,
+LABEL:10
+VERSE:and in him ye are made full, who is the head of all principality and power:
+LABEL:11
+VERSE:in whom ye were also circumcised with a circumcision not made with hands, in the putting off of the body of the flesh, in the circumcision of Christ;
+LABEL:12
+VERSE:having been buried with him in baptism, wherein ye were also raised with him through faith in the working of God, who raised him from the dead.
+LABEL:13
+VERSE:And you, being dead through your trespasses and the uncircumcision of your flesh, you, I say, did he make alive together with him, having forgiven us all our trespasses;
+LABEL:14
+VERSE:having blotted out the bond written in ordinances that was against us, which was contrary to us: and he hath taken it out of the way, nailing it to the cross;
+LABEL:15
+VERSE:having despoiled the principalities and the powers, he made a show of them openly, triumphing over them in it.
+LABEL:16
+VERSE:Let no man therefore judge you in meat, or in drink, or in respect of a feast day or a new moon or a sabbath day:
+LABEL:17
+VERSE:which are a shadow of the things to come; but the body is Christ’s.
+LABEL:18
+VERSE:Let no man rob you of your prize by a voluntary humility and worshipping of the angels, dwelling in the things which he hath seen, vainly puffed up by his fleshly mind,
+LABEL:19
+VERSE:and not holding fast the Head, from whom all the body, being supplied and knit together through the joints and bands, increaseth with the increase of God.
+LABEL:20
+VERSE:If ye died with Christ from the rudiments of the world, why, as though living in the world, do ye subject yourselves to ordinances,
+LABEL:21
+VERSE:Handle not, nor taste, nor touch
+LABEL:22
+VERSE:(all which things are to perish with the using), after the precepts and doctrines of men?
+LABEL:23
+VERSE:Which things have indeed a show of wisdom in will-worship, and humility, and severity to the body; but are not of any value against the indulgence of the flesh.

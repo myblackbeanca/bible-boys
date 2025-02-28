@@ -1,0 +1,70 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:72
+TITLE:Psalms 72
+LABEL:1
+VERSE:Give the king thy judgments, O God,
+VERSE:And thy righteousness unto the king’s son.
+LABEL:2
+VERSE:He will judge thy people with righteousness,
+VERSE:And thy poor with justice.
+LABEL:3
+VERSE:The mountains shall bring peace to the people,
+VERSE:And the hills, in righteousness.
+LABEL:4
+VERSE:He will judge the poor of the people,
+VERSE:He will save the children of the needy,
+VERSE:And will break in pieces the oppressor.
+LABEL:5
+VERSE:They shall fear thee while the sun endureth,
+VERSE:And so long as the moon, throughout all generations.
+LABEL:6
+VERSE:He will come down like rain upon the mown grass,
+VERSE:As showers that water the earth.
+LABEL:7
+VERSE:In his days shall the righteous flourish,
+VERSE:And abundance of peace, till the moon be no more.
+LABEL:8
+VERSE:He shall have dominion also from sea to sea,
+VERSE:And from the River unto the ends of the earth.
+LABEL:9
+VERSE:They that dwell in the wilderness shall bow before him;
+VERSE:And his enemies shall lick the dust.
+LABEL:10
+VERSE:The kings of Tarshish and of the isles shall render tribute:
+VERSE:The kings of Sheba and Seba shall offer gifts.
+LABEL:11
+VERSE:Yea, all kings shall fall down before him;
+VERSE:All nations shall serve him.
+LABEL:12
+VERSE:For he will deliver the needy when he crieth,
+VERSE:And the poor, that hath no helper.
+LABEL:13
+VERSE:He will have pity on the poor and needy,
+VERSE:And the souls of the needy he will save.
+LABEL:14
+VERSE:He will redeem their soul from oppression and violence;
+VERSE:And precious will their blood be in his sight:
+LABEL:15
+VERSE:And they shall live; and to him shall be given of the gold of Sheba:
+VERSE:And men shall pray for him continually;
+VERSE:They shall bless him all the day long.
+LABEL:16
+VERSE:There shall be abundance of grain in the earth upon the top of the mountains;
+VERSE:The fruit thereof shall shake like Lebanon:
+VERSE:And they of the city shall flourish like grass of the earth.
+LABEL:17
+VERSE:His name shall endure for ever;
+VERSE:His name shall be continued as long as the sun:
+VERSE:And men shall be blessed in him;
+VERSE:All nations shall call him happy.
+LABEL:18
+VERSE:Blessed be Jehovah God, the God of Israel,
+VERSE:Who only doeth wondrous things:
+LABEL:19
+VERSE:And blessed be his glorious name for ever;
+VERSE:And let the whole earth be filled with his glory.
+VERSE:Amen, and Amen.
+LABEL:20
+VERSE:The prayers of David the son of Jesse are ended.
+SECTION:BOOK III

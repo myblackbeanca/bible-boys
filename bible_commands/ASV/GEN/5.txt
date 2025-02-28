@@ -1,0 +1,68 @@
+TRANSLATION:ASV
+BOOK:GEN
+CHAPTER:5
+TITLE:Genesis 5
+LABEL:1
+VERSE:This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;
+LABEL:2
+VERSE:male and female created he them, and blessed them, and called their name Adam, in the day when they were created.
+LABEL:3
+VERSE:And Adam lived a hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:
+LABEL:4
+VERSE:and the days of Adam after he begat Seth were eight hundred years: and he begat sons and daughters.
+LABEL:5
+VERSE:And all the days that Adam lived were nine hundred and thirty years: and he died.
+LABEL:6
+VERSE:And Seth lived a hundred and five years, and begat Enosh:
+LABEL:7
+VERSE:and Seth lived after he begat Enosh eight hundred and seven years, and begat sons and daughters:
+LABEL:8
+VERSE:and all the days of Seth were nine hundred and twelve years: and he died.
+LABEL:9
+VERSE:And Enosh lived ninety years, and begat Kenan:
+LABEL:10
+VERSE:and Enosh lived after he begat Kenan eight hundred and fifteen years, and begat sons and daughters:
+LABEL:11
+VERSE:and all the days of Enosh were nine hundred and five years: and he died.
+LABEL:12
+VERSE:And Kenan lived seventy years, and begat Mahalalel:
+LABEL:13
+VERSE:and Kenan lived after he begat Mahalalel eight hundred and forty years, and begat sons and daughters:
+LABEL:14
+VERSE:and all the days of Kenan were nine hundred and ten years: and he died.
+LABEL:15
+VERSE:And Mahalalel lived sixty and five years, and begat Jared:
+LABEL:16
+VERSE:and Mahalalel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:
+LABEL:17
+VERSE:and all the days of Mahalalel were eight hundred ninety and five years: and he died.
+LABEL:18
+VERSE:And Jared lived a hundred sixty and two years, and begat Enoch:
+LABEL:19
+VERSE:and Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:
+LABEL:20
+VERSE:and all the days of Jared were nine hundred sixty and two years: and he died.
+LABEL:21
+VERSE:And Enoch lived sixty and five years, and begat Methuselah:
+LABEL:22
+VERSE:and Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:
+LABEL:23
+VERSE:and all the days of Enoch were three hundred sixty and five years:
+LABEL:24
+VERSE:and Enoch walked with God: and he was not; for God took him.
+LABEL:25
+VERSE:And Methuselah lived a hundred eighty and seven years, and begat Lamech:
+LABEL:26
+VERSE:and Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:
+LABEL:27
+VERSE:and all the days of Methuselah were nine hundred sixty and nine years: and he died.
+LABEL:28
+VERSE:And Lamech lived a hundred eighty and two years, and begat a son:
+LABEL:29
+VERSE:and he called his name Noah, saying, This same shall comfort us in our work and in the toil of our hands, which cometh because of the ground which Jehovah hath cursed.
+LABEL:30
+VERSE:And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:
+LABEL:31
+VERSE:And all the days of Lamech were seven hundred seventy and seven years: and he died.
+LABEL:32
+VERSE:And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.

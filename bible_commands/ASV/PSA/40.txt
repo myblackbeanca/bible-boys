@@ -1,0 +1,69 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:40
+TITLE:Psalms 40
+LABEL:1
+VERSE:I waited patiently for Jehovah;
+VERSE:And he inclined unto me, and heard my cry.
+LABEL:2
+VERSE:He brought me up also out of a horrible pit, out of the miry clay;
+VERSE:And he set my feet upon a rock, and established my goings.
+LABEL:3
+VERSE:And he hath put a new song in my mouth, even praise unto our God:
+VERSE:Many shall see it, and fear,
+VERSE:And shall trust in Jehovah.
+LABEL:4
+VERSE:Blessed is the man that maketh Jehovah his trust,
+VERSE:And respecteth not the proud, nor such as turn aside to lies.
+LABEL:5
+VERSE:Many, O Jehovah my God, are the wonderful works which thou hast done,
+VERSE:And thy thoughts which are to us-ward:
+VERSE:They cannot be set in order unto thee;
+VERSE:If I would declare and speak of them,
+VERSE:They are more than can be numbered.
+LABEL:6
+VERSE:Sacrifice and offering thou hast no delight in;
+VERSE:Mine ears hast thou opened:
+VERSE:Burnt-offering and sin-offering hast thou not required.
+LABEL:7
+VERSE:Then said I, Lo, I am come;
+VERSE:In the roll of the book it is written of me:
+LABEL:8
+VERSE:I delight to do thy will, O my God;
+VERSE:Yea, thy law is within my heart.
+LABEL:9
+VERSE:I have proclaimed glad tidings of righteousness in the great assembly;
+VERSE:Lo, I will not refrain my lips,
+VERSE:O Jehovah, thou knowest.
+LABEL:10
+VERSE:I have not hid thy righteousness within my heart;
+VERSE:I have declared thy faithfulness and thy salvation;
+VERSE:I have not concealed thy lovingkindness and thy truth from the great assembly.
+LABEL:11
+VERSE:Withhold not thou thy tender mercies from me, O Jehovah;
+VERSE:Let thy lovingkindness and thy truth continually preserve me.
+LABEL:12
+VERSE:For innumerable evils have compassed me about;
+VERSE:Mine iniquities have overtaken me, so that I am not able to look up;
+VERSE:They are more than the hairs of my head;
+VERSE:And my heart hath failed me.
+LABEL:13
+VERSE:Be pleased, O Jehovah, to deliver me:
+VERSE:Make haste to help me, O Jehovah.
+LABEL:14
+VERSE:Let them be put to shame and confounded together
+VERSE:That seek after my soul to destroy it:
+VERSE:Let them be turned backward and brought to dishonor
+VERSE:That delight in my hurt.
+LABEL:15
+VERSE:Let them be desolate by reason of their shame
+VERSE:That say unto me, Aha, aha.
+LABEL:16
+VERSE:Let all those that seek thee rejoice and be glad in thee:
+VERSE:Let such as love thy salvation say continually,
+VERSE:Jehovah be magnified.
+LABEL:17
+VERSE:But I am poor and needy;
+VERSE:Yet the Lord thinketh upon me:
+VERSE:Thou art my help and my deliverer;
+VERSE:Make no tarrying, O my God.

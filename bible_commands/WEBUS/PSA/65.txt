@@ -1,0 +1,54 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:65
+TITLE:Psalms 65
+LABEL:1
+VERSE:Praise waits for you, God, in Zion.
+VERSE:Vows shall be performed to you.
+LABEL:2
+VERSE:You who hear prayer,
+VERSE:all men will come to you.
+LABEL:3
+VERSE:Sins overwhelmed me,
+VERSE:but you atoned for our transgressions.
+LABEL:4
+VERSE:Blessed is the one whom you choose and cause to come near,
+VERSE:that he may live in your courts.
+VERSE:We will be filled with the goodness of your house,
+VERSE:your holy temple.
+LABEL:5
+VERSE:By awesome deeds of righteousness, you answer us,
+VERSE:God of our salvation.
+VERSE:You who are the hope of all the ends of the earth,
+VERSE:of those who are far away on the sea.
+LABEL:6
+VERSE:By your power, you form the mountains,
+VERSE:having armed yourself with strength.
+LABEL:7
+VERSE:You still the roaring of the seas,
+VERSE:the roaring of their waves,
+VERSE:and the turmoil of the nations.
+LABEL:8
+VERSE:They also who dwell in faraway places are afraid at your wonders.
+VERSE:You call the morning’s dawn and the evening with songs of joy.
+LABEL:9
+VERSE:You visit the earth, and water it.
+VERSE:You greatly enrich it.
+VERSE:The river of God is full of water.
+VERSE:You provide them grain, for so you have ordained it.
+LABEL:10
+VERSE:You drench its furrows.
+VERSE:You level its ridges.
+VERSE:You soften it with showers.
+VERSE:You bless it with a crop.
+LABEL:11
+VERSE:You crown the year with your bounty.
+VERSE:Your carts overflow with abundance.
+LABEL:12
+VERSE:The wilderness grasslands overflow.
+VERSE:The hills are clothed with gladness.
+LABEL:13
+VERSE:The pastures are covered with flocks.
+VERSE:The valleys also are clothed with grain.
+VERSE:They shout for joy!
+VERSE:They also sing.

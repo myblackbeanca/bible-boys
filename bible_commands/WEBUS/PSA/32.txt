@@ -1,0 +1,39 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:32
+TITLE:Psalms 32
+LABEL:1
+VERSE:Blessed is he whose disobedience is forgiven,
+VERSE:whose sin is covered.
+LABEL:2
+VERSE:Blessed is the man to whom Yahweh doesn’t impute iniquity,
+VERSE:in whose spirit there is no deceit.
+LABEL:3
+VERSE:When I kept silence, my bones wasted away through my groaning all day long.
+LABEL:4
+VERSE:For day and night your hand was heavy on me.
+VERSE:My strength was sapped in the heat of summer. Selah.
+LABEL:5
+VERSE:I acknowledged my sin to you.
+VERSE:I didn’t hide my iniquity.
+VERSE:I said, I will confess my transgressions to Yahweh,
+VERSE:and you forgave the iniquity of my sin. Selah.
+LABEL:6
+VERSE:For this, let everyone who is godly pray to you in a time when you may be found.
+VERSE:Surely when the great waters overflow, they shall not reach to him.
+LABEL:7
+VERSE:You are my hiding place.
+VERSE:You will preserve me from trouble.
+VERSE:You will surround me with songs of deliverance. Selah.
+LABEL:8
+VERSE:I will instruct you and teach you in the way which you shall go.
+VERSE:I will counsel you with my eye on you.
+LABEL:9
+VERSE:Don’t be like the horse, or like the mule, which have no understanding,
+VERSE:who are controlled by bit and bridle, or else they will not come near to you.
+LABEL:10
+VERSE:Many sorrows come to the wicked,
+VERSE:but loving kindness shall surround him who trusts in Yahweh.
+LABEL:11
+VERSE:Be glad in Yahweh, and rejoice, you righteous!
+VERSE:Shout for joy, all you who are upright in heart!

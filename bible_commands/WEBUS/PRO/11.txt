@@ -1,0 +1,97 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:11
+TITLE:Proverbs 11
+LABEL:1
+VERSE:A false balance is an abomination to Yahweh,
+VERSE:but accurate weights are his delight.
+LABEL:2
+VERSE:When pride comes, then comes shame,
+VERSE:but with humility comes wisdom.
+LABEL:3
+VERSE:The integrity of the upright shall guide them,
+VERSE:but the perverseness of the treacherous shall destroy them.
+LABEL:4
+VERSE:Riches don’t profit in the day of wrath,
+VERSE:but righteousness delivers from death.
+LABEL:5
+VERSE:The righteousness of the blameless will direct his way,
+VERSE:but the wicked shall fall by his own wickedness.
+LABEL:6
+VERSE:The righteousness of the upright shall deliver them,
+VERSE:but the unfaithful will be trapped by evil desires.
+LABEL:7
+VERSE:When a wicked man dies, hope perishes,
+VERSE:and expectation of power comes to nothing.
+LABEL:8
+VERSE:A righteous person is delivered out of trouble,
+VERSE:and the wicked takes his place.
+LABEL:9
+VERSE:With his mouth the godless man destroys his neighbor,
+VERSE:but the righteous will be delivered through knowledge.
+LABEL:10
+VERSE:When it goes well with the righteous, the city rejoices.
+VERSE:When the wicked perish, there is shouting.
+LABEL:11
+VERSE:By the blessing of the upright, the city is exalted,
+VERSE:but it is overthrown by the mouth of the wicked.
+LABEL:12
+VERSE:One who despises his neighbor is void of wisdom,
+VERSE:but a man of understanding holds his peace.
+LABEL:13
+VERSE:One who brings gossip betrays a confidence,
+VERSE:but one who is of a trustworthy spirit is one who keeps a secret.
+LABEL:14
+VERSE:Where there is no wise guidance, the nation falls,
+VERSE:but in the multitude of counselors there is victory.
+LABEL:15
+VERSE:He who is collateral for a stranger will suffer for it,
+VERSE:but he who refuses pledges of collateral is secure.
+LABEL:16
+VERSE:A gracious woman obtains honor,
+VERSE:but violent men obtain riches.
+LABEL:17
+VERSE:The merciful man does good to his own soul,
+VERSE:but he who is cruel troubles his own flesh.
+LABEL:18
+VERSE:Wicked people earn deceitful wages,
+VERSE:but one who sows righteousness reaps a sure reward.
+LABEL:19
+VERSE:He who is truly righteous gets life.
+VERSE:He who pursues evil gets death.
+LABEL:20
+VERSE:Those who are perverse in heart are an abomination to Yahweh,
+VERSE:but those whose ways are blameless are his delight.
+LABEL:21
+VERSE:Most certainly, the evil man will not be unpunished,
+VERSE:but the offspring of the righteous will be delivered.
+LABEL:22
+VERSE:Like a gold ring in a pig’s snout,
+VERSE:is a beautiful woman who lacks discretion.
+LABEL:23
+VERSE:The desire of the righteous is only good.
+VERSE:The expectation of the wicked is wrath.
+LABEL:24
+VERSE:There is one who scatters, and increases yet more.
+VERSE:There is one who withholds more than is appropriate, but gains poverty.
+LABEL:25
+VERSE:The liberal soul shall be made fat.
+VERSE:He who waters shall be watered also himself.
+LABEL:26
+VERSE:People curse someone who withholds grain,
+VERSE:but blessing will be on the head of him who sells it.
+LABEL:27
+VERSE:He who diligently seeks good seeks favor,
+VERSE:but he who searches after evil, it shall come to him.
+LABEL:28
+VERSE:He who trusts in his riches will fall,
+VERSE:but the righteous shall flourish as the green leaf.
+LABEL:29
+VERSE:He who troubles his own house shall inherit the wind.
+VERSE:The foolish shall be servant to the wise of heart.
+LABEL:30
+VERSE:The fruit of the righteous is a tree of life.
+VERSE:He who is wise wins souls.
+LABEL:31
+VERSE:Behold, the righteous shall be repaid in the earth,
+VERSE:how much more the wicked and the sinner!

@@ -1,0 +1,101 @@
+TRANSLATION:KJV
+BOOK:ACT
+CHAPTER:10
+TITLE:Acts 10
+SECTION:Conversion of Cornelius
+LABEL:1
+VERSE:There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian band,
+LABEL:2
+VERSE:a devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway.
+LABEL:3
+VERSE:He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
+LABEL:4
+VERSE:And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
+LABEL:5
+VERSE:And now send men to Joppa, and call for one Simon, whose surname is Peter:
+LABEL:6
+VERSE:he lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
+LABEL:7
+VERSE:And when the angel which spake unto Cornelius was departed, he called two of his household servants, and a devout soldier of them that waited on him continually;
+LABEL:8
+VERSE:and when he had declared all these things unto them, he sent them to Joppa.
+LABEL:9
+VERSE:On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:
+LABEL:10
+VERSE:and he became very hungry, and would have eaten: but while they made ready, he fell into a trance,
+LABEL:11
+VERSE:and saw heaven opened, and a certain vessel descending unto him, as it had been a great sheet knit at the four corners, and let down to the earth:
+LABEL:12
+VERSE:wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.
+LABEL:13
+VERSE:And there came a voice to him, Rise, Peter; kill, and eat.
+LABEL:14
+VERSE:But Peter said, Not so, Lord; for I have never eaten any thing that is common or unclean.
+LABEL:15
+VERSE:And the voice spake unto him again the second time, What God hath cleansed, that call not thou common.
+LABEL:16
+VERSE:This was done thrice: and the vessel was received up again into heaven.
+LABEL:17
+VERSE:Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,
+LABEL:18
+VERSE:and called, and asked whether Simon, which was surnamed Peter, were lodged there.
+LABEL:19
+VERSE:While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.
+LABEL:20
+VERSE:Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
+LABEL:21
+VERSE:Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?
+LABEL:22
+VERSE:And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
+LABEL:23
+VERSE:Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
+LABEL:24
+VERSE:And the morrow after they entered into Cæsarea. And Cornelius waited for them, and had called together his kinsmen and near friends.
+LABEL:25
+VERSE:And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.
+LABEL:26
+VERSE:But Peter took him up, saying, Stand up; I myself also am a man.
+LABEL:27
+VERSE:And as he talked with him, he went in, and found many that were come together.
+LABEL:28
+VERSE:And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
+LABEL:29
+VERSE:Therefore came I unto you without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?
+LABEL:30
+VERSE:And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,
+LABEL:31
+VERSE:and said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.
+LABEL:32
+VERSE:Send therefore to Joppa, and call hither Simon, whose surname is Peter; he is lodged in the house of one Simon a tanner by the sea side: who, when he cometh, shall speak unto thee.
+LABEL:33
+VERSE:Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.
+LABEL:34
+VERSE:Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
+LABEL:35
+VERSE:but in every nation he that feareth him, and worketh righteousness, is accepted with him.
+LABEL:36
+VERSE:The word which God sent unto the children of Israel, preaching peace by Jesus Christ: (he is Lord of all:)
+LABEL:37
+VERSE:that word, I say, ye know, which was published throughout all Judæa, and began from Galilee, after the baptism which John preached;
+LABEL:38
+VERSE:how God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
+LABEL:39
+VERSE:And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:
+LABEL:40
+VERSE:him God raised up the third day, and shewed him openly;
+LABEL:41
+VERSE:not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.
+LABEL:42
+VERSE:And he commanded us to preach unto the people, and to testify that it is he which was ordained of God to be the Judge of quick and dead.
+LABEL:43
+VERSE:To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
+LABEL:44
+VERSE:While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.
+LABEL:45
+VERSE:And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.
+LABEL:46
+VERSE:For they heard them speak with tongues, and magnify God. Then answered Peter,
+LABEL:47
+VERSE:Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
+LABEL:48
+VERSE:And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.

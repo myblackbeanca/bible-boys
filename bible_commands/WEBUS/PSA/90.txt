@@ -1,0 +1,60 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:90
+TITLE:Psalms 90
+SECTION:BOOK 4
+LABEL:1
+VERSE:Lord, you have been our dwelling place for all generations.
+LABEL:2
+VERSE:Before the mountains were born,
+VERSE:before you had formed the earth and the world,
+VERSE:even from everlasting to everlasting, you are God.
+LABEL:3
+VERSE:You turn man to destruction, saying,
+VERSE:“Return, you children of men.”
+LABEL:4
+VERSE:For a thousand years in your sight are just like yesterday when it is past,
+VERSE:like a watch in the night.
+LABEL:5
+VERSE:You sweep them away as they sleep.
+VERSE:In the morning they sprout like new grass.
+LABEL:6
+VERSE:In the morning it sprouts and springs up.
+VERSE:By evening, it is withered and dry.
+LABEL:7
+VERSE:For we are consumed in your anger.
+VERSE:We are troubled in your wrath.
+LABEL:8
+VERSE:You have set our iniquities before you,
+VERSE:our secret sins in the light of your presence.
+LABEL:9
+VERSE:For all our days have passed away in your wrath.
+VERSE:We bring our years to an end as a sigh.
+LABEL:10
+VERSE:The days of our years are seventy,
+VERSE:or even by reason of strength eighty years;
+VERSE:yet their pride is but labor and sorrow,
+VERSE:for it passes quickly, and we fly away.
+LABEL:11
+VERSE:Who knows the power of your anger,
+VERSE:your wrath according to the fear that is due to you?
+LABEL:12
+VERSE:So teach us to count our days,
+VERSE:that we may gain a heart of wisdom.
+LABEL:13
+VERSE:Relent, Yahweh!
+VERSE:How long?
+VERSE:Have compassion on your servants!
+LABEL:14
+VERSE:Satisfy us in the morning with your loving kindness,
+VERSE:that we may rejoice and be glad all our days.
+LABEL:15
+VERSE:Make us glad for as many days as you have afflicted us,
+VERSE:for as many years as we have seen evil.
+LABEL:16
+VERSE:Let your work appear to your servants,
+VERSE:your glory to their children.
+LABEL:17
+VERSE:Let the favor of the Lord our God be on us.
+VERSE:Establish the work of our hands for us.
+VERSE:Yes, establish the work of our hands.

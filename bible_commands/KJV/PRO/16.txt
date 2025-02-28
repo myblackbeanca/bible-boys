@@ -1,0 +1,103 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:16
+TITLE:Proverbs 16
+LABEL:1
+VERSE:The preparations of the heart in man,
+VERSE:And the answer of the tongue, is from the LORD.
+LABEL:2
+VERSE:All the ways of a man are clean in his own eyes;
+VERSE:But the LORD weigheth the spirits.
+LABEL:3
+VERSE:Commit thy works unto the LORD,
+VERSE:And thy thoughts shall be established.
+LABEL:4
+VERSE:The LORD hath made all things for himself:
+VERSE:Yea, even the wicked for the day of evil.
+LABEL:5
+VERSE:Every one that is proud in heart is an abomination to the LORD:
+VERSE:Though hand join in hand, he shall not be unpunished.
+LABEL:6
+VERSE:By mercy and truth iniquity is purged:
+VERSE:And by the fear of the LORD  men depart from evil.
+LABEL:7
+VERSE:When a man's ways please the LORD,
+VERSE:He maketh even his enemies to be at peace with him.
+LABEL:8
+VERSE:Better is a little with righteousness
+VERSE:Than great revenues without right.
+LABEL:9
+VERSE:A man's heart deviseth his way:
+VERSE:But the LORD directeth his steps.
+LABEL:10
+VERSE:A divine sentence is in the lips of the king:
+VERSE:His mouth transgresseth not in judgment.
+LABEL:11
+VERSE:A just weight and balance are the LORD's:
+VERSE:All the weights of the bag are his work.
+LABEL:12
+VERSE:  It is an abomination to kings to commit wickedness:
+VERSE:For the throne is established by righteousness.
+LABEL:13
+VERSE:Righteous lips are the delight of kings;
+VERSE:And they love him that speaketh right.
+LABEL:14
+VERSE:The wrath of a king is as messengers of death:
+VERSE:But a wise man will pacify it.
+LABEL:15
+VERSE:In the light of the king's countenance is life;
+VERSE:And his favour is as a cloud of the latter rain.
+LABEL:16
+VERSE:How much better is it to get wisdom than gold!
+VERSE:And to get understanding rather to be chosen than silver!
+LABEL:17
+VERSE:The highway of the upright is to depart from evil:
+VERSE:He that keepeth his way preserveth his soul.
+LABEL:18
+VERSE:Pride goeth before destruction,
+VERSE:And an haughty spirit before a fall.
+LABEL:19
+VERSE:Better it is to be of an humble spirit with the lowly,
+VERSE:Than to divide the spoil with the proud.
+LABEL:20
+VERSE:He that handleth a matter wisely shall find good:
+VERSE:And whoso trusteth in the LORD, happy is he.
+LABEL:21
+VERSE:The wise in heart shall be called prudent:
+VERSE:And the sweetness of the lips increaseth learning.
+LABEL:22
+VERSE:Understanding is a wellspring of life unto him that hath it:
+VERSE:But the instruction of fools is folly.
+LABEL:23
+VERSE:The heart of the wise teacheth his mouth,
+VERSE:And addeth learning to his lips.
+LABEL:24
+VERSE:Pleasant words are as an honeycomb,
+VERSE:Sweet to the soul, and health to the bones.
+LABEL:25
+VERSE:There is a way that seemeth right unto a man,
+VERSE:But the end thereof are the ways of death.
+LABEL:26
+VERSE:He that laboureth laboureth for himself;
+VERSE:For his mouth craveth it of him.
+LABEL:27
+VERSE:An ungodly man diggeth up evil:
+VERSE:And in his lips there is as a burning fire.
+LABEL:28
+VERSE:A froward man soweth strife:
+VERSE:And a whisperer separateth chief friends.
+LABEL:29
+VERSE:A violent man enticeth his neighbour,
+VERSE:And leadeth him into the way that is not good.
+LABEL:30
+VERSE:He shutteth his eyes to devise froward things:
+VERSE:Moving his lips he bringeth evil to pass.
+LABEL:31
+VERSE:The hoary head is a crown of glory,
+VERSE:If it be found in the way of righteousness.
+LABEL:32
+VERSE:  He that is slow to anger is better than the mighty;
+VERSE:And he that ruleth his spirit than he that taketh a city.
+LABEL:33
+VERSE:The lot is cast into the lap;
+VERSE:But the whole disposing thereof is of the LORD.

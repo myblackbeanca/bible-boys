@@ -1,0 +1,92 @@
+TRANSLATION:ASV
+BOOK:1CH
+CHAPTER:9
+TITLE:1 Chronicles 9
+LABEL:1
+VERSE:So all Israel were reckoned by genealogies; and, behold, they are written in the book of the kings of Israel. And Judah was carried away captive to Babylon for their transgression.
+LABEL:2
+VERSE:Now the first inhabitants that dwelt in their possessions in their cities were Israel, the priests, the Levites, and the Nethinim.
+LABEL:3
+VERSE:And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim and Manasseh:
+LABEL:4
+VERSE:Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Perez the son of Judah.
+LABEL:5
+VERSE:And of the Shilonites: Asaiah the first-born, and his sons.
+LABEL:6
+VERSE:And of the sons of Zerah: Jeuel, and their brethren, six hundred and ninety.
+LABEL:7
+VERSE:And of the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah,
+LABEL:8
+VERSE:and Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah;
+LABEL:9
+VERSE:and their brethren, according to their generations, nine hundred and fifty and six. All these men were heads of fathers’ houses by their fathers’ houses.
+LABEL:10
+VERSE:And of the priests: Jedaiah, and Jehoiarib, Jachin,
+LABEL:11
+VERSE:and Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
+LABEL:12
+VERSE:and Adaiah the son of Jeroham, the son of Pashhur, the son of Malchijah, and Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
+LABEL:13
+VERSE:and their brethren, heads of their fathers’ houses, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
+LABEL:14
+VERSE:And of the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;
+LABEL:15
+VERSE:and Bakbakkar, Heresh, and Galal, and Mattaniah the son of Mica, the son of Zichri, the son of Asaph,
+LABEL:16
+VERSE:and Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.
+LABEL:17
+VERSE:And the porters: Shallum, and Akkub, and Talmon, and Ahiman, and their brethren (Shallum was the chief),
+LABEL:18
+VERSE:who hitherto waited in the king’s gate eastward: they were the porters for the camp of the children of Levi.
+LABEL:19
+VERSE:And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of his father’s house, the Korahites, were over the work of the service, keepers of the thresholds of the tent: and their fathers had been over the camp of Jehovah, keepers of the entry.
+LABEL:20
+VERSE:And Phinehas the son of Eleazar was ruler over them in time past, and Jehovah was with him.
+LABEL:21
+VERSE:Zechariah the son of Meshelemiah was porter of the door of the tent of meeting.
+LABEL:22
+VERSE:All these that were chosen to be porters in the thresholds were two hundred and twelve. These were reckoned by genealogy in their villages, whom David and Samuel the seer did ordain in their office of trust.
+LABEL:23
+VERSE:So they and their children had the oversight of the gates of the house of Jehovah, even the house of the tent, by wards.
+LABEL:24
+VERSE:On the four sides were the porters, toward the east, west, north, and south.
+LABEL:25
+VERSE:And their brethren, in their villages, were to come in every seven days from time to time to be with them:
+LABEL:26
+VERSE:for the four chief porters, who were Levites, were in an office of trust, and were over the chambers and over the treasuries in the house of God.
+LABEL:27
+VERSE:And they lodged round about the house of God, because the charge thereof was upon them; and to them pertained the opening thereof morning by morning.
+LABEL:28
+VERSE:And certain of them had charge of the vessels of service; for by count were these brought in and by count were these taken out.
+LABEL:29
+VERSE:Some of them also were appointed over the furniture, and over all the vessels of the sanctuary, and over the fine flour, and the wine, and the oil, and the frankincense, and the spices.
+LABEL:30
+VERSE:And some of the sons of the priests prepared the confection of the spices.
+LABEL:31
+VERSE:And Mattithiah, one of the Levites, who was the first-born of Shallum the Korahite, had the office of trust over the things that were baked in pans.
+LABEL:32
+VERSE:And some of their brethren, of the sons of the Kohathites, were over the showbread, to prepare it every sabbath.
+LABEL:33
+VERSE:And these are the singers, heads of fathers’ houses of the Levites, who dwelt in the chambers and were free from other service; for they were employed in their work day and night.
+LABEL:34
+VERSE:These were heads of fathers’ houses of the Levites, throughout their generations, chief men: these dwelt at Jerusalem.
+LABEL:35
+VERSE:And in Gibeon there dwelt the father of Gibeon, Jeiel, whose wife’s name was Maacah;
+LABEL:36
+VERSE:and his first-born son Abdon, and Zur, and Kish, and Baal, and Ner, and Nadab,
+LABEL:37
+VERSE:and Gedor, and Ahio, and Zechariah, and Mikloth.
+LABEL:38
+VERSE:And Mikloth begat Shimeam. And they also dwelt with their brethren in Jerusalem, over against their brethren.
+LABEL:39
+VERSE:And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
+LABEL:40
+VERSE:And the son of Jonathan was Merib-baal; and Merib-baal begat Micah.
+LABEL:41
+VERSE:And the sons of Micah: Pithon, and Melech, and Tahrea, and Ahaz.
+LABEL:42
+VERSE:And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;
+LABEL:43
+VERSE:and Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son.
+LABEL:44
+VERSE:And Azel had six sons, whose names are these: Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.

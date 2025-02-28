@@ -1,0 +1,40 @@
+TRANSLATION:ASV
+BOOK:2CH
+CHAPTER:8
+TITLE:2 Chronicles 8
+LABEL:1
+VERSE:And it came to pass at the end of twenty years, wherein Solomon had built the house of Jehovah, and his own house,
+LABEL:2
+VERSE:that the cities which Huram had given to Solomon, Solomon built them, and caused the children of Israel to dwell there.
+LABEL:3
+VERSE:And Solomon went to Hamath-zobah, and prevailed against it.
+LABEL:4
+VERSE:And he built Tadmor in the wilderness, and all the store-cities, which he built in Hamath.
+LABEL:5
+VERSE:Also he built Beth-horon the upper, and Beth-horon the nether, fortified cities, with walls, gates, and bars;
+LABEL:6
+VERSE:and Baalath, and all the store-cities that Solomon had, and all the cities for his chariots, and the cities for his horsemen, and all that Solomon desired to build for his pleasure in Jerusalem, and in Lebanon, and in all the land of his dominion.
+LABEL:7
+VERSE:As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, that were not of Israel;
+LABEL:8
+VERSE:of their children that were left after them in the land, whom the children of Israel consumed not, of them did Solomon raise a levy of bondservants unto this day.
+LABEL:9
+VERSE:But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains, and rulers of his chariots and of his horsemen.
+LABEL:10
+VERSE:And these were the chief officers of king Solomon, even two hundred and fifty, that bare rule over the people.
+LABEL:11
+VERSE:And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her; for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of Jehovah hath come.
+LABEL:12
+VERSE:Then Solomon offered burnt-offerings unto Jehovah on the altar of Jehovah, which he had built before the porch,
+LABEL:13
+VERSE:even as the duty of every day required, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the set feasts, three times in the year, even in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles.
+LABEL:14
+VERSE:And he appointed, according to the ordinance of David his father, the courses of the priests to their service, and the Levites to their offices, to praise, and to minister before the priests, as the duty of every day required; the doorkeepers also by their courses at every gate: for so had David the man of God commanded.
+LABEL:15
+VERSE:And they departed not from the commandment of the king unto the priests and Levites concerning any matter, or concerning the treasures.
+LABEL:16
+VERSE:Now all the work of Solomon was prepared unto the day of the foundation of the house of Jehovah, and until it was finished. So the house of Jehovah was completed.
+LABEL:17
+VERSE:Then went Solomon to Ezion-geber, and to Eloth, on the sea-shore in the land of Edom.
+LABEL:18
+VERSE:And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they came with the servants of Solomon to Ophir, and fetched from thence four hundred and fifty talents of gold, and brought them to king Solomon.

@@ -1,0 +1,111 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:3
+TITLE:Proverbs 3
+LABEL:1
+VERSE:My son, don’t forget my teaching,
+VERSE:but let your heart keep my commandments,
+LABEL:2
+VERSE:for they will add to you length of days,
+VERSE:years of life, and peace.
+LABEL:3
+VERSE:Don’t let kindness and truth forsake you.
+VERSE:Bind them around your neck.
+VERSE:Write them on the tablet of your heart.
+LABEL:4
+VERSE:So you will find favor,
+VERSE:and good understanding in the sight of God and man.
+LABEL:5
+VERSE:Trust in Yahweh with all your heart,
+VERSE:and don’t lean on your own understanding.
+LABEL:6
+VERSE:In all your ways acknowledge him,
+VERSE:and he will make your paths straight.
+LABEL:7
+VERSE:Don’t be wise in your own eyes.
+VERSE:Fear Yahweh, and depart from evil.
+LABEL:8
+VERSE:It will be health to your body,
+VERSE:and nourishment to your bones.
+LABEL:9
+VERSE:Honor Yahweh with your substance,
+VERSE:with the first fruits of all your increase;
+LABEL:10
+VERSE:so your barns will be filled with plenty,
+VERSE:and your vats will overflow with new wine.
+LABEL:11
+VERSE:My son, don’t despise Yahweh’s discipline,
+VERSE:neither be weary of his correction;
+LABEL:12
+VERSE:for whom Yahweh loves, he corrects,
+VERSE:even as a father reproves the son in whom he delights.
+LABEL:13
+VERSE:Happy is the man who finds wisdom,
+VERSE:the man who gets understanding.
+LABEL:14
+VERSE:For her good profit is better than getting silver,
+VERSE:and her return is better than fine gold.
+LABEL:15
+VERSE:She is more precious than rubies.
+VERSE:None of the things you can desire are to be compared to her.
+LABEL:16
+VERSE:Length of days is in her right hand.
+VERSE:In her left hand are riches and honor.
+LABEL:17
+VERSE:Her ways are ways of pleasantness.
+VERSE:All her paths are peace.
+LABEL:18
+VERSE:She is a tree of life to those who lay hold of her.
+VERSE:Happy is everyone who retains her.
+LABEL:19
+VERSE:By wisdom Yahweh founded the earth.
+VERSE:By understanding, he established the heavens.
+LABEL:20
+VERSE:By his knowledge, the depths were broken up,
+VERSE:and the skies drop down the dew.
+LABEL:21
+VERSE:My son, let them not depart from your eyes.
+VERSE:Keep sound wisdom and discretion,
+LABEL:22
+VERSE:so they will be life to your soul,
+VERSE:and grace for your neck.
+LABEL:23
+VERSE:Then you shall walk in your way securely.
+VERSE:Your foot won’t stumble.
+LABEL:24
+VERSE:When you lie down, you will not be afraid.
+VERSE:Yes, you will lie down, and your sleep will be sweet.
+LABEL:25
+VERSE:Don’t be afraid of sudden fear,
+VERSE:neither of the desolation of the wicked, when it comes;
+LABEL:26
+VERSE:for Yahweh will be your confidence,
+VERSE:and will keep your foot from being taken.
+LABEL:27
+VERSE:Don’t withhold good from those to whom it is due,
+VERSE:when it is in the power of your hand to do it.
+LABEL:28
+VERSE:Don’t say to your neighbor, “Go, and come again;
+VERSE:tomorrow I will give it to you,”
+VERSE:when you have it by you.
+LABEL:29
+VERSE:Don’t devise evil against your neighbor,
+VERSE:since he dwells securely by you.
+LABEL:30
+VERSE:Don’t strive with a man without cause,
+VERSE:if he has done you no harm.
+LABEL:31
+VERSE:Don’t envy the man of violence.
+VERSE:Choose none of his ways.
+LABEL:32
+VERSE:For the perverse is an abomination to Yahweh,
+VERSE:but his friendship is with the upright.
+LABEL:33
+VERSE:Yahweh’s curse is in the house of the wicked,
+VERSE:but he blesses the habitation of the righteous.
+LABEL:34
+VERSE:Surely he mocks the mockers,
+VERSE:but he gives grace to the humble.
+LABEL:35
+VERSE:The wise will inherit glory,
+VERSE:but shame will be the promotion of fools.

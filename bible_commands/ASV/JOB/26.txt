@@ -1,0 +1,46 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:26
+TITLE:Job 26
+LABEL:1
+VERSE:Then Job answered and said,
+LABEL:2
+VERSE:How hast thou helped him that is without power!
+VERSE:How hast thou saved the arm that hath no strength!
+LABEL:3
+VERSE:How hast thou counselled him that hath no wisdom,
+VERSE:And plentifully declared sound knowledge!
+LABEL:4
+VERSE:To whom hast thou uttered words?
+VERSE:And whose spirit came forth from thee?
+LABEL:5
+VERSE:They that are deceased tremble
+VERSE:Beneath the waters and the inhabitants thereof.
+LABEL:6
+VERSE:Sheol is naked before God,
+VERSE:And Abaddon hath no covering.
+LABEL:7
+VERSE:He stretcheth out the north over empty space,
+VERSE:And hangeth the earth upon nothing.
+LABEL:8
+VERSE:He bindeth up the waters in his thick clouds;
+VERSE:And the cloud is not rent under them.
+LABEL:9
+VERSE:He incloseth the face of his throne,
+VERSE:And spreadeth his cloud upon it.
+LABEL:10
+VERSE:He hath described a boundary upon the face of the waters,
+VERSE:Unto the confines of light and darkness.
+LABEL:11
+VERSE:The pillars of heaven tremble
+VERSE:And are astonished at his rebuke.
+LABEL:12
+VERSE:He stirreth up the sea with his power,
+VERSE:And by his understanding he smiteth through Rahab.
+LABEL:13
+VERSE:By his Spirit the heavens are garnished;
+VERSE:His hand hath pierced the swift serpent.
+LABEL:14
+VERSE:Lo, these are but the outskirts of his ways:
+VERSE:And how small a whisper do we hear of him!
+VERSE:But the thunder of his power who can understand?

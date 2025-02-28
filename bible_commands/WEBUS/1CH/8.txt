@@ -1,0 +1,84 @@
+TRANSLATION:WEBUS
+BOOK:1CH
+CHAPTER:8
+TITLE:1 Chronicles 8
+LABEL:1
+VERSE:Benjamin became the father of Bela his firstborn, Ashbel the second, Aharah the third,
+LABEL:2
+VERSE:Nohah the fourth, and Rapha the fifth.
+LABEL:3
+VERSE:Bela had sons: Addar, Gera, Abihud,
+LABEL:4
+VERSE:Abishua, Naaman, Ahoah,
+LABEL:5
+VERSE:Gera, Shephuphan, and Huram.
+LABEL:6
+VERSE:These are the sons of Ehud. These are the heads of fathers’ households of the inhabitants of Geba, who were carried captive to Manahath:
+LABEL:7
+VERSE:Naaman, Ahijah, and Gera, who carried them captive; and he became the father of Uzza and Ahihud.
+LABEL:8
+VERSE:Shaharaim became the father of children in the field of Moab, after he had sent them away. Hushim and Baara were his wives.
+LABEL:9
+VERSE:By Hodesh his wife, he became the father of Jobab, Zibia, Mesha, Malcam,
+LABEL:10
+VERSE:Jeuz, Shachia, and Mirmah. These were his sons, heads of fathers’ households.
+LABEL:11
+VERSE:By Hushim, he became the father of Abitub and Elpaal.
+LABEL:12
+VERSE:The sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod, with its towns;
+LABEL:13
+VERSE:and Beriah and Shema, who were heads of fathers’ households of the inhabitants of Aijalon, who put to flight the inhabitants of Gath;
+LABEL:14
+VERSE:and Ahio, Shashak, Jeremoth,
+LABEL:15
+VERSE:Zebadiah, Arad, Eder,
+LABEL:16
+VERSE:Michael, Ishpah, Joha, the sons of Beriah,
+LABEL:17
+VERSE:Zebadiah, Meshullam, Hizki, Heber,
+LABEL:18
+VERSE:Ishmerai, Izliah, Jobab, the sons of Elpaal,
+LABEL:19
+VERSE:Jakim, Zichri, Zabdi,
+LABEL:20
+VERSE:Elienai, Zillethai, Eliel,
+LABEL:21
+VERSE:Adaiah, Beraiah, Shimrath, the sons of Shimei,
+LABEL:22
+VERSE:Ishpan, Eber, Eliel,
+LABEL:23
+VERSE:Abdon, Zichri, Hanan,
+LABEL:24
+VERSE:Hananiah, Elam, Anthothijah,
+LABEL:25
+VERSE:Iphdeiah, Penuel, the sons of Shashak,
+LABEL:26
+VERSE:Shamsherai, Shehariah, Athaliah,
+LABEL:27
+VERSE:Jaareshiah, Elijah, Zichri, and the sons of Jeroham.
+LABEL:28
+VERSE:These were heads of fathers’ households throughout their generations, chief men. These lived in Jerusalem.
+LABEL:29
+VERSE:The father of Gibeon, whose wife’s name was Maacah, lived in Gibeon
+LABEL:30
+VERSE:with his firstborn son Abdon, Zur, Kish, Baal, Nadab,
+LABEL:31
+VERSE:Gedor, Ahio, Zecher,
+LABEL:32
+VERSE:and Mikloth, who became the father of Shimeah. They also lived with their families in Jerusalem, near their relatives.
+LABEL:33
+VERSE:Ner became the father of Kish. Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal.
+LABEL:34
+VERSE:The son of Jonathan was Merib-baal. Merib-baal became the father of Micah.
+LABEL:35
+VERSE:The sons of Micah: Pithon, Melech, Tarea, and Ahaz.
+LABEL:36
+VERSE:Ahaz became the father of Jehoaddah. Jehoaddah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza.
+LABEL:37
+VERSE:Moza became the father of Binea. Raphah was his son, Eleasah his son, and Azel his son.
+LABEL:38
+VERSE:Azel had six sons, whose names are these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+LABEL:39
+VERSE:The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.
+LABEL:40
+VERSE:The sons of Ulam were mighty men of valor, archers, and had many sons, and grandsons, one hundred fifty. All these were of the sons of Benjamin.

@@ -1,0 +1,38 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:16
+TITLE:Psalm 16
+LABEL:1
+VERSE:Preserve me, O God:
+VERSE:For in thee do I put my trust.
+LABEL:2
+VERSE:  O my soul, thou hast said unto the LORD,
+VERSE:Thou art my Lord: My goodness extendeth not to thee;
+LABEL:3
+VERSE:  But to the saints that are in the earth,
+VERSE:And to the excellent, in whom is all my delight.
+LABEL:4
+VERSE:Their sorrows shall be multiplied that hasten after another god:
+VERSE:Their drink offerings of blood will I not offer,
+VERSE:Nor take up their names into my lips.
+LABEL:5
+VERSE:The LORD  is the portion of mine inheritance and of my cup:
+VERSE:Thou maintainest my lot.
+LABEL:6
+VERSE:The lines are fallen unto me in pleasant places;
+VERSE:Yea, I have a goodly heritage.
+LABEL:7
+VERSE:I will bless the LORD, who hath given me counsel:
+VERSE:My reins also instruct me in the night seasons.
+LABEL:8
+VERSE:I have set the LORD always before me:
+VERSE:Because he is at my right hand, I shall not be moved.
+LABEL:9
+VERSE:Therefore my heart is glad, and my glory rejoiceth:
+VERSE:My flesh also shall rest in hope.
+LABEL:10
+VERSE:For thou wilt not leave my soul in hell;
+VERSE:Neither wilt thou suffer thine Holy One to see corruption.
+LABEL:11
+VERSE:Thou wilt shew me the path of life: In thy presence is fulness of joy;
+VERSE:At thy right hand there are pleasures for evermore.

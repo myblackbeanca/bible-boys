@@ -1,0 +1,137 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:1
+TITLE:Isaiah 1
+LABEL:1
+VERSE:The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
+LABEL:2
+VERSE:Hear, heavens,
+VERSE:and listen, earth; for Yahweh has spoken:
+VERSE:“I have nourished and brought up children
+VERSE:and they have rebelled against me.
+LABEL:3
+VERSE:The ox knows his owner,
+VERSE:and the donkey his master’s crib;
+VERSE:but Israel doesn’t know.
+VERSE:My people don’t consider.”
+LABEL:4
+VERSE:Ah sinful nation,
+VERSE:a people loaded with iniquity,
+VERSE:offspring of evildoers,
+VERSE:children who deal corruptly!
+VERSE:They have forsaken Yahweh.
+VERSE:They have despised the Holy One of Israel.
+VERSE:They are estranged and backward.
+LABEL:5
+VERSE:Why should you be beaten more,
+VERSE:that you revolt more and more?
+VERSE:The whole head is sick,
+VERSE:and the whole heart faint.
+LABEL:6
+VERSE:From the sole of the foot even to the head there is no soundness in it,
+VERSE:but wounds, welts, and open sores.
+VERSE:They haven’t been closed, bandaged, or soothed with oil.
+LABEL:7
+VERSE:Your country is desolate.
+VERSE:Your cities are burned with fire.
+VERSE:Strangers devour your land in your presence
+VERSE:and it is desolate,
+VERSE:as overthrown by strangers.
+LABEL:8
+VERSE:The daughter of Zion is left like a shelter in a vineyard,
+VERSE:like a hut in a field of melons,
+VERSE:like a besieged city.
+LABEL:9
+VERSE:Unless Yahweh of Armies had left to us a very small remnant,
+VERSE:we would have been as Sodom.
+VERSE:We would have been like Gomorrah.
+LABEL:10
+VERSE:Hear Yahweh’s word, you rulers of Sodom!
+VERSE:Listen to the law of our God, you people of Gomorrah!
+LABEL:11
+VERSE:“What are the multitude of your sacrifices to me?”, says Yahweh.
+VERSE:“I have had enough of the burnt offerings of rams
+VERSE:and the fat of fed animals.
+VERSE:I don’t delight in the blood of bulls,
+VERSE:or of lambs,
+VERSE:or of male goats.
+LABEL:12
+VERSE:When you come to appear before me,
+VERSE:who has required this at your hand, to trample my courts?
+LABEL:13
+VERSE:Bring no more vain offerings.
+VERSE:Incense is an abomination to me.
+VERSE:New moons, Sabbaths, and convocations—
+VERSE:I can’t stand evil assemblies.
+LABEL:14
+VERSE:My soul hates your New Moons and your appointed feasts.
+VERSE:They are a burden to me.
+VERSE:I am weary of bearing them.
+LABEL:15
+VERSE:When you spread out your hands, I will hide my eyes from you.
+VERSE:Yes, when you make many prayers, I will not hear.
+VERSE:Your hands are full of blood.
+LABEL:16
+VERSE:Wash yourselves. Make yourself clean.
+VERSE:Put away the evil of your doings from before my eyes.
+VERSE:Cease to do evil.
+LABEL:17
+VERSE:Learn to do well.
+VERSE:Seek justice.
+VERSE:Relieve the oppressed.
+VERSE:Defend the fatherless.
+VERSE:Plead for the widow.”
+LABEL:18
+VERSE:“Come now, and let’s reason together,” says Yahweh:
+VERSE:“Though your sins are as scarlet, they shall be as white as snow.
+VERSE:Though they are red like crimson, they shall be as wool.
+LABEL:19
+VERSE:If you are willing and obedient,
+VERSE:you will eat the good of the land;
+LABEL:20
+VERSE:but if you refuse and rebel, you will be devoured with the sword;
+VERSE:for Yahweh’s mouth has spoken it.”
+LABEL:21
+VERSE:How the faithful city has become a prostitute!
+VERSE:She was full of justice.
+VERSE:Righteousness lodged in her,
+VERSE:but now there are murderers.
+LABEL:22
+VERSE:Your silver has become dross,
+VERSE:your wine mixed with water.
+LABEL:23
+VERSE:Your princes are rebellious and companions of thieves.
+VERSE:Everyone loves bribes and follows after rewards.
+VERSE:They don’t defend the fatherless,
+VERSE:neither does the cause of the widow come to them.
+LABEL:24
+VERSE:Therefore the Lord, Yahweh of Armies,
+VERSE:the Mighty One of Israel, says:
+VERSE:“Ah, I will get relief from my adversaries,
+VERSE:and avenge myself on my enemies.
+LABEL:25
+VERSE:I will turn my hand on you,
+VERSE:thoroughly purge away your dross,
+VERSE:and will take away all your tin.
+LABEL:26
+VERSE:I will restore your judges as at the first,
+VERSE:and your counselors as at the beginning.
+VERSE:Afterward you shall be called ‘The city of righteousness,
+VERSE:a faithful town.’
+LABEL:27
+VERSE:Zion shall be redeemed with justice,
+VERSE:and her converts with righteousness.
+LABEL:28
+VERSE:But the destruction of transgressors and sinners shall be together,
+VERSE:and those who forsake Yahweh shall be consumed.
+LABEL:29
+VERSE:For they shall be ashamed of the oaks which you have desired,
+VERSE:and you shall be confounded for the gardens that you have chosen.
+LABEL:30
+VERSE:For you shall be as an oak whose leaf fades,
+VERSE:and as a garden that has no water.
+LABEL:31
+VERSE:The strong will be like tinder,
+VERSE:and his work like a spark.
+VERSE:They will both burn together,
+VERSE:and no one will quench them.”

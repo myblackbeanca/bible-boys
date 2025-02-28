@@ -1,0 +1,72 @@
+TRANSLATION:WEBUS
+BOOK:MIC
+CHAPTER:1
+TITLE:Micah 1
+LABEL:1
+VERSE:Yahweh’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
+LABEL:2
+VERSE:Hear, you peoples, all of you!
+VERSE:Listen, O earth, and all that is therein.
+VERSE:Let the Lord Yahweh be witness against you,
+VERSE:the Lord from his holy temple.
+LABEL:3
+VERSE:For behold, Yahweh comes out of his place,
+VERSE:and will come down and tread on the high places of the earth.
+LABEL:4
+VERSE:The mountains melt under him,
+VERSE:and the valleys split apart like wax before the fire,
+VERSE:like waters that are poured down a steep place.
+LABEL:5
+VERSE:“All this is for the disobedience of Jacob,
+VERSE:and for the sins of the house of Israel.
+VERSE:What is the disobedience of Jacob?
+VERSE:Isn’t it Samaria?
+VERSE:And what are the high places of Judah?
+VERSE:Aren’t they Jerusalem?
+LABEL:6
+VERSE:Therefore I will make Samaria like a rubble heap of the field,
+VERSE:like places for planting vineyards;
+VERSE:and I will pour down its stones into the valley,
+VERSE:and I will uncover its foundations.
+LABEL:7
+VERSE:All her idols will be beaten to pieces,
+VERSE:all her temple gifts will be burned with fire,
+VERSE:and I will destroy all her images;
+VERSE:for of the hire of a prostitute has she gathered them,
+VERSE:and to the hire of a prostitute shall they return.”
+LABEL:8
+VERSE:For this I will lament and wail.
+VERSE:I will go stripped and naked.
+VERSE:I will howl like the jackals
+VERSE:and mourn like the ostriches.
+LABEL:9
+VERSE:For her wounds are incurable;
+VERSE:for it has come even to Judah.
+VERSE:It reaches to the gate of my people,
+VERSE:even to Jerusalem.
+LABEL:10
+VERSE:Don’t tell it in Gath.
+VERSE:Don’t weep at all.
+VERSE:At Beth Ophrah I have rolled myself in the dust.
+LABEL:11
+VERSE:Pass on, inhabitant of Shaphir, in nakedness and shame.
+VERSE:The inhabitant of Zaanan won’t come out.
+VERSE:The wailing of Beth Ezel will take from you his protection.
+LABEL:12
+VERSE:For the inhabitant of Maroth waits anxiously for good,
+VERSE:because evil has come down from Yahweh to the gate of Jerusalem.
+LABEL:13
+VERSE:Harness the chariot to the swift steed, inhabitant of Lachish.
+VERSE:She was the beginning of sin to the daughter of Zion;
+VERSE:for the transgressions of Israel were found in you.
+LABEL:14
+VERSE:Therefore you will give a parting gift to Moresheth Gath.
+VERSE:The houses of Achzib will be a deceitful thing to the kings of Israel.
+LABEL:15
+VERSE:I will yet bring a conqueror to you, inhabitants of Mareshah.
+VERSE:The glory of Israel will come to Adullam.
+LABEL:16
+VERSE:Shave your heads,
+VERSE:and cut off your hair for the children of your delight.
+VERSE:Enlarge your baldness like the vulture,
+VERSE:for they have gone into captivity from you!

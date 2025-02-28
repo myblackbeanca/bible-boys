@@ -1,0 +1,50 @@
+TRANSLATION:ASV
+BOOK:LEV
+CHAPTER:24
+TITLE:Leviticus 24
+LABEL:1
+VERSE:And Jehovah spake unto Moses, saying,
+LABEL:2
+VERSE:Command the children of Israel, that they bring unto thee pure olive oil beaten for the light, to cause a lamp to burn continually.
+LABEL:3
+VERSE:Without the veil of the testimony, in the tent of meeting, shall Aaron keep it in order from evening to morning before Jehovah continually: it shall be a statute for ever throughout your generations.
+LABEL:4
+VERSE:He shall keep in order the lamps upon the pure candlestick before Jehovah continually.
+LABEL:5
+VERSE:And thou shalt take fine flour, and bake twelve cakes thereof: two tenth parts of an ephah shall be in one cake.
+LABEL:6
+VERSE:And thou shalt set them in two rows, six on a row, upon the pure table before Jehovah.
+LABEL:7
+VERSE:And thou shalt put pure frankincense upon each row, that it may be to the bread for a memorial, even an offering made by fire unto Jehovah.
+LABEL:8
+VERSE:Every sabbath day he shall set it in order before Jehovah continually; it is on the behalf of the children of Israel, an everlasting covenant.
+LABEL:9
+VERSE:And it shall be for Aaron and his sons; and they shall eat it in a holy place: for it is most holy unto him of the offerings of Jehovah made by fire by a perpetual statute.
+LABEL:10
+VERSE:And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel; and the son of the Israelitish woman and a man of Israel strove together in the camp:
+LABEL:11
+VERSE:and the son of the Israelitish woman blasphemed the Name, and cursed; and they brought him unto Moses. And his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan.
+LABEL:12
+VERSE:And they put him in ward, that it might be declared unto them at the mouth of Jehovah.
+LABEL:13
+VERSE:And Jehovah spake unto Moses, saying,
+LABEL:14
+VERSE:Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him.
+LABEL:15
+VERSE:And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.
+LABEL:16
+VERSE:And he that blasphemeth the name of Jehovah, he shall surely be put to death; all the congregation shall certainly stone him: as well the sojourner, as the home-born, when he blasphemeth the name of Jehovah, shall be put to death.
+LABEL:17
+VERSE:And he that smiteth any man mortally shall surely be put to death.
+LABEL:18
+VERSE:And he that smiteth a beast mortally shall make it good, life for life.
+LABEL:19
+VERSE:And if a man cause a blemish in his neighbor; as he hath done, so shall it be done to him:
+LABEL:20
+VERSE:breach for breach, eye for eye, tooth for tooth; as he hath caused a blemish in a man, so shall it be rendered unto him.
+LABEL:21
+VERSE:And he that killeth a beast shall make it good: and he that killeth a man shall be put to death.
+LABEL:22
+VERSE:Ye shall have one manner of law, as well for the sojourner, as for the home-born: for I am Jehovah your God.
+LABEL:23
+VERSE:And Moses spake to the children of Israel; and they brought forth him that had cursed out of the camp, and stoned him with stones. And the children of Israel did as Jehovah commanded Moses.

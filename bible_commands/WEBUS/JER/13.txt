@@ -1,0 +1,96 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:13
+TITLE:Jeremiah 13
+LABEL:1
+VERSE:Yahweh said to me, “Go, and buy yourself a linen belt, and put it on your waist, and don’t put it in water.”
+LABEL:2
+VERSE:So I bought a belt according to Yahweh’s word, and put it on my waist.
+LABEL:3
+VERSE:Yahweh’s word came to me the second time, saying,
+LABEL:4
+VERSE:“Take the belt that you have bought, which is on your waist, and arise, go to the Euphrates, and hide it there in a cleft of the rock.”
+LABEL:5
+VERSE:So I went and hid it by the Euphrates, as Yahweh commanded me.
+LABEL:6
+VERSE:After many days, Yahweh said to me, “Arise, go to the Euphrates, and take the belt from there, which I commanded you to hide there.”
+LABEL:7
+VERSE:Then I went to the Euphrates, and dug, and took the belt from the place where I had hidden it; and behold, the belt was ruined. It was profitable for nothing.
+LABEL:8
+VERSE:Then Yahweh’s word came to me, saying,
+LABEL:9
+VERSE:“Yahweh says, ‘In this way I will ruin the pride of Judah, and the great pride of Jerusalem.
+LABEL:10
+VERSE:This evil people, who refuse to hear my words, who walk in the stubbornness of their heart, and have gone after other gods to serve them and to worship them, will even be as this belt, which is profitable for nothing.
+LABEL:11
+VERSE:For as the belt clings to the waist of a man, so I have caused the whole house of Israel and the whole house of Judah to cling to me,’ says Yahweh; ‘that they may be to me for a people, for a name, for praise, and for glory; but they would not hear.’
+LABEL:12
+VERSE:“Therefore you shall speak to them this word: ‘Yahweh, the God of Israel says, “Every container should be filled with wine.”’ They will tell you, ‘Do we not certainly know that every container should be filled with wine?’
+LABEL:13
+VERSE:Then tell them, ‘Yahweh says, “Behold, I will fill all the inhabitants of this land, even the kings who sit on David’s throne, the priests, the prophets, and all the inhabitants of Jerusalem, with drunkenness.
+LABEL:14
+VERSE:I will dash them one against another, even the fathers and the sons together,” says Yahweh: “I will not pity, spare, or have compassion, that I should not destroy them.”’”
+LABEL:15
+VERSE:Hear, and give ear.
+VERSE:Don’t be proud,
+VERSE:for Yahweh has spoken.
+LABEL:16
+VERSE:Give glory to Yahweh your God,
+VERSE:before he causes darkness,
+VERSE:and before your feet stumble on the dark mountains,
+VERSE:and while you look for light,
+VERSE:he turns it into the shadow of death,
+VERSE:and makes it deep darkness.
+LABEL:17
+VERSE:But if you will not hear it,
+VERSE:my soul will weep in secret for your pride.
+VERSE:My eye will weep bitterly,
+VERSE:and run down with tears,
+VERSE:because Yahweh’s flock has been taken captive.
+LABEL:18
+VERSE:Say to the king and to the queen mother,
+VERSE:“Humble yourselves.
+VERSE:Sit down, for your crowns have come down,
+VERSE:even the crown of your glory.
+LABEL:19
+VERSE:The cities of the South are shut up,
+VERSE:and there is no one to open them.
+VERSE:Judah is carried away captive: all of them.
+VERSE:They are wholly carried away captive.
+LABEL:20
+VERSE:Lift up your eyes,
+VERSE:and see those who come from the north.
+VERSE:Where is the flock that was given to you,
+VERSE:your beautiful flock?
+LABEL:21
+VERSE:What will you say when he sets over you as head those whom you have yourself taught to be friends to you?
+VERSE:Won’t sorrows take hold of you, as of a woman in travail?
+LABEL:22
+VERSE:If you say in your heart,
+VERSE:“Why have these things come on me?”
+VERSE:Your skirts are uncovered because of the greatness of your iniquity,
+VERSE:and your heels suffer violence.
+LABEL:23
+VERSE:Can the Ethiopian change his skin,
+VERSE:or the leopard his spots?
+VERSE:Then may you also do good,
+VERSE:who are accustomed to do evil.
+LABEL:24
+VERSE:“Therefore I will scatter them
+VERSE:as the stubble that passes away
+VERSE:by the wind of the wilderness.
+LABEL:25
+VERSE:This is your lot,
+VERSE:the portion measured to you from me,” says Yahweh,
+VERSE:“because you have forgotten me,
+VERSE:and trusted in falsehood.”
+LABEL:26
+VERSE:Therefore I will also uncover your skirts on your face,
+VERSE:and your shame will appear.
+LABEL:27
+VERSE:I have seen your abominations, even your adulteries
+VERSE:and your neighing, the lewdness of your prostitution,
+VERSE:on the hills in the field.
+VERSE:Woe to you, Jerusalem!
+VERSE:You will not be made clean.
+VERSE:How long will it yet be?”

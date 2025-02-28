@@ -1,0 +1,47 @@
+TRANSLATION:ASV
+BOOK:HEB
+CHAPTER:2
+TITLE:Hebrews 2
+LABEL:1
+VERSE:Therefore we ought to give the more earnest heed to the things that were heard, lest haply we drift away from them.
+LABEL:2
+VERSE:For if the word spoken through angels proved stedfast, and every transgression and disobedience received a just recompense of reward;
+LABEL:3
+VERSE:how shall we escape, if we neglect so great a salvation? which having at the first been spoken through the Lord, was confirmed unto us by them that heard;
+LABEL:4
+VERSE:God also bearing witness with them, both by signs and wonders, and by manifold powers, and by gifts of the Holy Spirit, according to his own will.
+LABEL:5
+VERSE:For not unto angels did he subject the world to come, whereof we speak.
+LABEL:6
+VERSE:But one hath somewhere testified, saying,
+VERSE:What is man, that thou art mindful of him?
+VERSE:Or the son of man, that thou visitest him?
+LABEL:7
+VERSE:Thou madest him a little lower than the angels;
+VERSE:Thou crownedst him with glory and honor,
+VERSE:And didst set him over the works of thy hands:
+LABEL:8
+VERSE:Thou didst put all things in subjection under his feet.
+VERSE:For in that he subjected all things unto him, he left nothing that is not subject to him. But now we see not yet all things subjected to him.
+LABEL:9
+VERSE:But we behold him who hath been made a little lower than the angels, even Jesus, because of the suffering of death crowned with glory and honor, that by the grace of God he should taste of death for every man.
+LABEL:10
+VERSE:For it became him, for whom are all things, and through whom are all things, in bringing many sons unto glory, to make the author of their salvation perfect through sufferings.
+LABEL:11
+VERSE:For both he that sanctifieth and they that are sanctified are all of one: for which cause he is not ashamed to call them brethren,
+LABEL:12
+VERSE:saying,
+VERSE:I will declare thy name unto my brethren,
+VERSE:In the midst of the congregation will I sing thy praise.
+LABEL:13
+VERSE:And again, I will put my trust in him. And again, Behold, I and the children whom God hath given me.
+LABEL:14
+VERSE:Since then the children are sharers in flesh and blood, he also himself in like manner partook of the same; that through death he might bring to nought him that had the power of death, that is, the devil;
+LABEL:15
+VERSE:and might deliver all them who through fear of death were all their lifetime subject to bondage.
+LABEL:16
+VERSE:For verily not to angels doth he give help, but he giveth help to the seed of Abraham.
+LABEL:17
+VERSE:Wherefore it behooved him in all things to be made like unto his brethren, that he might become a merciful and faithful high priest in things pertaining to God, to make propitiation for the sins of the people.
+LABEL:18
+VERSE:For in that he himself hath suffered being tempted, he is able to succor them that are tempted.

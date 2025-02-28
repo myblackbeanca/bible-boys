@@ -1,0 +1,86 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:58
+TITLE:Isaiah 58
+LABEL:1
+VERSE:“Cry aloud! Don’t spare!
+VERSE:Lift up your voice like a trumpet!
+VERSE:Declare to my people their disobedience,
+VERSE:and to the house of Jacob their sins.
+LABEL:2
+VERSE:Yet they seek me daily,
+VERSE:and delight to know my ways.
+VERSE:As a nation that did righteousness,
+VERSE:and didn’t forsake the ordinance of their God,
+VERSE:they ask of me righteous judgments.
+VERSE:They delight to draw near to God.
+LABEL:3
+VERSE:‘Why have we fasted,’ they say, ‘and you don’t see?
+VERSE:Why have we afflicted our soul, and you don’t notice?’
+VERSE:“Behold, in the day of your fast you find pleasure,
+VERSE:and oppress all your laborers.
+LABEL:4
+VERSE:Behold, you fast for strife and contention,
+VERSE:and to strike with the fist of wickedness.
+VERSE:You don’t fast today so as to make your voice to be heard on high.
+LABEL:5
+VERSE:Is this the fast that I have chosen?
+VERSE:A day for a man to humble his soul?
+VERSE:Is it to bow down his head like a reed,
+VERSE:and to spread sackcloth and ashes under himself?
+VERSE:Will you call this a fast,
+VERSE:and an acceptable day to Yahweh?
+LABEL:6
+VERSE:“Isn’t this the fast that I have chosen:
+VERSE:to release the bonds of wickedness,
+VERSE:to undo the straps of the yoke,
+VERSE:to let the oppressed go free,
+VERSE:and that you break every yoke?
+LABEL:7
+VERSE:Isn’t it to distribute your bread to the hungry,
+VERSE:and that you bring the poor who are cast out to your house?
+VERSE:When you see the naked,
+VERSE:that you cover him;
+VERSE:and that you not hide yourself from your own flesh?
+LABEL:8
+VERSE:Then your light will break out as the morning,
+VERSE:and your healing will appear quickly;
+VERSE:then your righteousness shall go before you,
+VERSE:and Yahweh’s glory will be your rear guard.
+LABEL:9
+VERSE:Then you will call, and Yahweh will answer.
+VERSE:You will cry for help, and he will say, ‘Here I am.’
+VERSE:“If you take away from among you the yoke,
+VERSE:finger pointing,
+VERSE:and speaking wickedly;
+LABEL:10
+VERSE:and if you pour out your soul to the hungry,
+VERSE:and satisfy the afflicted soul,
+VERSE:then your light will rise in darkness,
+VERSE:and your obscurity will be as the noonday;
+LABEL:11
+VERSE:and Yahweh will guide you continually,
+VERSE:satisfy your soul in dry places,
+VERSE:and make your bones strong.
+VERSE:You will be like a watered garden,
+VERSE:and like a spring of water
+VERSE:whose waters don’t fail.
+LABEL:12
+VERSE:Those who will be of you will build the old waste places.
+VERSE:You will raise up the foundations of many generations.
+VERSE:You will be called Repairer of the Breach,
+VERSE:Restorer of Paths with Dwellings.
+LABEL:13
+VERSE:“If you turn away your foot from the Sabbath,
+VERSE:from doing your pleasure on my holy day,
+VERSE:and call the Sabbath a delight,
+VERSE:and the holy of Yahweh honorable,
+VERSE:and honor it,
+VERSE:not doing your own ways,
+VERSE:nor finding your own pleasure,
+VERSE:nor speaking your own words,
+LABEL:14
+VERSE:then you will delight yourself in Yahweh,
+VERSE:and I will make you to ride on the high places of the earth,
+VERSE:and I will feed you with the heritage of Jacob your father;”
+VERSE:for Yahweh’s mouth has spoken it.

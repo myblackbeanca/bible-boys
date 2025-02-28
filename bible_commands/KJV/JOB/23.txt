@@ -1,0 +1,55 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:23
+TITLE:Job 23
+SECTION:Job's Reply
+LABEL:1
+VERSE:Then Job answered and said,
+LABEL:2
+VERSE:Even to day is my complaint bitter:
+VERSE:My stroke is heavier than my groaning.
+LABEL:3
+VERSE:Oh that I knew where I might find him!
+VERSE:That I might come even to his seat!
+LABEL:4
+VERSE:I would order my cause before him,
+VERSE:And fill my mouth with arguments.
+LABEL:5
+VERSE:I would know the words which he would answer me,
+VERSE:And understand what he would say unto me.
+LABEL:6
+VERSE:Will he plead against me with his great power?
+VERSE:No; but he would put strength in me.
+LABEL:7
+VERSE:There the righteous might dispute with him;
+VERSE:So should I be delivered for ever from my judge.
+LABEL:8
+VERSE:Behold, I go forward, but he is not there;
+VERSE:And backward, but I cannot perceive him:
+LABEL:9
+VERSE:On the left hand, where he doth work, but I cannot behold him:
+VERSE:He hideth himself on the right hand, that I cannot see him:
+LABEL:10
+VERSE:But he knoweth the way that I take:
+VERSE:When he hath tried me, I shall come forth as gold.
+LABEL:11
+VERSE:My foot hath held his steps,
+VERSE:His way have I kept, and not declined.
+LABEL:12
+VERSE:Neither have I gone back from the commandment of his lips;
+VERSE:I have esteemed the words of his mouth more than my necessary food.
+LABEL:13
+VERSE:But he is in one mind, and who can turn him?
+VERSE:And what his soul desireth, even that he doeth.
+LABEL:14
+VERSE:For he performeth the thing that is appointed for me:
+VERSE:And many such things are with him.
+LABEL:15
+VERSE:Therefore am I troubled at his presence:
+VERSE:When I consider, I am afraid of him.
+LABEL:16
+VERSE:For God maketh my heart soft,
+VERSE:And the Almighty troubleth me:
+LABEL:17
+VERSE:Because I was not cut off before the darkness,
+VERSE:Neither hath he covered the darkness from my face.

@@ -1,0 +1,23 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:127
+TITLE:Psalms 127
+LABEL:1
+VERSE:Unless Yahweh builds the house,
+VERSE:they who build it labor in vain.
+VERSE:Unless Yahweh watches over the city,
+VERSE:the watchman guards it in vain.
+LABEL:2
+VERSE:It is vain for you to rise up early,
+VERSE:to stay up late,
+VERSE:eating the bread of toil,
+VERSE:for he gives sleep to his loved ones.
+LABEL:3
+VERSE:Behold, children are a heritage of Yahweh.
+VERSE:The fruit of the womb is his reward.
+LABEL:4
+VERSE:As arrows in the hand of a mighty man,
+VERSE:so are the children of youth.
+LABEL:5
+VERSE:Happy is the man who has his quiver full of them.
+VERSE:They won’t be disappointed when they speak with their enemies in the gate.

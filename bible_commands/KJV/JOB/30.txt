@@ -1,0 +1,100 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:30
+TITLE:Job 30
+LABEL:1
+VERSE:But now they that are younger than I have me in derision,
+VERSE:Whose fathers I would have disdained to have set with the dogs of my flock.
+LABEL:2
+VERSE:Yea, whereto might the strength of their hands profit me,
+VERSE:In whom old age was perished?
+LABEL:3
+VERSE:For want and famine they were solitary;
+VERSE:Fleeing into the wilderness in former time desolate and waste.
+LABEL:4
+VERSE:Who cut up mallows by the bushes,
+VERSE:And juniper roots for their meat.
+LABEL:5
+VERSE:They were driven forth from among men,
+VERSE:(They cried after them as after a thief;)
+LABEL:6
+VERSE:To dwell in the cliffs of the valleys,
+VERSE:in caves of the earth, and in the rocks.
+LABEL:7
+VERSE:Among the bushes they brayed;
+VERSE:Under the nettles they were gathered together.
+LABEL:8
+VERSE:  They were children of fools, yea, children of base men:
+VERSE:They were viler than the earth.
+LABEL:9
+VERSE:And now am I their song,
+VERSE:Yea, I am their byword.
+LABEL:10
+VERSE:They abhor me, they flee far from me,
+VERSE:And spare not to spit in my face.
+LABEL:11
+VERSE:Because he hath loosed my cord, and afflicted me,
+VERSE:They have also let loose the bridle before me.
+LABEL:12
+VERSE:Upon my right hand rise the youth;
+VERSE:They push away my feet,
+VERSE:And they raise up against me the ways of their destruction.
+LABEL:13
+VERSE:They mar my path,
+VERSE:They set forward my calamity,
+VERSE:They have no helper.
+LABEL:14
+VERSE:They came upon me as a wide breaking in of waters:
+VERSE:In the desolation they rolled themselves upon me.
+LABEL:15
+VERSE:Terrors are turned upon me:
+VERSE:They pursue my soul as the wind:
+VERSE:And my welfare passeth away as a cloud.
+LABEL:16
+VERSE:And now my soul is poured out upon me;
+VERSE:The days of affliction have taken hold upon me.
+LABEL:17
+VERSE:My bones are pierced in me in the night season:
+VERSE:And my sinews take no rest.
+LABEL:18
+VERSE:By the great force of my disease is my garment changed:
+VERSE:It bindeth me about as the collar of my coat.
+LABEL:19
+VERSE:He hath cast me into the mire,
+VERSE:And I am become like dust and ashes.
+LABEL:20
+VERSE:I cry unto thee, and thou dost not hear me:
+VERSE:I stand up, and thou regardest me not.
+LABEL:21
+VERSE:Thou art become cruel to me:
+VERSE:With thy strong hand thou opposest thyself against me.
+LABEL:22
+VERSE:Thou liftest me up to the wind; thou causest me to ride upon it,
+VERSE:And dissolvest my substance.
+LABEL:23
+VERSE:For I know that thou wilt bring me to death,
+VERSE:And to the house appointed for all living.
+LABEL:24
+VERSE:Howbeit he will not stretch out his hand to the grave,
+VERSE:Though they cry in his destruction.
+LABEL:25
+VERSE:Did not I weep for him that was in trouble?
+VERSE:Was not my soul grieved for the poor?
+LABEL:26
+VERSE:When I looked for good, then evil came unto me:
+VERSE:And when I waited for light, there came darkness.
+LABEL:27
+VERSE:My bowels boiled, and rested not:
+VERSE:The days of affliction prevented me.
+LABEL:28
+VERSE:I went mourning without the sun:
+VERSE:I stood up, and I cried in the congregation.
+LABEL:29
+VERSE:I am a brother to dragons,
+VERSE:And a companion to owls.
+LABEL:30
+VERSE:My skin is black upon me,
+VERSE:And my bones are burned with heat.
+LABEL:31
+VERSE:My harp also is turned to mourning,
+VERSE:And my organ into the voice of them that weep.

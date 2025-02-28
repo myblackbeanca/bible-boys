@@ -1,0 +1,111 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:24
+TITLE:Proverbs 24
+LABEL:1
+VERSE:Be not thou envious against evil men;
+VERSE:Neither desire to be with them:
+LABEL:2
+VERSE:For their heart studieth oppression,
+VERSE:And their lips talk of mischief.
+LABEL:3
+VERSE:Through wisdom is a house builded;
+VERSE:And by understanding it is established;
+LABEL:4
+VERSE:And by knowledge are the chambers filled
+VERSE:With all precious and pleasant riches.
+LABEL:5
+VERSE:A wise man is strong;
+VERSE:Yea, a man of knowledge increaseth might.
+LABEL:6
+VERSE:For by wise guidance thou shalt make thy war;
+VERSE:And in the multitude of counsellors there is safety.
+LABEL:7
+VERSE:Wisdom is too high for a fool:
+VERSE:He openeth not his mouth in the gate.
+LABEL:8
+VERSE:He that deviseth to do evil,
+VERSE:Men shall call him a mischief-maker.
+LABEL:9
+VERSE:The thought of foolishness is sin;
+VERSE:And the scoffer is an abomination to men.
+LABEL:10
+VERSE:If thou faint in the day of adversity,
+VERSE:Thy strength is small.
+LABEL:11
+VERSE:Deliver them that are carried away unto death,
+VERSE:And those that are ready to be slain see that thou hold back.
+LABEL:12
+VERSE:If thou sayest, Behold, we knew not this;
+VERSE:Doth not he that weigheth the hearts consider it?
+VERSE:And he that keepeth thy soul, doth not he know it?
+VERSE:And shall not he render to every man according to his work?
+LABEL:13
+VERSE:My son, eat thou honey, for it is good;
+VERSE:And the droppings of the honeycomb, which are sweet to thy taste:
+LABEL:14
+VERSE:So shalt thou know wisdom to be unto thy soul;
+VERSE:If thou hast found it, then shall there be a reward,
+VERSE:And thy hope shall not be cut off.
+LABEL:15
+VERSE:Lay not wait, O wicked man, against the habitation of the righteous;
+VERSE:Destroy not his resting-place:
+LABEL:16
+VERSE:For a righteous man falleth seven times, and riseth up again;
+VERSE:But the wicked are overthrown by calamity.
+LABEL:17
+VERSE:Rejoice not when thine enemy falleth,
+VERSE:And let not thy heart be glad when he is overthrown;
+LABEL:18
+VERSE:Lest Jehovah see it, and it displease him,
+VERSE:And he turn away his wrath from him.
+LABEL:19
+VERSE:Fret not thyself because of evil-doers;
+VERSE:Neither be thou envious at the wicked:
+LABEL:20
+VERSE:For there shall be no reward to the evil man;
+VERSE:The lamp of the wicked shall be put out.
+LABEL:21
+VERSE:My son, fear thou Jehovah and the king;
+VERSE:And company not with them that are given to change:
+LABEL:22
+VERSE:For their calamity shall rise suddenly;
+VERSE:And the destruction from them both, who knoweth it?
+LABEL:23
+VERSE:These also are sayings of the wise.
+VERSE:To have respect of persons in judgment is not good.
+LABEL:24
+VERSE:He that saith unto the wicked, Thou art righteous,
+VERSE:Peoples shall curse him, nations shall abhor him;
+LABEL:25
+VERSE:But to them that rebuke him shall be delight,
+VERSE:And a good blessing shall come upon them.
+LABEL:26
+VERSE:He kisseth the lips
+VERSE:Who giveth a right answer.
+LABEL:27
+VERSE:Prepare thy work without,
+VERSE:And make it ready for thee in the field;
+VERSE:And afterwards build thy house.
+LABEL:28
+VERSE:Be not a witness against thy neighbor without cause;
+VERSE:And deceive not with thy lips.
+LABEL:29
+VERSE:Say not, I will do so to him as he hath done to me;
+VERSE:I will render to the man according to his work.
+LABEL:30
+VERSE:I went by the field of the sluggard,
+VERSE:And by the vineyard of the man void of understanding;
+LABEL:31
+VERSE:And, lo, it was all grown over with thorns,
+VERSE:The face thereof was covered with nettles,
+VERSE:And the stone wall thereof was broken down.
+LABEL:32
+VERSE:Then I beheld, and considered well;
+VERSE:I saw, and received instruction:
+LABEL:33
+VERSE:  Yet a little sleep, a little slumber,
+VERSE:A little folding of the hands to sleep;
+LABEL:34
+VERSE:So shall thy poverty come as a robber,
+VERSE:And thy want as an armed man.

@@ -1,0 +1,59 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:9
+TITLE:Proverbs 9
+LABEL:1
+VERSE:Wisdom has built her house.
+VERSE:She has carved out her seven pillars.
+LABEL:2
+VERSE:She has prepared her meat.
+VERSE:She has mixed her wine.
+VERSE:She has also set her table.
+LABEL:3
+VERSE:She has sent out her maidens.
+VERSE:She cries from the highest places of the city:
+LABEL:4
+VERSE:“Whoever is simple, let him turn in here!”
+VERSE:As for him who is void of understanding, she says to him,
+LABEL:5
+VERSE:“Come, eat some of my bread,
+VERSE:Drink some of the wine which I have mixed!
+LABEL:6
+VERSE:Leave your simple ways, and live.
+VERSE:Walk in the way of understanding.”
+LABEL:7
+VERSE:One who corrects a mocker invites insult.
+VERSE:One who reproves a wicked man invites abuse.
+LABEL:8
+VERSE:Don’t reprove a scoffer, lest he hate you.
+VERSE:Reprove a wise person, and he will love you.
+LABEL:9
+VERSE:Instruct a wise person, and he will be still wiser.
+VERSE:Teach a righteous person, and he will increase in learning.
+LABEL:10
+VERSE:The fear of Yahweh is the beginning of wisdom.
+VERSE:The knowledge of the Holy One is understanding.
+LABEL:11
+VERSE:For by me your days will be multiplied.
+VERSE:The years of your life will be increased.
+LABEL:12
+VERSE:If you are wise, you are wise for yourself.
+VERSE:If you mock, you alone will bear it.
+LABEL:13
+VERSE:The foolish woman is loud,
+VERSE:undisciplined, and knows nothing.
+LABEL:14
+VERSE:She sits at the door of her house,
+VERSE:on a seat in the high places of the city,
+LABEL:15
+VERSE:to call to those who pass by,
+VERSE:who go straight on their ways,
+LABEL:16
+VERSE:“Whoever is simple, let him turn in here.”
+VERSE:As for him who is void of understanding, she says to him,
+LABEL:17
+VERSE:“Stolen water is sweet.
+VERSE:Food eaten in secret is pleasant.”
+LABEL:18
+VERSE:But he doesn’t know that the departed spirits are there,
+VERSE:that her guests are in the depths of Sheol.

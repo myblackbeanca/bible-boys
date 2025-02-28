@@ -1,0 +1,68 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:33
+TITLE:Psalm 33
+LABEL:1
+VERSE:Rejoice in the LORD, O ye righteous:
+VERSE:For praise is comely for the upright.
+LABEL:2
+VERSE:Praise the LORD with harp:
+VERSE:Sing unto him with the psaltery and an instrument of ten strings.
+LABEL:3
+VERSE:Sing unto him a new song;
+VERSE:Play skilfully with a loud noise.
+LABEL:4
+VERSE:For the word of the LORD  is right;
+VERSE:And all his works are done in truth.
+LABEL:5
+VERSE:He loveth righteousness and judgment:
+VERSE:The earth is full of the goodness of the LORD.
+LABEL:6
+VERSE:By the word of the LORD were the heavens made;
+VERSE:And all the host of them by the breath of his mouth.
+LABEL:7
+VERSE:He gathereth the waters of the sea together as an heap:
+VERSE:He layeth up the depth in storehouses.
+LABEL:8
+VERSE:Let all the earth fear the LORD:
+VERSE:Let all the inhabitants of the world stand in awe of him.
+LABEL:9
+VERSE:For he spake, and it was done;
+VERSE:He commanded, and it stood fast.
+LABEL:10
+VERSE:The LORD bringeth the counsel of the heathen to nought:
+VERSE:He maketh the devices of the people of none effect.
+LABEL:11
+VERSE:The counsel of the LORD standeth for ever,
+VERSE:The thoughts of his heart to all generations.
+LABEL:12
+VERSE:Blessed is the nation whose God is the LORD;
+VERSE:And the people whom he hath chosen for his own inheritance.
+LABEL:13
+VERSE:The LORD looketh from heaven; he beholdeth all the sons of men.
+LABEL:14
+VERSE:From the place of his habitation he looketh upon all the inhabitants of the earth.
+LABEL:15
+VERSE:He fashioneth their hearts alike;
+VERSE:He considereth all their works.
+LABEL:16
+VERSE:There is no king saved by the multitude of an host:
+VERSE:A mighty man is not delivered by much strength.
+LABEL:17
+VERSE:An horse is a vain thing for safety:
+VERSE:Neither shall he deliver any by his great strength.
+LABEL:18
+VERSE:Behold, the eye of the LORD  is upon them that fear him,
+VERSE:Upon them that hope in his mercy;
+LABEL:19
+VERSE:To deliver their soul from death,
+VERSE:And to keep them alive in famine.
+LABEL:20
+VERSE:Our soul waiteth for the LORD:
+VERSE:He is our help and our shield.
+LABEL:21
+VERSE:For our heart shall rejoice in him,
+VERSE:Because we have trusted in his holy name.
+LABEL:22
+VERSE:Let thy mercy, O LORD, be upon us,
+VERSE:According as we hope in thee.

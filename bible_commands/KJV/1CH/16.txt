@@ -1,0 +1,124 @@
+TRANSLATION:KJV
+BOOK:1CH
+CHAPTER:16
+TITLE:1 Chronicles 16
+LABEL:1
+VERSE:So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
+LABEL:2
+VERSE:And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD.
+LABEL:3
+VERSE:And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon of wine.
+LABEL:4
+VERSE:And he appointed certain of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel:
+LABEL:5
+VERSE:Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
+LABEL:6
+VERSE:Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
+SECTION:Psalm of Praise
+LABEL:7
+VERSE:Then on that day David delivered first this psalm to thank the LORD into the hand of Asaph and his brethren.
+LABEL:8
+VERSE:Give thanks unto the LORD, call upon his name,
+VERSE:Make known his deeds among the people.
+LABEL:9
+VERSE:Sing unto him, sing psalms unto him,
+VERSE:Talk ye of all his wondrous works.
+LABEL:10
+VERSE:Glory ye in his holy name:
+VERSE:Let the heart of them rejoice that seek the LORD.
+LABEL:11
+VERSE:Seek the LORD and his strength,
+VERSE:Seek his face continually.
+LABEL:12
+VERSE:Remember his marvellous works that he hath done,
+VERSE:His wonders, and the judgments of his mouth;
+LABEL:13
+VERSE:O ye seed of Israel his servant,
+VERSE:Ye children of Jacob, his chosen ones.
+LABEL:14
+VERSE:He is the LORD our God;
+VERSE:His judgments are in all the earth.
+LABEL:15
+VERSE:Be ye mindful always of his covenant;
+VERSE:The word which he commanded to a thousand generations;
+LABEL:16
+VERSE:  Even of the covenant which he made with Abraham,
+VERSE:And of his oath unto Isaac;
+LABEL:17
+VERSE:And hath confirmed the same to Jacob for a law,
+VERSE:And to Israel for an everlasting covenant,
+LABEL:18
+VERSE:Saying, Unto thee will I give the land of Canaan,
+VERSE:The lot of your inheritance;
+LABEL:19
+VERSE:When ye were but few,
+VERSE:Even a few, and strangers in it.
+LABEL:20
+VERSE:And when they went from nation to nation,
+VERSE:And from one kingdom to another people;
+LABEL:21
+VERSE:He suffered no man to do them wrong:
+VERSE:Yea, he reproved kings for their sakes,
+LABEL:22
+VERSE:  Saying, Touch not mine anointed,
+VERSE:And do my prophets no harm.
+LABEL:23
+VERSE:Sing unto the LORD, all the earth;
+VERSE:Shew forth from day to day his salvation.
+LABEL:24
+VERSE:Declare his glory among the heathen;
+VERSE:His marvellous works among all nations.
+LABEL:25
+VERSE:For great is the LORD, and greatly to be praised:
+VERSE:He also is to be feared above all gods.
+LABEL:26
+VERSE:For all the gods of the people are idols:
+VERSE:But the LORD made the heavens.
+LABEL:27
+VERSE:Glory and honour are in his presence;
+VERSE:Strength and gladness are in his place.
+LABEL:28
+VERSE:Give unto the LORD, ye kindreds of the people,
+VERSE:Give unto the LORD glory and strength.
+LABEL:29
+VERSE:Give unto the LORD the glory due unto his name:
+VERSE:Bring an offering, and come before him:
+VERSE:Worship the LORD in the beauty of holiness.
+LABEL:30
+VERSE:Fear before him, all the earth:
+VERSE:The world also shall be stable, that it be not moved.
+LABEL:31
+VERSE:Let the heavens be glad, and let the earth rejoice:
+VERSE:And let men say among the nations, The LORD reigneth.
+LABEL:32
+VERSE:Let the sea roar, and the fulness thereof:
+VERSE:Let the fields rejoice, and all that is therein.
+LABEL:33
+VERSE:Then shall the trees of the wood sing out at the presence of the LORD,
+VERSE:Because he cometh to judge the earth.
+LABEL:34
+VERSE:O give thanks unto the LORD; for he is good;
+VERSE:For his mercy endureth for ever.
+LABEL:35
+VERSE:And say ye, Save us, O God of our salvation,
+VERSE:And gather us together, and deliver us from the heathen,
+VERSE:That we may give thanks to thy holy name,
+VERSE:And glory in thy praise.
+LABEL:36
+VERSE:Blessed be the LORD God of Israel
+VERSE:For ever and ever.
+VERSE:And all the people said, Amen, and praised the LORD.
+LABEL:37
+VERSE:So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day's work required:
+LABEL:38
+VERSE:and Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah to be porters:
+LABEL:39
+VERSE:and Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that was at Gibeon,
+LABEL:40
+VERSE:to offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;
+LABEL:41
+VERSE:and with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever;
+LABEL:42
+VERSE:and with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun were porters.
+LABEL:43
+VERSE:And all the people departed every man to his house: and David returned to bless his house.

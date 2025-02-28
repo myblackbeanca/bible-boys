@@ -1,0 +1,94 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:35
+TITLE:Psalms 35
+LABEL:1
+VERSE:Strive thou, O Jehovah, with them that strive with me:
+VERSE:Fight thou against them that fight against me.
+LABEL:2
+VERSE:Take hold of shield and buckler,
+VERSE:And stand up for my help.
+LABEL:3
+VERSE:Draw out also the spear, and stop the way against them that pursue me:
+VERSE:Say unto my soul, I am thy salvation.
+LABEL:4
+VERSE:Let them be put to shame and brought to dishonor that seek after my soul:
+VERSE:Let them be turned back and confounded that devise my hurt.
+LABEL:5
+VERSE:Let them be as chaff before the wind,
+VERSE:And the angel of Jehovah driving them on.
+LABEL:6
+VERSE:Let their way be dark and slippery,
+VERSE:And the angel of Jehovah pursuing them.
+LABEL:7
+VERSE:For without cause have they hid for me their net in a pit;
+VERSE:Without cause have they digged a pit for my soul.
+LABEL:8
+VERSE:Let destruction come upon him unawares;
+VERSE:And let his net that he hath hid catch himself:
+VERSE:With destruction let him fall therein.
+LABEL:9
+VERSE:And my soul shall be joyful in Jehovah:
+VERSE:It shall rejoice in his salvation.
+LABEL:10
+VERSE:All my bones shall say, Jehovah, who is like unto thee,
+VERSE:Who deliverest the poor from him that is too strong for him,
+VERSE:Yea, the poor and the needy from him that robbeth him?
+LABEL:11
+VERSE:Unrighteous witnesses rise up;
+VERSE:They ask me of things that I know not.
+LABEL:12
+VERSE:They reward me evil for good,
+VERSE:To the bereaving of my soul.
+LABEL:13
+VERSE:But as for me, when they were sick, my clothing was sackcloth:
+VERSE:I afflicted my soul with fasting;
+VERSE:And my prayer returned into mine own bosom.
+LABEL:14
+VERSE:I behaved myself as though it had been my friend or my brother:
+VERSE:I bowed down mourning, as one that bewaileth his mother.
+LABEL:15
+VERSE:But in mine adversity they rejoiced, and gathered themselves together:
+VERSE:The abjects gathered themselves together against me, and I knew it not;
+VERSE:They did tear me, and ceased not:
+LABEL:16
+VERSE:Like the profane mockers in feasts,
+VERSE:They gnashed upon me with their teeth.
+LABEL:17
+VERSE:Lord, how long wilt thou look on?
+VERSE:Rescue my soul from their destructions,
+VERSE:My darling from the lions.
+LABEL:18
+VERSE:I will give thee thanks in the great assembly:
+VERSE:I will praise thee among much people.
+LABEL:19
+VERSE:Let not them that are mine enemies wrongfully rejoice over me;
+VERSE:Neither let them wink with the eye that hate me without a cause.
+LABEL:20
+VERSE:For they speak not peace;
+VERSE:But they devise deceitful words against them that are quiet in the land.
+LABEL:21
+VERSE:Yea, they opened their mouth wide against me;
+VERSE:They said, Aha, aha, our eye hath seen it.
+LABEL:22
+VERSE:Thou hast seen it, O Jehovah; keep not silence:
+VERSE:O Lord, be not far from me.
+LABEL:23
+VERSE:Stir up thyself, and awake to the justice due unto me,
+VERSE:Even unto my cause, my God and my Lord.
+LABEL:24
+VERSE:Judge me, O Jehovah my God, according to thy righteousness;
+VERSE:And let them not rejoice over me.
+LABEL:25
+VERSE:Let them not say in their heart, Aha, so would we have it:
+VERSE:Let them not say, We have swallowed him up.
+LABEL:26
+VERSE:Let them be put to shame and confounded together that rejoice at my hurt:
+VERSE:Let them be clothed with shame and dishonor that magnify themselves against me.
+LABEL:27
+VERSE:Let them shout for joy, and be glad, that favor my righteous cause:
+VERSE:Yea, let them say continually, Jehovah be magnified,
+VERSE:Who hath pleasure in the prosperity of his servant.
+LABEL:28
+VERSE:And my tongue shall talk of thy righteousness
+VERSE:And of thy praise all the day long.

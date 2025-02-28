@@ -1,0 +1,58 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:83
+TITLE:Psalms 83
+LABEL:1
+VERSE:O God, keep not thou silence:
+VERSE:Hold not thy peace, and be not still, O God.
+LABEL:2
+VERSE:For, lo, thine enemies make a tumult;
+VERSE:And they that hate thee have lifted up the head.
+LABEL:3
+VERSE:They take crafty counsel against thy people,
+VERSE:And consult together against thy hidden ones.
+LABEL:4
+VERSE:They have said, Come, and let us cut them off from being a nation;
+VERSE:That the name of Israel may be no more in remembrance.
+LABEL:5
+VERSE:For they have consulted together with one consent;
+VERSE:Against thee do they make a covenant:
+LABEL:6
+VERSE:The tents of Edom and the Ishmaelites;
+VERSE:Moab, and the Hagarenes;
+LABEL:7
+VERSE:Gebal, and Ammon, and Amalek;
+VERSE:Philistia with the inhabitants of Tyre:
+LABEL:8
+VERSE:Assyria also is joined with them;
+VERSE:They have helped the children of Lot. [Selah
+LABEL:9
+VERSE:Do thou unto them as unto Midian,
+VERSE:As to Sisera, as to Jabin, at the river Kishon;
+LABEL:10
+VERSE:Who perished at Endor,
+VERSE:Who became as dung for the earth.
+LABEL:11
+VERSE:Make their nobles like Oreb and Zeeb;
+VERSE:Yea, all their princes like Zebah and Zalmunna;
+LABEL:12
+VERSE:Who said, Let us take to ourselves in possession
+VERSE:The habitations of God.
+LABEL:13
+VERSE:O my God, make them like the whirling dust;
+VERSE:As stubble before the wind.
+LABEL:14
+VERSE:As the fire that burneth the forest,
+VERSE:And as the flame that setteth the mountains on fire,
+LABEL:15
+VERSE:So pursue them with thy tempest,
+VERSE:And terrify them with thy storm.
+LABEL:16
+VERSE:Fill their faces with confusion,
+VERSE:That they may seek thy name, O Jehovah.
+LABEL:17
+VERSE:Let them be put to shame and dismayed for ever;
+VERSE:Yea, let them be confounded and perish;
+LABEL:18
+VERSE:That they may know that thou alone, whose name is Jehovah,
+VERSE:Art the Most High over all the earth.

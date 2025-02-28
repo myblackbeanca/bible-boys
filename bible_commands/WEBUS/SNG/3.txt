@@ -1,0 +1,51 @@
+TRANSLATION:WEBUS
+BOOK:SNG
+CHAPTER:3
+TITLE:Song of Solomon 3
+LABEL:1
+VERSE:By night on my bed,
+VERSE:I sought him whom my soul loves.
+VERSE:I sought him, but I didn’t find him.
+LABEL:2
+VERSE:I will get up now, and go about the city;
+VERSE:in the streets and in the squares I will seek him whom my soul loves.
+VERSE:I sought him, but I didn’t find him.
+LABEL:3
+VERSE:The watchmen who go about the city found me;
+VERSE:“Have you seen him whom my soul loves?”
+LABEL:4
+VERSE:I had scarcely passed from them,
+VERSE:when I found him whom my soul loves.
+VERSE:I held him, and would not let him go,
+VERSE:until I had brought him into my mother’s house,
+VERSE:into the room of her who conceived me.
+LABEL:5
+VERSE:I adjure you, daughters of Jerusalem,
+VERSE:by the roes, or by the hinds of the field,
+VERSE:that you not stir up nor awaken love,
+VERSE:until it so desires.
+LABEL:6
+VERSE:Who is this who comes up from the wilderness like pillars of smoke,
+VERSE:perfumed with myrrh and frankincense,
+VERSE:with all spices of the merchant?
+LABEL:7
+VERSE:Behold, it is Solomon’s carriage!
+VERSE:Sixty mighty men are around it,
+VERSE:of the mighty men of Israel.
+LABEL:8
+VERSE:They all handle the sword, and are expert in war.
+VERSE:Every man has his sword on his thigh,
+VERSE:because of fear in the night.
+LABEL:9
+VERSE:King Solomon made himself a carriage
+VERSE:of the wood of Lebanon.
+LABEL:10
+VERSE:He made its pillars of silver,
+VERSE:its bottom of gold, its seat of purple,
+VERSE:the middle of it being paved with love,
+VERSE:from the daughters of Jerusalem.
+LABEL:11
+VERSE:Go out, you daughters of Zion, and see King Solomon,
+VERSE:with the crown with which his mother has crowned him,
+VERSE:in the day of his weddings,
+VERSE:in the day of the gladness of his heart.

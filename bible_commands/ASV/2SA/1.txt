@@ -1,0 +1,77 @@
+TRANSLATION:ASV
+BOOK:2SA
+CHAPTER:1
+TITLE:2 Samuel 1
+LABEL:1
+VERSE:And it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
+LABEL:2
+VERSE:it came to pass on the third day, that, behold, a man came out of the camp from Saul, with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.
+LABEL:3
+VERSE:And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
+LABEL:4
+VERSE:And David said unto him, How went the matter? I pray thee, tell me. And he answered, The people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
+LABEL:5
+VERSE:And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son are dead?
+LABEL:6
+VERSE:And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul was leaning upon his spear; and, lo, the chariots and the horsemen followed hard after him.
+LABEL:7
+VERSE:And when he looked behind him, he saw me, and called unto me. And I answered, Here am I.
+LABEL:8
+VERSE:And he said unto me, Who art thou? And I answered him, I am an Amalekite.
+LABEL:9
+VERSE:And he said unto me, Stand, I pray thee, beside me, and slay me; for anguish hath taken hold of me, because my life is yet whole in me.
+LABEL:10
+VERSE:So I stood beside him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them hither unto my lord.
+LABEL:11
+VERSE:Then David took hold on his clothes, and rent them; and likewise all the men that were with him:
+LABEL:12
+VERSE:and they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of Jehovah, and for the house of Israel; because they were fallen by the sword.
+LABEL:13
+VERSE:And David said unto the young man that told him, Whence art thou? And he answered, I am the son of a sojourner, an Amalekite.
+LABEL:14
+VERSE:And David said unto him, How wast thou not afraid to put forth thy hand to destroy Jehovah’s anointed?
+LABEL:15
+VERSE:And David called one of the young men, and said, Go near, and fall upon him. And he smote him, so that he died.
+LABEL:16
+VERSE:And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain Jehovah’s anointed.
+LABEL:17
+VERSE:And David lamented with this lamentation over Saul and over Jonathan his son
+LABEL:18
+VERSE:(and he bade them teach the children of Judah the song of the bow: behold, it is written in the book of Jashar):
+LABEL:19
+VERSE:Thy glory, O Israel, is slain upon thy high places!
+VERSE:How are the mighty fallen!
+LABEL:20
+VERSE:Tell it not in Gath,
+VERSE:Publish it not in the streets of Ashkelon;
+VERSE:Lest the daughters of the Philistines rejoice,
+VERSE:Lest the daughters of the uncircumcised triumph.
+LABEL:21
+VERSE:Ye mountains of Gilboa,
+VERSE:Let there be no dew nor rain upon you, neither fields of offerings:
+VERSE:For there the shield of the mighty was vilely cast away,
+VERSE:The shield of Saul, not anointed with oil.
+LABEL:22
+VERSE:From the blood of the slain, from the fat of the mighty,
+VERSE:The bow of Jonathan turned not back,
+VERSE:And the sword of Saul returned not empty.
+LABEL:23
+VERSE:Saul and Jonathan were lovely and pleasant in their lives,
+VERSE:And in their death they were not divided:
+VERSE:They were swifter than eagles,
+VERSE:They were stronger than lions.
+LABEL:24
+VERSE:Ye daughters of Israel, weep over Saul,
+VERSE:Who clothed you in scarlet delicately,
+VERSE:Who put ornaments of gold upon your apparel.
+LABEL:25
+VERSE:How are the mighty fallen in the midst of the battle!
+VERSE:Jonathan is slain upon thy high places.
+LABEL:26
+VERSE:I am distressed for thee, my brother Jonathan:
+VERSE:Very pleasant hast thou been unto me:
+VERSE:Thy love to me was wonderful,
+VERSE:Passing the love of women.
+LABEL:27
+VERSE:How are the mighty fallen,
+VERSE:And the weapons of war perished!

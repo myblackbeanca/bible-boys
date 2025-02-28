@@ -1,0 +1,70 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:2
+TITLE:Proverbs 2
+LABEL:1
+VERSE:My son, if thou wilt receive my words,
+VERSE:And hide my commandments with thee;
+LABEL:2
+VERSE:So that thou incline thine ear unto wisdom,
+VERSE:And apply thine heart to understanding;
+LABEL:3
+VERSE:Yea, if thou criest after knowledge,
+VERSE:And liftest up thy voice for understanding;
+LABEL:4
+VERSE:If thou seekest her as silver,
+VERSE:And searchest for her as for hid treasures;
+LABEL:5
+VERSE:Then shalt thou understand the fear of the LORD,
+VERSE:And find the knowledge of God.
+LABEL:6
+VERSE:For the LORD giveth wisdom:
+VERSE:Out of his mouth cometh knowledge and understanding.
+LABEL:7
+VERSE:He layeth up sound wisdom for the righteous:
+VERSE:He is a buckler to them that walk uprightly.
+LABEL:8
+VERSE:He keepeth the paths of judgment,
+VERSE:And preserveth the way of his saints.
+LABEL:9
+VERSE:Then shalt thou understand righteousness, and judgment,
+VERSE:And equity; yea, every good path.
+LABEL:10
+VERSE:When wisdom entereth into thine heart,
+VERSE:And knowledge is pleasant unto thy soul;
+LABEL:11
+VERSE:Discretion shall preserve thee,
+VERSE:Understanding shall keep thee:
+LABEL:12
+VERSE:To deliver thee from the way of the evil man,
+VERSE:From the man that speaketh froward things;
+LABEL:13
+VERSE:Who leave the paths of uprightness,
+VERSE:To walk in the ways of darkness;
+LABEL:14
+VERSE:Who rejoice to do evil,
+VERSE:And delight in the frowardness of the wicked;
+LABEL:15
+VERSE:Whose ways are crooked,
+VERSE:And they froward in their paths:
+LABEL:16
+VERSE:To deliver thee from the strange woman,
+VERSE:Even from the stranger which flattereth with her words;
+LABEL:17
+VERSE:Which forsaketh the guide of her youth,
+VERSE:And forgetteth the covenant of her God.
+LABEL:18
+VERSE:For her house inclineth unto death,
+VERSE:And her paths unto the dead.
+LABEL:19
+VERSE:None that go unto her return again,
+VERSE:Neither take they hold of the paths of life.
+LABEL:20
+VERSE:That thou mayest walk in the way of good men,
+VERSE:And keep the paths of the righteous.
+LABEL:21
+VERSE:For the upright shall dwell in the land,
+VERSE:And the perfect shall remain in it.
+LABEL:22
+VERSE:But the wicked shall be cut off from the earth,
+VERSE:And the transgressors shall be rooted out of it.

@@ -1,0 +1,52 @@
+TRANSLATION:ASV
+BOOK:GEN
+CHAPTER:14
+TITLE:Genesis 14
+LABEL:1
+VERSE:And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim,
+LABEL:2
+VERSE:that they made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela (the same is Zoar).
+LABEL:3
+VERSE:All these joined together in the vale of Siddim (the same is the Salt Sea).
+LABEL:4
+VERSE:Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.
+LABEL:5
+VERSE:And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaim in Ashteroth-karnaim, and the Zuzim in Ham, and the Emim in Shaveh-kiriathaim,
+LABEL:6
+VERSE:and the Horites in their mount Seir, unto El-paran, which is by the wilderness.
+LABEL:7
+VERSE:And they returned, and came to En-mishpat (the same is Kadesh), and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazazon-tamar.
+LABEL:8
+VERSE:And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar); and they set the battle in array against them in the vale of Siddim;
+LABEL:9
+VERSE:against Chedorlaomer king of Elam, and Tidal king of Goiim, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings against the five.
+LABEL:10
+VERSE:Now the vale of Siddim was full of slime pits; and the kings of Sodom and Gomorrah fled, and they fell there, and they that remained fled to the mountain.
+LABEL:11
+VERSE:And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.
+LABEL:12
+VERSE:And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed.
+LABEL:13
+VERSE:And there came one that had escaped, and told Abram the Hebrew: now he dwelt by the oaks of Mamre, the Amorite, brother of Eshcol, and brother of Aner; and these were confederate with Abram.
+LABEL:14
+VERSE:And when Abram heard that his brother was taken captive, he led forth his trained men, born in his house, three hundred and eighteen, and pursued as far as Dan.
+LABEL:15
+VERSE:And he divided himself against them by night, he and his servants, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus.
+LABEL:16
+VERSE:And he brought back all the goods, and also brought back his brother Lot, and his goods, and the women also, and the people.
+LABEL:17
+VERSE:And the king of Sodom went out to meet him, after his return from the slaughter of Chedorlaomer and the kings that were with him, at the vale of Shaveh (the same is the King’s Vale).
+LABEL:18
+VERSE:And Melchizedek king of Salem brought forth bread and wine: and he was priest of God Most High.
+LABEL:19
+VERSE:And he blessed him, and said, Blessed be Abram of God Most High, possessor of heaven and earth:
+LABEL:20
+VERSE:and blessed be God Most High, who hath delivered thine enemies into thy hand. And he gave him a tenth of all.
+LABEL:21
+VERSE:And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
+LABEL:22
+VERSE:And Abram said to the king of Sodom, I have lifted up my hand unto Jehovah, God Most High, possessor of heaven and earth,
+LABEL:23
+VERSE:that I will not take a thread nor a shoe-latchet nor aught that is thine, lest thou shouldest say, I have made Abram rich:
+LABEL:24
+VERSE:save only that which the young men have eaten, and the portion of the men that went with me, Aner, Eshcol, and Mamre; let them take their portion.

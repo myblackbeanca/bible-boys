@@ -1,0 +1,70 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:34
+TITLE:Psalms 34
+LABEL:1
+VERSE:I will bless Jehovah at all times:
+VERSE:His praise shall continually be in my mouth.
+LABEL:2
+VERSE:My soul shall make her boast in Jehovah:
+VERSE:The meek shall hear thereof, and be glad.
+LABEL:3
+VERSE:Oh magnify Jehovah with me,
+VERSE:And let us exalt his name together.
+LABEL:4
+VERSE:I sought Jehovah, and he answered me,
+VERSE:And delivered me from all my fears.
+LABEL:5
+VERSE:They looked unto him, and were radiant;
+VERSE:And their faces shall never be confounded.
+LABEL:6
+VERSE:This poor man cried, and Jehovah heard him,
+VERSE:And saved him out of all his troubles.
+LABEL:7
+VERSE:The angel of Jehovah encampeth round about them that fear him,
+VERSE:And delivereth them.
+LABEL:8
+VERSE:Oh taste and see that Jehovah is good:
+VERSE:Blessed is the man that taketh refuge in him.
+LABEL:9
+VERSE:Oh fear Jehovah, ye his saints;
+VERSE:For there is no want to them that fear him.
+LABEL:10
+VERSE:The young lions do lack, and suffer hunger;
+VERSE:But they that seek Jehovah shall not want any good thing.
+LABEL:11
+VERSE:Come, ye children, hearken unto me:
+VERSE:I will teach you the fear of Jehovah.
+LABEL:12
+VERSE:What man is he that desireth life,
+VERSE:And loveth many days, that he may see good?
+LABEL:13
+VERSE:Keep thy tongue from evil,
+VERSE:And thy lips from speaking guile.
+LABEL:14
+VERSE:Depart from evil, and do good;
+VERSE:Seek peace, and pursue it.
+LABEL:15
+VERSE:The eyes of Jehovah are toward the righteous,
+VERSE:And his ears are open unto their cry.
+LABEL:16
+VERSE:The face of Jehovah is against them that do evil,
+VERSE:To cut off the remembrance of them from the earth.
+LABEL:17
+VERSE:  The righteous cried, and Jehovah heard,
+VERSE:And delivered them out of all their troubles.
+LABEL:18
+VERSE:Jehovah is nigh unto them that are of a broken heart,
+VERSE:And saveth such as are of a contrite spirit.
+LABEL:19
+VERSE:Many are the afflictions of the righteous;
+VERSE:But Jehovah delivereth him out of them all.
+LABEL:20
+VERSE:He keepeth all his bones:
+VERSE:Not one of them is broken.
+LABEL:21
+VERSE:Evil shall slay the wicked;
+VERSE:And they that hate the righteous shall be condemned.
+LABEL:22
+VERSE:Jehovah redeemeth the soul of his servants;
+VERSE:And none of them that take refuge in him shall be condemned.

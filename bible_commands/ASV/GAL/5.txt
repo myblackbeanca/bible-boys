@@ -1,0 +1,56 @@
+TRANSLATION:ASV
+BOOK:GAL
+CHAPTER:5
+TITLE:Galatians 5
+LABEL:1
+VERSE:For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.
+LABEL:2
+VERSE:Behold, I Paul say unto you, that, if ye receive circumcision, Christ will profit you nothing.
+LABEL:3
+VERSE:Yea, I testify again to every man that receiveth circumcision, that he is a debtor to do the whole law.
+LABEL:4
+VERSE:Ye are severed from Christ, ye who would be justified by the law; ye are fallen away from grace.
+LABEL:5
+VERSE:For we through the Spirit by faith wait for the hope of righteousness.
+LABEL:6
+VERSE:For in Christ Jesus neither circumcision availeth anything, nor uncircumcision; but faith working through love.
+LABEL:7
+VERSE:Ye were running well; who hindered you that ye should not obey the truth?
+LABEL:8
+VERSE:This persuasion came not of him that calleth you.
+LABEL:9
+VERSE:A little leaven leaveneth the whole lump.
+LABEL:10
+VERSE:I have confidence to you-ward in the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.
+LABEL:11
+VERSE:But I, brethren, if I still preach circumcision, why am I still persecuted? then hath the stumbling-block of the cross been done away.
+LABEL:12
+VERSE:I would that they that unsettle you would even go beyond circumcision.
+LABEL:13
+VERSE:For ye, brethren, were called for freedom; only use not your freedom for an occasion to the flesh, but through love be servants one to another.
+LABEL:14
+VERSE:For the whole law is fulfilled in one word, even in this: Thou shalt love thy neighbor as thyself.
+LABEL:15
+VERSE:But if ye bite and devour one another, take heed that ye be not consumed one of another.
+LABEL:16
+VERSE:But I say, Walk by the Spirit, and ye shall not fulfil the lust of the flesh.
+LABEL:17
+VERSE:For the flesh lusteth against the Spirit, and the Spirit against the flesh; for these are contrary the one to the other; that ye may not do the things that ye would.
+LABEL:18
+VERSE:But if ye are led by the Spirit, ye are not under the law.
+LABEL:19
+VERSE:Now the works of the flesh are manifest, which are these: fornication, uncleanness, lasciviousness,
+LABEL:20
+VERSE:idolatry, sorcery, enmities, strife, jealousies, wraths, factions, divisions, parties,
+LABEL:21
+VERSE:envyings, drunkenness, revellings, and such like; of which I forewarn you, even as I did forewarn you, that they who practise such things shall not inherit the kingdom of God.
+LABEL:22
+VERSE:But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,
+LABEL:23
+VERSE:meekness, self-control; against such there is no law.
+LABEL:24
+VERSE:And they that are of Christ Jesus have crucified the flesh with the passions and the lusts thereof.
+LABEL:25
+VERSE:If we live by the Spirit, by the Spirit let us also walk.
+LABEL:26
+VERSE:Let us not become vainglorious, provoking one another, envying one another.

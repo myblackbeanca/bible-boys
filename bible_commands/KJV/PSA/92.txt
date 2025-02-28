@@ -1,0 +1,49 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:92
+TITLE:Psalm 92
+LABEL:1
+VERSE:  It is a good thing to give thanks unto the LORD,
+VERSE:And to sing praises unto thy name, O most High:
+LABEL:2
+VERSE:To shew forth thy lovingkindness in the morning,
+VERSE:And thy faithfulness every night,
+LABEL:3
+VERSE:Upon an instrument of ten strings, and upon the psaltery;
+VERSE:Upon the harp with a solemn sound.
+LABEL:4
+VERSE:For thou, LORD, hast made me glad through thy work:
+VERSE:I will triumph in the works of thy hands.
+LABEL:5
+VERSE:O LORD, how great are thy works!
+VERSE:And thy thoughts are very deep.
+LABEL:6
+VERSE:A brutish man knoweth not;
+VERSE:Neither doth a fool understand this.
+LABEL:7
+VERSE:When the wicked spring as the grass,
+VERSE:And when all the workers of iniquity do flourish;
+VERSE:It is that they shall be destroyed for ever:
+LABEL:8
+VERSE:But thou, LORD, art most high for evermore.
+LABEL:9
+VERSE:For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish;
+VERSE:All the workers of iniquity shall be scattered.
+LABEL:10
+VERSE:But my horn shalt thou exalt like the horn of an unicorn:
+VERSE:I shall be anointed with fresh oil.
+LABEL:11
+VERSE:Mine eye also shall see my desire on mine enemies,
+VERSE:And mine ears shall hear my desire of the wicked that rise up against me.
+LABEL:12
+VERSE:The righteous shall flourish like the palm tree:
+VERSE:He shall grow like a cedar in Lebanon.
+LABEL:13
+VERSE:Those that be planted in the house of the LORD
+VERSE:Shall flourish in the courts of our God.
+LABEL:14
+VERSE:They shall still bring forth fruit in old age;
+VERSE:They shall be fat and flourishing;
+LABEL:15
+VERSE:To shew that the LORD  is upright: He is my rock,
+VERSE:And there is no unrighteousness in him.

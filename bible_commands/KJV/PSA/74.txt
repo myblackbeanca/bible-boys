@@ -1,0 +1,74 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:74
+TITLE:Psalm 74
+LABEL:1
+VERSE:O God, why hast thou cast us off for ever?
+VERSE:Why doth thine anger smoke against the sheep of thy pasture?
+LABEL:2
+VERSE:Remember thy congregation, which thou hast purchased of old;
+VERSE:The rod of thine inheritance, which thou hast redeemed;
+VERSE:This mount Zion, wherein thou hast dwelt.
+LABEL:3
+VERSE:Lift up thy feet unto the perpetual desolations;
+VERSE:Even all that the enemy
+VERSE:hath done wickedly in the sanctuary.
+LABEL:4
+VERSE:Thine enemies roar in the midst of thy congregations;
+VERSE:They set up their ensigns for signs.
+LABEL:5
+VERSE:  A man was famous according as he had lifted up axes upon the thick trees.
+LABEL:6
+VERSE:But now they break down the carved work
+VERSE:Thereof at once with axes and hammers.
+LABEL:7
+VERSE:They have cast fire into thy sanctuary,
+VERSE:They have defiled by casting down the dwelling place of thy name to the ground.
+LABEL:8
+VERSE:They said in their hearts, Let us destroy them together:
+VERSE:They have burned up all the synagogues of God in the land.
+LABEL:9
+VERSE:We see not our signs: There is no more any prophet:
+VERSE:Neither is there among us any that knoweth how long.
+LABEL:10
+VERSE:O God, how long shall the adversary reproach?
+VERSE:Shall the enemy blaspheme thy name for ever?
+LABEL:11
+VERSE:Why withdrawest thou thy hand, even thy right hand?
+VERSE:Pluck it out of thy bosom.
+LABEL:12
+VERSE:For God is my King of old,
+VERSE:Working salvation in the midst of the earth.
+LABEL:13
+VERSE:Thou didst divide the sea by thy strength:
+VERSE:Thou brakest the heads of the dragons in the waters.
+LABEL:14
+VERSE:Thou brakest the heads of leviathan in pieces,
+VERSE:And gavest him to be meat to the people inhabiting the wilderness.
+LABEL:15
+VERSE:Thou didst cleave the fountain and the flood:
+VERSE:Thou driedst up mighty rivers.
+LABEL:16
+VERSE:The day is thine, the night also is thine:
+VERSE:Thou hast prepared the light and the sun.
+LABEL:17
+VERSE:Thou hast set all the borders of the earth:
+VERSE:Thou hast made summer and winter.
+LABEL:18
+VERSE:Remember this, that the enemy hath reproached, O LORD,
+VERSE:And that the foolish people have blasphemed thy name.
+LABEL:19
+VERSE:O deliver not the soul of thy turtledove unto the multitude of the wicked:
+VERSE:Forget not the congregation of thy poor for ever.
+LABEL:20
+VERSE:Have respect unto the covenant:
+VERSE:For the dark places of the earth are full of the habitations of cruelty.
+LABEL:21
+VERSE:O let not the oppressed return ashamed:
+VERSE:Let the poor and needy praise thy name.
+LABEL:22
+VERSE:Arise, O God, plead thine own cause:
+VERSE:Remember how the foolish man reproacheth thee daily.
+LABEL:23
+VERSE:Forget not the voice of thine enemies:
+VERSE:The tumult of those that rise up against thee increaseth continually.

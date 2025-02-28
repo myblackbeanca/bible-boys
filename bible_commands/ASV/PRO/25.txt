@@ -1,0 +1,90 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:25
+TITLE:Proverbs 25
+LABEL:1
+VERSE:These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
+LABEL:2
+VERSE:It is the glory of God to conceal a thing;
+VERSE:But the glory of kings is to search out a matter.
+LABEL:3
+VERSE:As the heavens for height, and the earth for depth,
+VERSE:So the heart of kings is unsearchable.
+LABEL:4
+VERSE:Take away the dross from the silver,
+VERSE:And there cometh forth a vessel for the refiner:
+LABEL:5
+VERSE:Take away the wicked from before the king,
+VERSE:And his throne shall be established in righteousness.
+LABEL:6
+VERSE:Put not thyself forward in the presence of the king,
+VERSE:And stand not in the place of great men:
+LABEL:7
+VERSE:For better is it that it be said unto thee, Come up hither,
+VERSE:Than that thou shouldest be put lower in the presence of the prince,
+VERSE:Whom thine eyes have seen.
+LABEL:8
+VERSE:Go not forth hastily to strive,
+VERSE:Lest thou know not what to do in the end thereof,
+VERSE:When thy neighbor hath put thee to shame.
+LABEL:9
+VERSE:Debate thy cause with thy neighbor himself,
+VERSE:And disclose not the secret of another;
+LABEL:10
+VERSE:Lest he that heareth it revile thee,
+VERSE:And thine infamy turn not away.
+LABEL:11
+VERSE:A word fitly spoken
+VERSE:Is like apples of gold in network of silver.
+LABEL:12
+VERSE:  As an ear-ring of gold, and an ornament of fine gold,
+VERSE:So is a wise reprover upon an obedient ear.
+LABEL:13
+VERSE:As the cold of snow in the time of harvest,
+VERSE:So is a faithful messenger to them that send him;
+VERSE:For he refresheth the soul of his masters.
+LABEL:14
+VERSE:  As clouds and wind without rain,
+VERSE:So is he that boasteth himself of his gifts falsely.
+LABEL:15
+VERSE:By long forbearing is a ruler persuaded,
+VERSE:And a soft tongue breaketh the bone.
+LABEL:16
+VERSE:Hast thou found honey? eat so much as is sufficient for thee,
+VERSE:Lest thou be filled therewith, and vomit it.
+LABEL:17
+VERSE:Let thy foot be seldom in thy neighbor’s house,
+VERSE:Lest he be weary of thee, and hate thee.
+LABEL:18
+VERSE:A man that beareth false witness against his neighbor
+VERSE:Is a maul, and a sword, and a sharp arrow.
+LABEL:19
+VERSE:Confidence in an unfaithful man in time of trouble
+VERSE:Is like a broken tooth, and a foot out of joint.
+LABEL:20
+VERSE:  As one that taketh off a garment in cold weather, and as vinegar upon soda,
+VERSE:So is he that singeth songs to a heavy heart.
+LABEL:21
+VERSE:If thine enemy be hungry, give him bread to eat;
+VERSE:And if he be thirsty, give him water to drink:
+LABEL:22
+VERSE:For thou wilt heap coals of fire upon his head,
+VERSE:And Jehovah will reward thee.
+LABEL:23
+VERSE:The north wind bringeth forth rain;
+VERSE:So doth a backbiting tongue an angry countenance.
+LABEL:24
+VERSE:It is better to dwell in the corner of the housetop,
+VERSE:Than with a contentious woman in a wide house.
+LABEL:25
+VERSE:  As cold waters to a thirsty soul,
+VERSE:So is good news from a far country.
+LABEL:26
+VERSE:  As a troubled fountain, and a corrupted spring,
+VERSE:So is a righteous man that giveth way before the wicked.
+LABEL:27
+VERSE:It is not good to eat much honey;
+VERSE:So for men to search out their own glory is grievous.
+LABEL:28
+VERSE:He whose spirit is without restraint
+VERSE:Is like a city that is broken down and without walls.

@@ -1,0 +1,100 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:66
+TITLE:Isaiah 66
+LABEL:1
+VERSE:Yahweh says:
+VERSE:“Heaven is my throne, and the earth is my footstool.
+VERSE:What kind of house will you build to me?
+VERSE:Where will I rest?
+LABEL:2
+VERSE:For my hand has made all these things,
+VERSE:and so all these things came to be,” says Yahweh:
+VERSE:“but I will look to this man,
+VERSE:even to he who is poor and of a contrite spirit,
+VERSE:and who trembles at my word.
+LABEL:3
+VERSE:He who kills an ox is as he who kills a man;
+VERSE:he who sacrifices a lamb, as he who breaks a dog’s neck;
+VERSE:he who offers an offering, as he who offers pig’s blood;
+VERSE:he who burns frankincense, as he who blesses an idol.
+VERSE:Yes, they have chosen their own ways,
+VERSE:and their soul delights in their abominations.
+LABEL:4
+VERSE:I also will choose their delusions,
+VERSE:and will bring their fears on them,
+VERSE:because when I called, no one answered;
+VERSE:when I spoke, they didn’t listen,
+VERSE:but they did that which was evil in my eyes,
+VERSE:and chose that in which I didn’t delight.”
+LABEL:5
+VERSE:Hear Yahweh’s word,
+VERSE:you who tremble at his word:
+VERSE:“Your brothers who hate you,
+VERSE:who cast you out for my name’s sake, have said,
+VERSE:‘Let Yahweh be glorified,
+VERSE:that we may see your joy;’
+VERSE:but it is those who shall be disappointed.
+LABEL:6
+VERSE:A voice of tumult from the city,
+VERSE:a voice from the temple,
+VERSE:a voice of Yahweh that repays his enemies what they deserve.
+LABEL:7
+VERSE:“Before she travailed, she gave birth.
+VERSE:Before her pain came, she delivered a son.
+LABEL:8
+VERSE:Who has heard of such a thing?
+VERSE:Who has seen such things?
+VERSE:Shall a land be born in one day?
+VERSE:Shall a nation be born at once?
+VERSE:For as soon as Zion travailed,
+VERSE:she gave birth to her children.
+LABEL:9
+VERSE:Shall I bring to the birth, and not cause to be delivered?” says Yahweh.
+VERSE:“Shall I who cause to give birth shut the womb?” says your God.
+LABEL:10
+VERSE:“Rejoice with Jerusalem, and be glad for her, all you who love her.
+VERSE:Rejoice for joy with her, all you who mourn over her;
+LABEL:11
+VERSE:that you may nurse and be satisfied at the comforting breasts;
+VERSE:that you may drink deeply,
+VERSE:and be delighted with the abundance of her glory.”
+LABEL:12
+VERSE:For Yahweh says, “Behold, I will extend peace to her like a river,
+VERSE:and the glory of the nations like an overflowing stream,
+VERSE:and you will nurse.
+VERSE:You will be carried on her side,
+VERSE:and will be dandled on her knees.
+LABEL:13
+VERSE:As one whom his mother comforts,
+VERSE:so I will comfort you.
+VERSE:You will be comforted in Jerusalem.”
+LABEL:14
+VERSE:You will see it, and your heart shall rejoice,
+VERSE:and your bones will flourish like the tender grass.
+VERSE:Yahweh’s hand will be known among his servants;
+VERSE:and he will have indignation against his enemies.
+LABEL:15
+VERSE:For, behold, Yahweh will come with fire,
+VERSE:and his chariots will be like the whirlwind;
+VERSE:to render his anger with fierceness,
+VERSE:and his rebuke with flames of fire.
+LABEL:16
+VERSE:For Yahweh will execute judgment by fire and by his sword on all flesh;
+VERSE:and those slain by Yahweh will be many.
+LABEL:17
+VERSE:“Those who sanctify themselves and purify themselves to go to the gardens, following one in the middle, eating pig’s meat, abominable things, and the mouse, they shall come to an end together,” says Yahweh.
+LABEL:18
+VERSE:“For I know their works and their thoughts. The time comes that I will gather all nations and languages, and they will come, and will see my glory.
+LABEL:19
+VERSE:“I will set a sign among them, and I will send those who escape of them to the nations, to Tarshish, Pul, and Lud, who draw the bow, to Tubal and Javan, to far-away islands, who have not heard my fame, nor have seen my glory; and they shall declare my glory among the nations.
+LABEL:20
+VERSE:They shall bring all your brothers out of all the nations for an offering to Yahweh, on horses, in chariots, in litters, on mules, and on camels, to my holy mountain Jerusalem, says Yahweh, as the children of Israel bring their offering in a clean vessel into Yahweh’s house.
+LABEL:21
+VERSE:Of them I will also select priests and Levites,” says Yahweh.
+LABEL:22
+VERSE:“For as the new heavens and the new earth, which I will make, shall remain before me,” says Yahweh, “so your offspring and your name shall remain.
+LABEL:23
+VERSE:It shall happen that from one new moon to another, and from one Sabbath to another, all flesh will come to worship before me,” says Yahweh.
+LABEL:24
+VERSE:“They will go out, and look at the dead bodies of the men who have transgressed against me; for their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind.”

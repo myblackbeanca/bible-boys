@@ -1,0 +1,90 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:25
+TITLE:Psalm 25
+SECTION:א Aleph
+LABEL:1
+VERSE:Unto thee, O LORD, do I lift up my soul.
+LABEL:2
+VERSE:O my God, I trust in thee:
+SECTION:ב Bet
+VERSE:Let me not be ashamed, let not mine enemies triumph over me.
+SECTION:ג Gimel
+LABEL:3
+VERSE:Yea, let none that wait on thee be ashamed:
+VERSE:Let them be ashamed which transgress without cause.
+SECTION:ד Dalet
+LABEL:4
+VERSE:Shew me thy ways, O LORD;
+VERSE:Teach me thy paths.
+SECTION:ה He
+LABEL:5
+VERSE:Lead me in thy truth, and teach me:
+SECTION:(ו Waw)
+VERSE:For thou art the God of my salvation; on thee do I wait all the day.
+SECTION:ז Zain
+LABEL:6
+VERSE:Remember, O LORD, thy tender mercies and thy lovingkindnesses;
+VERSE:For they have been ever of old.
+SECTION:ח Het
+LABEL:7
+VERSE:Remember not the sins of my youth, nor my transgressions:
+VERSE:According to thy mercy remember thou me for thy goodness' sake, O LORD.
+SECTION:ט Tet
+LABEL:8
+VERSE:Good and upright is the LORD:
+VERSE:Therefore will he teach sinners in the way.
+SECTION:י Yod
+LABEL:9
+VERSE:The meek will he guide in judgment:
+VERSE:And the meek will he teach his way.
+SECTION:כ Kaph
+LABEL:10
+VERSE:All the paths of the LORD  are mercy and truth
+VERSE:Unto such as keep his covenant and his testimonies.
+SECTION:ל Lamed
+LABEL:11
+VERSE:For thy name's sake, O LORD,
+VERSE:Pardon mine iniquity; for it is great.
+SECTION:מ Mem
+LABEL:12
+VERSE:What man is he that feareth the LORD?
+VERSE:Him shall he teach in the way that he shall choose.
+SECTION:נ Nun
+LABEL:13
+VERSE:His soul shall dwell at ease;
+VERSE:And his seed shall inherit the earth.
+SECTION:ס Samek
+LABEL:14
+VERSE:The secret of the LORD  is with them that fear him;
+VERSE:And he will shew them his covenant.
+SECTION:ע Ain
+LABEL:15
+VERSE:Mine eyes are ever toward the LORD;
+VERSE:For he shall pluck my feet out of the net.
+SECTION:פ Pe
+LABEL:16
+VERSE:Turn thee unto me, and have mercy upon me;
+VERSE:For I am desolate and afflicted.
+SECTION:צ Zade
+LABEL:17
+VERSE:The troubles of my heart are enlarged:
+VERSE:O bring thou me out of my distresses.
+SECTION:(ק Qoph)
+LABEL:18
+VERSE:Look upon mine affliction and my pain;
+VERSE:And forgive all my sins.
+SECTION:ר Resh
+LABEL:19
+VERSE:Consider mine enemies; for they are many;
+VERSE:And they hate me with cruel hatred.
+SECTION:ש Shin
+LABEL:20
+VERSE:O keep my soul, and deliver me:
+VERSE:Let me not be ashamed; for I put my trust in thee.
+SECTION:ת Taw
+LABEL:21
+VERSE:Let integrity and uprightness preserve me;
+VERSE:For I wait on thee.
+LABEL:22
+VERSE:Redeem Israel, O God, out of all his troubles.

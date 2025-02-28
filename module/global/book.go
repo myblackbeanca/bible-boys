@@ -75,3 +75,12 @@ func GetBibleBooks() []Book {
 		{"REV", "Revelation"},
 	}
 }
+
+func GetBookByAbbreviation(abbr string) (Book, bool) {
+	for _, b := range GetBibleBooks() {
+		if b.Abbreviation == abbr {
+			return b, true
+		}
+	}
+	return Book{}, false
+}

@@ -1,0 +1,552 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:119
+TITLE:Psalm 119
+SECTION:א Aleph
+LABEL:1
+VERSE:Blessed are the undefiled in the way,
+VERSE:Who walk in the law of the LORD.
+LABEL:2
+VERSE:Blessed are they that keep his testimonies,
+VERSE:And that seek him with the whole heart.
+LABEL:3
+VERSE:They also do no iniquity:
+VERSE:They walk in his ways.
+LABEL:4
+VERSE:Thou hast commanded us
+VERSE:To keep thy precepts diligently.
+LABEL:5
+VERSE:O that my ways were directed
+VERSE:To keep thy statutes!
+LABEL:6
+VERSE:Then shall I not be ashamed,
+VERSE:When I have respect unto all thy commandments.
+LABEL:7
+VERSE:I will praise thee with uprightness of heart,
+VERSE:When I shall have learned thy righteous judgments.
+LABEL:8
+VERSE:I will keep thy statutes:
+VERSE:O forsake me not utterly.
+SECTION:ב Bet
+LABEL:9
+VERSE:Wherewithal shall a young man cleanse his way?
+VERSE:By taking heed thereto according to thy word.
+LABEL:10
+VERSE:With my whole heart have I sought thee:
+VERSE:O let me not wander from thy commandments.
+LABEL:11
+VERSE:Thy word have I hid in mine heart,
+VERSE:That I might not sin against thee.
+LABEL:12
+VERSE:Blessed art thou, O LORD:
+VERSE:Teach me thy statutes.
+LABEL:13
+VERSE:With my lips have I declared
+VERSE:All the judgments of thy mouth.
+LABEL:14
+VERSE:I have rejoiced in the way of thy testimonies,
+VERSE:As much as in all riches.
+LABEL:15
+VERSE:I will meditate in thy precepts,
+VERSE:And have respect unto thy ways.
+LABEL:16
+VERSE:I will delight myself in thy statutes:
+VERSE:I will not forget thy word.
+SECTION:ג Gimel
+LABEL:17
+VERSE:Deal bountifully with thy servant,
+VERSE:That I may live, and keep thy word.
+LABEL:18
+VERSE:Open thou mine eyes,
+VERSE:That I may behold wondrous things out of thy law.
+LABEL:19
+VERSE:I am a stranger in the earth:
+VERSE:Hide not thy commandments from me.
+LABEL:20
+VERSE:My soul breaketh for the longing
+VERSE:That it hath unto thy judgments at all times.
+LABEL:21
+VERSE:Thou hast rebuked the proud
+VERSE:That are cursed, which do err from thy commandments.
+LABEL:22
+VERSE:Remove from me reproach and contempt:
+VERSE:For I have kept thy testimonies.
+LABEL:23
+VERSE:Princes also did sit and speak against me:
+VERSE:But thy servant did meditate in thy statutes.
+LABEL:24
+VERSE:Thy testimonies also are
+VERSE:My delight and my counsellors.
+SECTION:ד Dalet
+LABEL:25
+VERSE:My soul cleaveth unto the dust:
+VERSE:Quicken thou me according to thy word.
+LABEL:26
+VERSE:I have declared my ways, and thou heardest me:
+VERSE:Teach me thy statutes.
+LABEL:27
+VERSE:Make me to understand the way of thy precepts:
+VERSE:So shall I talk of thy wondrous works.
+LABEL:28
+VERSE:My soul melteth for heaviness:
+VERSE:Strengthen thou me according unto thy word.
+LABEL:29
+VERSE:Remove from me the way of lying:
+VERSE:And grant me thy law graciously.
+LABEL:30
+VERSE:I have chosen the way of truth:
+VERSE:Thy judgments have I laid before me.
+LABEL:31
+VERSE:I have stuck unto thy testimonies:
+VERSE:O LORD, put me not to shame.
+LABEL:32
+VERSE:I will run the way of thy commandments,
+VERSE:When thou shalt enlarge my heart.
+SECTION:ה He
+LABEL:33
+VERSE:Teach me, O LORD, the way of thy statutes;
+VERSE:And I shall keep it unto the end.
+LABEL:34
+VERSE:Give me understanding, and I shall keep thy law;
+VERSE:Yea, I shall observe it with my whole heart.
+LABEL:35
+VERSE:Make me to go in the path of thy commandments;
+VERSE:For therein do I delight.
+LABEL:36
+VERSE:Incline my heart unto thy testimonies,
+VERSE:And not to covetousness.
+LABEL:37
+VERSE:Turn away mine eyes from beholding vanity;
+VERSE:And quicken thou me in thy way.
+LABEL:38
+VERSE:Stablish thy word
+VERSE:Unto thy servant, who is devoted to thy fear.
+LABEL:39
+VERSE:Turn away my reproach which I fear:
+VERSE:For thy judgments are good.
+LABEL:40
+VERSE:Behold, I have longed after thy precepts:
+VERSE:Quicken me in thy righteousness.
+SECTION:ו Waw
+LABEL:41
+VERSE:Let thy mercies come also unto me, O LORD,
+VERSE:Even thy salvation, according to thy word.
+LABEL:42
+VERSE:So shall I have wherewith to answer him that reproacheth me:
+VERSE:For I trust in thy word.
+LABEL:43
+VERSE:And take not the word of truth utterly out of my mouth;
+VERSE:For I have hoped in thy judgments.
+LABEL:44
+VERSE:So shall I keep
+VERSE:thy law continually for ever and ever.
+LABEL:45
+VERSE:And I will walk at liberty:
+VERSE:For I seek thy precepts.
+LABEL:46
+VERSE:I will speak of thy testimonies also before kings,
+VERSE:And will not be ashamed.
+LABEL:47
+VERSE:And I will delight myself
+VERSE:In thy commandments, which I have loved.
+LABEL:48
+VERSE:My hands also will I lift up unto thy commandments, which I have loved;
+VERSE:And I will meditate in thy statutes.
+SECTION:ז Zain
+LABEL:49
+VERSE:Remember the word unto thy servant,
+VERSE:Upon which thou hast caused me to hope.
+LABEL:50
+VERSE:This is my comfort in my affliction:
+VERSE:For thy word hath quickened me.
+LABEL:51
+VERSE:The proud have had me greatly in derision:
+VERSE:Yet have I not declined from thy law.
+LABEL:52
+VERSE:I remembered thy judgments of old,
+VERSE:O LORD; And have comforted myself.
+LABEL:53
+VERSE:Horror hath taken hold upon me
+VERSE:Because of the wicked that forsake thy law.
+LABEL:54
+VERSE:Thy statutes have been my songs
+VERSE:In the house of my pilgrimage.
+LABEL:55
+VERSE:I have remembered thy name, O LORD, in the night, and have kept thy law.
+LABEL:56
+VERSE:This I had, because I kept thy precepts.
+SECTION:ח Het
+LABEL:57
+VERSE:  Thou art my portion, O LORD:
+VERSE:I have said that I would keep thy words.
+LABEL:58
+VERSE:I intreated thy favour with my whole heart:
+VERSE:Be merciful unto me according to thy word.
+LABEL:59
+VERSE:I thought on my ways,
+VERSE:And turned my feet unto thy testimonies.
+LABEL:60
+VERSE:I made haste, and delayed not
+VERSE:To keep thy commandments.
+LABEL:61
+VERSE:The bands of the wicked have robbed me:
+VERSE:But I have not forgotten thy law.
+LABEL:62
+VERSE:At midnight I will rise to give thanks unto thee
+VERSE:Because of thy righteous judgments.
+LABEL:63
+VERSE:I am a companion of all them
+VERSE:That fear thee, and of them that keep thy precepts.
+LABEL:64
+VERSE:The earth, O LORD, is full of
+VERSE:Thy mercy: Teach me thy statutes.
+SECTION:ט Tet
+LABEL:65
+VERSE:Thou hast dealt well with thy servant,
+VERSE:O LORD, according unto thy word.
+LABEL:66
+VERSE:Teach me good judgment and knowledge:
+VERSE:For I have believed thy commandments.
+LABEL:67
+VERSE:Before I was afflicted I went astray:
+VERSE:But now have I kept thy word.
+LABEL:68
+VERSE:Thou art good, and doest good;
+VERSE:Teach me thy statutes.
+LABEL:69
+VERSE:The proud have forged a lie against me:
+VERSE:But I will keep thy precepts with my whole heart.
+LABEL:70
+VERSE:Their heart is as fat as grease;
+VERSE:But I delight in thy law.
+LABEL:71
+VERSE:  It is good for me that I have been afflicted;
+VERSE:That I might learn thy statutes.
+LABEL:72
+VERSE:The law of thy mouth is better unto me
+VERSE:Than thousands of gold and silver.
+SECTION:י Yod
+LABEL:73
+VERSE:Thy hands have made me and fashioned me:
+VERSE:Give me understanding, that I may learn thy commandments.
+LABEL:74
+VERSE:They that fear thee will be glad when they see me;
+VERSE:Because I have hoped in thy word.
+LABEL:75
+VERSE:I know, O LORD, that thy judgments are right,
+VERSE:And that thou in faithfulness hast afflicted me.
+LABEL:76
+VERSE:Let, I pray thee, thy merciful kindness be for my comfort,
+VERSE:According to thy word unto thy servant.
+LABEL:77
+VERSE:Let thy tender mercies come unto me, that I may live:
+VERSE:For thy law is my delight.
+LABEL:78
+VERSE:Let the proud be ashamed; for they dealt perversely with me without a cause:
+VERSE:But I will meditate in thy precepts.
+LABEL:79
+VERSE:Let those that fear thee turn unto me,
+VERSE:And those that have known thy testimonies.
+LABEL:80
+VERSE:Let my heart be sound in thy statutes;
+VERSE:That I be not ashamed.
+SECTION:כ Kaph
+LABEL:81
+VERSE:My soul fainteth for thy salvation:
+VERSE:But I hope in thy word.
+LABEL:82
+VERSE:Mine eyes fail for thy word,
+VERSE:Saying, When wilt thou comfort me?
+LABEL:83
+VERSE:For I am become like a bottle in the smoke;
+VERSE:Yet do I not forget thy statutes.
+LABEL:84
+VERSE:How many are the days of thy servant?
+VERSE:When wilt thou execute judgment on them that persecute me?
+LABEL:85
+VERSE:The proud have digged pits for me,
+VERSE:Which are not after thy law.
+LABEL:86
+VERSE:All thy commandments are faithful:
+VERSE:They persecute me wrongfully; help thou me.
+LABEL:87
+VERSE:They had almost consumed me upon earth;
+VERSE:But I forsook not thy precepts.
+LABEL:88
+VERSE:Quicken me after thy lovingkindness;
+VERSE:So shall I keep the testimony of thy mouth.
+SECTION:ל Lamed
+LABEL:89
+VERSE:For ever, O LORD, Thy word
+VERSE:Is settled in heaven.
+LABEL:90
+VERSE:Thy faithfulness is unto all generations:
+VERSE:Thou hast established the earth, and it abideth.
+LABEL:91
+VERSE:They continue this day according to thine ordinances:
+VERSE:For all are thy servants.
+LABEL:92
+VERSE:Unless thy law had been my delights,
+VERSE:I should then have perished in mine affliction.
+LABEL:93
+VERSE:I will never forget thy precepts:
+VERSE:For with them thou hast quickened me.
+LABEL:94
+VERSE:I am thine, save me;
+VERSE:For I have sought thy precepts.
+LABEL:95
+VERSE:The wicked have waited for me to destroy me:
+VERSE:But I will consider thy testimonies.
+LABEL:96
+VERSE:I have seen an end of all perfection:
+VERSE:But thy commandment is exceeding broad.
+SECTION:מ Mem
+LABEL:97
+VERSE:O how love I thy law!
+VERSE:It is my meditation all the day.
+LABEL:98
+VERSE:Thou through thy commandments hast made me wiser than mine enemies:
+VERSE:For they are ever with me.
+LABEL:99
+VERSE:I have more understanding than all my teachers:
+VERSE:For thy testimonies are my meditation.
+LABEL:100
+VERSE:I understand more than the ancients,
+VERSE:Because I keep thy precepts.
+LABEL:101
+VERSE:I have refrained my feet from every evil way,
+VERSE:That I might keep thy word.
+LABEL:102
+VERSE:I have not departed
+VERSE:From thy judgments: For thou hast taught me.
+LABEL:103
+VERSE:How sweet are thy words unto my taste!
+VERSE:Yea, sweeter than honey to my mouth!
+LABEL:104
+VERSE:Through thy precepts I get understanding:
+VERSE:Therefore I hate every false way.
+SECTION:נ Nun
+LABEL:105
+VERSE:Thy word is a lamp unto my feet,
+VERSE:And a light unto my path.
+LABEL:106
+VERSE:I have sworn, and I will perform it,
+VERSE:That I will keep thy righteous judgments.
+LABEL:107
+VERSE:I am afflicted very much:
+VERSE:Quicken me, O LORD, according unto thy word.
+LABEL:108
+VERSE:Accept, I beseech thee, the freewill offerings of my mouth, O LORD,
+VERSE:And teach me thy judgments.
+LABEL:109
+VERSE:My soul is continually in my hand:
+VERSE:Yet do I not forget thy law.
+LABEL:110
+VERSE:The wicked have laid a snare for me:
+VERSE:Yet I erred not from thy precepts.
+LABEL:111
+VERSE:Thy testimonies have I taken as an heritage for ever:
+VERSE:For they are the rejoicing of my heart.
+LABEL:112
+VERSE:I have inclined mine heart to perform thy statutes
+VERSE:Alway, even unto the end.
+SECTION:ס Samek
+LABEL:113
+VERSE:I hate vain thoughts:
+VERSE:But thy law do I love.
+LABEL:114
+VERSE:Thou art my hiding place and my shield:
+VERSE:I hope in thy word.
+LABEL:115
+VERSE:Depart from me, ye evildoers:
+VERSE:For I will keep the commandments of my God.
+LABEL:116
+VERSE:Uphold me according unto thy word, that I may live:
+VERSE:And let me not be ashamed of my hope.
+LABEL:117
+VERSE:Hold thou me up, and I shall be safe:
+VERSE:And I will have respect unto thy statutes continually.
+LABEL:118
+VERSE:Thou hast trodden down all them that err from thy statutes:
+VERSE:For their deceit is falsehood.
+LABEL:119
+VERSE:Thou puttest away all the wicked of the earth like dross:
+VERSE:Therefore I love thy testimonies.
+LABEL:120
+VERSE:My flesh trembleth for fear of thee;
+VERSE:And I am afraid of thy judgments.
+SECTION:ע Ain
+LABEL:121
+VERSE:I have done judgment and justice:
+VERSE:Leave me not to mine oppressors.
+LABEL:122
+VERSE:Be surety for thy servant for good:
+VERSE:Let not the proud oppress me.
+LABEL:123
+VERSE:Mine eyes fail for thy salvation,
+VERSE:And for the word of thy righteousness.
+LABEL:124
+VERSE:Deal with thy servant according unto thy mercy,
+VERSE:And teach me thy statutes.
+LABEL:125
+VERSE:I am thy servant; give me understanding,
+VERSE:That I may know thy testimonies.
+LABEL:126
+VERSE:  It is time for thee, LORD, to work:
+VERSE:For they have made void thy law.
+LABEL:127
+VERSE:Therefore I love thy commandments
+VERSE:Above gold; yea, above fine gold.
+LABEL:128
+VERSE:Therefore I esteem all thy precepts concerning all things to be right;
+VERSE:And I hate every false way.
+SECTION:פ Pe
+LABEL:129
+VERSE:Thy testimonies are wonderful:
+VERSE:Therefore doth my soul keep them.
+LABEL:130
+VERSE:The entrance of thy words giveth light;
+VERSE:It giveth understanding unto the simple.
+LABEL:131
+VERSE:I opened my mouth, and panted:
+VERSE:For I longed for thy commandments.
+LABEL:132
+VERSE:Look thou upon me, and be merciful unto me,
+VERSE:As thou usest to do unto those that love thy name.
+LABEL:133
+VERSE:Order my steps in thy word:
+VERSE:And let not any iniquity have dominion over me.
+LABEL:134
+VERSE:Deliver me from the oppression of man:
+VERSE:So will I keep thy precepts.
+LABEL:135
+VERSE:Make thy face to shine upon thy servant;
+VERSE:And teach me thy statutes.
+LABEL:136
+VERSE:Rivers of waters run down mine eyes,
+VERSE:Because they keep not thy law.
+SECTION:צ Zade
+LABEL:137
+VERSE:Righteous art thou, O LORD,
+VERSE:And upright are thy judgments.
+LABEL:138
+VERSE:Thy testimonies that thou hast commanded
+VERSE:are righteous and very faithful.
+LABEL:139
+VERSE:My zeal hath consumed me,
+VERSE:Because mine enemies have forgotten thy words.
+LABEL:140
+VERSE:Thy word is very pure:
+VERSE:Therefore thy servant loveth it.
+LABEL:141
+VERSE:I am small and despised:
+VERSE:Yet do not I forget thy precepts.
+LABEL:142
+VERSE:Thy righteousness is an everlasting righteousness,
+VERSE:And thy law is the truth.
+LABEL:143
+VERSE:Trouble and anguish have taken hold on me:
+VERSE:Yet thy commandments are my delights.
+LABEL:144
+VERSE:The righteousness of thy testimonies is everlasting:
+VERSE:Give me understanding, and I shall live.
+SECTION:ק Qoph
+LABEL:145
+VERSE:I cried with my whole heart;
+VERSE:hear me, O LORD: I will keep thy statutes.
+LABEL:146
+VERSE:I cried unto thee;
+VERSE:save me, and I shall keep thy testimonies.
+LABEL:147
+VERSE:I prevented the dawning of the morning, and cried:
+VERSE:I hoped in thy word.
+LABEL:148
+VERSE:Mine eyes prevent the night watches,
+VERSE:That I might meditate in thy word.
+LABEL:149
+VERSE:Hear my voice according unto thy lovingkindness:
+VERSE:O LORD, quicken me according to thy judgment.
+LABEL:150
+VERSE:They draw nigh that follow after mischief:
+VERSE:They are far from thy law.
+LABEL:151
+VERSE:Thou art near, O LORD;
+VERSE:And all thy commandments are truth.
+LABEL:152
+VERSE:Concerning thy testimonies, I have known of old
+VERSE:That thou hast founded them for ever.
+SECTION:ר Resh
+LABEL:153
+VERSE:Consider mine affliction, and deliver me:
+VERSE:For I do not forget thy law.
+LABEL:154
+VERSE:Plead my cause, and deliver me:
+VERSE:Quicken me according to thy word.
+LABEL:155
+VERSE:Salvation is far from the wicked:
+VERSE:For they seek not thy statutes.
+LABEL:156
+VERSE:Great are thy tender mercies, O LORD:
+VERSE:Quicken me according to thy judgments.
+LABEL:157
+VERSE:Many are my persecutors and mine enemies;
+VERSE:Yet do I not decline from thy testimonies.
+LABEL:158
+VERSE:I beheld the transgressors, and was grieved;
+VERSE:Because they kept not thy word.
+LABEL:159
+VERSE:Consider how I love thy precepts:
+VERSE:Quicken me, O LORD, according to thy lovingkindness.
+LABEL:160
+VERSE:Thy word is true from the beginning:
+VERSE:And every one of thy righteous judgments endureth for ever.
+SECTION:ש Shin
+LABEL:161
+VERSE:Princes have persecuted me without a cause:
+VERSE:But my heart standeth in awe of thy word.
+LABEL:162
+VERSE:I rejoice at thy word,
+VERSE:As one that findeth great spoil.
+LABEL:163
+VERSE:I hate and abhor lying:
+VERSE:But thy law do I love.
+LABEL:164
+VERSE:Seven times a day do I praise thee
+VERSE:Because of thy righteous judgments.
+LABEL:165
+VERSE:Great peace have they which love thy law:
+VERSE:And nothing shall offend them.
+LABEL:166
+VERSE:  LORD, I have hoped for thy salvation,
+VERSE:And done thy commandments.
+LABEL:167
+VERSE:My soul hath kept thy testimonies;
+VERSE:And I love them exceedingly.
+LABEL:168
+VERSE:I have kept thy precepts and thy testimonies:
+VERSE:For all my ways are before thee.
+SECTION:ת Taw
+LABEL:169
+VERSE:Let my cry come near before thee, O LORD:
+VERSE:Give me understanding according to thy word.
+LABEL:170
+VERSE:Let my supplication come before thee:
+VERSE:Deliver me according to thy word.
+LABEL:171
+VERSE:My lips shall utter praise,
+VERSE:When thou hast taught me thy statutes.
+LABEL:172
+VERSE:My tongue shall speak of thy word:
+VERSE:For all thy commandments are righteousness.
+LABEL:173
+VERSE:Let thine hand help me;
+VERSE:For I have chosen thy precepts.
+LABEL:174
+VERSE:I have longed for thy salvation, O LORD;
+VERSE:And thy law is my delight.
+LABEL:175
+VERSE:Let my soul live, and it shall praise thee;
+VERSE:And let thy judgments help me.
+LABEL:176
+VERSE:I have gone astray like a lost sheep;
+VERSE:seek thy servant; For I do not forget thy commandments.

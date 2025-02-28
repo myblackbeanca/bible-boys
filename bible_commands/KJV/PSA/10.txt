@@ -1,0 +1,70 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:10
+TITLE:Psalm 10
+SECTION:ל Lamed
+LABEL:1
+VERSE:Why standest thou afar off, O LORD?
+VERSE:Why hidest thou thyself in times of trouble?
+LABEL:2
+VERSE:The wicked in his pride doth persecute the poor:
+VERSE:Let them be taken in the devices that they have imagined.
+SECTION:(מ Mem)
+LABEL:3
+VERSE:For the wicked boasteth of his heart's desire,
+VERSE:And blesseth the covetous, whom the LORD abhorreth.
+SECTION:(נ Nun)
+LABEL:4
+VERSE:The wicked, through the pride of his countenance, will not seek after God:
+VERSE:God is not in all his thoughts.
+LABEL:5
+VERSE:His ways are always grievous; Thy judgments are far above out of his sight:
+VERSE:As for all his enemies, he puffeth at them.
+LABEL:6
+VERSE:He hath said in his heart, I shall not be moved:
+VERSE:For I shall never be in adversity.
+SECTION:(ס Samek)
+SECTION:פ Pe
+LABEL:7
+VERSE:His mouth is full of cursing and deceit and fraud:
+VERSE:Under his tongue is mischief and vanity.
+LABEL:8
+VERSE:He sitteth in the lurking places of the villages:
+SECTION:ע Ain
+VERSE:In the secret places doth he murder the innocent: His eyes are privily set against the poor.
+LABEL:9
+VERSE:He lieth in wait secretly as a lion in his den:
+VERSE:He lieth in wait to catch the poor:
+SECTION:(צ Zade)
+VERSE:He doth catch the poor, when he draweth him into his net.
+LABEL:10
+VERSE:He croucheth, and humbleth himself,
+VERSE:That the poor may fall by his strong ones.
+LABEL:11
+VERSE:He hath said in his heart, God hath forgotten:
+VERSE:He hideth his face; he will never see it.
+SECTION:ק Qoph
+LABEL:12
+VERSE:Arise, O LORD; O God, lift up thine hand:
+VERSE:Forget not the humble.
+LABEL:13
+VERSE:Wherefore doth the wicked contemn God?
+VERSE:He hath said in his heart, Thou wilt not require it.
+SECTION:ר Resh
+LABEL:14
+VERSE:Thou hast seen it; for thou beholdest mischief and spite, to requite it with thy hand:
+VERSE:The poor committeth himself unto thee; Thou art the helper of the fatherless.
+SECTION:ש Shin
+LABEL:15
+VERSE:Break thou the arm of the wicked
+VERSE:And the evil man: seek out his wickedness till thou find none.
+LABEL:16
+VERSE:The LORD  is King for ever and ever:
+VERSE:The heathen are perished out of his land.
+SECTION:ת Taw
+LABEL:17
+VERSE:  LORD, thou hast heard the desire of the humble:
+VERSE:Thou wilt prepare their heart, thou wilt cause thine ear to hear:
+LABEL:18
+VERSE:To judge the fatherless and the oppressed,
+VERSE:That the man of the earth may no more oppress.

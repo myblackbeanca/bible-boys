@@ -1,0 +1,76 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:10
+TITLE:Job 10
+LABEL:1
+VERSE:My soul is weary of my life;
+VERSE:I will leave my complaint upon myself;
+VERSE:I will speak in the bitterness of my soul.
+LABEL:2
+VERSE:I will say unto God, Do not condemn me;
+VERSE:Shew me wherefore thou contendest with me.
+LABEL:3
+VERSE:  Is it good unto thee that thou shouldest oppress,
+VERSE:That thou shouldest despise the work of thine hands,
+VERSE:And shine upon the counsel of the wicked?
+LABEL:4
+VERSE:Hast thou eyes of flesh?
+VERSE:Or seest thou as man seeth?
+LABEL:5
+VERSE:  Are thy days as the days of man?
+VERSE:Are thy years as man's days,
+LABEL:6
+VERSE:That thou enquirest after mine iniquity,
+VERSE:And searchest after my sin?
+LABEL:7
+VERSE:Thou knowest that I am not wicked;
+VERSE:And there is none that can deliver out of thine hand.
+LABEL:8
+VERSE:Thine hands have made me and fashioned me
+VERSE:Together round about; yet thou dost destroy me.
+LABEL:9
+VERSE:Remember, I beseech thee, that thou hast made me as the clay;
+VERSE:And wilt thou bring me into dust again?
+LABEL:10
+VERSE:Hast thou not poured me out as milk,
+VERSE:And curdled me like cheese?
+LABEL:11
+VERSE:Thou hast clothed me with skin and flesh,
+VERSE:And hast fenced me with bones and sinews.
+LABEL:12
+VERSE:Thou hast granted me life and favour,
+VERSE:And thy visitation hath preserved my spirit.
+LABEL:13
+VERSE:And these things hast thou hid in thine heart:
+VERSE:I know that this is with thee.
+LABEL:14
+VERSE:If I sin, then thou markest me,
+VERSE:And thou wilt not acquit me from mine iniquity.
+LABEL:15
+VERSE:If I be wicked, woe unto me;
+VERSE:And if I be righteous, yet will I not lift up my head.
+VERSE:I am full of confusion;
+VERSE:Therefore see thou mine affliction;
+LABEL:16
+VERSE:For it increaseth. Thou huntest me as a fierce lion:
+VERSE:And again thou shewest thyself marvellous upon me.
+LABEL:17
+VERSE:Thou renewest thy witnesses against me,
+VERSE:And increasest thine indignation upon me;
+VERSE:Changes and war are against me.
+LABEL:18
+VERSE:Wherefore then hast thou brought me forth out of the womb?
+VERSE:Oh that I had given up the ghost, and no eye had seen me!
+LABEL:19
+VERSE:I should have been as though I had not been;
+VERSE:I should have been carried from the womb to the grave.
+LABEL:20
+VERSE:  Are not my days few? Cease then,
+VERSE:And let me alone, that I may take comfort a little,
+LABEL:21
+VERSE:Before I go whence I shall not return,
+VERSE:Even to the land of darkness and the shadow of death;
+LABEL:22
+VERSE:A land of darkness, as darkness itself;
+VERSE:And of the shadow of death, without any order,
+VERSE:And where the light is as darkness.

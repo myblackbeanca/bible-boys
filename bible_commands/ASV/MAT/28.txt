@@ -1,0 +1,44 @@
+TRANSLATION:ASV
+BOOK:MAT
+CHAPTER:28
+TITLE:Matthew 28
+LABEL:1
+VERSE:Now late on the sabbath day, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.
+LABEL:2
+VERSE:And behold, there was a great earthquake; for an angel of the Lord descended from heaven, and came and rolled away the stone, and sat upon it.
+LABEL:3
+VERSE:His appearance was as lightning, and his raiment white as snow:
+LABEL:4
+VERSE:and for fear of him the watchers did quake, and became as dead men.
+LABEL:5
+VERSE:And the angel answered and said unto the women, Fear not ye; for I know that ye seek Jesus, who hath been crucified.
+LABEL:6
+VERSE:He is not here; for he is risen, even as he said. Come, see the place where the Lord lay.
+LABEL:7
+VERSE:And go quickly, and tell his disciples, He is risen from the dead; and lo, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
+LABEL:8
+VERSE:And they departed quickly from the tomb with fear and great joy, and ran to bring his disciples word.
+LABEL:9
+VERSE:And behold, Jesus met them, saying, All hail. And they came and took hold of his feet, and worshipped him.
+LABEL:10
+VERSE:Then saith Jesus unto them, Fear not: go tell my brethren that they depart into Galilee, and there shall they see me.
+LABEL:11
+VERSE:Now while they were going, behold, some of the guard came into the city, and told unto the chief priests all the things that were come to pass.
+LABEL:12
+VERSE:And when they were assembled with the elders, and had taken counsel, they gave much money unto the soldiers,
+LABEL:13
+VERSE:saying, Say ye, His disciples came by night, and stole him away while we slept.
+LABEL:14
+VERSE:And if this come to the governor’s ears, we will persuade him, and rid you of care.
+LABEL:15
+VERSE:So they took the money, and did as they were taught: and this saying was spread abroad among the Jews, and continueth until this day.
+LABEL:16
+VERSE:But the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them.
+LABEL:17
+VERSE:And when they saw him, they worshipped him; but some doubted.
+LABEL:18
+VERSE:And Jesus came to them and spake unto them, saying, All authority hath been given unto me in heaven and on earth.
+LABEL:19
+VERSE:Go ye therefore, and make disciples of all the nations, baptizing them into the name of the Father and of the Son and of the Holy Spirit:
+LABEL:20
+VERSE:teaching them to observe all things whatsoever I commanded you: and lo, I am with you always, even unto the end of the world.

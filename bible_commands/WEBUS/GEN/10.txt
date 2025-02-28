@@ -1,0 +1,68 @@
+TRANSLATION:WEBUS
+BOOK:GEN
+CHAPTER:10
+TITLE:Genesis 10
+LABEL:1
+VERSE:Now this is the history of the generations of the sons of Noah and of Shem, Ham, and Japheth. Sons were born to them after the flood.
+LABEL:2
+VERSE:The sons of Japheth were: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+LABEL:3
+VERSE:The sons of Gomer were: Ashkenaz, Riphath, and Togarmah.
+LABEL:4
+VERSE:The sons of Javan were: Elishah, Tarshish, Kittim, and Dodanim.
+LABEL:5
+VERSE:Of these were the islands of the nations divided in their lands, everyone after his language, after their families, in their nations.
+LABEL:6
+VERSE:The sons of Ham were: Cush, Mizraim, Put, and Canaan.
+LABEL:7
+VERSE:The sons of Cush were: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah were: Sheba and Dedan.
+LABEL:8
+VERSE:Cush became the father of Nimrod. He began to be a mighty one in the earth.
+LABEL:9
+VERSE:He was a mighty hunter before Yahweh. Therefore it is said, “like Nimrod, a mighty hunter before Yahweh”.
+LABEL:10
+VERSE:The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
+LABEL:11
+VERSE:Out of that land he went into Assyria, and built Nineveh, Rehoboth Ir, Calah,
+LABEL:12
+VERSE:and Resen between Nineveh and the great city Calah.
+LABEL:13
+VERSE:Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,
+LABEL:14
+VERSE:Pathrusim, Casluhim (which the Philistines descended from), and Caphtorim.
+LABEL:15
+VERSE:Canaan became the father of Sidon (his firstborn), Heth,
+LABEL:16
+VERSE:the Jebusites, the Amorites, the Girgashites,
+LABEL:17
+VERSE:the Hivites, the Arkites, the Sinites,
+LABEL:18
+VERSE:the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites were spread abroad.
+LABEL:19
+VERSE:The border of the Canaanites was from Sidon—as you go toward Gerar—to Gaza—as you go toward Sodom, Gomorrah, Admah, and Zeboiim—to Lasha.
+LABEL:20
+VERSE:These are the sons of Ham, after their families, according to their languages, in their lands and their nations.
+LABEL:21
+VERSE:Children were also born to Shem (the elder brother of Japheth), the father of all the children of Eber.
+LABEL:22
+VERSE:The sons of Shem were: Elam, Asshur, Arpachshad, Lud, and Aram.
+LABEL:23
+VERSE:The sons of Aram were: Uz, Hul, Gether, and Mash.
+LABEL:24
+VERSE:Arpachshad became the father of Shelah. Shelah became the father of Eber.
+LABEL:25
+VERSE:To Eber were born two sons. The name of the one was Peleg, for in his days the earth was divided. His brother’s name was Joktan.
+LABEL:26
+VERSE:Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
+LABEL:27
+VERSE:Hadoram, Uzal, Diklah,
+LABEL:28
+VERSE:Obal, Abimael, Sheba,
+LABEL:29
+VERSE:Ophir, Havilah, and Jobab. All these were the sons of Joktan.
+LABEL:30
+VERSE:Their dwelling extended from Mesha, as you go toward Sephar, the mountain of the east.
+LABEL:31
+VERSE:These are the sons of Shem, by their families, according to their languages, lands, and nations.
+LABEL:32
+VERSE:These are the families of the sons of Noah, by their generations, according to their nations. The nations divided from these in the earth after the flood.

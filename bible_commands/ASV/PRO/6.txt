@@ -1,0 +1,112 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:6
+TITLE:Proverbs 6
+LABEL:1
+VERSE:My son, if thou art become surety for thy neighbor,
+VERSE:If thou hast stricken thy hands for a stranger;
+LABEL:2
+VERSE:Thou art snared with the words of thy mouth,
+VERSE:Thou art taken with the words of thy mouth.
+LABEL:3
+VERSE:Do this now, my son, and deliver thyself,
+VERSE:Seeing thou art come into the hand of thy neighbor:
+VERSE:Go, humble thyself, and importune thy neighbor;
+LABEL:4
+VERSE:Give not sleep to thine eyes,
+VERSE:Nor slumber to thine eyelids;
+LABEL:5
+VERSE:Deliver thyself as a roe from the hand of the hunter,
+VERSE:And as a bird from the hand of the fowler.
+LABEL:6
+VERSE:Go to the ant, thou sluggard;
+VERSE:Consider her ways, and be wise:
+LABEL:7
+VERSE:Which having no chief,
+VERSE:Overseer, or ruler,
+LABEL:8
+VERSE:Provideth her bread in the summer,
+VERSE:And gathereth her food in the harvest.
+LABEL:9
+VERSE:How long wilt thou sleep, O sluggard?
+VERSE:When wilt thou arise out of thy sleep?
+LABEL:10
+VERSE:  Yet a little sleep, a little slumber,
+VERSE:A little folding of the hands to sleep:
+LABEL:11
+VERSE:So shall thy poverty come as a robber,
+VERSE:And thy want as an armed man.
+LABEL:12
+VERSE:A worthless person, a man of iniquity,
+VERSE:Is he that walketh with a perverse mouth;
+LABEL:13
+VERSE:That winketh with his eyes, that speaketh with his feet,
+VERSE:That maketh signs with his fingers;
+LABEL:14
+VERSE:In whose heart is perverseness,
+VERSE:Who deviseth evil continually,
+VERSE:Who soweth discord.
+LABEL:15
+VERSE:Therefore shall his calamity come suddenly;
+VERSE:On a sudden shall he be broken, and that without remedy.
+LABEL:16
+VERSE:There are six things which Jehovah hateth;
+VERSE:Yea, seven which are an abomination unto him:
+LABEL:17
+VERSE:Haughty eyes, a lying tongue,
+VERSE:And hands that shed innocent blood;
+LABEL:18
+VERSE:A heart that deviseth wicked purposes,
+VERSE:Feet that are swift in running to mischief,
+LABEL:19
+VERSE:A false witness that uttereth lies,
+VERSE:And he that soweth discord among brethren.
+LABEL:20
+VERSE:My son, keep the commandment of thy father,
+VERSE:And forsake not the law of thy mother:
+LABEL:21
+VERSE:Bind them continually upon thy heart;
+VERSE:Tie them about thy neck.
+LABEL:22
+VERSE:When thou walkest, it shall lead thee;
+VERSE:When thou sleepest, it shall watch over thee;
+VERSE:And when thou awakest, it shall talk with thee.
+LABEL:23
+VERSE:For the commandment is a lamp; and the law is light;
+VERSE:And reproofs of instruction are the way of life:
+LABEL:24
+VERSE:To keep thee from the evil woman,
+VERSE:From the flattery of the foreigner’s tongue.
+LABEL:25
+VERSE:Lust not after her beauty in thy heart;
+VERSE:Neither let her take thee with her eyelids.
+LABEL:26
+VERSE:For on account of a harlot a man is brought to a piece of bread;
+VERSE:And the adulteress hunteth for the precious life.
+LABEL:27
+VERSE:Can a man take fire in his bosom,
+VERSE:And his clothes not be burned?
+LABEL:28
+VERSE:Or can one walk upon hot coals,
+VERSE:And his feet not be scorched?
+LABEL:29
+VERSE:So he that goeth in to his neighbor’s wife;
+VERSE:Whosoever toucheth her shall not be unpunished.
+LABEL:30
+VERSE:Men do not despise a thief, if he steal
+VERSE:To satisfy himself when he is hungry:
+LABEL:31
+VERSE:But if he be found, he shall restore sevenfold;
+VERSE:He shall give all the substance of his house.
+LABEL:32
+VERSE:He that committeth adultery with a woman is void of understanding:
+VERSE:He doeth it who would destroy his own soul.
+LABEL:33
+VERSE:Wounds and dishonor shall he get;
+VERSE:And his reproach shall not be wiped away.
+LABEL:34
+VERSE:For jealousy is the rage of a man;
+VERSE:And he will not spare in the day of vengeance.
+LABEL:35
+VERSE:He will not regard any ransom;
+VERSE:Neither will he rest content, though thou givest many gifts.

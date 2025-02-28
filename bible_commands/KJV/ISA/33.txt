@@ -1,0 +1,52 @@
+TRANSLATION:KJV
+BOOK:ISA
+CHAPTER:33
+TITLE:Isaiah 33
+LABEL:1
+VERSE:Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; and when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
+LABEL:2
+VERSE:O LORD, be gracious unto us; we have waited for thee: be thou their arm every morning, our salvation also in the time of trouble.
+LABEL:3
+VERSE:At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered.
+LABEL:4
+VERSE:And your spoil shall be gathered like the gathering of the caterpiller: as the running to and fro of locusts shall he run upon them.
+LABEL:5
+VERSE:The LORD is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
+LABEL:6
+VERSE:And wisdom and knowledge shall be the stability of thy times, and strength of salvation: the fear of the LORD  is his treasure.
+LABEL:7
+VERSE:Behold, their valiant ones shall cry without: the ambassadors of peace shall weep bitterly.
+LABEL:8
+VERSE:The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man.
+LABEL:9
+VERSE:The earth mourneth and languisheth: Lebanon is ashamed and hewn down: Sharon is like a wilderness; and Bashan and Carmel shake off their fruits.
+LABEL:10
+VERSE:Now will I rise, saith the LORD; now will I be exalted; now will I lift up myself.
+LABEL:11
+VERSE:Ye shall conceive chaff, ye shall bring forth stubble: your breath, as fire, shall devour you.
+LABEL:12
+VERSE:And the people shall be as the burnings of lime: as thorns cut up shall they be burned in the fire.
+LABEL:13
+VERSE:Hear, ye that are far off, what I have done; and, ye that are near, acknowledge my might.
+LABEL:14
+VERSE:The sinners in Zion are afraid; fearfulness hath surprised the hypocrites. Who among us shall dwell with the devouring fire? who among us shall dwell with everlasting burnings?
+LABEL:15
+VERSE:He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from holding of bribes, that stoppeth his ears from hearing of blood, and shutteth his eyes from seeing evil;
+LABEL:16
+VERSE:he shall dwell on high: his place of defence shall be the munitions of rocks: bread shall be given him; his waters shall be sure.
+LABEL:17
+VERSE:Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
+LABEL:18
+VERSE:Thine heart shall meditate terror. Where is the scribe? where is the receiver? where is he that counted the towers?
+LABEL:19
+VERSE:Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, that thou canst not understand.
+LABEL:20
+VERSE:Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle that shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
+LABEL:21
+VERSE:But there the glorious LORD  will be unto us a place of broad rivers and streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby.
+LABEL:22
+VERSE:For the LORD  is our judge, the LORD  is our lawgiver, the LORD  is our king; he will save us.
+LABEL:23
+VERSE:Thy tacklings are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey.
+LABEL:24
+VERSE:And the inhabitant shall not say, I am sick: the people that dwell therein shall be forgiven their iniquity.

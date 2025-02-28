@@ -1,0 +1,17 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:133
+TITLE:Psalms 133
+LABEL:1
+VERSE:See how good and how pleasant it is
+VERSE:for brothers to live together in unity!
+LABEL:2
+VERSE:It is like the precious oil on the head,
+VERSE:that ran down on the beard,
+VERSE:even Aaron’s beard,
+VERSE:that came down on the edge of his robes,
+LABEL:3
+VERSE:like the dew of Hermon,
+VERSE:that comes down on the hills of Zion;
+VERSE:for there Yahweh gives the blessing,
+VERSE:even life forever more.

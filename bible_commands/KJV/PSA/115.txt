@@ -1,0 +1,59 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:115
+TITLE:Psalm 115
+LABEL:1
+VERSE:Not unto us, O LORD, not unto us, but unto thy name give glory,
+VERSE:For thy mercy, and for thy truth's sake.
+LABEL:2
+VERSE:Wherefore should the heathen say,
+VERSE:Where is now their God?
+LABEL:3
+VERSE:But our God is in the heavens:
+VERSE:He hath done whatsoever he hath pleased.
+LABEL:4
+VERSE:Their idols are silver and gold,
+VERSE:The work of men's hands.
+LABEL:5
+VERSE:They have mouths, but they speak not:
+VERSE:Eyes have they, but they see not:
+LABEL:6
+VERSE:They have ears, but they hear not:
+VERSE:Noses have they, but they smell not:
+LABEL:7
+VERSE:They have hands, but they handle not: Feet have they, but they walk not:
+VERSE:Neither speak they through their throat.
+LABEL:8
+VERSE:They that make them are like unto them;
+VERSE:So is every one that trusteth in them.
+LABEL:9
+VERSE:O Israel, trust thou in the LORD:
+VERSE:He is their help and their shield.
+LABEL:10
+VERSE:O house of Aaron, trust in the LORD:
+VERSE:He is their help and their shield.
+LABEL:11
+VERSE:Ye that fear the LORD, trust in the LORD:
+VERSE:He is their help and their shield.
+LABEL:12
+VERSE:The LORD hath been mindful of us: he will bless us;
+VERSE:He will bless the house of Israel; He will bless the house of Aaron.
+LABEL:13
+VERSE:He will bless them that fear
+VERSE:the LORD, both small and great.
+LABEL:14
+VERSE:The LORD shall increase you more and more,
+VERSE:You and your children.
+LABEL:15
+VERSE:Ye are blessed of the LORD
+VERSE:Which made heaven and earth.
+LABEL:16
+VERSE:The heaven, even the heavens, are the LORD's:
+VERSE:But the earth hath he given to the children of men.
+LABEL:17
+VERSE:The dead praise not the LORD,
+VERSE:Neither any that go down into silence.
+LABEL:18
+VERSE:But we will bless the LORD
+VERSE:From this time forth and for evermore.
+VERSE:Praise the LORD.

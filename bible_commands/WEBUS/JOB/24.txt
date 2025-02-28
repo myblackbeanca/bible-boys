@@ -1,0 +1,89 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:24
+TITLE:Job 24
+LABEL:1
+VERSE:“Why aren’t times laid up by the Almighty?
+VERSE:Why don’t those who know him see his days?
+LABEL:2
+VERSE:There are people who remove the landmarks.
+VERSE:They violently take away flocks, and feed them.
+LABEL:3
+VERSE:They drive away the donkey of the fatherless,
+VERSE:and they take the widow’s ox for a pledge.
+LABEL:4
+VERSE:They turn the needy out of the way.
+VERSE:The poor of the earth all hide themselves.
+LABEL:5
+VERSE:Behold, as wild donkeys in the desert,
+VERSE:they go out to their work, seeking diligently for food.
+VERSE:The wilderness yields them bread for their children.
+LABEL:6
+VERSE:They cut their food in the field.
+VERSE:They glean the vineyard of the wicked.
+LABEL:7
+VERSE:They lie all night naked without clothing,
+VERSE:and have no covering in the cold.
+LABEL:8
+VERSE:They are wet with the showers of the mountains,
+VERSE:and embrace the rock for lack of a shelter.
+LABEL:9
+VERSE:There are those who pluck the fatherless from the breast,
+VERSE:and take a pledge of the poor,
+LABEL:10
+VERSE:so that they go around naked without clothing.
+VERSE:Being hungry, they carry the sheaves.
+LABEL:11
+VERSE:They make oil within the walls of these men.
+VERSE:They tread wine presses, and suffer thirst.
+LABEL:12
+VERSE:From out of the populous city, men groan.
+VERSE:The soul of the wounded cries out,
+VERSE:yet God doesn’t regard the folly.
+LABEL:13
+VERSE:“These are of those who rebel against the light.
+VERSE:They don’t know its ways,
+VERSE:nor stay in its paths.
+LABEL:14
+VERSE:The murderer rises with the light.
+VERSE:He kills the poor and needy.
+VERSE:In the night he is like a thief.
+LABEL:15
+VERSE:The eye also of the adulterer waits for the twilight,
+VERSE:saying, ‘No eye will see me.’
+VERSE:He disguises his face.
+LABEL:16
+VERSE:In the dark they dig through houses.
+VERSE:They shut themselves up in the daytime.
+VERSE:They don’t know the light.
+LABEL:17
+VERSE:For the morning is to all of them like thick darkness,
+VERSE:for they know the terrors of the thick darkness.
+LABEL:18
+VERSE:“They are foam on the surface of the waters.
+VERSE:Their portion is cursed in the earth.
+VERSE:They don’t turn into the way of the vineyards.
+LABEL:19
+VERSE:Drought and heat consume the snow waters,
+VERSE:so does Sheol those who have sinned.
+LABEL:20
+VERSE:The womb will forget him.
+VERSE:The worm will feed sweetly on him.
+VERSE:He will be no more remembered.
+VERSE:Unrighteousness will be broken as a tree.
+LABEL:21
+VERSE:He devours the barren who don’t bear.
+VERSE:He shows no kindness to the widow.
+LABEL:22
+VERSE:Yet God preserves the mighty by his power.
+VERSE:He rises up who has no assurance of life.
+LABEL:23
+VERSE:God gives them security, and they rest in it.
+VERSE:His eyes are on their ways.
+LABEL:24
+VERSE:They are exalted; yet a little while, and they are gone.
+VERSE:Yes, they are brought low, they are taken out of the way as all others,
+VERSE:and are cut off as the tops of the ears of grain.
+LABEL:25
+VERSE:If it isn’t so now, who will prove me a liar,
+VERSE:and make my speech worth nothing?”

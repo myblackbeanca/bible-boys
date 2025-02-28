@@ -1,0 +1,49 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:144
+TITLE:Psalm 144
+LABEL:1
+VERSE:Blessed be the LORD my strength,
+VERSE:Which teacheth my hands to war, and my fingers to fight:
+LABEL:2
+VERSE:My goodness, and my fortress; My high tower, and my deliverer; My shield, and he in whom I trust;
+VERSE:Who subdueth my people under me.
+LABEL:3
+VERSE:  LORD, what is man, that thou takest knowledge of him!
+VERSE:Or the son of man, that thou makest account of him!
+LABEL:4
+VERSE:Man is like to vanity:
+VERSE:His days are as a shadow that passeth away.
+LABEL:5
+VERSE:Bow thy heavens, O LORD, and come down:
+VERSE:Touch the mountains, and they shall smoke.
+LABEL:6
+VERSE:Cast forth lightning, and scatter them:
+VERSE:Shoot out thine arrows, and destroy them.
+LABEL:7
+VERSE:Send thine hand from above;
+VERSE:Rid me, and deliver me out of great waters, from the hand of strange children;
+LABEL:8
+VERSE:Whose mouth speaketh vanity,
+VERSE:And their right hand is a right hand of falsehood.
+LABEL:9
+VERSE:I will sing a new song unto thee, O God:
+VERSE:Upon a psaltery and an instrument of ten strings will I sing praises unto thee.
+LABEL:10
+VERSE:  It is he that giveth salvation unto kings:
+VERSE:Who delivereth David his servant from the hurtful sword.
+LABEL:11
+VERSE:Rid me, and deliver me from the hand of strange children,
+VERSE:Whose mouth speaketh vanity, and their right hand is a right hand of falsehood:
+LABEL:12
+VERSE:That our sons may be as plants grown up in their youth;
+VERSE:That our daughters may be as corner stones, polished after the similitude of a palace:
+LABEL:13
+VERSE:  That our garners may be full, affording all manner of store:
+VERSE:That our sheep may bring forth thousands and ten thousands in our streets:
+LABEL:14
+VERSE:  That our oxen may be strong to labour;
+VERSE:That there be no breaking in, nor going out; That there be no complaining in our streets.
+LABEL:15
+VERSE:Happy is that people, that is in such a case:
+VERSE:Yea, happy is that people, whose God is the LORD.

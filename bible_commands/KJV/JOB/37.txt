@@ -1,0 +1,80 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:37
+TITLE:Job 37
+LABEL:1
+VERSE:At this also my heart trembleth,
+VERSE:And is moved out of his place.
+LABEL:2
+VERSE:Hear attentively the noise of his voice,
+VERSE:And the sound that goeth out of his mouth.
+LABEL:3
+VERSE:He directeth it under the whole heaven,
+VERSE:And his lightning unto the ends of the earth.
+LABEL:4
+VERSE:After it a voice roareth:
+VERSE:He thundereth with the voice of his excellency;
+VERSE:And he will not stay them when his voice is heard.
+LABEL:5
+VERSE:God thundereth marvellously with his voice;
+VERSE:Great things doeth he, which we cannot comprehend.
+LABEL:6
+VERSE:For he saith to the snow, Be thou on the earth;
+VERSE:Likewise to the small rain,
+VERSE:And to the great rain of his strength.
+LABEL:7
+VERSE:He sealeth up the hand of every man;
+VERSE:That all men may know his work.
+LABEL:8
+VERSE:Then the beasts go into dens,
+VERSE:And remain in their places.
+LABEL:9
+VERSE:Out of the south cometh the whirlwind:
+VERSE:And cold out of the north.
+LABEL:10
+VERSE:By the breath of God frost is given:
+VERSE:And the breadth of the waters is straitened.
+LABEL:11
+VERSE:Also by watering he wearieth the thick cloud:
+VERSE:He scattereth his bright cloud:
+LABEL:12
+VERSE:And it is turned round about by his counsels:
+VERSE:That they may do whatsoever he commandeth them
+VERSE:Upon the face of the world in the earth.
+LABEL:13
+VERSE:He causeth it to come, whether for correction, or for his land, or for mercy.
+LABEL:14
+VERSE:Hearken unto this, O Job:
+VERSE:Stand still, and consider the wondrous works of God.
+LABEL:15
+VERSE:Dost thou know when God disposed them,
+VERSE:And caused the light of his cloud to shine?
+LABEL:16
+VERSE:Dost thou know the balancings of the clouds,
+VERSE:The wondrous works of him which is perfect in knowledge?
+LABEL:17
+VERSE:How thy garments are warm,
+VERSE:When he quieteth the earth by the south wind?
+LABEL:18
+VERSE:Hast thou with him spread out the sky,
+VERSE:Which is strong, and as a molten looking glass?
+LABEL:19
+VERSE:Teach us what we shall say unto him;
+VERSE:For we cannot order our speech by reason of darkness.
+LABEL:20
+VERSE:Shall it be told him that I speak?
+VERSE:If a man speak, surely he shall be swallowed up.
+LABEL:21
+VERSE:And now men see not the bright light
+VERSE:Which is in the clouds:
+VERSE:But the wind passeth, and cleanseth them.
+LABEL:22
+VERSE:Fair weather cometh out of the north:
+VERSE:With God is terrible majesty.
+LABEL:23
+VERSE:  Touching the Almighty, we cannot find him out:
+VERSE:He is excellent in power, and in judgment,
+VERSE:And in plenty of justice: he will not afflict.
+LABEL:24
+VERSE:Men do therefore fear him:
+VERSE:He respecteth not any that are wise of heart.

@@ -1,0 +1,53 @@
+TRANSLATION:WEBUS
+BOOK:1SA
+CHAPTER:16
+TITLE:1 Samuel 16
+LABEL:1
+VERSE:Yahweh said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.”
+LABEL:2
+VERSE:Samuel said, “How can I go? If Saul hears it, he will kill me.”
+VERSE:Yahweh said, “Take a heifer with you, and say, ‘I have come to sacrifice to Yahweh.’
+LABEL:3
+VERSE:Call Jesse to the sacrifice, and I will show you what you shall do. You shall anoint to me him whom I name to you.”
+LABEL:4
+VERSE:Samuel did that which Yahweh spoke, and came to Bethlehem. The elders of the city came to meet him trembling, and said, “Do you come peaceably?”
+LABEL:5
+VERSE:He said, “Peaceably; I have come to sacrifice to Yahweh. Sanctify yourselves, and come with me to the sacrifice.” He sanctified Jesse and his sons, and called them to the sacrifice.
+LABEL:6
+VERSE:When they had come, he looked at Eliab, and said, “Surely Yahweh’s anointed is before him.”
+LABEL:7
+VERSE:But Yahweh said to Samuel, “Don’t look on his face, or on the height of his stature, because I have rejected him; for I don’t see as man sees. For man looks at the outward appearance, but Yahweh looks at the heart.”
+LABEL:8
+VERSE:Then Jesse called Abinadab, and made him pass before Samuel. He said, “Yahweh has not chosen this one, either.”
+LABEL:9
+VERSE:Then Jesse made Shammah to pass by. He said, “Yahweh has not chosen this one, either.”
+LABEL:10
+VERSE:Jesse made seven of his sons to pass before Samuel. Samuel said to Jesse, “Yahweh has not chosen these.”
+LABEL:11
+VERSE:Samuel said to Jesse, “Are all your children here?”
+VERSE:He said, “There remains yet the youngest. Behold, he is keeping the sheep.”
+VERSE:Samuel said to Jesse, “Send and get him, for we will not sit down until he comes here.”
+LABEL:12
+VERSE:He sent, and brought him in. Now he was ruddy, with a handsome face and good appearance. Yahweh said, “Arise! Anoint him, for this is he.”
+LABEL:13
+VERSE:Then Samuel took the horn of oil and anointed him in the middle of his brothers. Then Yahweh’s Spirit came mightily on David from that day forward. So Samuel rose up and went to Ramah.
+LABEL:14
+VERSE:Now Yahweh’s Spirit departed from Saul, and an evil spirit from Yahweh troubled him.
+LABEL:15
+VERSE:Saul’s servants said to him, “See now, an evil spirit from God troubles you.
+LABEL:16
+VERSE:Let our lord now command your servants who are in front of you to seek out a man who is a skillful player on the harp. Then when the evil spirit from God is on you, he will play with his hand, and you will be well.”
+LABEL:17
+VERSE:Saul said to his servants, “Provide me now a man who can play well, and bring him to me.”
+LABEL:18
+VERSE:Then one of the young men answered and said, “Behold, I have seen a son of Jesse the Bethlehemite who is skillful in playing, a mighty man of valor, a man of war, prudent in speech, and a handsome person; and Yahweh is with him.”
+LABEL:19
+VERSE:Therefore Saul sent messengers to Jesse, and said, “Send me David your son, who is with the sheep.”
+LABEL:20
+VERSE:Jesse took a donkey loaded with bread, a container of wine, and a young goat, and sent them by David his son to Saul.
+LABEL:21
+VERSE:David came to Saul and stood before him. He loved him greatly; and he became his armor bearer.
+LABEL:22
+VERSE:Saul sent to Jesse, saying, “Please let David stand before me, for he has found favor in my sight.”
+LABEL:23
+VERSE:When the spirit from God was on Saul, David took the harp and played with his hand; so Saul was refreshed and was well, and the evil spirit departed from him.

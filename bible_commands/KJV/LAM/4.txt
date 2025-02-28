@@ -1,0 +1,115 @@
+TRANSLATION:KJV
+BOOK:LAM
+CHAPTER:4
+TITLE:Lamentations 4
+LABEL:1
+VERSE:How is the gold become dim!
+VERSE:How is the most fine gold changed!
+VERSE:The stones of the sanctuary are poured out
+VERSE:In the top of every street.
+LABEL:2
+VERSE:The precious sons of Zion,
+VERSE:Comparable to fine gold,
+VERSE:How are they esteemed as earthen pitchers,
+VERSE:The work of the hands of the potter!
+LABEL:3
+VERSE:Even the sea monsters draw out the breast,
+VERSE:They give suck to their young ones:
+VERSE:The daughter of my people is become cruel,
+VERSE:Like the ostriches in the wilderness.
+LABEL:4
+VERSE:The tongue of the sucking child cleaveth
+VERSE:To the roof of his mouth for thirst:
+VERSE:The young children ask bread,
+VERSE:And no man breaketh it unto them.
+LABEL:5
+VERSE:They that did feed delicately
+VERSE:Are desolate in the streets:
+VERSE:They that were brought up
+VERSE:In scarlet embrace dunghills.
+LABEL:6
+VERSE:For the punishment of the iniquity of the daughter of my people is greater
+VERSE:Than the punishment of the sin of Sodom,
+VERSE:That was overthrown as in a moment,
+VERSE:And no hands stayed on her.
+LABEL:7
+VERSE:Her Nazarites were purer than snow,
+VERSE:They were whiter than milk,
+VERSE:They were more ruddy in body than rubies,
+VERSE:Their polishing was of sapphire:
+LABEL:8
+VERSE:Their visage is blacker than a coal;
+VERSE:They are not known in the streets:
+VERSE:Their skin cleaveth to their bones;
+VERSE:It is withered, it is become like a stick.
+LABEL:9
+VERSE:  They that be slain with the sword
+VERSE:Are better than they that be slain with hunger:
+VERSE:For these pine away, stricken
+VERSE:Through for want of the fruits of the field.
+LABEL:10
+VERSE:The hands of the pitiful women
+VERSE:Have sodden their own children:
+VERSE:They were their meat
+VERSE:In the destruction of the daughter of my people.
+LABEL:11
+VERSE:The LORD hath accomplished his fury;
+VERSE:He hath poured out his fierce anger,
+VERSE:And hath kindled a fire in Zion,
+VERSE:And it hath devoured the foundations thereof.
+LABEL:12
+VERSE:The kings of the earth,
+VERSE:And all the inhabitants of the world, would not have believed
+VERSE:That the adversary and the enemy should have entered
+VERSE:Into the gates of Jerusalem.
+LABEL:13
+VERSE:For the sins of her prophets,
+VERSE:And the iniquities of her priests,
+VERSE:That have shed the blood
+VERSE:Of the just in the midst of her,
+LABEL:14
+VERSE:They have wandered as blind men in the streets,
+VERSE:They have polluted themselves with blood,
+VERSE:So that men could not touch
+VERSE:Their garments.
+LABEL:15
+VERSE:They cried unto them, Depart ye; it is unclean;
+VERSE:Depart, depart, touch not:
+VERSE:When they fled away and wandered,
+VERSE:They said among the heathen,
+VERSE:They shall no more sojourn there.
+LABEL:16
+VERSE:The anger of the LORD hath divided them;
+VERSE:He will no more regard them:
+VERSE:They respected not the persons of the priests,
+VERSE:They favoured not the elders.
+LABEL:17
+VERSE:As for us, our eyes as yet failed
+VERSE:For our vain help:
+VERSE:In our watching we have watched
+VERSE:For a nation that could not save us.
+LABEL:18
+VERSE:They hunt our steps,
+VERSE:That we cannot go in our streets:
+VERSE:Our end is near, our days are fulfilled;
+VERSE:For our end is come.
+LABEL:19
+VERSE:Our persecutors are swifter
+VERSE:Than the eagles of the heaven:
+VERSE:They pursued us upon the mountains,
+VERSE:They laid wait for us in the wilderness.
+LABEL:20
+VERSE:The breath of our nostrils, the anointed of the LORD,
+VERSE:Was taken in their pits,
+VERSE:Of whom we said, Under his shadow
+VERSE:We shall live among the heathen.
+LABEL:21
+VERSE:Rejoice and be glad, O daughter of Edom,
+VERSE:That dwellest in the land of Uz;
+VERSE:The cup also shall pass through unto thee:
+VERSE:Thou shalt be drunken, and shalt make thyself naked.
+LABEL:22
+VERSE:The punishment of thine iniquity is accomplished, O daughter of Zion;
+VERSE:He will no more carry thee away into captivity:
+VERSE:He will visit thine iniquity, O daughter of Edom;
+VERSE:He will discover thy sins.

@@ -1,0 +1,85 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:29
+TITLE:Proverbs 29
+LABEL:1
+VERSE:He who is often rebuked and stiffens his neck
+VERSE:will be destroyed suddenly, with no remedy.
+LABEL:2
+VERSE:When the righteous thrive, the people rejoice;
+VERSE:but when the wicked rule, the people groan.
+LABEL:3
+VERSE:Whoever loves wisdom brings joy to his father;
+VERSE:but a companion of prostitutes squanders his wealth.
+LABEL:4
+VERSE:The king by justice makes the land stable,
+VERSE:but he who takes bribes tears it down.
+LABEL:5
+VERSE:A man who flatters his neighbor
+VERSE:spreads a net for his feet.
+LABEL:6
+VERSE:An evil man is snared by his sin,
+VERSE:but the righteous can sing and be glad.
+LABEL:7
+VERSE:The righteous care about justice for the poor.
+VERSE:The wicked aren’t concerned about knowledge.
+LABEL:8
+VERSE:Mockers stir up a city,
+VERSE:but wise men turn away anger.
+LABEL:9
+VERSE:If a wise man goes to court with a foolish man,
+VERSE:the fool rages or scoffs, and there is no peace.
+LABEL:10
+VERSE:The bloodthirsty hate a man of integrity;
+VERSE:and they seek the life of the upright.
+LABEL:11
+VERSE:A fool vents all of his anger,
+VERSE:but a wise man brings himself under control.
+LABEL:12
+VERSE:If a ruler listens to lies,
+VERSE:all of his officials are wicked.
+LABEL:13
+VERSE:The poor man and the oppressor have this in common:
+VERSE:Yahweh gives sight to the eyes of both.
+LABEL:14
+VERSE:The king who fairly judges the poor,
+VERSE:his throne shall be established forever.
+LABEL:15
+VERSE:The rod of correction gives wisdom,
+VERSE:but a child left to himself causes shame to his mother.
+LABEL:16
+VERSE:When the wicked increase, sin increases;
+VERSE:but the righteous will see their downfall.
+LABEL:17
+VERSE:Correct your son, and he will give you peace;
+VERSE:yes, he will bring delight to your soul.
+LABEL:18
+VERSE:Where there is no revelation, the people cast off restraint;
+VERSE:but one who keeps the law is blessed.
+LABEL:19
+VERSE:A servant can’t be corrected by words.
+VERSE:Though he understands, yet he will not respond.
+LABEL:20
+VERSE:Do you see a man who is hasty in his words?
+VERSE:There is more hope for a fool than for him.
+LABEL:21
+VERSE:He who pampers his servant from youth
+VERSE:will have him become a son in the end.
+LABEL:22
+VERSE:An angry man stirs up strife,
+VERSE:and a wrathful man abounds in sin.
+LABEL:23
+VERSE:A man’s pride brings him low,
+VERSE:but one of lowly spirit gains honor.
+LABEL:24
+VERSE:Whoever is an accomplice of a thief is an enemy of his own soul.
+VERSE:He takes an oath, but dares not testify.
+LABEL:25
+VERSE:The fear of man proves to be a snare,
+VERSE:but whoever puts his trust in Yahweh is kept safe.
+LABEL:26
+VERSE:Many seek the ruler’s favor,
+VERSE:but a man’s justice comes from Yahweh.
+LABEL:27
+VERSE:A dishonest man detests the righteous,
+VERSE:and the upright in their ways detest the wicked.

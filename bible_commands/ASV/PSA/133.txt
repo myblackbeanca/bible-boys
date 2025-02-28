@@ -1,0 +1,17 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:133
+TITLE:Psalms 133
+LABEL:1
+VERSE:Behold, how good and how pleasant it is
+VERSE:For brethren to dwell together in unity!
+LABEL:2
+VERSE:It is like the precious oil upon the head,
+VERSE:That ran down upon the beard,
+VERSE:Even Aaron’s beard;
+VERSE:That came down upon the skirt of his garments;
+LABEL:3
+VERSE:Like the dew of Hermon,
+VERSE:That cometh down upon the mountains of Zion:
+VERSE:For there Jehovah commanded the blessing,
+VERSE:Even life for evermore.

@@ -1,0 +1,105 @@
+TRANSLATION:KJV
+BOOK:LUK
+CHAPTER:19
+TITLE:Luke 19
+SECTION:Zacchæus
+LABEL:1
+VERSE:And Jesus entered and passed through Jericho.
+LABEL:2
+VERSE:And, behold, there was a man named Zacchæus, which was the chief among the publicans, and he was rich.
+LABEL:3
+VERSE:And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
+LABEL:4
+VERSE:And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.
+LABEL:5
+VERSE:And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchæus, make haste, and come down; for to day I must abide at thy house.
+LABEL:6
+VERSE:And he made haste, and came down, and received him joyfully.
+LABEL:7
+VERSE:And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.
+LABEL:8
+VERSE:And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
+LABEL:9
+VERSE:And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
+LABEL:10
+VERSE:For the Son of man is come to seek and to save that which was lost.
+LABEL:11
+VERSE:And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
+SECTION:Parable of the Pounds
+LABEL:12
+VERSE:He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.
+LABEL:13
+VERSE:And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
+LABEL:14
+VERSE:But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.
+LABEL:15
+VERSE:And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
+LABEL:16
+VERSE:Then came the first, saying, Lord, thy pound hath gained ten pounds.
+LABEL:17
+VERSE:And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
+LABEL:18
+VERSE:And the second came, saying, Lord, thy pound hath gained five pounds.
+LABEL:19
+VERSE:And he said likewise to him, Be thou also over five cities.
+LABEL:20
+VERSE:And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
+LABEL:21
+VERSE:for I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
+LABEL:22
+VERSE:And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+LABEL:23
+VERSE:wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
+LABEL:24
+VERSE:And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
+LABEL:25
+VERSE:(And they said unto him, Lord, he hath ten pounds.)
+LABEL:26
+VERSE:For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
+LABEL:27
+VERSE:But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
+SECTION:In Jerusalem
+SECTION:Triumphal Entry
+LABEL:28
+VERSE:And when he had thus spoken, he went before, ascending up to Jerusalem.
+LABEL:29
+VERSE:And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called the mount of Olives, he sent two of his disciples,
+LABEL:30
+VERSE:saying, Go ye into the village over against you; in the which at your entering ye shall find a colt tied, whereon yet never man sat: loose him, and bring him hither.
+LABEL:31
+VERSE:And if any man ask you, Why do ye loose him? thus shall ye say unto him, Because the Lord hath need of him.
+LABEL:32
+VERSE:And they that were sent went their way, and found even as he had said unto them.
+LABEL:33
+VERSE:And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?
+LABEL:34
+VERSE:And they said, The Lord hath need of him.
+LABEL:35
+VERSE:And they brought him to Jesus: and they cast their garments upon the colt, and they set Jesus thereon.
+LABEL:36
+VERSE:And as he went, they spread their clothes in the way.
+LABEL:37
+VERSE:And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;
+LABEL:38
+VERSE:saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.
+LABEL:39
+VERSE:And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.
+LABEL:40
+VERSE:And he answered and said unto them, I tell you that, if these should hold their peace, the stones would immediately cry out.
+LABEL:41
+VERSE:And when he was come near, he beheld the city, and wept over it,
+LABEL:42
+VERSE:saying, If thou hadst known, even thou, at least in this thy day, the things which belong unto thy peace! but now they are hid from thine eyes.
+LABEL:43
+VERSE:For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side,
+LABEL:44
+VERSE:and shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
+SECTION:Jesus in the Temple
+LABEL:45
+VERSE:And he went into the temple, and began to cast out them that sold therein, and them that bought;
+LABEL:46
+VERSE:saying unto them, It is written, My house is the house of prayer; but ye have made it a den of thieves.
+LABEL:47
+VERSE:And he taught daily in the temple. But the chief priests and the scribes and the chief of the people sought to destroy him,
+LABEL:48
+VERSE:and could not find what they might do: for all the people were very attentive to hear him.

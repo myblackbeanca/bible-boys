@@ -1,0 +1,37 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:112
+TITLE:Psalms 112
+LABEL:1
+VERSE:Praise ye Jehovah.
+VERSE:Blessed is the man that feareth Jehovah,
+VERSE:That delighteth greatly in his commandments.
+LABEL:2
+VERSE:His seed shall be mighty upon earth:
+VERSE:The generation of the upright shall be blessed.
+LABEL:3
+VERSE:Wealth and riches are in his house;
+VERSE:And his righteousness endureth for ever.
+LABEL:4
+VERSE:Unto the upright there ariseth light in the darkness:
+VERSE:He is gracious, and merciful, and righteous.
+LABEL:5
+VERSE:Well is it with the man that dealeth graciously and lendeth;
+VERSE:He shall maintain his cause in judgment.
+LABEL:6
+VERSE:For he shall never be moved;
+VERSE:The righteous shall be had in everlasting remembrance.
+LABEL:7
+VERSE:He shall not be afraid of evil tidings:
+VERSE:His heart is fixed, trusting in Jehovah.
+LABEL:8
+VERSE:His heart is established, he shall not be afraid,
+VERSE:Until he see his desire upon his adversaries.
+LABEL:9
+VERSE:He hath dispersed, he hath given to the needy;
+VERSE:His righteousness endureth for ever:
+VERSE:His horn shall be exalted with honor.
+LABEL:10
+VERSE:The wicked shall see it, and be grieved;
+VERSE:He shall gnash with his teeth, and melt away:
+VERSE:The desire of the wicked shall perish.

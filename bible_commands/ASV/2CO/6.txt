@@ -1,0 +1,49 @@
+TRANSLATION:ASV
+BOOK:2CO
+CHAPTER:6
+TITLE:2 Corinthians 6
+LABEL:1
+VERSE:And working together with him we entreat also that ye receive not the grace of God in vain
+LABEL:2
+VERSE:(for he saith,
+VERSE:At an acceptable time I hearkened unto thee,
+VERSE:And in a day of salvation did I succor thee:
+VERSE:behold, now is the acceptable time; behold, now is the day of salvation):
+LABEL:3
+VERSE:giving no occasion of stumbling in anything, that our ministration be not blamed;
+LABEL:4
+VERSE:but in everything commending ourselves, as ministers of God, in much patience, in afflictions, in necessities, in distresses,
+LABEL:5
+VERSE:in stripes, in imprisonments, in tumults, in labors, in watchings, in fastings;
+LABEL:6
+VERSE:in pureness, in knowledge, in longsuffering, in kindness, in the Holy Spirit, in love unfeigned,
+LABEL:7
+VERSE:in the word of truth, in the power of God; by the armor of righteousness on the right hand and on the left,
+LABEL:8
+VERSE:by glory and dishonor, by evil report and good report; as deceivers, and yet true;
+LABEL:9
+VERSE:as unknown, and yet well known; as dying, and behold, we live; as chastened, and not killed;
+LABEL:10
+VERSE:as sorrowful, yet always rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.
+LABEL:11
+VERSE:Our mouth is open unto you, O Corinthians, our heart is enlarged.
+LABEL:12
+VERSE:Ye are not straitened in us, but ye are straitened in your own affections.
+LABEL:13
+VERSE:Now for a recompense in like kind (I speak as unto my children), be ye also enlarged.
+LABEL:14
+VERSE:Be not unequally yoked with unbelievers: for what fellowship have righteousness and iniquity? or what communion hath light with darkness?
+LABEL:15
+VERSE:And what concord hath Christ with Belial? or what portion hath a believer with an unbeliever?
+LABEL:16
+VERSE:And what agreement hath a temple of God with idols? for we are a temple of the living God; even as God said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+LABEL:17
+VERSE:Wherefore
+VERSE:Come ye out from among them, and be ye separate,
+VERSE:saith the Lord,
+VERSE:And touch no unclean thing;
+VERSE:And I will receive you,
+LABEL:18
+VERSE:And will be to you a Father,
+VERSE:And ye shall be to me sons and daughters,
+VERSE:saith the Lord Almighty.

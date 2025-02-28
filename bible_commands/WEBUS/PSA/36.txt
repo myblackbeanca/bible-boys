@@ -1,0 +1,42 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:36
+TITLE:Psalms 36
+LABEL:1
+VERSE:A revelation is within my heart about the disobedience of the wicked:
+VERSE:There is no fear of God before his eyes.
+LABEL:2
+VERSE:For he flatters himself in his own eyes,
+VERSE:too much to detect and hate his sin.
+LABEL:3
+VERSE:The words of his mouth are iniquity and deceit.
+VERSE:He has ceased to be wise and to do good.
+LABEL:4
+VERSE:He plots iniquity on his bed.
+VERSE:He sets himself in a way that is not good.
+VERSE:He doesn’t abhor evil.
+LABEL:5
+VERSE:Your loving kindness, Yahweh, is in the heavens.
+VERSE:Your faithfulness reaches to the skies.
+LABEL:6
+VERSE:Your righteousness is like the mountains of God.
+VERSE:Your judgments are like a great deep.
+VERSE:Yahweh, you preserve man and animal.
+LABEL:7
+VERSE:How precious is your loving kindness, God!
+VERSE:The children of men take refuge under the shadow of your wings.
+LABEL:8
+VERSE:They shall be abundantly satisfied with the abundance of your house.
+VERSE:You will make them drink of the river of your pleasures.
+LABEL:9
+VERSE:For with you is the spring of life.
+VERSE:In your light we will see light.
+LABEL:10
+VERSE:Oh continue your loving kindness to those who know you,
+VERSE:your righteousness to the upright in heart.
+LABEL:11
+VERSE:Don’t let the foot of pride come against me.
+VERSE:Don’t let the hand of the wicked drive me away.
+LABEL:12
+VERSE:There the workers of iniquity are fallen.
+VERSE:They are thrust down, and shall not be able to rise.

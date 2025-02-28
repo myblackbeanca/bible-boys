@@ -1,0 +1,63 @@
+TRANSLATION:WEBUS
+BOOK:MIC
+CHAPTER:2
+TITLE:Micah 2
+LABEL:1
+VERSE:Woe to those who devise iniquity
+VERSE:and work evil on their beds!
+VERSE:When the morning is light, they practice it,
+VERSE:because it is in the power of their hand.
+LABEL:2
+VERSE:They covet fields and seize them,
+VERSE:and houses, then take them away.
+VERSE:They oppress a man and his house,
+VERSE:even a man and his heritage.
+LABEL:3
+VERSE:Therefore Yahweh says:
+VERSE:“Behold, I am planning against these people a disaster,
+VERSE:from which you will not remove your necks,
+VERSE:neither will you walk haughtily,
+VERSE:for it is an evil time.
+LABEL:4
+VERSE:In that day they will take up a parable against you,
+VERSE:and lament with a doleful lamentation, saying,
+VERSE:‘We are utterly ruined!
+VERSE:My people’s possession is divided up.
+VERSE:Indeed he takes it from me and assigns our fields to traitors!’”
+LABEL:5
+VERSE:Therefore you will have no one who divides the land by lot in Yahweh’s assembly.
+LABEL:6
+VERSE:“Don’t prophesy!”—they prophesy—
+VERSE:“Don’t prophesy about these things.
+VERSE:Disgrace won’t overtake us.”
+LABEL:7
+VERSE:Shall it be said, O house of Jacob,
+VERSE:“Is Yahweh’s Spirit angry?
+VERSE:Are these his doings?
+VERSE:Don’t my words do good to him who walks blamelessly?”
+LABEL:8
+VERSE:But lately my people have risen up as an enemy.
+VERSE:You strip the robe and clothing from those who pass by without a care, returning from battle.
+LABEL:9
+VERSE:You drive the women of my people out from their pleasant houses;
+VERSE:from their young children you take away my blessing forever.
+LABEL:10
+VERSE:Arise, and depart!
+VERSE:For this is not your resting place,
+VERSE:because of uncleanness that destroys,
+VERSE:even with a grievous destruction.
+LABEL:11
+VERSE:If a man walking in a spirit of falsehood lies, saying,
+VERSE:“I will prophesy to you of wine and of strong drink,”
+VERSE:he would be the prophet of this people.
+LABEL:12
+VERSE:I will surely assemble all of you, Jacob.
+VERSE:I will surely gather the remnant of Israel.
+VERSE:I will put them together as the sheep of Bozrah,
+VERSE:as a flock in the middle of their pasture.
+VERSE:They will swarm with people.
+LABEL:13
+VERSE:He who breaks open the way goes up before them.
+VERSE:They break through the gate, and go out.
+VERSE:Their king passes on before them,
+VERSE:with Yahweh at their head.

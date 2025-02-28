@@ -1,0 +1,21 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:125
+TITLE:Psalm 125
+LABEL:1
+VERSE:They that trust in the LORD
+VERSE:Shall be as mount Zion,
+VERSE:Which cannot be removed,
+VERSE:But abideth for ever.
+LABEL:2
+VERSE:  As the mountains are round about Jerusalem,
+VERSE:So the LORD  is round about his people from henceforth even for ever.
+LABEL:3
+VERSE:For the rod of the wicked shall not rest upon the lot of the righteous;
+VERSE:Lest the righteous put forth their hands unto iniquity.
+LABEL:4
+VERSE:Do good, O LORD,
+VERSE:Unto those that be good, and to them that are upright in their hearts.
+LABEL:5
+VERSE:As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity:
+VERSE:But peace shall be upon Israel.

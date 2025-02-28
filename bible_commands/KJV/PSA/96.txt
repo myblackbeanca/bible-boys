@@ -1,0 +1,43 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:96
+TITLE:Psalm 96
+LABEL:1
+VERSE:O Sing unto the LORD a new song:
+VERSE:Sing unto the LORD, all the earth.
+LABEL:2
+VERSE:Sing unto the LORD, bless his name;
+VERSE:Shew forth his salvation from day to day.
+LABEL:3
+VERSE:Declare his glory among the heathen,
+VERSE:His wonders among all people.
+LABEL:4
+VERSE:For the LORD  is great, and greatly to be praised:
+VERSE:He is to be feared above all gods.
+LABEL:5
+VERSE:For all the gods of the nations are idols:
+VERSE:But the LORD made the heavens.
+LABEL:6
+VERSE:Honour and majesty are before him:
+VERSE:Strength and beauty are in his sanctuary.
+LABEL:7
+VERSE:Give unto the LORD, O ye kindreds of the people,
+VERSE:Give unto the LORD glory and strength.
+LABEL:8
+VERSE:Give unto the LORD the glory due unto his name:
+VERSE:Bring an offering, and come into his courts.
+LABEL:9
+VERSE:O worship the LORD in the beauty of holiness:
+VERSE:Fear before him, all the earth.
+LABEL:10
+VERSE:Say among the heathen that the LORD reigneth:
+VERSE:The world also shall be established that it shall not be moved: He shall judge the people righteously.
+LABEL:11
+VERSE:Let the heavens rejoice, and let the earth be glad;
+VERSE:Let the sea roar, and the fulness thereof.
+LABEL:12
+VERSE:Let the field be joyful, and all that is therein:
+VERSE:Then shall all the trees of the wood rejoice
+LABEL:13
+VERSE:Before the LORD: for he cometh, for he cometh to judge the earth:
+VERSE:He shall judge the world with righteousness, and the people with his truth.

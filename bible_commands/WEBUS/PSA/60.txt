@@ -1,0 +1,48 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:60
+TITLE:Psalms 60
+LABEL:1
+VERSE:God, you have rejected us.
+VERSE:You have broken us down.
+VERSE:You have been angry.
+VERSE:Restore us, again.
+LABEL:2
+VERSE:You have made the land tremble.
+VERSE:You have torn it.
+VERSE:Mend its fractures,
+VERSE:for it quakes.
+LABEL:3
+VERSE:You have shown your people hard things.
+VERSE:You have made us drink the wine that makes us stagger.
+LABEL:4
+VERSE:You have given a banner to those who fear you,
+VERSE:that it may be displayed because of the truth. Selah.
+LABEL:5
+VERSE:So that your beloved may be delivered,
+VERSE:save with your right hand, and answer us.
+LABEL:6
+VERSE:God has spoken from his sanctuary:
+VERSE:“I will triumph.
+VERSE:I will divide Shechem,
+VERSE:and measure out the valley of Succoth.
+LABEL:7
+VERSE:Gilead is mine, and Manasseh is mine.
+VERSE:Ephraim also is the defense of my head.
+VERSE:Judah is my scepter.
+LABEL:8
+VERSE:Moab is my wash basin.
+VERSE:I will throw my sandal on Edom.
+VERSE:I shout in triumph over Philistia.”
+LABEL:9
+VERSE:Who will bring me into the strong city?
+VERSE:Who has led me to Edom?
+LABEL:10
+VERSE:Haven’t you, God, rejected us?
+VERSE:You don’t go out with our armies, God.
+LABEL:11
+VERSE:Give us help against the adversary,
+VERSE:for the help of man is vain.
+LABEL:12
+VERSE:Through God we will do valiantly,
+VERSE:for it is he who will tread down our adversaries.

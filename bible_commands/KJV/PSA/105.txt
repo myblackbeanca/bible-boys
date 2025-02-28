@@ -1,0 +1,138 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:105
+TITLE:Psalm 105
+LABEL:1
+VERSE:O give thanks unto the LORD; call upon his name:
+VERSE:Make known his deeds among the people.
+LABEL:2
+VERSE:Sing unto him, sing psalms unto him:
+VERSE:Talk ye of all his wondrous works.
+LABEL:3
+VERSE:Glory ye in his holy name:
+VERSE:Let the heart of them rejoice that seek the LORD.
+LABEL:4
+VERSE:Seek the LORD, and his strength:
+VERSE:Seek his face evermore.
+LABEL:5
+VERSE:Remember his marvellous works that he hath done;
+VERSE:His wonders, and the judgments of his mouth;
+LABEL:6
+VERSE:O ye seed of Abraham his servant,
+VERSE:Ye children of Jacob his chosen.
+LABEL:7
+VERSE:He is the LORD our God:
+VERSE:His judgments are in all the earth.
+LABEL:8
+VERSE:He hath remembered his covenant for ever,
+VERSE:The word which he commanded to a thousand generations.
+LABEL:9
+VERSE:Which covenant he made with Abraham,
+VERSE:And his oath unto Isaac;
+LABEL:10
+VERSE:And confirmed the same unto Jacob for a law,
+VERSE:And to Israel for an everlasting covenant:
+LABEL:11
+VERSE:Saying, Unto thee will I give the land of Canaan,
+VERSE:The lot of your inheritance:
+LABEL:12
+VERSE:When they were but a few men in number;
+VERSE:Yea, very few, and strangers in it.
+LABEL:13
+VERSE:When they went from one nation to another,
+VERSE:From one kingdom to another people;
+LABEL:14
+VERSE:He suffered no man to do them wrong:
+VERSE:Yea, he reproved kings for their sakes;
+LABEL:15
+VERSE:  Saying, Touch not mine anointed,
+VERSE:And do my prophets no harm.
+LABEL:16
+VERSE:Moreover he called for a famine upon the land:
+VERSE:He brake the whole staff of bread.
+LABEL:17
+VERSE:He sent a man before them,
+VERSE:Even Joseph, who was sold for a servant:
+LABEL:18
+VERSE:Whose feet they hurt with fetters:
+VERSE:He was laid in iron:
+LABEL:19
+VERSE:Until the time that his word came:
+VERSE:The word of the LORD tried him.
+LABEL:20
+VERSE:The king sent and loosed him;
+VERSE:Even the ruler of the people, and let him go free.
+LABEL:21
+VERSE:He made him lord of his house,
+VERSE:And ruler of all his substance:
+LABEL:22
+VERSE:To bind his princes at his pleasure;
+VERSE:And teach his senators wisdom.
+LABEL:23
+VERSE:Israel also came into Egypt;
+VERSE:And Jacob sojourned in the land of Ham.
+LABEL:24
+VERSE:And he increased his people greatly;
+VERSE:And made them stronger than their enemies.
+LABEL:25
+VERSE:He turned their heart to hate his people,
+VERSE:To deal subtilly with his servants.
+LABEL:26
+VERSE:He sent Moses his servant;
+VERSE:And Aaron whom he had chosen.
+LABEL:27
+VERSE:They shewed his signs among them,
+VERSE:And wonders in the land of Ham.
+LABEL:28
+VERSE:He sent darkness, and made it dark;
+VERSE:And they rebelled not against his word.
+LABEL:29
+VERSE:He turned their waters into blood,
+VERSE:And slew their fish.
+LABEL:30
+VERSE:Their land brought forth frogs in abundance,
+VERSE:In the chambers of their kings.
+LABEL:31
+VERSE:He spake, and there came divers sorts of flies,
+VERSE:And lice in all their coasts.
+LABEL:32
+VERSE:He gave them hail for rain,
+VERSE:And flaming fire in their land.
+LABEL:33
+VERSE:He smote their vines also and their fig trees;
+VERSE:And brake the trees of their coasts.
+LABEL:34
+VERSE:He spake, and the locusts came, and caterpillers, and that without number,
+LABEL:35
+VERSE:And did eat up all the herbs in their land, and devoured the fruit of their ground.
+LABEL:36
+VERSE:He smote also all the firstborn in their land,
+VERSE:The chief of all their strength.
+LABEL:37
+VERSE:He brought them forth also with silver and gold:
+VERSE:And there was not one feeble person among their tribes.
+LABEL:38
+VERSE:Egypt was glad when they departed:
+VERSE:For the fear of them fell upon them.
+LABEL:39
+VERSE:He spread a cloud for a covering;
+VERSE:And fire to give light in the night.
+LABEL:40
+VERSE:  The people asked, and he brought quails,
+VERSE:And satisfied them with the bread of heaven.
+LABEL:41
+VERSE:He opened the rock, and the waters gushed out;
+VERSE:They ran in the dry places like a river.
+LABEL:42
+VERSE:For he remembered his holy promise,
+VERSE:And Abraham his servant.
+LABEL:43
+VERSE:And he brought forth his people with joy,
+VERSE:And his chosen with gladness:
+LABEL:44
+VERSE:And gave them the lands of the heathen:
+VERSE:And they inherited the labour of the people;
+LABEL:45
+VERSE:That they might observe his statutes,
+VERSE:And keep his laws.
+VERSE:Praise ye the LORD.

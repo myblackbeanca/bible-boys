@@ -1,0 +1,29 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:82
+TITLE:Psalms 82
+LABEL:1
+VERSE:God presides in the great assembly.
+VERSE:He judges among the gods.
+LABEL:2
+VERSE:“How long will you judge unjustly,
+VERSE:and show partiality to the wicked?” Selah.
+LABEL:3
+VERSE:“Defend the weak, the poor, and the fatherless.
+VERSE:Maintain the rights of the poor and oppressed.
+LABEL:4
+VERSE:Rescue the weak and needy.
+VERSE:Deliver them out of the hand of the wicked.”
+LABEL:5
+VERSE:They don’t know, neither do they understand.
+VERSE:They walk back and forth in darkness.
+VERSE:All the foundations of the earth are shaken.
+LABEL:6
+VERSE:I said, “You are gods,
+VERSE:all of you are sons of the Most High.
+LABEL:7
+VERSE:Nevertheless you shall die like men,
+VERSE:and fall like one of the rulers.”
+LABEL:8
+VERSE:Arise, God, judge the earth,
+VERSE:for you inherit all of the nations.

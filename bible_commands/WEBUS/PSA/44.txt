@@ -1,0 +1,90 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:44
+TITLE:Psalms 44
+LABEL:1
+VERSE:We have heard with our ears, God;
+VERSE:our fathers have told us what work you did in their days,
+VERSE:in the days of old.
+LABEL:2
+VERSE:You drove out the nations with your hand,
+VERSE:but you planted them.
+VERSE:You afflicted the peoples,
+VERSE:but you spread them abroad.
+LABEL:3
+VERSE:For they didn’t get the land in possession by their own sword,
+VERSE:neither did their own arm save them;
+VERSE:but your right hand, your arm, and the light of your face,
+VERSE:because you were favorable to them.
+LABEL:4
+VERSE:God, you are my King.
+VERSE:Command victories for Jacob!
+LABEL:5
+VERSE:Through you, we will push down our adversaries.
+VERSE:Through your name, we will tread down those who rise up against us.
+LABEL:6
+VERSE:For I will not trust in my bow,
+VERSE:neither will my sword save me.
+LABEL:7
+VERSE:But you have saved us from our adversaries,
+VERSE:and have shamed those who hate us.
+LABEL:8
+VERSE:In God we have made our boast all day long.
+VERSE:We will give thanks to your name forever. Selah.
+LABEL:9
+VERSE:But now you rejected us, and brought us to dishonor,
+VERSE:and don’t go out with our armies.
+LABEL:10
+VERSE:You make us turn back from the adversary.
+VERSE:Those who hate us take plunder for themselves.
+LABEL:11
+VERSE:You have made us like sheep for food,
+VERSE:and have scattered us among the nations.
+LABEL:12
+VERSE:You sell your people for nothing,
+VERSE:and have gained nothing from their sale.
+LABEL:13
+VERSE:You make us a reproach to our neighbors,
+VERSE:a scoffing and a derision to those who are around us.
+LABEL:14
+VERSE:You make us a byword among the nations,
+VERSE:a shaking of the head among the peoples.
+LABEL:15
+VERSE:All day long my dishonor is before me,
+VERSE:and shame covers my face,
+LABEL:16
+VERSE:at the taunt of one who reproaches and verbally abuses,
+VERSE:because of the enemy and the avenger.
+LABEL:17
+VERSE:All this has come on us,
+VERSE:yet we haven’t forgotten you.
+VERSE:We haven’t been false to your covenant.
+LABEL:18
+VERSE:Our heart has not turned back,
+VERSE:neither have our steps strayed from your path,
+LABEL:19
+VERSE:though you have crushed us in the haunt of jackals,
+VERSE:and covered us with the shadow of death.
+LABEL:20
+VERSE:If we have forgotten the name of our God,
+VERSE:or spread out our hands to a strange god,
+LABEL:21
+VERSE:won’t God search this out?
+VERSE:For he knows the secrets of the heart.
+LABEL:22
+VERSE:Yes, for your sake we are killed all day long.
+VERSE:We are regarded as sheep for the slaughter.
+LABEL:23
+VERSE:Wake up!
+VERSE:Why do you sleep, Lord?
+VERSE:Arise!
+VERSE:Don’t reject us forever.
+LABEL:24
+VERSE:Why do you hide your face,
+VERSE:and forget our affliction and our oppression?
+LABEL:25
+VERSE:For our soul is bowed down to the dust.
+VERSE:Our body clings to the earth.
+LABEL:26
+VERSE:Rise up to help us.
+VERSE:Redeem us for your loving kindness’ sake.

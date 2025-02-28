@@ -1,0 +1,89 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:28
+TITLE:Proverbs 28
+LABEL:1
+VERSE:The wicked flee when no one pursues;
+VERSE:but the righteous are as bold as a lion.
+LABEL:2
+VERSE:In rebellion, a land has many rulers,
+VERSE:but order is maintained by a man of understanding and knowledge.
+LABEL:3
+VERSE:A needy man who oppresses the poor
+VERSE:is like a driving rain which leaves no crops.
+LABEL:4
+VERSE:Those who forsake the law praise the wicked;
+VERSE:but those who keep the law contend with them.
+LABEL:5
+VERSE:Evil men don’t understand justice;
+VERSE:but those who seek Yahweh understand it fully.
+LABEL:6
+VERSE:Better is the poor who walks in his integrity
+VERSE:than he who is perverse in his ways, and he is rich.
+LABEL:7
+VERSE:Whoever keeps the law is a wise son;
+VERSE:but he who is a companion of gluttons shames his father.
+LABEL:8
+VERSE:He who increases his wealth by excessive interest
+VERSE:gathers it for one who has pity on the poor.
+LABEL:9
+VERSE:He who turns away his ear from hearing the law,
+VERSE:even his prayer is an abomination.
+LABEL:10
+VERSE:Whoever causes the upright to go astray in an evil way,
+VERSE:he will fall into his own trap;
+VERSE:but the blameless will inherit good.
+LABEL:11
+VERSE:The rich man is wise in his own eyes;
+VERSE:but the poor who has understanding sees through him.
+LABEL:12
+VERSE:When the righteous triumph, there is great glory;
+VERSE:but when the wicked rise, men hide themselves.
+LABEL:13
+VERSE:He who conceals his sins doesn’t prosper,
+VERSE:but whoever confesses and renounces them finds mercy.
+LABEL:14
+VERSE:Blessed is the man who always fears;
+VERSE:but one who hardens his heart falls into trouble.
+LABEL:15
+VERSE:As a roaring lion or a charging bear,
+VERSE:so is a wicked ruler over helpless people.
+LABEL:16
+VERSE:A tyrannical ruler lacks judgment.
+VERSE:One who hates ill-gotten gain will have long days.
+LABEL:17
+VERSE:A man who is tormented by blood guilt will be a fugitive until death.
+VERSE:No one will support him.
+LABEL:18
+VERSE:Whoever walks blamelessly is kept safe;
+VERSE:but one with perverse ways will fall suddenly.
+LABEL:19
+VERSE:One who works his land will have an abundance of food;
+VERSE:but one who chases fantasies will have his fill of poverty.
+LABEL:20
+VERSE:A faithful man is rich with blessings;
+VERSE:but one who is eager to be rich will not go unpunished.
+LABEL:21
+VERSE:To show partiality is not good,
+VERSE:yet a man will do wrong for a piece of bread.
+LABEL:22
+VERSE:A stingy man hurries after riches,
+VERSE:and doesn’t know that poverty waits for him.
+LABEL:23
+VERSE:One who rebukes a man will afterward find more favor
+VERSE:than one who flatters with the tongue.
+LABEL:24
+VERSE:Whoever robs his father or his mother and says, “It’s not wrong,”
+VERSE:is a partner with a destroyer.
+LABEL:25
+VERSE:One who is greedy stirs up strife;
+VERSE:but one who trusts in Yahweh will prosper.
+LABEL:26
+VERSE:One who trusts in himself is a fool;
+VERSE:but one who walks in wisdom is kept safe.
+LABEL:27
+VERSE:One who gives to the poor has no lack;
+VERSE:but one who closes his eyes will have many curses.
+LABEL:28
+VERSE:When the wicked rise, men hide themselves;
+VERSE:but when they perish, the righteous thrive.

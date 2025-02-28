@@ -1,0 +1,28 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:114
+TITLE:Psalm 114
+LABEL:1
+VERSE:When Israel went out of Egypt,
+VERSE:The house of Jacob from a people of strange language;
+LABEL:2
+VERSE:Judah was his sanctuary,
+VERSE:And Israel his dominion.
+LABEL:3
+VERSE:The sea saw it, and fled:
+VERSE:Jordan was driven back.
+LABEL:4
+VERSE:The mountains skipped like rams,
+VERSE:And the little hills like lambs.
+LABEL:5
+VERSE:What ailed thee, O thou sea, that thou fleddest?
+VERSE:Thou Jordan, that thou wast driven back?
+LABEL:6
+VERSE:Ye mountains, that ye skipped like rams;
+VERSE:And ye little hills, like lambs?
+LABEL:7
+VERSE:Tremble, thou earth, at the presence of the Lord,
+VERSE:At the presence of the God of Jacob;
+LABEL:8
+VERSE:Which turned the rock into a standing water,
+VERSE:The flint into a fountain of waters.

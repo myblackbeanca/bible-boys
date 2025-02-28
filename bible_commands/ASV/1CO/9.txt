@@ -1,0 +1,58 @@
+TRANSLATION:ASV
+BOOK:1CO
+CHAPTER:9
+TITLE:1 Corinthians 9
+LABEL:1
+VERSE:Am I not free? am I not an apostle? have I not seen Jesus our Lord? are not ye my work in the Lord?
+LABEL:2
+VERSE:If to others I am not an apostle, yet at least I am to you; for the seal of mine apostleship are ye in the Lord.
+LABEL:3
+VERSE:My defence to them that examine me is this.
+LABEL:4
+VERSE:Have we no right to eat and to drink?
+LABEL:5
+VERSE:Have we no right to lead about a wife that is a believer, even as the rest of the apostles, and the brethren of the Lord, and Cephas?
+LABEL:6
+VERSE:Or I only and Barnabas, have we not a right to forbear working?
+LABEL:7
+VERSE:What soldier ever serveth at his own charges? who planteth a vineyard, and eateth not the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?
+LABEL:8
+VERSE:Do I speak these things after the manner of men? or saith not the law also the same?
+LABEL:9
+VERSE:For it is written in the law of Moses, Thou shalt not muzzle the ox when he treadeth out the corn. Is it for the oxen that God careth,
+LABEL:10
+VERSE:or saith he it assuredly for our sake? Yea, for our sake it was written: because he that ploweth ought to plow in hope, and he that thresheth, to thresh in hope of partaking.
+LABEL:11
+VERSE:If we sowed unto you spiritual things, is it a great matter if we shall reap your carnal things?
+LABEL:12
+VERSE:If others partake of this right over you, do not we yet more? Nevertheless we did not use this right; but we bear all things, that we may cause no hindrance to the gospel of Christ.
+LABEL:13
+VERSE:Know ye not that they that minister about sacred things eat of the things of the temple, and they that wait upon the altar have their portion with the altar?
+LABEL:14
+VERSE:Even so did the Lord ordain that they that proclaim the gospel should live of the gospel.
+LABEL:15
+VERSE:But I have used none of these things: and I write not these things that it may be so done in my case; for it were good for me rather to die, than that any man should make my glorying void.
+LABEL:16
+VERSE:For if I preach the gospel, I have nothing to glory of; for necessity is laid upon me; for woe is unto me, if I preach not the gospel.
+LABEL:17
+VERSE:For if I do this of mine own will, I have a reward: but if not of mine own will, I have a stewardship intrusted to me.
+LABEL:18
+VERSE:What then is my reward? That, when I preach the gospel, I may make the gospel without charge, so as not to use to the full my right in the gospel.
+LABEL:19
+VERSE:For though I was free from all men, I brought myself under bondage to all, that I might gain the more.
+LABEL:20
+VERSE:And to the Jews I became as a Jew, that I might gain Jews; to them that are under the law, as under the law, not being myself under the law, that I might gain them that are under the law;
+LABEL:21
+VERSE:to them that are without law, as without law, not being without law to God, but under law to Christ, that I might gain them that are without law.
+LABEL:22
+VERSE:To the weak I became weak, that I might gain the weak: I am become all things to all men, that I may by all means save some.
+LABEL:23
+VERSE:And I do all things for the gospel’s sake, that I may be a joint partaker thereof.
+LABEL:24
+VERSE:Know ye not that they that run in a race run all, but one receiveth the prize? Even so run; that ye may attain.
+LABEL:25
+VERSE:And every man that striveth in the games exerciseth self-control in all things. Now they do it to receive a corruptible crown; but we an incorruptible.
+LABEL:26
+VERSE:I therefore so run, as not uncertainly; so fight I, as not beating the air:
+LABEL:27
+VERSE:but I buffet my body, and bring it into bondage: lest by any means, after that I have preached to others, I myself should be rejected.

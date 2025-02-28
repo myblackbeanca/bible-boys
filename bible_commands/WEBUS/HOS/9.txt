@@ -1,0 +1,79 @@
+TRANSLATION:WEBUS
+BOOK:HOS
+CHAPTER:9
+TITLE:Hosea 9
+LABEL:1
+VERSE:Don’t rejoice, Israel, to jubilation like the nations;
+VERSE:for you were unfaithful to your God.
+VERSE:You love the wages of a prostitute at every grain threshing floor.
+LABEL:2
+VERSE:The threshing floor and the wine press won’t feed them,
+VERSE:and the new wine will fail her.
+LABEL:3
+VERSE:They won’t dwell in Yahweh’s land;
+VERSE:but Ephraim will return to Egypt,
+VERSE:and they will eat unclean food in Assyria.
+LABEL:4
+VERSE:They won’t pour out wine offerings to Yahweh,
+VERSE:neither will they be pleasing to him.
+VERSE:Their sacrifices will be to them like the bread of mourners;
+VERSE:all who eat of it will be polluted;
+VERSE:for their bread will be for their appetite.
+VERSE:It will not come into Yahweh’s house.
+LABEL:5
+VERSE:What will you do in the day of solemn assembly,
+VERSE:and in the day of the feast of Yahweh?
+LABEL:6
+VERSE:For, behold, when they flee destruction,
+VERSE:Egypt will gather them up.
+VERSE:Memphis will bury them.
+VERSE:Nettles will possess their pleasant things of silver.
+VERSE:Thorns will be in their tents.
+LABEL:7
+VERSE:The days of visitation have come.
+VERSE:The days of reckoning have come.
+VERSE:Israel will consider the prophet to be a fool,
+VERSE:and the man who is inspired to be insane,
+VERSE:because of the abundance of your sins,
+VERSE:and because your hostility is great.
+LABEL:8
+VERSE:A prophet watches over Ephraim with my God.
+VERSE:A fowler’s snare is on all of his paths,
+VERSE:and hostility in the house of his God.
+LABEL:9
+VERSE:They have deeply corrupted themselves,
+VERSE:as in the days of Gibeah.
+VERSE:He will remember their iniquity.
+VERSE:He will punish them for their sins.
+LABEL:10
+VERSE:I found Israel like grapes in the wilderness.
+VERSE:I saw your fathers as the first ripe in the fig tree at its first season;
+VERSE:but they came to Baal Peor, and consecrated themselves to the shameful thing,
+VERSE:and became abominable like that which they loved.
+LABEL:11
+VERSE:As for Ephraim, their glory will fly away like a bird.
+VERSE:There will be no birth, no one with child, and no conception.
+LABEL:12
+VERSE:Though they bring up their children,
+VERSE:yet I will bereave them, so that not a man shall be left.
+VERSE:Indeed, woe also to them when I depart from them!
+LABEL:13
+VERSE:I have seen Ephraim, like Tyre, planted in a pleasant place;
+VERSE:but Ephraim will bring out his children to the murderer.
+LABEL:14
+VERSE:Give them—Yahweh what will you give?
+VERSE:Give them a miscarrying womb and dry breasts.
+LABEL:15
+VERSE:“All their wickedness is in Gilgal;
+VERSE:for there I hated them.
+VERSE:Because of the wickedness of their deeds, I will drive them out of my house!
+VERSE:I will love them no more.
+VERSE:All their princes are rebels.
+LABEL:16
+VERSE:Ephraim is struck.
+VERSE:Their root has dried up.
+VERSE:They will bear no fruit.
+VERSE:Even though they give birth, yet I will kill the beloved ones of their womb.”
+LABEL:17
+VERSE:My God will cast them away, because they didn’t listen to him;
+VERSE:and they will be wanderers among the nations.

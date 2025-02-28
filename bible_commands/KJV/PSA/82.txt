@@ -1,0 +1,28 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:82
+TITLE:Psalm 82
+LABEL:1
+VERSE:God standeth in the congregation of the mighty;
+VERSE:He judgeth among the gods.
+LABEL:2
+VERSE:How long will ye judge unjustly,
+VERSE:And accept the persons of the wicked? Selah.
+LABEL:3
+VERSE:Defend the poor and fatherless:
+VERSE:Do justice to the afflicted and needy.
+LABEL:4
+VERSE:Deliver the poor and needy:
+VERSE:Rid them out of the hand of the wicked.
+LABEL:5
+VERSE:They know not, neither will they understand; They walk on in darkness:
+VERSE:All the foundations of the earth are out of course.
+LABEL:6
+VERSE:I have said, Ye are gods;
+VERSE:And all of you are children of the most High.
+LABEL:7
+VERSE:But ye shall die like men,
+VERSE:And fall like one of the princes.
+LABEL:8
+VERSE:Arise, O God, judge the earth:
+VERSE:For thou shalt inherit all nations.

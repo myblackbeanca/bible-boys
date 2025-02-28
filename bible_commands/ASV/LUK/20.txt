@@ -1,0 +1,102 @@
+TRANSLATION:ASV
+BOOK:LUK
+CHAPTER:20
+TITLE:Luke 20
+LABEL:1
+VERSE:And it came to pass, on one of the days, as he was teaching the people in the temple, and preaching the gospel, there came upon him the chief priests and the scribes with the elders;
+LABEL:2
+VERSE:and they spake, saying unto him, Tell us: By what authority doest thou these things? or who is he that gave thee this authority?
+LABEL:3
+VERSE:And he answered and said unto them, I also will ask you a question; and tell me:
+LABEL:4
+VERSE:The baptism of John, was it from heaven, or from men?
+LABEL:5
+VERSE:And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why did ye not believe him?
+LABEL:6
+VERSE:But if we shall say, From men; all the people will stone us: for they are persuaded that John was a prophet.
+LABEL:7
+VERSE:And they answered, that they knew not whence it was.
+LABEL:8
+VERSE:And Jesus said unto them, Neither tell I you by what authority I do these things.
+LABEL:9
+VERSE:And he began to speak unto the people this parable: A man planted a vineyard, and let it out to husbandmen, and went into another country for a long time.
+LABEL:10
+VERSE:And at the season he sent unto the husbandmen a servant, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
+LABEL:11
+VERSE:And he sent yet another servant: and him also they beat, and handled him shamefully, and sent him away empty.
+LABEL:12
+VERSE:And he sent yet a third: and him also they wounded, and cast him forth.
+LABEL:13
+VERSE:And the lord of the vineyard said, What shall I do? I will send my beloved son; it may be they will reverence him.
+LABEL:14
+VERSE:But when the husbandmen saw him, they reasoned one with another, saying, This is the heir; let us kill him, that the inheritance may be ours.
+LABEL:15
+VERSE:And they cast him forth out of the vineyard, and killed him. What therefore will the lord of the vineyard do unto them?
+LABEL:16
+VERSE:He will come and destroy these husbandmen, and will give the vineyard unto others. And when they heard it, they said, God forbid.
+LABEL:17
+VERSE:But he looked upon them, and said, What then is this that is written,
+VERSE:The stone which the builders rejected,
+VERSE:The same was made the head of the corner?
+LABEL:18
+VERSE:Every one that falleth on that stone shall be broken to pieces; but on whomsoever it shall fall, it will scatter him as dust.
+LABEL:19
+VERSE:And the scribes and the chief priests sought to lay hands on him in that very hour; and they feared the people: for they perceived that he spake this parable against them.
+LABEL:20
+VERSE:And they watched him, and sent forth spies, who feigned themselves to be righteous, that they might take hold of his speech, so as to deliver him up to the rule and to the authority of the governor.
+LABEL:21
+VERSE:And they asked him, saying, Teacher, we know that thou sayest and teachest rightly, and acceptest not the person of any, but of a truth teachest the way of God:
+LABEL:22
+VERSE:Is it lawful for us to give tribute unto Cæsar, or not?
+LABEL:23
+VERSE:But he perceived their craftiness, and said unto them,
+LABEL:24
+VERSE:Show me a denarius. Whose image and superscription hath it? And they said, Cæsar’s.
+LABEL:25
+VERSE:And he said unto them, Then render unto Cæsar the things that are Cæsar’s, and unto God the things that are God’s.
+LABEL:26
+VERSE:And they were not able to take hold of the saying before the people: and they marvelled at his answer, and held their peace.
+LABEL:27
+VERSE:And there came to him certain of the Sadducees, they that say that there is no resurrection;
+LABEL:28
+VERSE:and they asked him, saying, Teacher, Moses wrote unto us, that if a man’s brother die, having a wife, and he be childless, his brother should take the wife, and raise up seed unto his brother.
+LABEL:29
+VERSE:There were therefore seven brethren: and the first took a wife, and died childless;
+LABEL:30
+VERSE:and the second:
+LABEL:31
+VERSE:and the third took her; and likewise the seven also left no children, and died.
+LABEL:32
+VERSE:Afterward the woman also died.
+LABEL:33
+VERSE:In the resurrection therefore whose wife of them shall she be? for the seven had her to wife.
+LABEL:34
+VERSE:And Jesus said unto them, The sons of this world marry, and are given in marriage:
+LABEL:35
+VERSE:but they that are accounted worthy to attain to that world, and the resurrection from the dead, neither marry, nor are given in marriage:
+LABEL:36
+VERSE:for neither can they die any more: for they are equal unto the angels; and are sons of God, being sons of the resurrection.
+LABEL:37
+VERSE:But that the dead are raised, even Moses showed, in the place concerning the Bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
+LABEL:38
+VERSE:Now he is not the God of the dead, but of the living: for all live unto him.
+LABEL:39
+VERSE:And certain of the scribes answering said, Teacher, thou hast well said.
+LABEL:40
+VERSE:For they durst not any more ask him any question.
+LABEL:41
+VERSE:And he said unto them, How say they that the Christ is David’s son?
+LABEL:42
+VERSE:For David himself saith in the book of Psalms,
+VERSE:The Lord said unto my Lord,
+VERSE:Sit thou on my right hand,
+LABEL:43
+VERSE:Till I make thine enemies the footstool of thy feet.
+LABEL:44
+VERSE:David therefore calleth him Lord, and how is he his son?
+LABEL:45
+VERSE:And in the hearing of all the people he said unto his disciples,
+LABEL:46
+VERSE:Beware of the scribes, who desire to walk in long robes, and love salutations in the marketplaces, and chief seats in the synagogues, and chief places at feasts;
+LABEL:47
+VERSE:who devour widows’ houses, and for a pretence make long prayers: these shall receive greater condemnation.

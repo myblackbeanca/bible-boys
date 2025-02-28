@@ -1,0 +1,65 @@
+TRANSLATION:WEBUS
+BOOK:HEB
+CHAPTER:12
+TITLE:Hebrews 12
+LABEL:1
+VERSE:Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us,
+LABEL:2
+VERSE:looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.
+LABEL:3
+VERSE:For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls.
+LABEL:4
+VERSE:You have not yet resisted to blood, striving against sin.
+LABEL:5
+VERSE:You have forgotten the exhortation which reasons with you as with children,
+VERSE:“My son, don’t take lightly the chastening of the Lord,
+VERSE:nor faint when you are reproved by him;
+LABEL:6
+VERSE:for whom the Lord loves, he disciplines,
+VERSE:and chastises every son whom he receives.”
+LABEL:7
+VERSE:It is for discipline that you endure. God deals with you as with children, for what son is there whom his father doesn’t discipline?
+LABEL:8
+VERSE:But if you are without discipline, of which all have been made partakers, then you are illegitimate, and not children.
+LABEL:9
+VERSE:Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits and live?
+LABEL:10
+VERSE:For they indeed for a few days disciplined us as seemed good to them, but he for our profit, that we may be partakers of his holiness.
+LABEL:11
+VERSE:All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained by it.
+LABEL:12
+VERSE:Therefore lift up the hands that hang down and the feeble knees,
+LABEL:13
+VERSE:and make straight paths for your feet, so what is lame may not be dislocated, but rather be healed.
+LABEL:14
+VERSE:Follow after peace with all men, and the sanctification without which no man will see the Lord,
+LABEL:15
+VERSE:looking carefully lest there be any man who falls short of the grace of God, lest any root of bitterness springing up trouble you and many be defiled by it,
+LABEL:16
+VERSE:lest there be any sexually immoral person or profane person, like Esau, who sold his birthright for one meal.
+LABEL:17
+VERSE:For you know that even when he afterward desired to inherit the blessing, he was rejected, for he found no place for a change of mind though he sought it diligently with tears.
+LABEL:18
+VERSE:For you have not come to a mountain that might be touched and that burned with fire, and to blackness, darkness, storm,
+LABEL:19
+VERSE:the sound of a trumpet, and the voice of words; which those who heard it begged that not one more word should be spoken to them,
+LABEL:20
+VERSE:for they could not stand that which was commanded, “If even an animal touches the mountain, it shall be stoned”.
+LABEL:21
+VERSE:So fearful was the appearance that Moses said, “I am terrified and trembling.”
+LABEL:22
+VERSE:But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable multitudes of angels,
+LABEL:23
+VERSE:to the festal gathering and assembly of the firstborn who are enrolled in heaven, to God the Judge of all, to the spirits of just men made perfect,
+LABEL:24
+VERSE:to Jesus, the mediator of a new covenant, and to the blood of sprinkling that speaks better than that of Abel.
+LABEL:25
+VERSE:See that you don’t refuse him who speaks. For if they didn’t escape when they refused him who warned on the earth, how much more will we not escape who turn away from him who warns from heaven,
+LABEL:26
+VERSE:whose voice shook the earth then, but now he has promised, saying, “Yet once more I will shake not only the earth, but also the heavens.”
+LABEL:27
+VERSE:This phrase, “Yet once more” signifies the removing of those things that are shaken, as of things that have been made, that those things which are not shaken may remain.
+LABEL:28
+VERSE:Therefore, receiving a Kingdom that can’t be shaken, let’s have grace, through which we serve God acceptably, with reverence and awe,
+LABEL:29
+VERSE:for our God is a consuming fire.

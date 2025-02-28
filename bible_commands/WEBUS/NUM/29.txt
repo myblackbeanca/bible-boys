@@ -1,0 +1,84 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:29
+TITLE:Numbers 29
+LABEL:1
+VERSE:“‘In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no regular work. It is a day of blowing of trumpets to you.
+LABEL:2
+VERSE:You shall offer a burnt offering for a pleasant aroma to Yahweh: one young bull, one ram, seven male lambs a year old without defect;
+LABEL:3
+VERSE:and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the ram,
+LABEL:4
+VERSE:and one tenth for every lamb of the seven lambs;
+LABEL:5
+VERSE:and one male goat for a sin offering, to make atonement for you;
+LABEL:6
+VERSE:in addition to the burnt offering of the new moon with its meal offering, and the continual burnt offering with its meal offering, and their drink offerings, according to their ordinance, for a pleasant aroma, an offering made by fire to Yahweh.
+LABEL:7
+VERSE:“‘On the tenth day of this seventh month you shall have a holy convocation. You shall afflict your souls. You shall do no kind of work;
+LABEL:8
+VERSE:but you shall offer a burnt offering to Yahweh for a pleasant aroma: one young bull, one ram, seven male lambs a year old, all without defect;
+LABEL:9
+VERSE:and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the one ram,
+LABEL:10
+VERSE:one tenth for every lamb of the seven lambs;
+LABEL:11
+VERSE:one male goat for a sin offering, in addition to the sin offering of atonement, and the continual burnt offering, and its meal offering, and their drink offerings.
+LABEL:12
+VERSE:“‘On the fifteenth day of the seventh month you shall have a holy convocation. You shall do no regular work. You shall keep a feast to Yahweh seven days.
+LABEL:13
+VERSE:You shall offer a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh: thirteen young bulls, two rams, fourteen male lambs a year old, all without defect;
+LABEL:14
+VERSE:and their meal offering, fine flour mixed with oil: three tenths for every bull of the thirteen bulls, two tenths for each ram of the two rams,
+LABEL:15
+VERSE:and one tenth for every lamb of the fourteen lambs;
+LABEL:16
+VERSE:and one male goat for a sin offering, in addition to the continual burnt offering, its meal offering, and its drink offering.
+LABEL:17
+VERSE:“‘On the second day you shall offer twelve young bulls, two rams, and fourteen male lambs a year old without defect;
+LABEL:18
+VERSE:and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:19
+VERSE:and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering and their drink offerings.
+LABEL:20
+VERSE:“‘On the third day: eleven bulls, two rams, fourteen male lambs a year old without defect;
+LABEL:21
+VERSE:and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:22
+VERSE:and one male goat for a sin offering, in addition to the continual burnt offering, and its meal offering, and its drink offering.
+LABEL:23
+VERSE:“‘On the fourth day ten bulls, two rams, fourteen male lambs a year old without defect;
+LABEL:24
+VERSE:their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:25
+VERSE:and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and its drink offering.
+LABEL:26
+VERSE:“‘On the fifth day: nine bulls, two rams, fourteen male lambs a year old without defect;
+LABEL:27
+VERSE:and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance,
+LABEL:28
+VERSE:and one male goat for a sin offering, in addition to the continual burnt offering, and its meal offering, and its drink offering.
+LABEL:29
+VERSE:“‘On the sixth day: eight bulls, two rams, fourteen male lambs a year old without defect;
+LABEL:30
+VERSE:and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance,
+LABEL:31
+VERSE:and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and the drink offerings of it.
+LABEL:32
+VERSE:“‘On the seventh day: seven bulls, two rams, fourteen male lambs a year old without defect;
+LABEL:33
+VERSE:and their meal offering and their drink offerings for the bulls, for the rams, and for the lambs, according to their number, after the ordinance,
+LABEL:34
+VERSE:and one male goat for a sin offering; in addition to the continual burnt offering, its meal offering, and its drink offering.
+LABEL:35
+VERSE:“‘On the eighth day you shall have a solemn assembly. You shall do no regular work;
+LABEL:36
+VERSE:but you shall offer a burnt offering, an offering made by fire, a pleasant aroma to Yahweh: one bull, one ram, seven male lambs a year old without defect;
+LABEL:37
+VERSE:their meal offering and their drink offerings for the bull, for the ram, and for the lambs, shall be according to their number, after the ordinance,
+LABEL:38
+VERSE:and one male goat for a sin offering, in addition to the continual burnt offering, with its meal offering, and its drink offering.
+LABEL:39
+VERSE:“‘You shall offer these to Yahweh in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.’”
+LABEL:40
+VERSE:Moses told the children of Israel according to all that Yahweh commanded Moses.

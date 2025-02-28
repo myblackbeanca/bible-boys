@@ -1,0 +1,70 @@
+TRANSLATION:ASV
+BOOK:1CO
+CHAPTER:10
+TITLE:1 Corinthians 10
+LABEL:1
+VERSE:For I would not, brethren, have you ignorant, that our fathers were all under the cloud, and all passed through the sea;
+LABEL:2
+VERSE:and were all baptized unto Moses in the cloud and in the sea;
+LABEL:3
+VERSE:and did all eat the same spiritual food;
+LABEL:4
+VERSE:and did all drink the same spiritual drink: for they drank of a spiritual rock that followed them: and the rock was Christ.
+LABEL:5
+VERSE:Howbeit with most of them God was not well pleased: for they were overthrown in the wilderness.
+LABEL:6
+VERSE:Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
+LABEL:7
+VERSE:Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.
+LABEL:8
+VERSE:Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
+LABEL:9
+VERSE:Neither let us make trial of the Lord, as some of them made trial, and perished by the serpents.
+LABEL:10
+VERSE:Neither murmur ye, as some of them murmured, and perished by the destroyer.
+LABEL:11
+VERSE:Now these things happened unto them by way of example; and they were written for our admonition, upon whom the ends of the ages are come.
+LABEL:12
+VERSE:Wherefore let him that thinketh he standeth take heed lest he fall.
+LABEL:13
+VERSE:There hath no temptation taken you but such as man can bear: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation make also the way of escape, that ye may be able to endure it.
+LABEL:14
+VERSE:Wherefore, my beloved, flee from idolatry.
+LABEL:15
+VERSE:I speak as to wise men; judge ye what I say.
+LABEL:16
+VERSE:The cup of blessing which we bless, is it not a communion of the blood of Christ? The bread which we break, is it not a communion of the body of Christ?
+LABEL:17
+VERSE:seeing that we, who are many, are one bread, one body: for we all partake of the one bread.
+LABEL:18
+VERSE:Behold Israel after the flesh: have not they that eat the sacrifices communion with the altar?
+LABEL:19
+VERSE:What say I then? that a thing sacrificed to idols is anything, or that an idol is anything?
+LABEL:20
+VERSE:But I say, that the things which the Gentiles sacrifice, they sacrifice to demons, and not to God: and I would not that ye should have communion with demons.
+LABEL:21
+VERSE:Ye cannot drink the cup of the Lord, and the cup of demons: ye cannot partake of the table of the Lord, and of the table of demons.
+LABEL:22
+VERSE:Or do we provoke the Lord to jealousy? are we stronger than he?
+LABEL:23
+VERSE:All things are lawful; but not all things are expedient. All things are lawful; but not all things edify.
+LABEL:24
+VERSE:Let no man seek his own, but each his neighbor’s good.
+LABEL:25
+VERSE:Whatsoever is sold in the shambles, eat, asking no question for conscience’ sake;
+LABEL:26
+VERSE:for the earth is the Lord’s, and the fulness thereof.
+LABEL:27
+VERSE:If one of them that believe not biddeth you to a feast, and ye are disposed to go; whatsoever is set before you, eat, asking no question for conscience’ sake.
+LABEL:28
+VERSE:But if any man say unto you, This hath been offered in sacrifice, eat not, for his sake that showed it, and for conscience’ sake:
+LABEL:29
+VERSE:conscience, I say, not thine own, but the other’s; for why is my liberty judged by another conscience?
+LABEL:30
+VERSE:If I partake with thankfulness, why am I evil spoken of for that for which I give thanks?
+LABEL:31
+VERSE:Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.
+LABEL:32
+VERSE:Give no occasion of stumbling, either to Jews, or to Greeks, or to the church of God:
+LABEL:33
+VERSE:even as I also please all men in all things, not seeking mine own profit, but the profit of the many, that they may be saved.

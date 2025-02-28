@@ -1,0 +1,23 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:120
+TITLE:Psalm 120
+LABEL:1
+VERSE:In my distress
+VERSE:I cried unto the LORD, and he heard me.
+LABEL:2
+VERSE:Deliver my soul, O LORD, from lying lips,
+VERSE:And from a deceitful tongue.
+LABEL:3
+VERSE:What shall be given unto thee? or what shall be done unto thee, thou false tongue?
+LABEL:4
+VERSE:Sharp arrows of the mighty, with coals of juniper.
+LABEL:5
+VERSE:Woe is me, that I sojourn in Mesech,
+VERSE:That I dwell in the tents of Kedar!
+LABEL:6
+VERSE:My soul hath long dwelt
+VERSE:With him that hateth peace.
+LABEL:7
+VERSE:I am for peace:
+VERSE:But when I speak, they are for war.

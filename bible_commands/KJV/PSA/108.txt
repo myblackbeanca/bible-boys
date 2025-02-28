@@ -1,0 +1,44 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:108
+TITLE:Psalm 108
+LABEL:1
+VERSE:O God, my heart is fixed;
+VERSE:I will sing and give praise, even with my glory.
+LABEL:2
+VERSE:Awake, psaltery and harp:
+VERSE:I myself will awake early.
+LABEL:3
+VERSE:I will praise thee, O LORD, among the people:
+VERSE:And I will sing praises unto thee among the nations.
+LABEL:4
+VERSE:For thy mercy is great above the heavens:
+VERSE:And thy truth reacheth unto the clouds.
+LABEL:5
+VERSE:Be thou exalted, O God, above the heavens:
+VERSE:And thy glory above all the earth;
+LABEL:6
+VERSE:That thy beloved may be delivered:
+VERSE:Save with thy right hand, and answer me.
+LABEL:7
+VERSE:God hath spoken in his holiness;
+VERSE:I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
+LABEL:8
+VERSE:Gilead is mine; Manasseh is mine;
+VERSE:Ephraim also is the strength of mine head;
+VERSE:Judah is my lawgiver;
+LABEL:9
+VERSE:Moab is my washpot;
+VERSE:Over Edom will I cast out my shoe; Over Philistia will I triumph.
+LABEL:10
+VERSE:Who will bring me into the strong city?
+VERSE:Who will lead me into Edom?
+LABEL:11
+VERSE:  Wilt not thou, O God, who hast cast us off?
+VERSE:And wilt not thou, O God, go forth with our hosts?
+LABEL:12
+VERSE:Give us help from trouble:
+VERSE:For vain is the help of man.
+LABEL:13
+VERSE:Through God we shall do valiantly:
+VERSE:For he it is that shall tread down our enemies.

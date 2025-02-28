@@ -1,0 +1,69 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:46
+TITLE:Isaiah 46
+LABEL:1
+VERSE:Bel bows down.
+VERSE:Nebo stoops.
+VERSE:Their idols are carried by animals,
+VERSE:and on the livestock.
+VERSE:The things that you carried around are heavy loads,
+VERSE:a burden for the weary.
+LABEL:2
+VERSE:They stoop and they bow down together.
+VERSE:They could not deliver the burden,
+VERSE:but they have gone into captivity.
+LABEL:3
+VERSE:“Listen to me, house of Jacob,
+VERSE:and all the remnant of the house of Israel,
+VERSE:that have been carried from their birth,
+VERSE:that have been carried from the womb.
+LABEL:4
+VERSE:Even to old age I am he,
+VERSE:and even to gray hairs I will carry you.
+VERSE:I have made, and I will bear.
+VERSE:Yes, I will carry, and will deliver.
+LABEL:5
+VERSE:“To whom will you compare me, and consider my equal,
+VERSE:and compare me, as if we were the same?
+LABEL:6
+VERSE:Some pour out gold from the bag,
+VERSE:and weigh silver in the balance.
+VERSE:They hire a goldsmith,
+VERSE:and he makes it a god.
+VERSE:They fall down—
+VERSE:yes, they worship.
+LABEL:7
+VERSE:They bear it on their shoulder.
+VERSE:They carry it, and set it in its place, and it stands there.
+VERSE:It cannot move from its place.
+VERSE:Yes, one may cry to it, yet it can not answer.
+VERSE:It cannot save him out of his trouble.
+LABEL:8
+VERSE:“Remember this, and show yourselves men.
+VERSE:Bring it to mind again, you transgressors.
+LABEL:9
+VERSE:Remember the former things of old;
+VERSE:for I am God, and there is no other.
+VERSE:I am God, and there is none like me.
+LABEL:10
+VERSE:I declare the end from the beginning,
+VERSE:and from ancient times things that are not yet done.
+VERSE:I say: My counsel will stand,
+VERSE:and I will do all that I please.
+LABEL:11
+VERSE:I call a ravenous bird from the east,
+VERSE:the man of my counsel from a far country.
+VERSE:Yes, I have spoken.
+VERSE:I will also bring it to pass.
+VERSE:I have planned.
+VERSE:I will also do it.
+LABEL:12
+VERSE:Listen to me, you stubborn-hearted,
+VERSE:who are far from righteousness!
+LABEL:13
+VERSE:I bring my righteousness near.
+VERSE:It is not far off,
+VERSE:and my salvation will not wait.
+VERSE:I will grant salvation to Zion,
+VERSE:my glory to Israel.

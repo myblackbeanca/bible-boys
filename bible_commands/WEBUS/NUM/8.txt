@@ -1,0 +1,56 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:8
+TITLE:Numbers 8
+LABEL:1
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:2
+VERSE:“Speak to Aaron, and tell him, ‘When you light the lamps, the seven lamps shall give light in front of the lamp stand.’”
+LABEL:3
+VERSE:Aaron did so. He lit its lamps to light the area in front of the lamp stand, as Yahweh commanded Moses.
+LABEL:4
+VERSE:This was the workmanship of the lamp stand, beaten work of gold. From its base to its flowers, it was beaten work. He made the lamp stand according to the pattern which Yahweh had shown Moses.
+LABEL:5
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:6
+VERSE:“Take the Levites from among the children of Israel, and cleanse them.
+LABEL:7
+VERSE:You shall do this to them to cleanse them: sprinkle the water of cleansing on them, let them shave their whole bodies with a razor, let them wash their clothes, and cleanse themselves.
+LABEL:8
+VERSE:Then let them take a young bull and its meal offering, fine flour mixed with oil; and another young bull you shall take for a sin offering.
+LABEL:9
+VERSE:You shall present the Levites before the Tent of Meeting. You shall assemble the whole congregation of the children of Israel.
+LABEL:10
+VERSE:You shall present the Levites before Yahweh. The children of Israel shall lay their hands on the Levites,
+LABEL:11
+VERSE:and Aaron shall offer the Levites before Yahweh for a wave offering on the behalf of the children of Israel, that it may be theirs to do the service of Yahweh.
+LABEL:12
+VERSE:“The Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a sin offering and the other for a burnt offering to Yahweh, to make atonement for the Levites.
+LABEL:13
+VERSE:You shall set the Levites before Aaron and before his sons, and offer them as a wave offering to Yahweh.
+LABEL:14
+VERSE:Thus you shall separate the Levites from among the children of Israel, and the Levites shall be mine.
+LABEL:15
+VERSE:“After that, the Levites shall go in to do the service of the Tent of Meeting. You shall cleanse them, and offer them as a wave offering.
+LABEL:16
+VERSE:For they are wholly given to me from among the children of Israel; instead of all who open the womb, even the firstborn of all the children of Israel, I have taken them to me.
+LABEL:17
+VERSE:For all the firstborn among the children of Israel are mine, both man and animal. On the day that I struck all the firstborn in the land of Egypt, I sanctified them for myself.
+LABEL:18
+VERSE:I have taken the Levites instead of all the firstborn among the children of Israel.
+LABEL:19
+VERSE:I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the Tent of Meeting, and to make atonement for the children of Israel, so that there will be no plague among the children of Israel when the children of Israel come near to the sanctuary.”
+LABEL:20
+VERSE:Moses, and Aaron, and all the congregation of the children of Israel did so to the Levites. According to all that Yahweh commanded Moses concerning the Levites, so the children of Israel did to them.
+LABEL:21
+VERSE:The Levites purified themselves from sin, and they washed their clothes; and Aaron offered them for a wave offering before Yahweh and Aaron made atonement for them to cleanse them.
+LABEL:22
+VERSE:After that, the Levites went in to do their service in the Tent of Meeting before Aaron and before his sons: as Yahweh had commanded Moses concerning the Levites, so they did to them.
+LABEL:23
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:24
+VERSE:“This is what is assigned to the Levites: from twenty-five years old and upward they shall go in to wait on the service in the work of the Tent of Meeting;
+LABEL:25
+VERSE:and from the age of fifty years they shall retire from doing the work, and shall serve no more,
+LABEL:26
+VERSE:but shall assist their brothers in the Tent of Meeting, to perform the duty, and shall perform no service. This is how you shall have the Levites do their duties.”

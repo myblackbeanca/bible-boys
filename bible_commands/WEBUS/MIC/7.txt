@@ -1,0 +1,97 @@
+TRANSLATION:WEBUS
+BOOK:MIC
+CHAPTER:7
+TITLE:Micah 7
+LABEL:1
+VERSE:Misery is mine!
+VERSE:Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard.
+VERSE:There is no cluster of grapes to eat.
+VERSE:My soul desires to eat the early fig.
+LABEL:2
+VERSE:The godly man has perished out of the earth,
+VERSE:and there is no one upright among men.
+VERSE:They all lie in wait for blood;
+VERSE:every man hunts his brother with a net.
+LABEL:3
+VERSE:Their hands are on that which is evil to do it diligently.
+VERSE:The ruler and judge ask for a bribe.
+VERSE:The powerful man dictates the evil desire of his soul.
+VERSE:Thus they conspire together.
+LABEL:4
+VERSE:The best of them is like a brier.
+VERSE:The most upright is worse than a thorn hedge.
+VERSE:The day of your watchmen,
+VERSE:even your visitation, has come;
+VERSE:now is the time of their confusion.
+LABEL:5
+VERSE:Don’t trust in a neighbor.
+VERSE:Don’t put confidence in a friend.
+VERSE:With the woman lying in your embrace,
+VERSE:be careful of the words of your mouth!
+LABEL:6
+VERSE:For the son dishonors the father,
+VERSE:the daughter rises up against her mother,
+VERSE:the daughter-in-law against her mother-in-law;
+VERSE:a man’s enemies are the men of his own house.
+LABEL:7
+VERSE:But as for me, I will look to Yahweh.
+VERSE:I will wait for the God of my salvation.
+VERSE:My God will hear me.
+LABEL:8
+VERSE:Don’t rejoice against me, my enemy.
+VERSE:When I fall, I will arise.
+VERSE:When I sit in darkness, Yahweh will be a light to me.
+LABEL:9
+VERSE:I will bear the indignation of Yahweh,
+VERSE:because I have sinned against him,
+VERSE:until he pleads my case and executes judgment for me.
+VERSE:He will bring me out to the light.
+VERSE:I will see his righteousness.
+LABEL:10
+VERSE:Then my enemy will see it,
+VERSE:and shame will cover her who said to me,
+VERSE:“Where is Yahweh your God?”
+VERSE:My eyes will see her.
+VERSE:Now she will be trodden down like the mire of the streets.
+LABEL:11
+VERSE:A day to build your walls!
+VERSE:In that day, he will extend your boundary.
+LABEL:12
+VERSE:In that day they will come to you from Assyria and the cities of Egypt,
+VERSE:and from Egypt even to the River,
+VERSE:and from sea to sea,
+VERSE:and mountain to mountain.
+LABEL:13
+VERSE:Yet the land will be desolate because of those who dwell therein,
+VERSE:for the fruit of their doings.
+LABEL:14
+VERSE:Shepherd your people with your staff,
+VERSE:the flock of your heritage,
+VERSE:who dwell by themselves in a forest.
+VERSE:Let them feed in the middle of fertile pasture land,
+VERSE:in Bashan and Gilead, as in the days of old.
+LABEL:15
+VERSE:“As in the days of your coming out of the land of Egypt,
+VERSE:I will show them marvelous things.”
+LABEL:16
+VERSE:The nations will see and be ashamed of all their might.
+VERSE:They will lay their hand on their mouth.
+VERSE:Their ears will be deaf.
+LABEL:17
+VERSE:They will lick the dust like a serpent.
+VERSE:Like crawling things of the earth, they will come trembling out of their dens.
+VERSE:They will come with fear to Yahweh our God,
+VERSE:and will be afraid because of you.
+LABEL:18
+VERSE:Who is a God like you, who pardons iniquity,
+VERSE:and passes over the disobedience of the remnant of his heritage?
+VERSE:He doesn’t retain his anger forever,
+VERSE:because he delights in loving kindness.
+LABEL:19
+VERSE:He will again have compassion on us.
+VERSE:He will tread our iniquities under foot.
+VERSE:You will cast all their sins into the depths of the sea.
+LABEL:20
+VERSE:You will give truth to Jacob,
+VERSE:and mercy to Abraham,
+VERSE:as you have sworn to our fathers from the days of old.

@@ -1,0 +1,74 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:74
+TITLE:Psalms 74
+LABEL:1
+VERSE:God, why have you rejected us forever?
+VERSE:Why does your anger smolder against the sheep of your pasture?
+LABEL:2
+VERSE:Remember your congregation, which you purchased of old,
+VERSE:which you have redeemed to be the tribe of your inheritance:
+VERSE:Mount Zion, in which you have lived.
+LABEL:3
+VERSE:Lift up your feet to the perpetual ruins,
+VERSE:all the evil that the enemy has done in the sanctuary.
+LABEL:4
+VERSE:Your adversaries have roared in the middle of your assembly.
+VERSE:They have set up their standards as signs.
+LABEL:5
+VERSE:They behaved like men wielding axes,
+VERSE:cutting through a thicket of trees.
+LABEL:6
+VERSE:Now they break all its carved work down with hatchet and hammers.
+LABEL:7
+VERSE:They have burned your sanctuary to the ground.
+VERSE:They have profaned the dwelling place of your Name.
+LABEL:8
+VERSE:They said in their heart, “We will crush them completely.”
+VERSE:They have burned up all the places in the land where God was worshiped.
+LABEL:9
+VERSE:We see no miraculous signs.
+VERSE:There is no longer any prophet,
+VERSE:neither is there among us anyone who knows how long.
+LABEL:10
+VERSE:How long, God, shall the adversary reproach?
+VERSE:Shall the enemy blaspheme your name forever?
+LABEL:11
+VERSE:Why do you draw back your hand, even your right hand?
+VERSE:Take it from your chest and consume them!
+LABEL:12
+VERSE:Yet God is my King of old,
+VERSE:working salvation throughout the earth.
+LABEL:13
+VERSE:You divided the sea by your strength.
+VERSE:You broke the heads of the sea monsters in the waters.
+LABEL:14
+VERSE:You broke the heads of Leviathan in pieces.
+VERSE:You gave him as food to people and desert creatures.
+LABEL:15
+VERSE:You opened up spring and stream.
+VERSE:You dried up mighty rivers.
+LABEL:16
+VERSE:The day is yours, the night is also yours.
+VERSE:You have prepared the light and the sun.
+LABEL:17
+VERSE:You have set all the boundaries of the earth.
+VERSE:You have made summer and winter.
+LABEL:18
+VERSE:Remember this, that the enemy has mocked you, Yahweh.
+VERSE:Foolish people have blasphemed your name.
+LABEL:19
+VERSE:Don’t deliver the soul of your dove to wild beasts.
+VERSE:Don’t forget the life of your poor forever.
+LABEL:20
+VERSE:Honor your covenant,
+VERSE:for haunts of violence fill the dark places of the earth.
+LABEL:21
+VERSE:Don’t let the oppressed return ashamed.
+VERSE:Let the poor and needy praise your name.
+LABEL:22
+VERSE:Arise, God! Plead your own cause.
+VERSE:Remember how the foolish man mocks you all day.
+LABEL:23
+VERSE:Don’t forget the voice of your adversaries.
+VERSE:The tumult of those who rise up against you ascends continually.

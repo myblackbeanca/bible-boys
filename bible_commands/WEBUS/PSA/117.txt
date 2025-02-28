@@ -1,0 +1,11 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:117
+TITLE:Psalms 117
+LABEL:1
+VERSE:Praise Yahweh, all you nations!
+VERSE:Extol him, all you peoples!
+LABEL:2
+VERSE:For his loving kindness is great toward us.
+VERSE:Yahweh’s faithfulness endures forever.
+VERSE:Praise Yah!

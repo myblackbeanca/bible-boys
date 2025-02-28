@@ -1,0 +1,74 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:5
+TITLE:Proverbs 5
+LABEL:1
+VERSE:My son, attend unto my wisdom;
+VERSE:Incline thine ear to my understanding:
+LABEL:2
+VERSE:That thou mayest preserve discretion,
+VERSE:And that thy lips may keep knowledge.
+LABEL:3
+VERSE:For the lips of a strange woman drop honey,
+VERSE:And her mouth is smoother than oil:
+LABEL:4
+VERSE:But in the end she is bitter as wormwood,
+VERSE:Sharp as a two-edged sword.
+LABEL:5
+VERSE:Her feet go down to death;
+VERSE:Her steps take hold on Sheol;
+LABEL:6
+VERSE:So that she findeth not the level path of life:
+VERSE:Her ways are unstable, and she knoweth it not.
+LABEL:7
+VERSE:Now therefore, my sons, hearken unto me,
+VERSE:And depart not from the words of my mouth.
+LABEL:8
+VERSE:Remove thy way far from her,
+VERSE:And come not nigh the door of her house;
+LABEL:9
+VERSE:Lest thou give thine honor unto others,
+VERSE:And thy years unto the cruel;
+LABEL:10
+VERSE:Lest strangers be filled with thy strength,
+VERSE:And thy labors be in the house of an alien,
+LABEL:11
+VERSE:And thou mourn at thy latter end,
+VERSE:When thy flesh and thy body are consumed,
+LABEL:12
+VERSE:And say, How have I hated instruction,
+VERSE:And my heart despised reproof;
+LABEL:13
+VERSE:Neither have I obeyed the voice of my teachers,
+VERSE:Nor inclined mine ear to them that instructed me!
+LABEL:14
+VERSE:I was well-nigh in all evil
+VERSE:In the midst of the assembly and congregation.
+LABEL:15
+VERSE:Drink waters out of thine own cistern,
+VERSE:And running waters out of thine own well.
+LABEL:16
+VERSE:Should thy springs be dispersed abroad,
+VERSE:And streams of water in the streets?
+LABEL:17
+VERSE:Let them be for thyself alone,
+VERSE:And not for strangers with thee.
+LABEL:18
+VERSE:Let thy fountain be blessed;
+VERSE:And rejoice in the wife of thy youth.
+LABEL:19
+VERSE:  As a loving hind and a pleasant doe,
+VERSE:Let her breasts satisfy thee at all times;
+VERSE:And be thou ravished always with her love.
+LABEL:20
+VERSE:For why shouldest thou, my son, be ravished with a strange woman,
+VERSE:And embrace the bosom of a foreigner?
+LABEL:21
+VERSE:For the ways of man are before the eyes of Jehovah;
+VERSE:And he maketh level all his paths.
+LABEL:22
+VERSE:His own iniquities shall take the wicked,
+VERSE:And he shall be holden with the cords of his sin.
+LABEL:23
+VERSE:He shall die for lack of instruction;
+VERSE:And in the greatness of his folly he shall go astray.

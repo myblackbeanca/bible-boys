@@ -1,0 +1,19 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:123
+TITLE:Psalms 123
+LABEL:1
+VERSE:Unto thee do I lift up mine eyes,
+VERSE:O thou that sittest in the heavens.
+LABEL:2
+VERSE:Behold, as the eyes of servants look unto the hand of their master,
+VERSE:As the eyes of a maid unto the hand of her mistress;
+VERSE:So our eyes look unto Jehovah our God,
+VERSE:Until he have mercy upon us.
+LABEL:3
+VERSE:Have mercy upon us, O Jehovah, have mercy upon us;
+VERSE:For we are exceedingly filled with contempt.
+LABEL:4
+VERSE:Our soul is exceedingly filled
+VERSE:With the scoffing of those that are at ease,
+VERSE:And with the contempt of the proud.

@@ -1,0 +1,91 @@
+TRANSLATION:WEBUS
+BOOK:LUK
+CHAPTER:18
+TITLE:Luke 18
+LABEL:1
+VERSE:He also spoke a parable to them that they must always pray and not give up,
+LABEL:2
+VERSE:saying, “There was a judge in a certain city who didn’t fear God and didn’t respect man.
+LABEL:3
+VERSE:A widow was in that city, and she often came to him, saying, ‘Defend me from my adversary!’
+LABEL:4
+VERSE:He wouldn’t for a while; but afterward he said to himself, ‘Though I neither fear God nor respect man,
+LABEL:5
+VERSE:yet because this widow bothers me, I will defend her, or else she will wear me out by her continual coming.’”
+LABEL:6
+VERSE:The Lord said, “Listen to what the unrighteous judge says.
+LABEL:7
+VERSE:Won’t God avenge his chosen ones who are crying out to him day and night, and yet he exercises patience with them?
+LABEL:8
+VERSE:I tell you that he will avenge them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”
+LABEL:9
+VERSE:He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others:
+LABEL:10
+VERSE:“Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector.
+LABEL:11
+VERSE:The Pharisee stood and prayed by himself like this: ‘God, I thank you that I am not like the rest of men: extortionists, unrighteous, adulterers, or even like this tax collector.
+LABEL:12
+VERSE:I fast twice a week. I give tithes of all that I get.’
+LABEL:13
+VERSE:But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’
+LABEL:14
+VERSE:I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”
+LABEL:15
+VERSE:They were also bringing their babies to him, that he might touch them. But when the disciples saw it, they rebuked them.
+LABEL:16
+VERSE:Jesus summoned them, saying, “Allow the little children to come to me, and don’t hinder them, for God’s Kingdom belongs to such as these.
+LABEL:17
+VERSE:Most certainly, I tell you, whoever doesn’t receive God’s Kingdom like a little child, he will in no way enter into it.”
+LABEL:18
+VERSE:A certain ruler asked him, saying, “Good Teacher, what shall I do to inherit eternal life?”
+LABEL:19
+VERSE:Jesus asked him, “Why do you call me good? No one is good, except one: God.
+LABEL:20
+VERSE:You know the commandments: ‘Don’t commit adultery,’ ‘Don’t murder,’ ‘Don’t steal,’ ‘Don’t give false testimony,’ ‘Honor your father and your mother.’”
+LABEL:21
+VERSE:He said, “I have observed all these things from my youth up.”
+LABEL:22
+VERSE:When Jesus heard these things, he said to him, “You still lack one thing. Sell all that you have and distribute it to the poor. Then you will have treasure in heaven; then come, follow me.”
+LABEL:23
+VERSE:But when he heard these things, he became very sad, for he was very rich.
+LABEL:24
+VERSE:Jesus, seeing that he became very sad, said, “How hard it is for those who have riches to enter into God’s Kingdom!
+LABEL:25
+VERSE:For it is easier for a camel to enter in through a needle’s eye than for a rich man to enter into God’s Kingdom.”
+LABEL:26
+VERSE:Those who heard it said, “Then who can be saved?”
+LABEL:27
+VERSE:But he said, “The things which are impossible with men are possible with God.”
+LABEL:28
+VERSE:Peter said, “Look, we have left everything and followed you.”
+LABEL:29
+VERSE:He said to them, “Most certainly I tell you, there is no one who has left house, or wife, or brothers, or parents, or children, for God’s Kingdom’s sake,
+LABEL:30
+VERSE:who will not receive many times more in this time, and in the world to come, eternal life.”
+LABEL:31
+VERSE:He took the twelve aside and said to them, “Behold, we are going up to Jerusalem, and all the things that are written through the prophets concerning the Son of Man will be completed.
+LABEL:32
+VERSE:For he will be delivered up to the Gentiles, will be mocked, treated shamefully, and spit on.
+LABEL:33
+VERSE:They will scourge and kill him. On the third day, he will rise again.”
+LABEL:34
+VERSE:They understood none of these things. This saying was hidden from them, and they didn’t understand the things that were said.
+LABEL:35
+VERSE:As he came near Jericho, a certain blind man sat by the road, begging.
+LABEL:36
+VERSE:Hearing a multitude going by, he asked what this meant.
+LABEL:37
+VERSE:They told him that Jesus of Nazareth was passing by.
+LABEL:38
+VERSE:He cried out, “Jesus, you son of David, have mercy on me!”
+LABEL:39
+VERSE:Those who led the way rebuked him, that he should be quiet; but he cried out all the more, “You son of David, have mercy on me!”
+LABEL:40
+VERSE:Standing still, Jesus commanded him to be brought to him. When he had come near, he asked him,
+LABEL:41
+VERSE:“What do you want me to do?”
+VERSE:He said, “Lord, that I may see again.”
+LABEL:42
+VERSE:Jesus said to him, “Receive your sight. Your faith has healed you.”
+LABEL:43
+VERSE:Immediately he received his sight and followed him, glorifying God. All the people, when they saw it, praised God.

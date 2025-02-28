@@ -1,0 +1,60 @@
+TRANSLATION:KJV
+BOOK:SNG
+CHAPTER:6
+TITLE:Song of Solomon 6
+LABEL:1
+VERSE:Whither is thy beloved gone,
+VERSE:O thou fairest among women?
+VERSE:Whither is thy beloved turned aside?
+VERSE:That we may seek him with thee.
+LABEL:2
+VERSE:My beloved is gone down into his garden,
+VERSE:To the beds of spices,
+VERSE:To feed in the gardens,
+VERSE:And to gather lilies.
+LABEL:3
+VERSE:I am my beloved's, and my beloved is mine:
+VERSE:He feedeth among the lilies.
+LABEL:4
+VERSE:Thou art beautiful, O my love, as Tirzah,
+VERSE:Comely as Jerusalem,
+VERSE:Terrible as an army with banners.
+LABEL:5
+VERSE:Turn away thine eyes from me,
+VERSE:For they have overcome me:
+VERSE:Thy hair is as a flock of goats
+VERSE:That appear from Gilead.
+LABEL:6
+VERSE:Thy teeth are as a flock of sheep
+VERSE:Which go up from the washing,
+VERSE:Whereof every one beareth twins,
+VERSE:And there is not one barren among them.
+LABEL:7
+VERSE:As a piece of a pomegranate are thy temples
+VERSE:Within thy locks.
+LABEL:8
+VERSE:There are threescore queens, and fourscore concubines,
+VERSE:And virgins without number.
+LABEL:9
+VERSE:My dove, my undefiled is but one;
+VERSE:She is the only one of her mother,
+VERSE:She is the choice one of her that bare her.
+VERSE:The daughters saw her, and blessed her;
+VERSE:Yea, the queens and the concubines, and they praised her.
+LABEL:10
+VERSE:Who is she that looketh forth as the morning,
+VERSE:Fair as the moon, clear as the sun,
+VERSE:And terrible as an army with banners?
+LABEL:11
+VERSE:I went down into the garden of nuts
+VERSE:To see the fruits of the valley,
+VERSE:And to see whether the vine flourished,
+VERSE:And the pomegranates budded.
+LABEL:12
+VERSE:Or ever I was aware,
+VERSE:My soul made me like the chariots of Amminadib.
+LABEL:13
+VERSE:Return, return, O Shulamite;
+VERSE:Return, return, that we may look upon thee.
+VERSE:What will ye see in the Shulamite?
+VERSE:As it were the company of two armies.

@@ -1,0 +1,46 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:48
+TITLE:Psalm 48
+LABEL:1
+VERSE:Great is the LORD, and greatly to be praised
+VERSE:In the city of our God, in the mountain of his holiness.
+LABEL:2
+VERSE:Beautiful for situation, the joy of the whole earth,
+VERSE:Is mount Zion, on the sides of the north,
+VERSE:The city of the great King.
+LABEL:3
+VERSE:God is known in her palaces for a refuge.
+LABEL:4
+VERSE:For, lo, the kings were assembled,
+VERSE:They passed by together.
+LABEL:5
+VERSE:They saw it, and so they marvelled;
+VERSE:They were troubled, and hasted away.
+LABEL:6
+VERSE:Fear took hold upon them there,
+VERSE:And pain, as of a woman in travail.
+LABEL:7
+VERSE:Thou breakest the ships of Tarshish
+VERSE:With an east wind.
+LABEL:8
+VERSE:As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God:
+VERSE:God will establish it for ever. Selah.
+LABEL:9
+VERSE:We have thought of thy lovingkindness, O God,
+VERSE:In the midst of thy temple.
+LABEL:10
+VERSE:According to thy name, O God, so is thy praise unto the ends of the earth:
+VERSE:Thy right hand is full of righteousness.
+LABEL:11
+VERSE:Let mount Zion rejoice,
+VERSE:Let the daughters of Judah be glad, because of thy judgments.
+LABEL:12
+VERSE:Walk about Zion, and go round about her:
+VERSE:Tell the towers thereof.
+LABEL:13
+VERSE:Mark ye well her bulwarks, consider her palaces;
+VERSE:That ye may tell it to the generation following.
+LABEL:14
+VERSE:For this God is our God for ever and ever:
+VERSE:He will be our guide even unto death.

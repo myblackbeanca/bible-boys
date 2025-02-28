@@ -1,0 +1,45 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:42
+TITLE:Psalms 42
+SECTION:BOOK 2
+LABEL:1
+VERSE:As the deer pants for the water brooks,
+VERSE:so my soul pants after you, God.
+LABEL:2
+VERSE:My soul thirsts for God, for the living God.
+VERSE:When shall I come and appear before God?
+LABEL:3
+VERSE:My tears have been my food day and night,
+VERSE:while they continually ask me, “Where is your God?”
+LABEL:4
+VERSE:These things I remember, and pour out my soul within me,
+VERSE:how I used to go with the crowd, and led them to God’s house,
+VERSE:with the voice of joy and praise, a multitude keeping a holy day.
+LABEL:5
+VERSE:Why are you in despair, my soul?
+VERSE:Why are you disturbed within me?
+VERSE:Hope in God!
+VERSE:For I shall still praise him for the saving help of his presence.
+LABEL:6
+VERSE:My God, my soul is in despair within me.
+VERSE:Therefore I remember you from the land of the Jordan,
+VERSE:the heights of Hermon, from the hill Mizar.
+LABEL:7
+VERSE:Deep calls to deep at the noise of your waterfalls.
+VERSE:All your waves and your billows have swept over me.
+LABEL:8
+VERSE:Yahweh will command his loving kindness in the daytime.
+VERSE:In the night his song shall be with me:
+VERSE:a prayer to the God of my life.
+LABEL:9
+VERSE:I will ask God, my rock, “Why have you forgotten me?
+VERSE:Why do I go mourning because of the oppression of the enemy?”
+LABEL:10
+VERSE:As with a sword in my bones, my adversaries reproach me,
+VERSE:while they continually ask me, “Where is your God?”
+LABEL:11
+VERSE:Why are you in despair, my soul?
+VERSE:Why are you disturbed within me?
+VERSE:Hope in God! For I shall still praise him,
+VERSE:the saving help of my countenance, and my God.

@@ -1,0 +1,28 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:61
+TITLE:Psalm 61
+LABEL:1
+VERSE:Hear my cry, O God;
+VERSE:Attend unto my prayer.
+LABEL:2
+VERSE:From the end of the earth will I cry unto thee,
+VERSE:When my heart is overwhelmed:
+VERSE:Lead me to the rock that is higher than I.
+LABEL:3
+VERSE:For thou hast been a shelter for me, and a strong tower from the enemy.
+LABEL:4
+VERSE:I will abide in thy tabernacle for ever:
+VERSE:I will trust in the covert of thy wings. Selah.
+LABEL:5
+VERSE:For thou, O God, hast heard my vows:
+VERSE:Thou hast given me the heritage of those that fear thy name.
+LABEL:6
+VERSE:Thou wilt prolong the king's life:
+VERSE:And his years as many generations.
+LABEL:7
+VERSE:He shall abide before God for ever:
+VERSE:O prepare mercy and truth, which may preserve him.
+LABEL:8
+VERSE:So will I sing praise unto thy name for ever,
+VERSE:That I may daily perform my vows.

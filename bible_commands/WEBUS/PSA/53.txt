@@ -1,0 +1,30 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:53
+TITLE:Psalms 53
+LABEL:1
+VERSE:The fool has said in his heart, “There is no God.”
+VERSE:They are corrupt, and have done abominable iniquity.
+VERSE:There is no one who does good.
+LABEL:2
+VERSE:God looks down from heaven on the children of men,
+VERSE:to see if there are any who understood,
+VERSE:who seek after God.
+LABEL:3
+VERSE:Every one of them has gone back.
+VERSE:They have become filthy together.
+VERSE:There is no one who does good, no, not one.
+LABEL:4
+VERSE:Have the workers of iniquity no knowledge,
+VERSE:who eat up my people as they eat bread,
+VERSE:and don’t call on God?
+LABEL:5
+VERSE:There they were in great fear, where no fear was,
+VERSE:for God has scattered the bones of him who encamps against you.
+VERSE:You have put them to shame,
+VERSE:because God has rejected them.
+LABEL:6
+VERSE:Oh that the salvation of Israel would come out of Zion!
+VERSE:When God brings back his people from captivity,
+VERSE:then Jacob shall rejoice,
+VERSE:and Israel shall be glad.

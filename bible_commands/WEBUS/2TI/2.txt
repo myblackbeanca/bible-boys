@@ -1,0 +1,63 @@
+TRANSLATION:WEBUS
+BOOK:2TI
+CHAPTER:2
+TITLE:2 Timothy 2
+LABEL:1
+VERSE:You therefore, my child, be strengthened in the grace that is in Christ Jesus.
+LABEL:2
+VERSE:The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.
+LABEL:3
+VERSE:You therefore must endure hardship as a good soldier of Christ Jesus.
+LABEL:4
+VERSE:No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier.
+LABEL:5
+VERSE:Also, if anyone competes in athletics, he isn’t crowned unless he has competed by the rules.
+LABEL:6
+VERSE:The farmer who labors must be the first to get a share of the crops.
+LABEL:7
+VERSE:Consider what I say, and may the Lord give you understanding in all things.
+LABEL:8
+VERSE:Remember Jesus Christ, risen from the dead, of the offspring of David, according to my Good News,
+LABEL:9
+VERSE:in which I suffer hardship to the point of chains as a criminal. But God’s word isn’t chained.
+LABEL:10
+VERSE:Therefore I endure all things for the chosen ones’ sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory.
+LABEL:11
+VERSE:This saying is trustworthy:
+VERSE:“For if we died with him,
+VERSE:we will also live with him.
+LABEL:12
+VERSE:If we endure,
+VERSE:we will also reign with him.
+VERSE:If we deny him,
+VERSE:he also will deny us.
+LABEL:13
+VERSE:If we are faithless,
+VERSE:he remains faithful;
+VERSE:for he can’t deny himself.”
+LABEL:14
+VERSE:Remind them of these things, charging them in the sight of the Lord that they don’t argue about words to no profit, to the subverting of those who hear.
+LABEL:15
+VERSE:Give diligence to present yourself approved by God, a workman who doesn’t need to be ashamed, properly handling the Word of Truth.
+LABEL:16
+VERSE:But shun empty chatter, for it will go further in ungodliness,
+LABEL:17
+VERSE:and those words will consume like gangrene, of whom is Hymenaeus and Philetus:
+LABEL:18
+VERSE:men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some.
+LABEL:19
+VERSE:However, God’s firm foundation stands, having this seal: “The Lord knows those who are his,” and, “Let every one who names the name of the Lord depart from unrighteousness.”
+LABEL:20
+VERSE:Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor and some for dishonor.
+LABEL:21
+VERSE:If anyone therefore purges himself from these, he will be a vessel for honor, sanctified, and suitable for the master’s use, prepared for every good work.
+LABEL:22
+VERSE:Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart.
+LABEL:23
+VERSE:But refuse foolish and ignorant questionings, knowing that they generate strife.
+LABEL:24
+VERSE:The Lord’s servant must not quarrel, but be gentle toward all, able to teach, patient,
+LABEL:25
+VERSE:in gentleness correcting those who oppose him. Perhaps God may give them repentance leading to a full knowledge of the truth,
+LABEL:26
+VERSE:and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will.

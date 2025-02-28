@@ -1,0 +1,66 @@
+TRANSLATION:ASV
+BOOK:1CH
+CHAPTER:25
+TITLE:1 Chronicles 25
+LABEL:1
+VERSE:Moreover David and the captains of the host set apart for the service certain of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of them that did the work according to their service was:
+LABEL:2
+VERSE:of the sons of Asaph: Zaccur, and Joseph, and Nethaniah, and Asharelah, the sons of Asaph, under the hand of Asaph, who prophesied after the order of the king.
+LABEL:3
+VERSE:Of Jeduthun; the sons of Jeduthun: Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun with the harp, who prophesied in giving thanks and praising Jehovah.
+LABEL:4
+VERSE:Of Heman; the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth.
+LABEL:5
+VERSE:All these were the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.
+LABEL:6
+VERSE:All these were under the hands of their father for song in the house of Jehovah, with cymbals, psalteries, and harps, for the service of the house of God; Asaph, Jeduthun, and Heman being under the order of the king.
+LABEL:7
+VERSE:And the number of them, with their brethren that were instructed in singing unto Jehovah, even all that were skilful, was two hundred fourscore and eight.
+LABEL:8
+VERSE:And they cast lots for their offices, all alike, as well the small as the great, the teacher as the scholar.
+LABEL:9
+VERSE:Now the first lot came forth for Asaph to Joseph: the second to Gedaliah; he and his brethren and sons were twelve:
+LABEL:10
+VERSE:the third to Zaccur, his sons and his brethren, twelve:
+LABEL:11
+VERSE:the fourth to Izri, his sons and his brethren, twelve:
+LABEL:12
+VERSE:the fifth to Nethaniah, his sons and his brethren, twelve:
+LABEL:13
+VERSE:the sixth to Bukkiah, his sons and his brethren, twelve:
+LABEL:14
+VERSE:the seventh to Jesharelah, his sons and his brethren, twelve:
+LABEL:15
+VERSE:the eighth to Jeshaiah, his sons and his brethren, twelve:
+LABEL:16
+VERSE:the ninth to Mattaniah, his sons and his brethren, twelve:
+LABEL:17
+VERSE:the tenth to Shimei, his sons and his brethren, twelve:
+LABEL:18
+VERSE:the eleventh to Azarel, his sons and his brethren, twelve:
+LABEL:19
+VERSE:the twelfth to Hashabiah, his sons and his brethren, twelve:
+LABEL:20
+VERSE:for the thirteenth, Shubael, his sons and his brethren, twelve:
+LABEL:21
+VERSE:for the fourteenth, Mattithiah, his sons and his brethren, twelve:
+LABEL:22
+VERSE:for the fifteenth to Jeremoth, his sons and his brethren, twelve:
+LABEL:23
+VERSE:for the sixteenth to Hananiah, his sons and his brethren, twelve:
+LABEL:24
+VERSE:for the seventeenth to Joshbekashah, his sons and his brethren, twelve:
+LABEL:25
+VERSE:for the eighteenth to Hanani, his sons and his brethren, twelve:
+LABEL:26
+VERSE:for the nineteenth to Mallothi, his sons and his brethren, twelve:
+LABEL:27
+VERSE:for the twentieth to Eliathah, his sons and his brethren, twelve:
+LABEL:28
+VERSE:for the one and twentieth to Hothir, his sons and his brethren, twelve:
+LABEL:29
+VERSE:for the two and twentieth to Giddalti, his sons and his brethren, twelve:
+LABEL:30
+VERSE:for the three and twentieth to Mahazioth, his sons and his brethren, twelve:
+LABEL:31
+VERSE:for the four and twentieth to Romamtiezer, his sons and his brethren, twelve.

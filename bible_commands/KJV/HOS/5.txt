@@ -1,0 +1,35 @@
+TRANSLATION:KJV
+BOOK:HOS
+CHAPTER:5
+TITLE:Hosea 5
+SECTION:Against Priests and Kings
+LABEL:1
+VERSE:Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.
+LABEL:2
+VERSE:And the revolters are profound to make slaughter, though I have been a rebuker of them all.
+LABEL:3
+VERSE:I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.
+LABEL:4
+VERSE:They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.
+LABEL:5
+VERSE:And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.
+LABEL:6
+VERSE:They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them.
+LABEL:7
+VERSE:They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.
+LABEL:8
+VERSE:Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin.
+LABEL:9
+VERSE:Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.
+LABEL:10
+VERSE:The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.
+LABEL:11
+VERSE:Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.
+LABEL:12
+VERSE:Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.
+LABEL:13
+VERSE:When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.
+LABEL:14
+VERSE:For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.
+LABEL:15
+VERSE:I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.

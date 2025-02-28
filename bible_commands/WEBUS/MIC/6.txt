@@ -1,0 +1,73 @@
+TRANSLATION:WEBUS
+BOOK:MIC
+CHAPTER:6
+TITLE:Micah 6
+LABEL:1
+VERSE:Listen now to what Yahweh says:
+VERSE:“Arise, plead your case before the mountains,
+VERSE:and let the hills hear what you have to say.
+LABEL:2
+VERSE:Hear, you mountains, Yahweh’s indictment,
+VERSE:and you enduring foundations of the earth;
+VERSE:for Yahweh has a case against his people,
+VERSE:and he will contend with Israel.
+LABEL:3
+VERSE:My people, what have I done to you?
+VERSE:How have I burdened you?
+VERSE:Answer me!
+LABEL:4
+VERSE:For I brought you up out of the land of Egypt,
+VERSE:and redeemed you out of the house of bondage.
+VERSE:I sent before you Moses, Aaron, and Miriam.
+LABEL:5
+VERSE:My people, remember now what Balak king of Moab devised,
+VERSE:and what Balaam the son of Beor answered him from Shittim to Gilgal,
+VERSE:that you may know the righteous acts of Yahweh.”
+LABEL:6
+VERSE:How shall I come before Yahweh,
+VERSE:and bow myself before the exalted God?
+VERSE:Shall I come before him with burnt offerings,
+VERSE:with calves a year old?
+LABEL:7
+VERSE:Will Yahweh be pleased with thousands of rams?
+VERSE:With tens of thousands of rivers of oil?
+VERSE:Shall I give my firstborn for my disobedience?
+VERSE:The fruit of my body for the sin of my soul?
+LABEL:8
+VERSE:He has shown you, O man, what is good.
+VERSE:What does Yahweh require of you, but to act justly,
+VERSE:to love mercy, and to walk humbly with your God?
+LABEL:9
+VERSE:Yahweh’s voice calls to the city—
+VERSE:and wisdom fears your name—
+VERSE:“Listen to the rod,
+VERSE:and he who appointed it.
+LABEL:10
+VERSE:Are there yet treasures of wickedness in the house of the wicked,
+VERSE:and a short ephah that is accursed?
+LABEL:11
+VERSE:Shall I tolerate dishonest scales,
+VERSE:and a bag of deceitful weights?
+LABEL:12
+VERSE:Her rich men are full of violence,
+VERSE:her inhabitants speak lies,
+VERSE:and their tongue is deceitful in their speech.
+LABEL:13
+VERSE:Therefore I also have struck you with a grievous wound.
+VERSE:I have made you desolate because of your sins.
+LABEL:14
+VERSE:You shall eat, but not be satisfied.
+VERSE:Your hunger will be within you.
+VERSE:You will store up, but not save,
+VERSE:and that which you save I will give up to the sword.
+LABEL:15
+VERSE:You will sow, but won’t reap.
+VERSE:You will tread the olives, but won’t anoint yourself with oil;
+VERSE:and crush grapes, but won’t drink the wine.
+LABEL:16
+VERSE:For the statutes of Omri are kept,
+VERSE:and all the works of Ahab’s house.
+VERSE:You walk in their counsels,
+VERSE:that I may make you a ruin,
+VERSE:and your inhabitants a hissing.
+VERSE:You will bear the reproach of my people.”

@@ -1,0 +1,34 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:141
+TITLE:Psalm 141
+LABEL:1
+VERSE:  LORD, I cry unto thee: make haste unto me;
+VERSE:Give ear unto my voice, when I cry unto thee.
+LABEL:2
+VERSE:Let my prayer be set forth before thee as incense;
+VERSE:And the lifting up of my hands as the evening sacrifice.
+LABEL:3
+VERSE:Set a watch, O LORD, before my mouth;
+VERSE:Keep the door of my lips.
+LABEL:4
+VERSE:Incline not my heart to any evil thing,
+VERSE:To practise wicked works with men that work iniquity: And let me not eat of their dainties.
+LABEL:5
+VERSE:Let the righteous smite me;
+VERSE:It shall be a kindness: And let him reprove me;
+VERSE:It shall be an excellent oil, which shall not break my head:
+VERSE:For yet my prayer also shall be in their calamities.
+LABEL:6
+VERSE:When their judges are overthrown in stony places,
+VERSE:They shall hear my words; for they are sweet.
+LABEL:7
+VERSE:Our bones are scattered at the grave's mouth,
+VERSE:As when one cutteth and cleaveth wood upon the earth.
+LABEL:8
+VERSE:But mine eyes are unto thee, O GOD the Lord:
+VERSE:In thee is my trust; leave not my soul destitute.
+LABEL:9
+VERSE:Keep me from the snares which they have laid for me, and the gins of the workers of iniquity.
+LABEL:10
+VERSE:Let the wicked fall into their own nets, whilst that I withal escape.

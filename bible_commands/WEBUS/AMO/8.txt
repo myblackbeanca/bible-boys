@@ -1,0 +1,65 @@
+TRANSLATION:WEBUS
+BOOK:AMO
+CHAPTER:8
+TITLE:Amos 8
+LABEL:1
+VERSE:Thus the Lord Yahweh showed me: behold, a basket of summer fruit.
+LABEL:2
+VERSE:He said, “Amos, what do you see?”
+VERSE:I said, “A basket of summer fruit.”
+VERSE:Then Yahweh said to me,
+VERSE:“The end has come on my people Israel.
+VERSE:I will not again pass by them any more.
+LABEL:3
+VERSE:The songs of the temple will be wailing in that day,” says the Lord Yahweh.
+VERSE:“The dead bodies will be many. In every place they will throw them out with silence.
+LABEL:4
+VERSE:Hear this, you who desire to swallow up the needy,
+VERSE:and cause the poor of the land to fail,
+LABEL:5
+VERSE:saying, ‘When will the new moon be gone, that we may sell grain?
+VERSE:And the Sabbath, that we may market wheat,
+VERSE:making the ephah small, and the shekel large,
+VERSE:and dealing falsely with balances of deceit;
+LABEL:6
+VERSE:that we may buy the poor for silver,
+VERSE:and the needy for a pair of sandals,
+VERSE:and sell the sweepings with the wheat?’”
+LABEL:7
+VERSE:Yahweh has sworn by the pride of Jacob,
+VERSE:“Surely I will never forget any of their works.
+LABEL:8
+VERSE:Won’t the land tremble for this,
+VERSE:and everyone mourn who dwells in it?
+VERSE:Yes, it will rise up wholly like the River;
+VERSE:and it will be stirred up and sink again, like the River of Egypt.
+LABEL:9
+VERSE:It will happen in that day,” says the Lord Yahweh,
+VERSE:“that I will cause the sun to go down at noon,
+VERSE:and I will darken the earth in the clear day.
+LABEL:10
+VERSE:I will turn your feasts into mourning,
+VERSE:and all your songs into lamentation;
+VERSE:and I will make you wear sackcloth on all your bodies,
+VERSE:and baldness on every head.
+VERSE:I will make it like the mourning for an only son,
+VERSE:and its end like a bitter day.
+LABEL:11
+VERSE:Behold, the days come,” says the Lord Yahweh,
+VERSE:“that I will send a famine in the land,
+VERSE:not a famine of bread,
+VERSE:nor a thirst for water,
+VERSE:but of hearing Yahweh’s words.
+LABEL:12
+VERSE:They will wander from sea to sea,
+VERSE:and from the north even to the east;
+VERSE:they will run back and forth to seek Yahweh’s word,
+VERSE:and will not find it.
+LABEL:13
+VERSE:In that day the beautiful virgins
+VERSE:and the young men will faint for thirst.
+LABEL:14
+VERSE:Those who swear by the sin of Samaria,
+VERSE:and say, ‘As your god, Dan, lives,’
+VERSE:and, ‘As the way of Beersheba lives,’
+VERSE:they will fall, and never rise up again.”

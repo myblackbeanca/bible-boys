@@ -1,0 +1,21 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:13
+TITLE:Psalm 13
+LABEL:1
+VERSE:How long wilt thou forget me, O LORD? for ever?
+VERSE:How long wilt thou hide thy face from me?
+LABEL:2
+VERSE:How long shall I take counsel in my soul, Having sorrow in my heart daily?
+VERSE:How long shall mine enemy be exalted over me?
+LABEL:3
+VERSE:Consider and hear me, O LORD my God:
+VERSE:Lighten mine eyes, lest I sleep the sleep of death;
+LABEL:4
+VERSE:Lest mine enemy say, I have prevailed against him;
+VERSE:And those that trouble me rejoice when I am moved.
+LABEL:5
+VERSE:But I have trusted in thy mercy;
+VERSE:My heart shall rejoice in thy salvation.
+LABEL:6
+VERSE:I will sing unto the LORD, because he hath dealt bountifully with me.

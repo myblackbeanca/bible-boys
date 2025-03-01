@@ -27,7 +27,7 @@ func main() {
 
 	gCtx["DB"] = db
 
-	vbf.AddRoute("GET /api/{translation}/{book}/{chapter}/{verse}", mux, gCtx, func(w http.ResponseWriter, r *http.Request) {
+	vbf.AddRoute("GET /{translation}/{book}/{chapter}/{verse}", mux, gCtx, func(w http.ResponseWriter, r *http.Request) {
 
 		db, ok := gCtx["DB"].(*sqlx.DB)
 		if !ok {

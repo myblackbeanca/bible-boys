@@ -77,3 +77,81 @@ func GetVerse(db *sqlx.DB, translationAbbv string, bookAbbv string, chapterNumbe
 	}
 	return verse, nil
 }
+
+func GetChapterWithVerses(db *sqlx.DB, translationAbbv string, bookAbbv string, chapterNumber uint) (Chapter, []Verse, error) {
+	var chapter Chapter
+	var verses []Verse
+
+	query := `
+		SELECT c.id, c.book_id, c.number
+		FROM chapter c
+		JOIN book b ON c.book_id = b.id
+		JOIN translation t ON b.translation_id = t.id
+		WHERE t.abbreviation = ? AND b.abbreviation = ? AND c.number = ?
+		LIMIT 1;
+	`
+	err := db.Get(&chapter, query, translationAbbv, bookAbbv, chapterNumber)
+	if err != nil {
+		return chapter, verses, err
+	}
+
+	queryVerses := `
+		SELECT v.id, v.chapter_id, v.number, v.text, v.section
+		FROM verse v
+		WHERE v.chapter_id = ?
+		ORDER BY v.number;
+	`
+	err = db.Select(&verses, queryVerses, chapter.ID)
+	if err != nil {
+		return chapter, verses, err
+	}
+
+	return chapter, verses, nil
+}
+
+func GetBookWithChaptersAndVerses(db *sqlx.DB, translationAbbv string, bookAbbv string) (Book, []Chapter, map[uint][]Verse, error) {
+	var book Book
+	var chapters []Chapter
+	versesMap := make(map[uint][]Verse)
+
+	queryBook := `
+		SELECT b.id, b.translation_id, b.name, b.abbreviation
+		FROM book b
+		JOIN translation t ON b.translation_id = t.id
+		WHERE t.abbreviation = ? AND b.abbreviation = ?
+		LIMIT 1;
+	`
+	err := db.Get(&book, queryBook, translationAbbv, bookAbbv)
+	if err != nil {
+		return book, chapters, versesMap, err
+	}
+
+	queryChapters := `
+		SELECT c.id, c.book_id, c.number
+		FROM chapter c
+		WHERE c.book_id = ?
+		ORDER BY c.number;
+	`
+	err = db.Select(&chapters, queryChapters, book.ID)
+	if err != nil {
+		return book, chapters, versesMap, err
+	}
+
+	queryVerses := `
+		SELECT v.id, v.chapter_id, v.number, v.text, v.section
+		FROM verse v
+		WHERE v.chapter_id = ?
+		ORDER BY v.number;
+	`
+
+	for _, chapter := range chapters {
+		var verses []Verse
+		err = db.Select(&verses, queryVerses, chapter.ID)
+		if err != nil {
+			return book, chapters, versesMap, err
+		}
+		versesMap[chapter.ID] = verses
+	}
+
+	return book, chapters, versesMap, nil
+}

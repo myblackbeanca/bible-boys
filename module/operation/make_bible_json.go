@@ -44,7 +44,8 @@ func MakeBibleJson(commandSrc string, out string) {
 		for _, command := range commands {
 			parts := strings.Split(command, ":")
 			commandName := parts[0]
-			commandValue := parts[1]
+			commandValueParts := parts[1:len(parts)]
+			commandValue := strings.Join(commandValueParts, ":")
 			if commandName == "TRANSLATION" {
 				verse.TranslationAbbv = commandValue
 			}

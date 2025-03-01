@@ -1,0 +1,51 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:27
+TITLE:Psalm 27
+LABEL:1
+VERSE:The LORD  is my light and my salvation; whom shall I fear?
+VERSE:The LORD  is the strength of my life; of whom shall I be afraid?
+LABEL:2
+VERSE:When the wicked, even mine enemies and my foes, came upon me to eat up my flesh,
+VERSE:They stumbled and fell.
+LABEL:3
+VERSE:Though an host should encamp against me, my heart shall not fear:
+VERSE:Though war should rise against me, in this will I be confident.
+LABEL:4
+VERSE:One thing have I desired of the LORD, that will I seek after;
+VERSE:That I may dwell in the house of the LORD all the days of my life,
+VERSE:To behold the beauty of the LORD, and to enquire in his temple.
+LABEL:5
+VERSE:For in the time of trouble he shall hide me in his pavilion:
+VERSE:In the secret of his tabernacle shall he hide me; he shall set me up upon a rock.
+LABEL:6
+VERSE:And now shall mine head be lifted up,
+VERSE:Above mine enemies round about me:
+VERSE:Therefore will I offer in his tabernacle sacrifices of joy;
+VERSE:I will sing, yea, I will sing praises unto the LORD.
+LABEL:7
+VERSE:Hear, O LORD, when I cry with my voice:
+VERSE:Have mercy also upon me, and answer me.
+LABEL:8
+VERSE:  When thou saidst, Seek ye my face; my heart said unto thee,
+VERSE:Thy face, LORD, will I seek.
+LABEL:9
+VERSE:Hide not thy face far from me;
+VERSE:Put not thy servant away in anger:
+VERSE:Thou hast been my help;
+VERSE:Leave me not, neither forsake me, O God of my salvation.
+LABEL:10
+VERSE:When my father and my mother forsake me,
+VERSE:Then the LORD will take me up.
+LABEL:11
+VERSE:Teach me thy way, O LORD,
+VERSE:And lead me in a plain path, because of mine enemies.
+LABEL:12
+VERSE:Deliver me not over unto the will of mine enemies:
+VERSE:For false witnesses are risen up against me, and such as breathe out cruelty.
+LABEL:13
+VERSE:  I had fainted,
+VERSE:Unless I had believed to see the goodness of the LORD in the land of the living.
+LABEL:14
+VERSE:Wait on the LORD:
+VERSE:Be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.

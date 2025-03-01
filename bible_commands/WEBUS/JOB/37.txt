@@ -1,0 +1,80 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:37
+TITLE:Job 37
+LABEL:1
+VERSE:“Yes, at this my heart trembles,
+VERSE:and is moved out of its place.
+LABEL:2
+VERSE:Hear, oh, hear the noise of his voice,
+VERSE:the sound that goes out of his mouth.
+LABEL:3
+VERSE:He sends it out under the whole sky,
+VERSE:and his lightning to the ends of the earth.
+LABEL:4
+VERSE:After it a voice roars.
+VERSE:He thunders with the voice of his majesty.
+VERSE:He doesn’t hold back anything when his voice is heard.
+LABEL:5
+VERSE:God thunders marvelously with his voice.
+VERSE:He does great things, which we can’t comprehend.
+LABEL:6
+VERSE:For he says to the snow, ‘Fall on the earth,’
+VERSE:likewise to the shower of rain,
+VERSE:and to the showers of his mighty rain.
+LABEL:7
+VERSE:He seals up the hand of every man,
+VERSE:that all men whom he has made may know it.
+LABEL:8
+VERSE:Then the animals take cover,
+VERSE:and remain in their dens.
+LABEL:9
+VERSE:Out of its room comes the storm,
+VERSE:and cold out of the north.
+LABEL:10
+VERSE:By the breath of God, ice is given,
+VERSE:and the width of the waters is frozen.
+LABEL:11
+VERSE:Yes, he loads the thick cloud with moisture.
+VERSE:He spreads abroad the cloud of his lightning.
+LABEL:12
+VERSE:It is turned around by his guidance,
+VERSE:that they may do whatever he commands them
+VERSE:on the surface of the habitable world,
+LABEL:13
+VERSE:whether it is for correction, or for his land,
+VERSE:or for loving kindness, that he causes it to come.
+LABEL:14
+VERSE:“Listen to this, Job.
+VERSE:Stand still, and consider the wondrous works of God.
+LABEL:15
+VERSE:Do you know how God controls them,
+VERSE:and causes the lightning of his cloud to shine?
+LABEL:16
+VERSE:Do you know the workings of the clouds,
+VERSE:the wondrous works of him who is perfect in knowledge?
+LABEL:17
+VERSE:You whose clothing is warm
+VERSE:when the earth is still by reason of the south wind?
+LABEL:18
+VERSE:Can you, with him, spread out the sky,
+VERSE:which is strong as a cast metal mirror?
+LABEL:19
+VERSE:Teach us what we will tell him,
+VERSE:for we can’t make our case by reason of darkness.
+LABEL:20
+VERSE:Will it be told him that I would speak?
+VERSE:Or should a man wish that he were swallowed up?
+LABEL:21
+VERSE:Now men don’t see the light which is bright in the skies,
+VERSE:but the wind passes, and clears them.
+LABEL:22
+VERSE:Out of the north comes golden splendor.
+VERSE:With God is awesome majesty.
+LABEL:23
+VERSE:We can’t reach the Almighty.
+VERSE:He is exalted in power.
+VERSE:In justice and great righteousness, he will not oppress.
+LABEL:24
+VERSE:Therefore men revere him.
+VERSE:He doesn’t regard any who are wise of heart.”

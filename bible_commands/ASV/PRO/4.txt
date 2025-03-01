@@ -1,0 +1,86 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:4
+TITLE:Proverbs 4
+LABEL:1
+VERSE:Hear, my sons, the instruction of a father,
+VERSE:And attend to know understanding:
+LABEL:2
+VERSE:For I give you good doctrine;
+VERSE:Forsake ye not my law.
+LABEL:3
+VERSE:For I was a son unto my father,
+VERSE:Tender and only beloved in the sight of my mother.
+LABEL:4
+VERSE:And he taught me, and said unto me:
+VERSE:Let thy heart retain my words;
+VERSE:Keep my commandments, and live;
+LABEL:5
+VERSE:Get wisdom, get understanding;
+VERSE:Forget not, neither decline from the words of my mouth;
+LABEL:6
+VERSE:Forsake her not, and she will preserve thee;
+VERSE:Love her, and she will keep thee.
+LABEL:7
+VERSE:Wisdom is the principal thing; therefore get wisdom;
+VERSE:Yea, with all thy getting get understanding.
+LABEL:8
+VERSE:Exalt her, and she will promote thee;
+VERSE:She will bring thee to honor, when thou dost embrace her.
+LABEL:9
+VERSE:She will give to thy head a chaplet of grace;
+VERSE:A crown of beauty will she deliver to thee.
+LABEL:10
+VERSE:Hear, O my son, and receive my sayings;
+VERSE:And the years of thy life shall be many.
+LABEL:11
+VERSE:I have taught thee in the way of wisdom;
+VERSE:I have led thee in paths of uprightness.
+LABEL:12
+VERSE:When thou goest, thy steps shall not be straitened;
+VERSE:And if thou runnest, thou shalt not stumble.
+LABEL:13
+VERSE:Take fast hold of instruction; let her not go:
+VERSE:Keep her; for she is thy life.
+LABEL:14
+VERSE:Enter not into the path of the wicked,
+VERSE:And walk not in the way of evil men.
+LABEL:15
+VERSE:Avoid it, pass not by it;
+VERSE:Turn from it, and pass on.
+LABEL:16
+VERSE:For they sleep not, except they do evil;
+VERSE:And their sleep is taken away, unless they cause some to fall.
+LABEL:17
+VERSE:For they eat the bread of wickedness,
+VERSE:And drink the wine of violence.
+LABEL:18
+VERSE:But the path of the righteous is as the dawning light,
+VERSE:That shineth more and more unto the perfect day.
+LABEL:19
+VERSE:The way of the wicked is as darkness:
+VERSE:They know not at what they stumble.
+LABEL:20
+VERSE:My son, attend to my words;
+VERSE:Incline thine ear unto my sayings.
+LABEL:21
+VERSE:Let them not depart from thine eyes;
+VERSE:Keep them in the midst of thy heart.
+LABEL:22
+VERSE:For they are life unto those that find them,
+VERSE:And health to all their flesh.
+LABEL:23
+VERSE:Keep thy heart with all diligence;
+VERSE:For out of it are the issues of life.
+LABEL:24
+VERSE:Put away from thee a wayward mouth,
+VERSE:And perverse lips put far from thee.
+LABEL:25
+VERSE:Let thine eyes look right on,
+VERSE:And let thine eyelids look straight before thee.
+LABEL:26
+VERSE:Make level the path of thy feet,
+VERSE:And let all thy ways be established.
+LABEL:27
+VERSE:Turn not to the right hand nor to the left:
+VERSE:Remove thy foot from evil.

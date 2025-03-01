@@ -1,0 +1,129 @@
+TRANSLATION:ASV
+BOOK:LUK
+CHAPTER:9
+TITLE:Luke 9
+LABEL:1
+VERSE:And he called the twelve together, and gave them power and authority over all demons, and to cure diseases.
+LABEL:2
+VERSE:And he sent them forth to preach the kingdom of God, and to heal the sick.
+LABEL:3
+VERSE:And he said unto them, Take nothing for your journey, neither staff, nor wallet, nor bread, nor money; neither have two coats.
+LABEL:4
+VERSE:And into whatsoever house ye enter, there abide, and thence depart.
+LABEL:5
+VERSE:And as many as receive you not, when ye depart from that city, shake off the dust from your feet for a testimony against them.
+LABEL:6
+VERSE:And they departed, and went throughout the villages, preaching the gospel, and healing everywhere.
+LABEL:7
+VERSE:Now Herod the tetrarch heard of all that was done: and he was much perplexed, because that it was said by some, that John was risen from the dead;
+LABEL:8
+VERSE:and by some, that Elijah had appeared; and by others, that one of the old prophets was risen again.
+LABEL:9
+VERSE:And Herod said, John I beheaded: but who is this, about whom I hear such things? And he sought to see him.
+LABEL:10
+VERSE:And the apostles, when they were returned, declared unto him what things they had done. And he took them, and withdrew apart to a city called Bethsaida.
+LABEL:11
+VERSE:But the multitudes perceiving it followed him: and he welcomed them, and spake to them of the kingdom of God, and them that had need of healing he cured.
+LABEL:12
+VERSE:And the day began to wear away; and the twelve came, and said unto him, Send the multitude away, that they may go into the villages and country round about, and lodge, and get provisions: for we are here in a desert place.
+LABEL:13
+VERSE:But he said unto them, Give ye them to eat. And they said, We have no more than five loaves and two fishes; except we should go and buy food for all this people.
+LABEL:14
+VERSE:For they were about five thousand men. And he said unto his disciples, Make them sit down in companies, about fifty each.
+LABEL:15
+VERSE:And they did so, and made them all sit down.
+LABEL:16
+VERSE:And he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake; and gave to the disciples to set before the multitude.
+LABEL:17
+VERSE:And they ate, and were all filled: and there was taken up that which remained over to them of broken pieces, twelve baskets.
+LABEL:18
+VERSE:And it came to pass, as he was praying apart, the disciples were with him: and he asked them, saying, Who do the multitudes say that I am?
+LABEL:19
+VERSE:And they answering said, John the Baptist; but others say, Elijah; and others, that one of the old prophets is risen again.
+LABEL:20
+VERSE:And he said unto them, But who say ye that I am? And Peter answering said, The Christ of God.
+LABEL:21
+VERSE:But he charged them, and commanded them to tell this to no man;
+LABEL:22
+VERSE:saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be killed, and the third day be raised up.
+LABEL:23
+VERSE:And he said unto all, If any man would come after me, let him deny himself, and take up his cross daily, and follow me.
+LABEL:24
+VERSE:For whosoever would save his life shall lose it; but whosoever shall lose his life for my sake, the same shall save it.
+LABEL:25
+VERSE:For what is a man profited, if he gain the whole world, and lose or forfeit his own self?
+LABEL:26
+VERSE:For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he cometh in his own glory, and the glory of the Father, and of the holy angels.
+LABEL:27
+VERSE:But I tell you of a truth, There are some of them that stand here, who shall in no wise taste of death, till they see the kingdom of God.
+LABEL:28
+VERSE:And it came to pass about eight days after these sayings, that he took with him Peter and John and James, and went up into the mountain to pray.
+LABEL:29
+VERSE:And as he was praying, the fashion of his countenance was altered, and his raiment became white and dazzling.
+LABEL:30
+VERSE:And behold, there talked with him two men, who were Moses and Elijah;
+LABEL:31
+VERSE:who appeared in glory, and spake of his decease which he was about to accomplish at Jerusalem.
+LABEL:32
+VERSE:Now Peter and they that were with him were heavy with sleep: but when they were fully awake, they saw his glory, and the two men that stood with him.
+LABEL:33
+VERSE:And it came to pass, as they were parting from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elijah: not knowing what he said.
+LABEL:34
+VERSE:And while he said these things, there came a cloud, and overshadowed them: and they feared as they entered into the cloud.
+LABEL:35
+VERSE:And a voice came out of the cloud, saying, This is my Son, my chosen: hear ye him.
+LABEL:36
+VERSE:And when the voice came, Jesus was found alone. And they held their peace, and told no man in those days any of the things which they had seen.
+LABEL:37
+VERSE:And it came to pass, on the next day, when they were come down from the mountain, a great multitude met him.
+LABEL:38
+VERSE:And behold, a man from the multitude cried, saying, Teacher, I beseech thee to look upon my son; for he is mine only child:
+LABEL:39
+VERSE:and behold, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth, and it hardly departeth from him, bruising him sorely.
+LABEL:40
+VERSE:And I besought thy disciples to cast it out; and they could not.
+LABEL:41
+VERSE:And Jesus answered and said, O faithless and perverse generation, how long shall I be with you, and bear with you? bring hither thy son.
+LABEL:42
+VERSE:And as he was yet a coming, the demon dashed him down, and tare him grievously. But Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father.
+LABEL:43
+VERSE:And they were all astonished at the majesty of God.
+VERSE:But while all were marvelling at all the things which he did, he said unto his disciples,
+LABEL:44
+VERSE:Let these words sink into your ears: for the Son of man shall be delivered up into the hands of men.
+LABEL:45
+VERSE:But they understood not this saying, and it was concealed from them, that they should not perceive it; and they were afraid to ask him about this saying.
+LABEL:46
+VERSE:And there arose a reasoning among them, which of them was the greatest.
+LABEL:47
+VERSE:But when Jesus saw the reasoning of their heart, he took a little child, and set him by his side,
+LABEL:48
+VERSE:and said unto them, Whosoever shall receive this little child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same is great.
+LABEL:49
+VERSE:And John answered and said, Master, we saw one casting out demons in thy name; and we forbade him, because he followeth not with us.
+LABEL:50
+VERSE:But Jesus said unto him, Forbid him not: for he that is not against you is for you.
+LABEL:51
+VERSE:And it came to pass, when the days were well-nigh come that he should be received up, he stedfastly set his face to go to Jerusalem,
+LABEL:52
+VERSE:and sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.
+LABEL:53
+VERSE:And they did not receive him, because his face was as though he were going to Jerusalem.
+LABEL:54
+VERSE:And when his disciples James and John saw this, they said, Lord, wilt thou that we bid fire to come down from heaven, and consume them?
+LABEL:55
+VERSE:But he turned, and rebuked them.
+LABEL:56
+VERSE:And they went to another village.
+LABEL:57
+VERSE:And as they went on the way, a certain man said unto him, I will follow thee whithersoever thou goest.
+LABEL:58
+VERSE:And Jesus said unto him, The foxes have holes, and the birds of the heaven have nests; but the Son of man hath not where to lay his head.
+LABEL:59
+VERSE:And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.
+LABEL:60
+VERSE:But he said unto him, Leave the dead to bury their own dead; but go thou and publish abroad the kingdom of God.
+LABEL:61
+VERSE:And another also said, I will follow thee, Lord; but first suffer me to bid farewell to them that are at my house.
+LABEL:62
+VERSE:But Jesus said unto him, No man, having put his hand to the plow, and looking back, is fit for the kingdom of God.

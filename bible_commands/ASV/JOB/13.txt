@@ -1,0 +1,89 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:13
+TITLE:Job 13
+LABEL:1
+VERSE:Lo, mine eye hath seen all this,
+VERSE:Mine ear hath heard and understood it.
+LABEL:2
+VERSE:What ye know, the same do I know also:
+VERSE:I am not inferior unto you.
+LABEL:3
+VERSE:Surely I would speak to the Almighty,
+VERSE:And I desire to reason with God.
+LABEL:4
+VERSE:But ye are forgers of lies;
+VERSE:Ye are all physicians of no value.
+LABEL:5
+VERSE:Oh that ye would altogether hold your peace!
+VERSE:And it would be your wisdom.
+LABEL:6
+VERSE:Hear now my reasoning,
+VERSE:And hearken to the pleadings of my lips.
+LABEL:7
+VERSE:Will ye speak unrighteously for God,
+VERSE:And talk deceitfully for him?
+LABEL:8
+VERSE:Will ye show partiality to him?
+VERSE:Will ye contend for God?
+LABEL:9
+VERSE:Is it good that he should search you out?
+VERSE:Or as one deceiveth a man, will ye deceive him?
+LABEL:10
+VERSE:He will surely reprove you,
+VERSE:If ye do secretly show partiality.
+LABEL:11
+VERSE:Shall not his majesty make you afraid,
+VERSE:And his dread fall upon you?
+LABEL:12
+VERSE:Your memorable sayings are proverbs of ashes,
+VERSE:Your defences are defences of clay.
+LABEL:13
+VERSE:Hold your peace, let me alone, that I may speak;
+VERSE:And let come on me what will.
+LABEL:14
+VERSE:Wherefore should I take my flesh in my teeth,
+VERSE:And put my life in my hand?
+LABEL:15
+VERSE:Behold, he will slay me; I have no hope:
+VERSE:Nevertheless I will maintain my ways before him.
+LABEL:16
+VERSE:This also shall be my salvation,
+VERSE:That a godless man shall not come before him.
+LABEL:17
+VERSE:Hear diligently my speech,
+VERSE:And let my declaration be in your ears.
+LABEL:18
+VERSE:Behold now, I have set my cause in order;
+VERSE:I know that I am righteous.
+LABEL:19
+VERSE:Who is he that will contend with me?
+VERSE:For then would I hold my peace and give up the ghost.
+LABEL:20
+VERSE:Only do not two things unto me;
+VERSE:Then will I not hide myself from thy face:
+LABEL:21
+VERSE:Withdraw thy hand far from me;
+VERSE:And let not thy terror make me afraid.
+LABEL:22
+VERSE:Then call thou, and I will answer;
+VERSE:Or let me speak, and answer thou me.
+LABEL:23
+VERSE:How many are mine iniquities and sins?
+VERSE:Make me to know my transgression and my sin.
+LABEL:24
+VERSE:Wherefore hidest thou thy face,
+VERSE:And holdest me for thine enemy?
+LABEL:25
+VERSE:Wilt thou harass a driven leaf?
+VERSE:And wilt thou pursue the dry stubble?
+LABEL:26
+VERSE:For thou writest bitter things against me,
+VERSE:And makest me to inherit the iniquities of my youth:
+LABEL:27
+VERSE:Thou puttest my feet also in the stocks,
+VERSE:And markest all my paths;
+VERSE:Thou settest a bound to the soles of my feet:
+LABEL:28
+VERSE:Though I am like a rotten thing that consumeth,
+VERSE:Like a garment that is moth-eaten.

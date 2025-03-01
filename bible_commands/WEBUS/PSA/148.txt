@@ -1,0 +1,50 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:148
+TITLE:Psalms 148
+LABEL:1
+VERSE:Praise Yah!
+VERSE:Praise Yahweh from the heavens!
+VERSE:Praise him in the heights!
+LABEL:2
+VERSE:Praise him, all his angels!
+VERSE:Praise him, all his army!
+LABEL:3
+VERSE:Praise him, sun and moon!
+VERSE:Praise him, all you shining stars!
+LABEL:4
+VERSE:Praise him, you heavens of heavens,
+VERSE:you waters that are above the heavens.
+LABEL:5
+VERSE:Let them praise Yahweh’s name,
+VERSE:for he commanded, and they were created.
+LABEL:6
+VERSE:He has also established them forever and ever.
+VERSE:He has made a decree which will not pass away.
+LABEL:7
+VERSE:Praise Yahweh from the earth,
+VERSE:you great sea creatures, and all depths,
+LABEL:8
+VERSE:lightning and hail, snow and clouds,
+VERSE:stormy wind, fulfilling his word,
+LABEL:9
+VERSE:mountains and all hills,
+VERSE:fruit trees and all cedars,
+LABEL:10
+VERSE:wild animals and all livestock,
+VERSE:small creatures and flying birds,
+LABEL:11
+VERSE:kings of the earth and all peoples,
+VERSE:princes and all judges of the earth,
+LABEL:12
+VERSE:both young men and maidens,
+VERSE:old men and children.
+LABEL:13
+VERSE:Let them praise Yahweh’s name,
+VERSE:for his name alone is exalted.
+VERSE:His glory is above the earth and the heavens.
+LABEL:14
+VERSE:He has lifted up the horn of his people,
+VERSE:the praise of all his saints,
+VERSE:even of the children of Israel, a people near to him.
+VERSE:Praise Yah!

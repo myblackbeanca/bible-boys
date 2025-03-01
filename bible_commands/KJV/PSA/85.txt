@@ -1,0 +1,43 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:85
+TITLE:Psalm 85
+LABEL:1
+VERSE:  LORD, thou hast been favourable unto thy land:
+VERSE:Thou hast brought back the captivity of Jacob.
+LABEL:2
+VERSE:Thou hast forgiven the iniquity of thy people,
+VERSE:Thou hast covered all their sin. Selah.
+LABEL:3
+VERSE:Thou hast taken away all thy wrath:
+VERSE:Thou hast turned thyself from the fierceness of thine anger.
+LABEL:4
+VERSE:Turn us, O God of our salvation,
+VERSE:And cause thine anger toward us to cease.
+LABEL:5
+VERSE:Wilt thou be angry with us for ever?
+VERSE:Wilt thou draw out thine anger to all generations?
+LABEL:6
+VERSE:Wilt thou not revive us again:
+VERSE:That thy people may rejoice in thee?
+LABEL:7
+VERSE:Shew us thy mercy, O LORD,
+VERSE:And grant us thy salvation.
+LABEL:8
+VERSE:I will hear what God the LORD will speak:
+VERSE:For he will speak peace unto his people, and to his saints: But let them not turn again to folly.
+LABEL:9
+VERSE:Surely his salvation is nigh them that fear him;
+VERSE:That glory may dwell in our land.
+LABEL:10
+VERSE:Mercy and truth are met together;
+VERSE:Righteousness and peace have kissed each other.
+LABEL:11
+VERSE:Truth shall spring out of the earth;
+VERSE:And righteousness shall look down from heaven.
+LABEL:12
+VERSE:Yea, the LORD shall give that which is good;
+VERSE:And our land shall yield her increase.
+LABEL:13
+VERSE:Righteousness shall go before him;
+VERSE:And shall set us in the way of his steps.

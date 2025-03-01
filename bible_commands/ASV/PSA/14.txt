@@ -1,0 +1,29 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:14
+TITLE:Psalms 14
+LABEL:1
+VERSE:The fool hath said in his heart, There is no God.
+VERSE:They are corrupt, they have done abominable works;
+VERSE:There is none that doeth good.
+LABEL:2
+VERSE:Jehovah looked down from heaven upon the children of men,
+VERSE:To see if there were any that did understand,
+VERSE:That did seek after God.
+LABEL:3
+VERSE:They are all gone aside; they are together become filthy;
+VERSE:There is none that doeth good, no, not one.
+LABEL:4
+VERSE:Have all the workers of iniquity no knowledge,
+VERSE:Who eat up my people as they eat bread,
+VERSE:And call not upon Jehovah?
+LABEL:5
+VERSE:There were they in great fear;
+VERSE:For God is in the generation of the righteous.
+LABEL:6
+VERSE:Ye put to shame the counsel of the poor,
+VERSE:Because Jehovah is his refuge.
+LABEL:7
+VERSE:Oh that the salvation of Israel were come out of Zion!
+VERSE:When Jehovah bringeth back the captivity of his people,
+VERSE:Then shall Jacob rejoice, and Israel shall be glad.

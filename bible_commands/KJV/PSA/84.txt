@@ -1,0 +1,41 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:84
+TITLE:Psalm 84
+LABEL:1
+VERSE:How amiable are thy tabernacles, O LORD of hosts!
+LABEL:2
+VERSE:My soul longeth, yea, even fainteth for the courts of the LORD:
+VERSE:My heart and my flesh crieth out for the living God.
+LABEL:3
+VERSE:Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young,
+VERSE:Even thine altars, O LORD of hosts, my King, and my God.
+LABEL:4
+VERSE:Blessed are they that dwell in thy house:
+VERSE:They will be still praising thee. Selah.
+LABEL:5
+VERSE:Blessed is the man whose strength is
+VERSE:in thee; In whose heart are the ways of them.
+LABEL:6
+VERSE:  Who passing through the valley of Baca make it a well;
+VERSE:The rain also filleth the pools.
+LABEL:7
+VERSE:They go from strength to strength,
+VERSE:Every one of them in Zion appeareth before God.
+LABEL:8
+VERSE:O LORD God of hosts, hear my prayer:
+VERSE:Give ear, O God of Jacob. Selah.
+LABEL:9
+VERSE:Behold, O God our shield,
+VERSE:And look upon the face of thine anointed.
+LABEL:10
+VERSE:For a day in thy courts
+VERSE:Is better than a thousand.
+VERSE:I had rather be a doorkeeper in the house of my God,
+VERSE:Than to dwell in the tents of wickedness.
+LABEL:11
+VERSE:For the LORD God is a sun and shield:
+VERSE:The LORD will give grace and glory: No good thing will he withhold from them that walk uprightly.
+LABEL:12
+VERSE:O LORD of hosts,
+VERSE:Blessed is the man that trusteth in thee.

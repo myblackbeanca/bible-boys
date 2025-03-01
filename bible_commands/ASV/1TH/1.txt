@@ -1,0 +1,24 @@
+TRANSLATION:ASV
+BOOK:1TH
+CHAPTER:1
+TITLE:1 Thessalonians 1
+LABEL:1
+VERSE:Paul, and Silvanus, and Timothy, unto the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.
+LABEL:2
+VERSE:We give thanks to God always for you all, making mention of you in our prayers;
+LABEL:3
+VERSE:remembering without ceasing your work of faith and labor of love and patience of hope in our Lord Jesus Christ, before our God and Father;
+LABEL:4
+VERSE:knowing, brethren beloved of God, your election,
+LABEL:5
+VERSE:how that our gospel came not unto you in word only, but also in power, and in the Holy Spirit, and in much assurance; even as ye know what manner of men we showed ourselves toward you for your sake.
+LABEL:6
+VERSE:And ye became imitators of us, and of the Lord, having received the word in much affliction, with joy of the Holy Spirit;
+LABEL:7
+VERSE:so that ye became an ensample to all that believe in Macedonia and in Achaia.
+LABEL:8
+VERSE:For from you hath sounded forth the word of the Lord, not only in Macedonia and Achaia, but in every place your faith to God-ward is gone forth; so that we need not to speak anything.
+LABEL:9
+VERSE:For they themselves report concerning us what manner of entering in we had unto you; and how ye turned unto God from idols, to serve a living and true God,
+LABEL:10
+VERSE:and to wait for his Son from heaven, whom he raised from the dead, even Jesus, who delivereth us from the wrath to come.

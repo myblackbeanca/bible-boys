@@ -1,0 +1,156 @@
+TRANSLATION:WEBUS
+BOOK:JOL
+CHAPTER:2
+TITLE:Joel 2
+LABEL:1
+VERSE:Blow the trumpet in Zion,
+VERSE:and sound an alarm in my holy mountain!
+VERSE:Let all the inhabitants of the land tremble,
+VERSE:for the day of Yahweh comes,
+VERSE:for it is close at hand:
+LABEL:2
+VERSE:A day of darkness and gloominess,
+VERSE:a day of clouds and thick darkness.
+VERSE:As the dawn spreading on the mountains,
+VERSE:a great and strong people;
+VERSE:there has never been the like,
+VERSE:neither will there be any more after them,
+VERSE:even to the years of many generations.
+LABEL:3
+VERSE:A fire devours before them,
+VERSE:and behind them, a flame burns.
+VERSE:The land is as the garden of Eden before them,
+VERSE:and behind them, a desolate wilderness.
+VERSE:Yes, and no one has escaped them.
+LABEL:4
+VERSE:Their appearance is as the appearance of horses,
+VERSE:and they run as horsemen.
+LABEL:5
+VERSE:Like the noise of chariots on the tops of the mountains, they leap,
+VERSE:like the noise of a flame of fire that devours the stubble,
+VERSE:like a strong people set in battle array.
+LABEL:6
+VERSE:At their presence the peoples are in anguish.
+VERSE:All faces have grown pale.
+LABEL:7
+VERSE:They run like mighty men.
+VERSE:They climb the wall like warriors.
+VERSE:They each march in his line, and they don’t swerve off course.
+LABEL:8
+VERSE:One doesn’t jostle another.
+VERSE:They each march in their own path.
+VERSE:They burst through the defenses
+VERSE:and don’t break ranks.
+LABEL:9
+VERSE:They rush on the city.
+VERSE:They run on the wall.
+VERSE:They climb up into the houses.
+VERSE:They enter in at the windows like thieves.
+LABEL:10
+VERSE:The earth quakes before them.
+VERSE:The heavens tremble.
+VERSE:The sun and the moon are darkened,
+VERSE:and the stars withdraw their shining.
+LABEL:11
+VERSE:Yahweh thunders his voice before his army,
+VERSE:for his forces are very great;
+VERSE:for he is strong who obeys his command;
+VERSE:for the day of Yahweh is great and very awesome,
+VERSE:and who can endure it?
+LABEL:12
+VERSE:“Yet even now,” says Yahweh, “turn to me with all your heart,
+VERSE:and with fasting, and with weeping, and with mourning.”
+LABEL:13
+VERSE:Tear your heart and not your garments,
+VERSE:and turn to Yahweh, your God;
+VERSE:for he is gracious and merciful,
+VERSE:slow to anger, and abundant in loving kindness,
+VERSE:and relents from sending calamity.
+LABEL:14
+VERSE:Who knows? He may turn and relent,
+VERSE:and leave a blessing behind him,
+VERSE:even a meal offering and a drink offering to Yahweh, your God.
+LABEL:15
+VERSE:Blow the trumpet in Zion!
+VERSE:Sanctify a fast.
+VERSE:Call a solemn assembly.
+LABEL:16
+VERSE:Gather the people.
+VERSE:Sanctify the assembly.
+VERSE:Assemble the elders.
+VERSE:Gather the children, and those who nurse from breasts.
+VERSE:Let the bridegroom go out of his room,
+VERSE:and the bride out of her chamber.
+LABEL:17
+VERSE:Let the priests, the ministers of Yahweh, weep between the porch and the altar,
+VERSE:and let them say, “Spare your people, Yahweh,
+VERSE:and don’t give your heritage to reproach,
+VERSE:that the nations should rule over them.
+VERSE:Why should they say among the peoples,
+VERSE:‘Where is their God?’”
+LABEL:18
+VERSE:Then Yahweh was jealous for his land,
+VERSE:and had pity on his people.
+LABEL:19
+VERSE:Yahweh answered his people,
+VERSE:“Behold, I will send you grain, new wine, and oil,
+VERSE:and you will be satisfied with them;
+VERSE:and I will no more make you a reproach among the nations.
+LABEL:20
+VERSE:But I will remove the northern army far away from you,
+VERSE:and will drive it into a barren and desolate land,
+VERSE:its front into the eastern sea,
+VERSE:and its back into the western sea;
+VERSE:and its stench will come up,
+VERSE:and its bad smell will rise.”
+VERSE:Surely he has done great things.
+LABEL:21
+VERSE:Land, don’t be afraid.
+VERSE:Be glad and rejoice, for Yahweh has done great things.
+LABEL:22
+VERSE:Don’t be afraid, you animals of the field;
+VERSE:for the pastures of the wilderness spring up,
+VERSE:for the tree bears its fruit.
+VERSE:The fig tree and the vine yield their strength.
+LABEL:23
+VERSE:“Be glad then, you children of Zion,
+VERSE:and rejoice in Yahweh, your God;
+VERSE:for he gives you the early rain in just measure,
+VERSE:and he causes the rain to come down for you,
+VERSE:the early rain and the latter rain, as before.
+LABEL:24
+VERSE:The threshing floors will be full of wheat,
+VERSE:and the vats will overflow with new wine and oil.
+LABEL:25
+VERSE:I will restore to you the years that the swarming locust has eaten,
+VERSE:the great locust, the grasshopper, and the caterpillar,
+VERSE:my great army, which I sent among you.
+LABEL:26
+VERSE:You will have plenty to eat and be satisfied,
+VERSE:and will praise the name of Yahweh, your God,
+VERSE:who has dealt wondrously with you;
+VERSE:and my people will never again be disappointed.
+LABEL:27
+VERSE:You will know that I am among Israel,
+VERSE:and that I am Yahweh, your God, and there is no one else;
+VERSE:and my people will never again be disappointed.
+LABEL:28
+VERSE:“It will happen afterward, that I will pour out my Spirit on all flesh;
+VERSE:and your sons and your daughters will prophesy.
+VERSE:Your old men will dream dreams.
+VERSE:Your young men will see visions.
+LABEL:29
+VERSE:And also on the servants and on the handmaids in those days,
+VERSE:I will pour out my Spirit.
+LABEL:30
+VERSE:I will show wonders in the heavens and in the earth:
+VERSE:blood, fire, and pillars of smoke.
+LABEL:31
+VERSE:The sun will be turned into darkness,
+VERSE:and the moon into blood,
+VERSE:before the great and terrible day of Yahweh comes.
+LABEL:32
+VERSE:It will happen that whoever will call on Yahweh’s name shall be saved;
+VERSE:for in Mount Zion and in Jerusalem there will be those who escape,
+VERSE:as Yahweh has said,
+VERSE:and among the remnant, those whom Yahweh calls.

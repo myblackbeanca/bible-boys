@@ -1,0 +1,110 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:15
+TITLE:Job 15
+LABEL:1
+VERSE:Then answered Eliphaz the Temanite, and said,
+LABEL:2
+VERSE:Should a wise man make answer with vain knowledge,
+VERSE:And fill himself with the east wind?
+LABEL:3
+VERSE:Should he reason with unprofitable talk,
+VERSE:Or with speeches wherewith he can do no good?
+LABEL:4
+VERSE:Yea, thou doest away with fear,
+VERSE:And hinderest devotion before God.
+LABEL:5
+VERSE:For thine iniquity teacheth thy mouth,
+VERSE:And thou choosest the tongue of the crafty.
+LABEL:6
+VERSE:Thine own mouth condemneth thee, and not I;
+VERSE:Yea, thine own lips testify against thee.
+LABEL:7
+VERSE:Art thou the first man that was born?
+VERSE:Or wast thou brought forth before the hills?
+LABEL:8
+VERSE:Hast thou heard the secret counsel of God?
+VERSE:And dost thou limit wisdom to thyself?
+LABEL:9
+VERSE:What knowest thou, that we know not?
+VERSE:What understandest thou, which is not in us?
+LABEL:10
+VERSE:With us are both the gray-headed and the very aged men,
+VERSE:Much elder than thy father.
+LABEL:11
+VERSE:Are the consolations of God too small for thee,
+VERSE:Even the word that is gentle toward thee?
+LABEL:12
+VERSE:Why doth thy heart carry thee away?
+VERSE:And why do thine eyes flash,
+LABEL:13
+VERSE:That against God thou turnest thy spirit,
+VERSE:And lettest words go out of thy mouth?
+LABEL:14
+VERSE:What is man, that he should be clean?
+VERSE:And he that is born of a woman, that he should be righteous?
+LABEL:15
+VERSE:Behold, he putteth no trust in his holy ones;
+VERSE:Yea, the heavens are not clean in his sight:
+LABEL:16
+VERSE:How much less one that is abominable and corrupt,
+VERSE:A man that drinketh iniquity like water!
+LABEL:17
+VERSE:I will show thee, hear thou me;
+VERSE:And that which I have seen I will declare
+LABEL:18
+VERSE:(Which wise men have told
+VERSE:From their fathers, and have not hid it;
+LABEL:19
+VERSE:Unto whom alone the land was given,
+VERSE:And no stranger passed among them):
+LABEL:20
+VERSE:The wicked man travaileth with pain all his days,
+VERSE:Even the number of years that are laid up for the oppressor.
+LABEL:21
+VERSE:A sound of terrors is in his ears;
+VERSE:In prosperity the destroyer shall come upon him.
+LABEL:22
+VERSE:He believeth not that he shall return out of darkness,
+VERSE:And he is waited for of the sword.
+LABEL:23
+VERSE:He wandereth abroad for bread, saying, Where is it?
+VERSE:He knoweth that the day of darkness is ready at his hand.
+LABEL:24
+VERSE:Distress and anguish make him afraid;
+VERSE:They prevail against him, as a king ready to the battle.
+LABEL:25
+VERSE:Because he hath stretched out his hand against God,
+VERSE:And behaveth himself proudly against the Almighty;
+LABEL:26
+VERSE:He runneth upon him with a stiff neck,
+VERSE:With the thick bosses of his bucklers;
+LABEL:27
+VERSE:Because he hath covered his face with his fatness,
+VERSE:And gathered fat upon his loins;
+LABEL:28
+VERSE:And he hath dwelt in desolate cities,
+VERSE:In houses which no man inhabited,
+VERSE:Which were ready to become heaps;
+LABEL:29
+VERSE:He shall not be rich, neither shall his substance continue,
+VERSE:Neither shall their possessions be extended on the earth.
+LABEL:30
+VERSE:He shall not depart out of darkness;
+VERSE:The flame shall dry up his branches,
+VERSE:And by the breath of God’s mouth shall he go away.
+LABEL:31
+VERSE:Let him not trust in vanity, deceiving himself;
+VERSE:For vanity shall be his recompense.
+LABEL:32
+VERSE:It shall be accomplished before his time,
+VERSE:And his branch shall not be green.
+LABEL:33
+VERSE:He shall shake off his unripe grape as the vine,
+VERSE:And shall cast off his flower as the olive-tree.
+LABEL:34
+VERSE:For the company of the godless shall be barren,
+VERSE:And fire shall consume the tents of bribery.
+LABEL:35
+VERSE:They conceive mischief, and bring forth iniquity,
+VERSE:And their heart prepareth deceit.

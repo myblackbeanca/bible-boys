@@ -1,0 +1,70 @@
+TRANSLATION:KJV
+BOOK:EPH
+CHAPTER:5
+TITLE:Ephesians 5
+LABEL:1
+VERSE:Be ye therefore followers of God, as dear children;
+LABEL:2
+VERSE:and walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.
+LABEL:3
+VERSE:But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;
+LABEL:4
+VERSE:neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.
+LABEL:5
+VERSE:For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
+LABEL:6
+VERSE:Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.
+LABEL:7
+VERSE:Be not ye therefore partakers with them.
+LABEL:8
+VERSE:For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:
+LABEL:9
+VERSE:(for the fruit of the Spirit is in all goodness and righteousness and truth;)
+LABEL:10
+VERSE:proving what is acceptable unto the Lord.
+LABEL:11
+VERSE:And have no fellowship with the unfruitful works of darkness, but rather reprove them.
+LABEL:12
+VERSE:For it is a shame even to speak of those things which are done of them in secret.
+LABEL:13
+VERSE:But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.
+LABEL:14
+VERSE:Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.
+LABEL:15
+VERSE:See then that ye walk circumspectly, not as fools, but as wise,
+LABEL:16
+VERSE:redeeming the time, because the days are evil.
+LABEL:17
+VERSE:Wherefore be ye not unwise, but understanding what the will of the Lord is.
+LABEL:18
+VERSE:And be not drunk with wine, wherein is excess; but be filled with the Spirit;
+LABEL:19
+VERSE:speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
+LABEL:20
+VERSE:giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;
+LABEL:21
+VERSE:submitting yourselves one to another in the fear of God.
+LABEL:22
+VERSE:Wives, submit yourselves unto your own husbands, as unto the Lord.
+LABEL:23
+VERSE:For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
+LABEL:24
+VERSE:Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
+LABEL:25
+VERSE:Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
+LABEL:26
+VERSE:that he might sanctify and cleanse it with the washing of water by the word,
+LABEL:27
+VERSE:that he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
+LABEL:28
+VERSE:So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
+LABEL:29
+VERSE:For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
+LABEL:30
+VERSE:for we are members of his body, of his flesh, and of his bones.
+LABEL:31
+VERSE:For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
+LABEL:32
+VERSE:This is a great mystery: but I speak concerning Christ and the church.
+LABEL:33
+VERSE:Nevertheless, let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.

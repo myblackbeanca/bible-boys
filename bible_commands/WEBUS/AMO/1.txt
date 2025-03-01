@@ -1,0 +1,76 @@
+TRANSLATION:WEBUS
+BOOK:AMO
+CHAPTER:1
+TITLE:Amos 1
+LABEL:1
+VERSE:The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.
+LABEL:2
+VERSE:He said:
+VERSE:“Yahweh will roar from Zion,
+VERSE:and utter his voice from Jerusalem;
+VERSE:and the pastures of the shepherds will mourn,
+VERSE:and the top of Carmel will wither.”
+LABEL:3
+VERSE:Yahweh says:
+VERSE:“For three transgressions of Damascus, yes, for four,
+VERSE:I will not turn away its punishment,
+VERSE:because they have threshed Gilead with threshing instruments of iron;
+LABEL:4
+VERSE:but I will send a fire into the house of Hazael,
+VERSE:and it will devour the palaces of Ben Hadad.
+LABEL:5
+VERSE:I will break the bar of Damascus,
+VERSE:and cut off the inhabitant from the valley of Aven,
+VERSE:and him who holds the scepter from the house of Eden;
+VERSE:and the people of Syria shall go into captivity to Kir,”
+VERSE:says Yahweh.
+LABEL:6
+VERSE:Yahweh says:
+VERSE:“For three transgressions of Gaza, yes, for four,
+VERSE:I will not turn away its punishment,
+VERSE:because they carried away captive the whole community,
+VERSE:to deliver them up to Edom;
+LABEL:7
+VERSE:but I will send a fire on the wall of Gaza,
+VERSE:and it will devour its palaces.
+LABEL:8
+VERSE:I will cut off the inhabitant from Ashdod,
+VERSE:and him who holds the scepter from Ashkelon;
+VERSE:and I will turn my hand against Ekron;
+VERSE:and the remnant of the Philistines will perish,”
+VERSE:says the Lord Yahweh.
+LABEL:9
+VERSE:Yahweh says:
+VERSE:“For three transgressions of Tyre, yes, for four,
+VERSE:I will not turn away its punishment;
+VERSE:because they delivered up the whole community to Edom,
+VERSE:and didn’t remember the brotherly covenant;
+LABEL:10
+VERSE:but I will send a fire on the wall of Tyre,
+VERSE:and it will devour its palaces.”
+LABEL:11
+VERSE:Yahweh says:
+VERSE:“For three transgressions of Edom, yes, for four,
+VERSE:I will not turn away its punishment,
+VERSE:because he pursued his brother with the sword
+VERSE:and cast off all pity,
+VERSE:and his anger raged continually,
+VERSE:and he kept his wrath forever;
+LABEL:12
+VERSE:but I will send a fire on Teman,
+VERSE:and it will devour the palaces of Bozrah.”
+LABEL:13
+VERSE:Yahweh says:
+VERSE:“For three transgressions of the children of Ammon, yes, for four,
+VERSE:I will not turn away its punishment,
+VERSE:because they have ripped open the pregnant women of Gilead,
+VERSE:that they may enlarge their border.
+LABEL:14
+VERSE:But I will kindle a fire in the wall of Rabbah,
+VERSE:and it will devour its palaces,
+VERSE:with shouting in the day of battle,
+VERSE:with a storm in the day of the whirlwind;
+LABEL:15
+VERSE:and their king will go into captivity,
+VERSE:he and his princes together,”
+VERSE:says Yahweh.

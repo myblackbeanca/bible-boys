@@ -1,0 +1,61 @@
+TRANSLATION:WEBUS
+BOOK:1TH
+CHAPTER:5
+TITLE:1 Thessalonians 5
+LABEL:1
+VERSE:But concerning the times and the seasons, brothers, you have no need that anything be written to you.
+LABEL:2
+VERSE:For you yourselves know well that the day of the Lord comes like a thief in the night.
+LABEL:3
+VERSE:For when they are saying, “Peace and safety,” then sudden destruction will come on them, like birth pains on a pregnant woman. Then they will in no way escape.
+LABEL:4
+VERSE:But you, brothers, aren’t in darkness, that the day should overtake you like a thief.
+LABEL:5
+VERSE:You are all children of light and children of the day. We don’t belong to the night, nor to darkness,
+LABEL:6
+VERSE:so then let’s not sleep, as the rest do, but let’s watch and be sober.
+LABEL:7
+VERSE:For those who sleep, sleep in the night; and those who are drunk are drunk in the night.
+LABEL:8
+VERSE:But since we belong to the day, let’s be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation.
+LABEL:9
+VERSE:For God didn’t appoint us to wrath, but to the obtaining of salvation through our Lord Jesus Christ,
+LABEL:10
+VERSE:who died for us, that, whether we wake or sleep, we should live together with him.
+LABEL:11
+VERSE:Therefore exhort one another, and build each other up, even as you also do.
+LABEL:12
+VERSE:But we beg you, brothers, to know those who labor among you, and are over you in the Lord and admonish you,
+LABEL:13
+VERSE:and to respect and honor them in love for their work’s sake.
+VERSE:Be at peace among yourselves.
+LABEL:14
+VERSE:We exhort you, brothers: Admonish the disorderly; encourage the faint-hearted; support the weak; be patient toward all.
+LABEL:15
+VERSE:See that no one returns evil for evil to anyone, but always follow after that which is good for one another and for all.
+LABEL:16
+VERSE:Always rejoice.
+LABEL:17
+VERSE:Pray without ceasing.
+LABEL:18
+VERSE:In everything give thanks, for this is the will of God in Christ Jesus toward you.
+LABEL:19
+VERSE:Don’t quench the Spirit.
+LABEL:20
+VERSE:Don’t despise prophecies.
+LABEL:21
+VERSE:Test all things, and hold firmly that which is good.
+LABEL:22
+VERSE:Abstain from every form of evil.
+LABEL:23
+VERSE:May the God of peace himself sanctify you completely. May your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ.
+LABEL:24
+VERSE:He who calls you is faithful, who will also do it.
+LABEL:25
+VERSE:Brothers, pray for us.
+LABEL:26
+VERSE:Greet all the brothers with a holy kiss.
+LABEL:27
+VERSE:I solemnly command you by the Lord that this letter be read to all the holy brothers.
+LABEL:28
+VERSE:The grace of our Lord Jesus Christ be with you. Amen.

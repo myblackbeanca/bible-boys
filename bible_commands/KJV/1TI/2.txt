@@ -1,0 +1,34 @@
+TRANSLATION:KJV
+BOOK:1TI
+CHAPTER:2
+TITLE:1 Timothy 2
+LABEL:1
+VERSE:I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
+LABEL:2
+VERSE:for kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
+LABEL:3
+VERSE:For this is good and acceptable in the sight of God our Saviour;
+LABEL:4
+VERSE:who will have all men to be saved, and to come unto the knowledge of the truth.
+LABEL:5
+VERSE:For there is one God, and one mediator between God and men, the man Christ Jesus;
+LABEL:6
+VERSE:who gave himself a ransom for all, to be testified in due time.
+LABEL:7
+VERSE:Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+LABEL:8
+VERSE:I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
+LABEL:9
+VERSE:In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
+LABEL:10
+VERSE:but (which becometh women professing godliness) with good works.
+LABEL:11
+VERSE:Let the woman learn in silence with all subjection.
+LABEL:12
+VERSE:But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
+LABEL:13
+VERSE:For Adam was first formed, then Eve.
+LABEL:14
+VERSE:And Adam was not deceived, but the woman being deceived was in the transgression.
+LABEL:15
+VERSE:Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.

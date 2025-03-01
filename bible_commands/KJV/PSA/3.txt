@@ -1,0 +1,29 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:3
+TITLE:Psalm 3
+LABEL:1
+VERSE:  LORD, how are they increased that trouble me!
+VERSE:Many are they that rise up against me.
+LABEL:2
+VERSE:Many there be which say of my soul,
+VERSE:There is no help for him in God. Selah.
+LABEL:3
+VERSE:But thou, O LORD, art a shield for me;
+VERSE:My glory, and the lifter up of mine head.
+LABEL:4
+VERSE:I cried unto the LORD with my voice,
+VERSE:And he heard me out of his holy hill. Selah.
+LABEL:5
+VERSE:I laid me down and slept;
+VERSE:I awaked; for the LORD sustained me.
+LABEL:6
+VERSE:I will not be afraid of ten thousands of people,
+VERSE:That have set themselves against me round about.
+LABEL:7
+VERSE:Arise, O LORD; save me, O my God:
+VERSE:For thou hast smitten all mine enemies upon the cheek bone;
+VERSE:Thou hast broken the teeth of the ungodly.
+LABEL:8
+VERSE:Salvation belongeth unto the LORD:
+VERSE:Thy blessing is upon thy people. Selah.

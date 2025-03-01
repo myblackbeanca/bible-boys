@@ -1,0 +1,77 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:50
+TITLE:Psalms 50
+LABEL:1
+VERSE:The Mighty One, God, Yahweh, speaks,
+VERSE:and calls the earth from sunrise to sunset.
+LABEL:2
+VERSE:Out of Zion, the perfection of beauty,
+VERSE:God shines out.
+LABEL:3
+VERSE:Our God comes, and does not keep silent.
+VERSE:A fire devours before him.
+VERSE:It is very stormy around him.
+LABEL:4
+VERSE:He calls to the heavens above,
+VERSE:to the earth, that he may judge his people:
+LABEL:5
+VERSE:“Gather my saints together to me,
+VERSE:those who have made a covenant with me by sacrifice.”
+LABEL:6
+VERSE:The heavens shall declare his righteousness,
+VERSE:for God himself is judge. Selah.
+LABEL:7
+VERSE:“Hear, my people, and I will speak.
+VERSE:Israel, I will testify against you.
+VERSE:I am God, your God.
+LABEL:8
+VERSE:I don’t rebuke you for your sacrifices.
+VERSE:Your burnt offerings are continually before me.
+LABEL:9
+VERSE:I have no need for a bull from your stall,
+VERSE:nor male goats from your pens.
+LABEL:10
+VERSE:For every animal of the forest is mine,
+VERSE:and the livestock on a thousand hills.
+LABEL:11
+VERSE:I know all the birds of the mountains.
+VERSE:The wild animals of the field are mine.
+LABEL:12
+VERSE:If I were hungry, I would not tell you,
+VERSE:for the world is mine, and all that is in it.
+LABEL:13
+VERSE:Will I eat the meat of bulls,
+VERSE:or drink the blood of goats?
+LABEL:14
+VERSE:Offer to God the sacrifice of thanksgiving.
+VERSE:Pay your vows to the Most High.
+LABEL:15
+VERSE:Call on me in the day of trouble.
+VERSE:I will deliver you, and you will honor me.”
+LABEL:16
+VERSE:But to the wicked God says,
+VERSE:“What right do you have to declare my statutes,
+VERSE:that you have taken my covenant on your lips,
+LABEL:17
+VERSE:since you hate instruction,
+VERSE:and throw my words behind you?
+LABEL:18
+VERSE:When you saw a thief, you consented with him,
+VERSE:and have participated with adulterers.
+LABEL:19
+VERSE:“You give your mouth to evil.
+VERSE:Your tongue frames deceit.
+LABEL:20
+VERSE:You sit and speak against your brother.
+VERSE:You slander your own mother’s son.
+LABEL:21
+VERSE:You have done these things, and I kept silent.
+VERSE:You thought that I was just like you.
+VERSE:I will rebuke you, and accuse you in front of your eyes.
+LABEL:22
+VERSE:“Now consider this, you who forget God,
+VERSE:lest I tear you into pieces, and there be no one to deliver.
+LABEL:23
+VERSE:Whoever offers the sacrifice of thanksgiving glorifies me,
+VERSE:and prepares his way so that I will show God’s salvation to him.”

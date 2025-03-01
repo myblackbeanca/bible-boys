@@ -1,0 +1,49 @@
+TRANSLATION:WEBUS
+BOOK:2CO
+CHAPTER:6
+TITLE:2 Corinthians 6
+LABEL:1
+VERSE:Working together, we entreat also that you do not receive the grace of God in vain.
+LABEL:2
+VERSE:For he says,
+VERSE:“At an acceptable time I listened to you.
+VERSE:In a day of salvation I helped you.”
+VERSE:Behold, now is the acceptable time. Behold, now is the day of salvation.
+LABEL:3
+VERSE:We give no occasion of stumbling in anything, that our service may not be blamed,
+LABEL:4
+VERSE:but in everything commending ourselves as servants of God: in great endurance, in afflictions, in hardships, in distresses,
+LABEL:5
+VERSE:in beatings, in imprisonments, in riots, in labors, in watchings, in fastings,
+LABEL:6
+VERSE:in pureness, in knowledge, in perseverance, in kindness, in the Holy Spirit, in sincere love,
+LABEL:7
+VERSE:in the word of truth, in the power of God, by the armor of righteousness on the right hand and on the left,
+LABEL:8
+VERSE:by glory and dishonor, by evil report and good report, as deceivers and yet true,
+LABEL:9
+VERSE:as unknown and yet well known, as dying and behold—we live, as punished and not killed,
+LABEL:10
+VERSE:as sorrowful yet always rejoicing, as poor yet making many rich, as having nothing and yet possessing all things.
+LABEL:11
+VERSE:Our mouth is open to you, Corinthians. Our heart is enlarged.
+LABEL:12
+VERSE:You are not restricted by us, but you are restricted by your own affections.
+LABEL:13
+VERSE:Now in return—I speak as to my children—you also open your hearts.
+LABEL:14
+VERSE:Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness?
+LABEL:15
+VERSE:What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever?
+LABEL:16
+VERSE:What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”
+LABEL:17
+VERSE:Therefore
+VERSE:“‘Come out from among them,
+VERSE:and be separate,’ says the Lord.
+VERSE:‘Touch no unclean thing.
+VERSE:I will receive you.
+LABEL:18
+VERSE:I will be to you a Father.
+VERSE:You will be to me sons and daughters,’
+VERSE:says the Lord Almighty.”

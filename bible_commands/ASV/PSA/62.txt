@@ -1,0 +1,46 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:62
+TITLE:Psalms 62
+LABEL:1
+VERSE:My soul waiteth in silence for God only:
+VERSE:From him cometh my salvation.
+LABEL:2
+VERSE:He only is my rock and my salvation:
+VERSE:He is my high tower; I shall not be greatly moved.
+LABEL:3
+VERSE:How long will ye set upon a man,
+VERSE:That ye may slay him, all of you,
+VERSE:Like a leaning wall, like a tottering fence?
+LABEL:4
+VERSE:They only consult to thrust him down from his dignity;
+VERSE:They delight in lies;
+VERSE:They bless with their mouth, but they curse inwardly. [Selah
+LABEL:5
+VERSE:My soul, wait thou in silence for God only;
+VERSE:For my expectation is from him.
+LABEL:6
+VERSE:He only is my rock and my salvation:
+VERSE:He is my high tower; I shall not be moved.
+LABEL:7
+VERSE:With God is my salvation and my glory:
+VERSE:The rock of my strength, and my refuge, is in God.
+LABEL:8
+VERSE:Trust in him at all times, ye people;
+VERSE:Pour out your heart before him:
+VERSE:God is a refuge for us. [Selah
+LABEL:9
+VERSE:Surely men of low degree are vanity, and men of high degree are a lie:
+VERSE:In the balances they will go up;
+VERSE:They are together lighter than vanity.
+LABEL:10
+VERSE:Trust not in oppression,
+VERSE:And become not vain in robbery:
+VERSE:If riches increase, set not your heart thereon.
+LABEL:11
+VERSE:God hath spoken once,
+VERSE:Twice have I heard this,
+VERSE:That power belongeth unto God.
+LABEL:12
+VERSE:Also unto thee, O Lord, belongeth lovingkindness;
+VERSE:For thou renderest to every man according to his work.

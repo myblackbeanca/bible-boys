@@ -1,0 +1,68 @@
+TRANSLATION:ASV
+BOOK:SNG
+CHAPTER:1
+TITLE:Song of Solomon 1
+LABEL:1
+VERSE:The Song of songs, which is Solomon’s.
+LABEL:2
+VERSE:Let him kiss me with the kisses of his mouth;
+VERSE:For thy love is better than wine.
+LABEL:3
+VERSE:Thine oils have a goodly fragrance;
+VERSE:Thy name is as oil poured forth;
+VERSE:Therefore do the virgins love thee.
+LABEL:4
+VERSE:Draw me; we will run after thee:
+VERSE:The king hath brought me into his chambers;
+VERSE:We will be glad and rejoice in thee;
+VERSE:We will make mention of thy love more than of wine:
+VERSE:Rightly do they love thee.
+LABEL:5
+VERSE:I am black, but comely,
+VERSE:O ye daughters of Jerusalem,
+VERSE:As the tents of Kedar,
+VERSE:As the curtains of Solomon.
+LABEL:6
+VERSE:Look not upon me, because I am swarthy,
+VERSE:Because the sun hath scorched me.
+VERSE:My mother’s sons were incensed against me;
+VERSE:They made me keeper of the vineyards;
+VERSE:But mine own vineyard have I not kept.
+LABEL:7
+VERSE:Tell me, O thou whom my soul loveth,
+VERSE:Where thou feedest thy flock,
+VERSE:Where thou makest it to rest at noon:
+VERSE:For why should I be as one that is veiled
+VERSE:Beside the flocks of thy companions?
+LABEL:8
+VERSE:If thou know not, O thou fairest among women,
+VERSE:Go thy way forth by the footsteps of the flock,
+VERSE:And feed thy kids beside the shepherds’ tents.
+LABEL:9
+VERSE:I have compared thee, O my love,
+VERSE:To a steed in Pharaoh’s chariots.
+LABEL:10
+VERSE:Thy cheeks are comely with plaits of hair,
+VERSE:Thy neck with strings of jewels.
+LABEL:11
+VERSE:We will make thee plaits of gold
+VERSE:With studs of silver.
+LABEL:12
+VERSE:While the king sat at his table,
+VERSE:My spikenard sent forth its fragrance.
+LABEL:13
+VERSE:My beloved is unto me as a bundle of myrrh,
+VERSE:That lieth betwixt my breasts.
+LABEL:14
+VERSE:My beloved is unto me as a cluster of henna-flowers
+VERSE:In the vineyards of En-gedi.
+LABEL:15
+VERSE:Behold, thou art fair, my love;
+VERSE:Behold thou art fair;
+VERSE:Thine eyes are as doves.
+LABEL:16
+VERSE:Behold, thou art fair, my beloved, yea, pleasant:
+VERSE:Also our couch is green.
+LABEL:17
+VERSE:The beams of our house are cedars,
+VERSE:And our rafters are firs.

@@ -1,0 +1,76 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:40
+TITLE:Job 40
+LABEL:1
+VERSE:Moreover the LORD answered Job, and said,
+LABEL:2
+VERSE:Shall he that contendeth with the Almighty instruct him?
+VERSE:He that reproveth God, let him answer it.
+SECTION:Job's Reply
+LABEL:3
+VERSE:Then Job answered the LORD, and said,
+LABEL:4
+VERSE:Behold, I am vile; what shall I answer thee?
+VERSE:I will lay mine hand upon my mouth.
+LABEL:5
+VERSE:Once have I spoken; but I will not answer:
+VERSE:Yea, twice; but I will proceed no further.
+SECTION:The Lord's Answer
+LABEL:6
+VERSE:Then answered the LORD unto Job out of the whirlwind, and said,
+LABEL:7
+VERSE:Gird up thy loins now like a man:
+VERSE:I will demand of thee, and declare thou unto me.
+LABEL:8
+VERSE:Wilt thou also disannul my judgment?
+VERSE:Wilt thou condemn me, that thou mayest be righteous?
+LABEL:9
+VERSE:Hast thou an arm like God?
+VERSE:Or canst thou thunder with a voice like him?
+LABEL:10
+VERSE:Deck thyself now with majesty and excellency;
+VERSE:And array thyself with glory and beauty.
+LABEL:11
+VERSE:Cast abroad the rage of thy wrath:
+VERSE:And behold every one that is proud, and abase him.
+LABEL:12
+VERSE:Look on every one that is proud, and bring him low;
+VERSE:And tread down the wicked in their place.
+LABEL:13
+VERSE:Hide them in the dust together;
+VERSE:And bind their faces in secret.
+LABEL:14
+VERSE:Then will I also confess unto thee
+VERSE:That thine own right hand can save thee.
+LABEL:15
+VERSE:Behold now behemoth,
+VERSE:Which I made with thee;
+VERSE:He eateth grass as an ox.
+LABEL:16
+VERSE:Lo now, his strength is in his loins,
+VERSE:And his force is in the navel of his belly.
+LABEL:17
+VERSE:He moveth his tail like a cedar:
+VERSE:The sinews of his stones are wrapped together.
+LABEL:18
+VERSE:His bones are as strong pieces of brass;
+VERSE:His bones are like bars of iron.
+LABEL:19
+VERSE:He is the chief of the ways of God:
+VERSE:He that made him can make his sword to approach unto him.
+LABEL:20
+VERSE:Surely the mountains bring him forth food,
+VERSE:Where all the beasts of the field play.
+LABEL:21
+VERSE:He lieth under the shady trees,
+VERSE:In the covert of the reed, and fens.
+LABEL:22
+VERSE:The shady trees cover him with their shadow;
+VERSE:The willows of the brook compass him about.
+LABEL:23
+VERSE:Behold, he drinketh up a river, and hasteth not:
+VERSE:He trusteth that he can draw up Jordan into his mouth.
+LABEL:24
+VERSE:He taketh it with his eyes:
+VERSE:His nose pierceth through snares.

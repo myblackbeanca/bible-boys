@@ -1,0 +1,78 @@
+TRANSLATION:WEBUS
+BOOK:SNG
+CHAPTER:1
+TITLE:Song of Solomon 1
+LABEL:1
+VERSE:The Song of songs, which is Solomon’s.
+SECTION:Beloved
+LABEL:2
+VERSE:Let him kiss me with the kisses of his mouth;
+VERSE:for your love is better than wine.
+LABEL:3
+VERSE:Your oils have a pleasing fragrance.
+VERSE:Your name is oil poured out,
+VERSE:therefore the virgins love you.
+LABEL:4
+VERSE:Take me away with you.
+VERSE:Let’s hurry.
+VERSE:The king has brought me into his rooms.
+SECTION:Friends
+VERSE:We will be glad and rejoice in you.
+VERSE:We will praise your love more than wine!
+SECTION:Beloved
+VERSE:They are right to love you.
+LABEL:5
+VERSE:I am dark, but lovely,
+VERSE:you daughters of Jerusalem,
+VERSE:like Kedar’s tents,
+VERSE:like Solomon’s curtains.
+LABEL:6
+VERSE:Don’t stare at me because I am dark,
+VERSE:because the sun has scorched me.
+VERSE:My mother’s sons were angry with me.
+VERSE:They made me keeper of the vineyards.
+VERSE:I haven’t kept my own vineyard.
+LABEL:7
+VERSE:Tell me, you whom my soul loves,
+VERSE:where you graze your flock,
+VERSE:where you rest them at noon;
+VERSE:for why should I be as one who is veiled
+VERSE:beside the flocks of your companions?
+SECTION:Lover
+LABEL:8
+VERSE:If you don’t know, most beautiful among women,
+VERSE:follow the tracks of the sheep.
+VERSE:Graze your young goats beside the shepherds’ tents.
+LABEL:9
+VERSE:I have compared you, my love,
+VERSE:to a steed in Pharaoh’s chariots.
+LABEL:10
+VERSE:Your cheeks are beautiful with earrings,
+VERSE:your neck with strings of jewels.
+SECTION:Friends
+LABEL:11
+VERSE:We will make you earrings of gold,
+VERSE:with studs of silver.
+SECTION:Beloved
+LABEL:12
+VERSE:While the king sat at his table,
+VERSE:my perfume spread its fragrance.
+LABEL:13
+VERSE:My beloved is to me a sachet of myrrh,
+VERSE:that lies between my breasts.
+LABEL:14
+VERSE:My beloved is to me a cluster of henna blossoms
+VERSE:from the vineyards of En Gedi.
+SECTION:Lover
+LABEL:15
+VERSE:Behold, you are beautiful, my love.
+VERSE:Behold, you are beautiful.
+VERSE:Your eyes are like doves.
+SECTION:Beloved
+LABEL:16
+VERSE:Behold, you are beautiful, my beloved, yes, pleasant;
+VERSE:and our couch is verdant.
+SECTION:Lover
+LABEL:17
+VERSE:The beams of our house are cedars.
+VERSE:Our rafters are firs.

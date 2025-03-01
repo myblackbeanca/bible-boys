@@ -1,0 +1,69 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:4
+TITLE:Job 4
+LABEL:1
+VERSE:Then Eliphaz the Temanite answered,
+LABEL:2
+VERSE:“If someone ventures to talk with you, will you be grieved?
+VERSE:But who can withhold himself from speaking?
+LABEL:3
+VERSE:Behold, you have instructed many,
+VERSE:you have strengthened the weak hands.
+LABEL:4
+VERSE:Your words have supported him who was falling,
+VERSE:you have made the feeble knees firm.
+LABEL:5
+VERSE:But now it has come to you, and you faint.
+VERSE:It touches you, and you are troubled.
+LABEL:6
+VERSE:Isn’t your piety your confidence?
+VERSE:Isn’t the integrity of your ways your hope?
+LABEL:7
+VERSE:“Remember, now, who ever perished, being innocent?
+VERSE:Or where were the upright cut off?
+LABEL:8
+VERSE:According to what I have seen, those who plow iniquity
+VERSE:and sow trouble, reap the same.
+LABEL:9
+VERSE:By the breath of God they perish.
+VERSE:By the blast of his anger are they consumed.
+LABEL:10
+VERSE:The roaring of the lion,
+VERSE:and the voice of the fierce lion,
+VERSE:the teeth of the young lions, are broken.
+LABEL:11
+VERSE:The old lion perishes for lack of prey.
+VERSE:The cubs of the lioness are scattered abroad.
+LABEL:12
+VERSE:“Now a thing was secretly brought to me.
+VERSE:My ear received a whisper of it.
+LABEL:13
+VERSE:In thoughts from the visions of the night,
+VERSE:when deep sleep falls on men,
+LABEL:14
+VERSE:fear came on me, and trembling,
+VERSE:which made all my bones shake.
+LABEL:15
+VERSE:Then a spirit passed before my face.
+VERSE:The hair of my flesh stood up.
+LABEL:16
+VERSE:It stood still, but I couldn’t discern its appearance.
+VERSE:A form was before my eyes.
+VERSE:Silence, then I heard a voice, saying,
+LABEL:17
+VERSE:‘Shall mortal man be more just than God?
+VERSE:Shall a man be more pure than his Maker?
+LABEL:18
+VERSE:Behold, he puts no trust in his servants.
+VERSE:He charges his angels with error.
+LABEL:19
+VERSE:How much more those who dwell in houses of clay,
+VERSE:whose foundation is in the dust,
+VERSE:who are crushed before the moth!
+LABEL:20
+VERSE:Between morning and evening they are destroyed.
+VERSE:They perish forever without any regarding it.
+LABEL:21
+VERSE:Isn’t their tent cord plucked up within them?
+VERSE:They die, and that without wisdom.’

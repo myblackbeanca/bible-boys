@@ -1,0 +1,92 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:23
+TITLE:Numbers 23
+LABEL:1
+VERSE:Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me.”
+LABEL:2
+VERSE:Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bull and a ram.
+LABEL:3
+VERSE:Balaam said to Balak, “Stand by your burnt offering, and I will go. Perhaps Yahweh will come to meet me. Whatever he shows me I will tell you.”
+VERSE:He went to a bare height.
+LABEL:4
+VERSE:God met Balaam, and he said to him, “I have prepared the seven altars, and I have offered up a bull and a ram on every altar.”
+LABEL:5
+VERSE:Yahweh put a word in Balaam’s mouth, and said, “Return to Balak, and thus you shall speak.”
+LABEL:6
+VERSE:He returned to him, and behold, he was standing by his burnt offering, he, and all the princes of Moab.
+LABEL:7
+VERSE:He took up his parable, and said,
+VERSE:“From Aram has Balak brought me,
+VERSE:the king of Moab from the mountains of the East.
+VERSE:Come, curse Jacob for me.
+VERSE:Come, defy Israel.
+LABEL:8
+VERSE:How shall I curse whom God has not cursed?
+VERSE:How shall I defy whom Yahweh has not defied?
+LABEL:9
+VERSE:For from the top of the rocks I see him.
+VERSE:From the hills I see him.
+VERSE:Behold, it is a people that dwells alone,
+VERSE:and shall not be listed among the nations.
+LABEL:10
+VERSE:Who can count the dust of Jacob,
+VERSE:or count the fourth part of Israel?
+VERSE:Let me die the death of the righteous!
+VERSE:Let my last end be like his!”
+LABEL:11
+VERSE:Balak said to Balaam, “What have you done to me? I took you to curse my enemies, and behold, you have blessed them altogether.”
+LABEL:12
+VERSE:He answered and said, “Must I not take heed to speak that which Yahweh puts in my mouth?”
+LABEL:13
+VERSE:Balak said to him, “Please come with me to another place, where you may see them. You shall see just part of them, and shall not see them all. Curse them from there for me.”
+LABEL:14
+VERSE:He took him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered up a bull and a ram on every altar.
+LABEL:15
+VERSE:He said to Balak, “Stand here by your burnt offering, while I meet God over there.”
+LABEL:16
+VERSE:Yahweh met Balaam, and put a word in his mouth, and said, “Return to Balak, and say this.”
+LABEL:17
+VERSE:He came to him, and behold, he was standing by his burnt offering, and the princes of Moab with him. Balak said to him, “What has Yahweh spoken?”
+LABEL:18
+VERSE:He took up his parable, and said,
+VERSE:“Rise up, Balak, and hear!
+VERSE:Listen to me, you son of Zippor.
+LABEL:19
+VERSE:God is not a man, that he should lie,
+VERSE:nor a son of man, that he should repent.
+VERSE:Has he said, and he won’t do it?
+VERSE:Or has he spoken, and he won’t make it good?
+LABEL:20
+VERSE:Behold, I have received a command to bless.
+VERSE:He has blessed, and I can’t reverse it.
+LABEL:21
+VERSE:He has not seen iniquity in Jacob.
+VERSE:Neither has he seen perverseness in Israel.
+VERSE:Yahweh his God is with him.
+VERSE:The shout of a king is among them.
+LABEL:22
+VERSE:God brings them out of Egypt.
+VERSE:He has as it were the strength of the wild ox.
+LABEL:23
+VERSE:Surely there is no enchantment with Jacob;
+VERSE:neither is there any divination with Israel.
+VERSE:Now it shall be said of Jacob and of Israel,
+VERSE:‘What has God done!’
+LABEL:24
+VERSE:Behold, a people rises up as a lioness.
+VERSE:As a lion he lifts himself up.
+VERSE:He shall not lie down until he eats of the prey,
+VERSE:and drinks the blood of the slain.”
+LABEL:25
+VERSE:Balak said to Balaam, “Neither curse them at all, nor bless them at all.”
+LABEL:26
+VERSE:But Balaam answered Balak, “Didn’t I tell you, saying, ‘All that Yahweh speaks, that I must do’?”
+LABEL:27
+VERSE:Balak said to Balaam, “Come now, I will take you to another place; perhaps it will please God that you may curse them for me from there.”
+LABEL:28
+VERSE:Balak took Balaam to the top of Peor, that looks down on the desert.
+LABEL:29
+VERSE:Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams for me here.”
+LABEL:30
+VERSE:Balak did as Balaam had said, and offered up a bull and a ram on every altar.

@@ -1,0 +1,95 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:6
+TITLE:Job 6
+LABEL:1
+VERSE:Then Job answered and said,
+LABEL:2
+VERSE:Oh that my vexation were but weighed,
+VERSE:And all my calamity laid in the balances!
+LABEL:3
+VERSE:For now it would be heavier than the sand of the seas:
+VERSE:Therefore have my words been rash.
+LABEL:4
+VERSE:For the arrows of the Almighty are within me,
+VERSE:The poison whereof my spirit drinketh up:
+VERSE:The terrors of God do set themselves in array against me.
+LABEL:5
+VERSE:Doth the wild ass bray when he hath grass?
+VERSE:Or loweth the ox over his fodder?
+LABEL:6
+VERSE:Can that which hath no savor be eaten without salt?
+VERSE:Or is there any taste in the white of an egg?
+LABEL:7
+VERSE:My soul refuseth to touch them;
+VERSE:They are as loathsome food to me.
+LABEL:8
+VERSE:Oh that I might have my request;
+VERSE:And that God would grant me the thing that I long for!
+LABEL:9
+VERSE:Even that it would please God to crush me;
+VERSE:That he would let loose his hand, and cut me off!
+LABEL:10
+VERSE:And be it still my consolation,
+VERSE:Yea, let me exult in pain that spareth not,
+VERSE:That I have not denied the words of the Holy One.
+LABEL:11
+VERSE:What is my strength, that I should wait?
+VERSE:And what is mine end, that I should be patient?
+LABEL:12
+VERSE:Is my strength the strength of stones?
+VERSE:Or is my flesh of brass?
+LABEL:13
+VERSE:Is it not that I have no help in me,
+VERSE:And that wisdom is driven quite from me?
+LABEL:14
+VERSE:To him that is ready to faint kindness should be showed from his friend;
+VERSE:Even to him that forsaketh the fear of the Almighty.
+LABEL:15
+VERSE:My brethren have dealt deceitfully as a brook,
+VERSE:As the channel of brooks that pass away;
+LABEL:16
+VERSE:Which are black by reason of the ice,
+VERSE:And wherein the snow hideth itself:
+LABEL:17
+VERSE:What time they wax warm, they vanish;
+VERSE:When it is hot, they are consumed out of their place.
+LABEL:18
+VERSE:The caravans that travel by the way of them turn aside;
+VERSE:They go up into the waste, and perish.
+LABEL:19
+VERSE:The caravans of Tema looked,
+VERSE:The companies of Sheba waited for them.
+LABEL:20
+VERSE:They were put to shame because they had hoped;
+VERSE:They came thither, and were confounded.
+LABEL:21
+VERSE:For now ye are nothing;
+VERSE:Ye see a terror, and are afraid.
+LABEL:22
+VERSE:Did I say, Give unto me?
+VERSE:Or, Offer a present for me of your substance?
+LABEL:23
+VERSE:Or, Deliver me from the adversary’s hand?
+VERSE:Or, Redeem me from the hand of the oppressors?
+LABEL:24
+VERSE:Teach me, and I will hold my peace;
+VERSE:And cause me to understand wherein I have erred.
+LABEL:25
+VERSE:How forcible are words of uprightness!
+VERSE:But your reproof, what doth it reprove?
+LABEL:26
+VERSE:Do ye think to reprove words,
+VERSE:Seeing that the speeches of one that is desperate are as wind?
+LABEL:27
+VERSE:Yea, ye would cast lots upon the fatherless,
+VERSE:And make merchandise of your friend.
+LABEL:28
+VERSE:Now therefore be pleased to look upon me;
+VERSE:For surely I shall not lie to your face.
+LABEL:29
+VERSE:Return, I pray you, let there be no injustice;
+VERSE:Yea, return again, my cause is righteous.
+LABEL:30
+VERSE:Is there injustice on my tongue?
+VERSE:Cannot my taste discern mischievous things?

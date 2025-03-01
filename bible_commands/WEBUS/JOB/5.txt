@@ -1,0 +1,87 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:5
+TITLE:Job 5
+LABEL:1
+VERSE:“Call now; is there any who will answer you?
+VERSE:To which of the holy ones will you turn?
+LABEL:2
+VERSE:For resentment kills the foolish man,
+VERSE:and jealousy kills the simple.
+LABEL:3
+VERSE:I have seen the foolish taking root,
+VERSE:but suddenly I cursed his habitation.
+LABEL:4
+VERSE:His children are far from safety.
+VERSE:They are crushed in the gate.
+VERSE:Neither is there any to deliver them,
+LABEL:5
+VERSE:whose harvest the hungry eat up,
+VERSE:and take it even out of the thorns.
+VERSE:The snare gapes for their substance.
+LABEL:6
+VERSE:For affliction doesn’t come out of the dust,
+VERSE:neither does trouble spring out of the ground;
+LABEL:7
+VERSE:but man is born to trouble,
+VERSE:as the sparks fly upward.
+LABEL:8
+VERSE:“But as for me, I would seek God.
+VERSE:I would commit my cause to God,
+LABEL:9
+VERSE:who does great things that can’t be fathomed,
+VERSE:marvelous things without number;
+LABEL:10
+VERSE:who gives rain on the earth,
+VERSE:and sends waters on the fields;
+LABEL:11
+VERSE:so that he sets up on high those who are low,
+VERSE:those who mourn are exalted to safety.
+LABEL:12
+VERSE:He frustrates the plans of the crafty,
+VERSE:so that their hands can’t perform their enterprise.
+LABEL:13
+VERSE:He takes the wise in their own craftiness;
+VERSE:the counsel of the cunning is carried headlong.
+LABEL:14
+VERSE:They meet with darkness in the day time,
+VERSE:and grope at noonday as in the night.
+LABEL:15
+VERSE:But he saves from the sword of their mouth,
+VERSE:even the needy from the hand of the mighty.
+LABEL:16
+VERSE:So the poor has hope,
+VERSE:and injustice shuts her mouth.
+LABEL:17
+VERSE:“Behold, happy is the man whom God corrects.
+VERSE:Therefore do not despise the chastening of the Almighty.
+LABEL:18
+VERSE:For he wounds and binds up.
+VERSE:He injures and his hands make whole.
+LABEL:19
+VERSE:He will deliver you in six troubles;
+VERSE:yes, in seven no evil will touch you.
+LABEL:20
+VERSE:In famine he will redeem you from death;
+VERSE:in war, from the power of the sword.
+LABEL:21
+VERSE:You will be hidden from the scourge of the tongue,
+VERSE:neither will you be afraid of destruction when it comes.
+LABEL:22
+VERSE:You will laugh at destruction and famine,
+VERSE:neither will you be afraid of the animals of the earth.
+LABEL:23
+VERSE:For you will be allied with the stones of the field.
+VERSE:The animals of the field will be at peace with you.
+LABEL:24
+VERSE:You will know that your tent is in peace.
+VERSE:You will visit your fold, and will miss nothing.
+LABEL:25
+VERSE:You will know also that your offspring will be great,
+VERSE:your offspring as the grass of the earth.
+LABEL:26
+VERSE:You will come to your grave in a full age,
+VERSE:like a shock of grain comes in its season.
+LABEL:27
+VERSE:Behold, we have researched it. It is so.
+VERSE:Hear it, and know it for your good.”

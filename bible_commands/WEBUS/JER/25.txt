@@ -1,0 +1,99 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:25
+TITLE:Jeremiah 25
+LABEL:1
+VERSE:The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (this was the first year of Nebuchadnezzar king of Babylon),
+LABEL:2
+VERSE:which Jeremiah the prophet spoke to all the people of Judah, and to all the inhabitants of Jerusalem:
+LABEL:3
+VERSE:From the thirteenth year of Josiah the son of Amon, king of Judah, even to this day, these twenty-three years, Yahweh’s word has come to me, and I have spoken to you, rising up early and speaking; but you have not listened.
+LABEL:4
+VERSE:Yahweh has sent to you all his servants the prophets, rising up early and sending them (but you have not listened or inclined your ear to hear),
+LABEL:5
+VERSE:saying, “Return now everyone from his evil way, and from the evil of your doings, and dwell in the land that Yahweh has given to you and to your fathers, from of old and even forever more.
+LABEL:6
+VERSE:Don’t go after other gods to serve them or worship them, and don’t provoke me to anger with the work of your hands; then I will do you no harm.”
+LABEL:7
+VERSE:“Yet you have not listened to me,” says Yahweh, “that you may provoke me to anger with the work of your hands to your own hurt.”
+LABEL:8
+VERSE:Therefore Yahweh of Armies says: “Because you have not heard my words,
+LABEL:9
+VERSE:behold, I will send and take all the families of the north,” says Yahweh, “and I will send to Nebuchadnezzar the king of Babylon, my servant, and will bring them against this land, and against its inhabitants, and against all these nations around. I will utterly destroy them, and make them an astonishment, and a hissing, and perpetual desolations.
+LABEL:10
+VERSE:Moreover I will take from them the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstones, and the light of the lamp.
+LABEL:11
+VERSE:This whole land will be a desolation, and an astonishment; and these nations will serve the king of Babylon seventy years.
+LABEL:12
+VERSE:“It will happen, when seventy years are accomplished, that I will punish the king of Babylon and that nation,” says Yahweh, “for their iniquity. I will make the land of the Chaldeans desolate forever.
+LABEL:13
+VERSE:I will bring on that land all my words which I have pronounced against it, even all that is written in this book, which Jeremiah has prophesied against all the nations.
+LABEL:14
+VERSE:For many nations and great kings will make bondservants of them, even of them. I will recompense them according to their deeds, and according to the work of their hands.”
+LABEL:15
+VERSE:For Yahweh, the God of Israel, says to me: “Take this cup of the wine of wrath from my hand, and cause all the nations to whom I send you to drink it.
+LABEL:16
+VERSE:They will drink, and reel back and forth, and be insane, because of the sword that I will send among them.”
+LABEL:17
+VERSE:Then I took the cup at Yahweh’s hand, and made all the nations to drink, to whom Yahweh had sent me:
+LABEL:18
+VERSE:Jerusalem, and the cities of Judah, with its kings and its princes, to make them a desolation, an astonishment, a hissing, and a curse, as it is today;
+LABEL:19
+VERSE:Pharaoh king of Egypt, with his servants, his princes, and all his people;
+LABEL:20
+VERSE:and all the mixed people, and all the kings of the land of Uz, all the kings of the Philistines, Ashkelon, Gaza, Ekron, and the remnant of Ashdod;
+LABEL:21
+VERSE:Edom, Moab, and the children of Ammon;
+LABEL:22
+VERSE:and all the kings of Tyre, all the kings of Sidon, and the kings of the isle which is beyond the sea;
+LABEL:23
+VERSE:Dedan, Tema, Buz, and all who have the corners of their beard cut off;
+LABEL:24
+VERSE:and all the kings of Arabia, all the kings of the mixed people who dwell in the wilderness;
+LABEL:25
+VERSE:and all the kings of Zimri, all the kings of Elam, and all the kings of the Medes;
+LABEL:26
+VERSE:and all the kings of the north, far and near, one with another; and all the kingdoms of the world, which are on the surface of the earth. The king of Sheshach will drink after them.
+LABEL:27
+VERSE:“You shall tell them, ‘Yahweh of Armies, the God of Israel says: “Drink, and be drunk, vomit, fall, and rise no more, because of the sword which I will send among you.”’
+LABEL:28
+VERSE:It shall be, if they refuse to take the cup at your hand to drink, then you shall tell them, ‘Yahweh of Armies says: “You shall surely drink.
+LABEL:29
+VERSE:For, behold, I begin to work evil at the city which is called by my name; and should you be utterly unpunished? You will not be unpunished; for I will call for a sword on all the inhabitants of the earth, says Yahweh of Armies.”’
+LABEL:30
+VERSE:“Therefore prophesy against them all these words, and tell them,
+VERSE:“‘Yahweh will roar from on high,
+VERSE:and utter his voice from his holy habitation.
+VERSE:He will mightily roar against his fold.
+VERSE:He will give a shout, as those who tread grapes,
+VERSE:against all the inhabitants of the earth.
+LABEL:31
+VERSE:A noise will come even to the end of the earth;
+VERSE:for Yahweh has a controversy with the nations.
+VERSE:He will enter into judgment with all flesh.
+VERSE:As for the wicked, he will give them to the sword,”’ says Yahweh.”
+LABEL:32
+VERSE:Yahweh of Armies says,
+VERSE:“Behold, evil will go out from nation to nation,
+VERSE:and a great storm will be raised up from the uttermost parts of the earth.”
+LABEL:33
+VERSE:The slain of Yahweh will be at that day from one end of the earth even to the other end of the earth. They won’t be lamented. They won’t be gathered or buried. They will be dung on the surface of the ground.
+LABEL:34
+VERSE:Wail, you shepherds, and cry.
+VERSE:Wallow in dust, you leader of the flock;
+VERSE:for the days of your slaughter and of your dispersions have fully come,
+VERSE:and you will fall like fine pottery.
+LABEL:35
+VERSE:The shepherds will have no way to flee.
+VERSE:The leader of the flock will have no escape.
+LABEL:36
+VERSE:A voice of the cry of the shepherds,
+VERSE:and the wailing of the leader of the flock,
+VERSE:for Yahweh destroys their pasture.
+LABEL:37
+VERSE:The peaceful folds are brought to silence
+VERSE:because of the fierce anger of Yahweh.
+LABEL:38
+VERSE:He has left his covert, as the lion;
+VERSE:for their land has become an astonishment because of the fierceness of the oppression,
+VERSE:and because of his fierce anger.

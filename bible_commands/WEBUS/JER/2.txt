@@ -1,0 +1,166 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:2
+TITLE:Jeremiah 2
+LABEL:1
+VERSE:Yahweh’s word came to me, saying,
+LABEL:2
+VERSE:“Go and proclaim in the ears of Jerusalem, saying, ‘Yahweh says,
+VERSE:“I remember for you the kindness of your youth,
+VERSE:your love as a bride,
+VERSE:how you went after me in the wilderness,
+VERSE:in a land that was not sown.
+LABEL:3
+VERSE:Israel was holiness to Yahweh,
+VERSE:the first fruits of his increase.
+VERSE:All who devour him will be held guilty.
+VERSE:Evil will come on them,”’ says Yahweh.”
+LABEL:4
+VERSE:Hear Yahweh’s word, O house of Jacob, and all the families of the house of Israel!
+LABEL:5
+VERSE:Yahweh says,
+VERSE:“What unrighteousness have your fathers found in me,
+VERSE:that they have gone far from me,
+VERSE:and have walked after worthless vanity,
+VERSE:and have become worthless?
+LABEL:6
+VERSE:They didn’t say, ‘Where is Yahweh who brought us up out of the land of Egypt,
+VERSE:who led us through the wilderness,
+VERSE:through a land of deserts and of pits,
+VERSE:through a land of drought and of the shadow of death,
+VERSE:through a land that no one passed through,
+VERSE:and where no man lived?’
+LABEL:7
+VERSE:I brought you into a plentiful land
+VERSE:to eat its fruit and its goodness;
+VERSE:but when you entered, you defiled my land,
+VERSE:and made my heritage an abomination.
+LABEL:8
+VERSE:The priests didn’t say, ‘Where is Yahweh?’
+VERSE:and those who handle the law didn’t know me.
+VERSE:The rulers also transgressed against me,
+VERSE:and the prophets prophesied by Baal
+VERSE:and followed things that do not profit.
+LABEL:9
+VERSE:“Therefore I will yet contend with you,” says Yahweh,
+VERSE:“and I will contend with your children’s children.
+LABEL:10
+VERSE:For pass over to the islands of Kittim, and see.
+VERSE:Send to Kedar, and consider diligently,
+VERSE:and see if there has been such a thing.
+LABEL:11
+VERSE:Has a nation changed its gods,
+VERSE:which really are no gods?
+VERSE:But my people have changed their glory for that which doesn’t profit.
+LABEL:12
+VERSE:“Be astonished, you heavens, at this
+VERSE:and be horribly afraid.
+VERSE:Be very desolate,” says Yahweh.
+LABEL:13
+VERSE:“For my people have committed two evils:
+VERSE:they have forsaken me, the spring of living waters,
+VERSE:and cut out cisterns for themselves: broken cisterns that can’t hold water.
+LABEL:14
+VERSE:Is Israel a slave?
+VERSE:Is he born into slavery?
+VERSE:Why has he become a captive?
+LABEL:15
+VERSE:The young lions have roared at him and raised their voices.
+VERSE:They have made his land waste.
+VERSE:His cities are burned up, without inhabitant.
+LABEL:16
+VERSE:The children also of Memphis and Tahpanhes have broken the crown of your head.
+LABEL:17
+VERSE:“Haven’t you brought this on yourself,
+VERSE:in that you have forsaken Yahweh your God, when he led you by the way?
+LABEL:18
+VERSE:Now what do you gain by going to Egypt, to drink the waters of the Shihor?
+VERSE:Or why do you go on the way to Assyria, to drink the waters of the River?
+LABEL:19
+VERSE:“Your own wickedness will correct you,
+VERSE:and your backsliding will rebuke you.
+VERSE:Know therefore and see that it is an evil and bitter thing,
+VERSE:that you have forsaken Yahweh your God,
+VERSE:and that my fear is not in you,” says the Lord, Yahweh of Armies.
+LABEL:20
+VERSE:“For long ago I broke off your yoke,
+VERSE:and burst your bonds.
+VERSE:You said, ‘I will not serve;’
+VERSE:for on every high hill and under every green tree you bowed yourself,
+VERSE:playing the prostitute.
+LABEL:21
+VERSE:Yet I had planted you a noble vine,
+VERSE:a pure and faithful seed.
+VERSE:How then have you turned into the degenerate branches of a foreign vine to me?
+LABEL:22
+VERSE:For though you wash yourself with lye,
+VERSE:and use much soap,
+VERSE:yet your iniquity is marked before me,” says the Lord Yahweh.
+LABEL:23
+VERSE:“How can you say, ‘I am not defiled.
+VERSE:I have not gone after the Baals’?
+VERSE:See your way in the valley.
+VERSE:Know what you have done.
+VERSE:You are a swift dromedary traversing her ways,
+LABEL:24
+VERSE:a wild donkey used to the wilderness, that sniffs the wind in her craving.
+VERSE:When she is in heat, who can turn her away?
+VERSE:All those who seek her will not weary themselves. In her month, they will find her.
+LABEL:25
+VERSE:“Keep your feet from being bare,
+VERSE:and your throat from thirst.
+VERSE:But you said, ‘It is in vain.
+VERSE:No, for I have loved strangers,
+VERSE:and I will go after them.’
+LABEL:26
+VERSE:As the thief is ashamed when he is found,
+VERSE:so the house of Israel is ashamed—
+VERSE:they, their kings, their princes, their priests, and their prophets,
+LABEL:27
+VERSE:who tell wood, ‘You are my father,’
+VERSE:and a stone, ‘You have given birth to me,’
+VERSE:for they have turned their back to me,
+VERSE:and not their face,
+VERSE:but in the time of their trouble they will say, ‘Arise, and save us!’
+LABEL:28
+VERSE:“But where are your gods that you have made for yourselves?
+VERSE:Let them arise, if they can save you in the time of your trouble,
+VERSE:for you have as many gods as you have towns, O Judah.
+LABEL:29
+VERSE:“Why will you contend with me?
+VERSE:You all have transgressed against me,” says Yahweh.
+LABEL:30
+VERSE:“I have struck your children in vain.
+VERSE:They received no correction.
+VERSE:Your own sword has devoured your prophets,
+VERSE:like a destroying lion.
+LABEL:31
+VERSE:Generation, consider Yahweh’s word.
+VERSE:Have I been a wilderness to Israel?
+VERSE:Or a land of thick darkness?
+VERSE:Why do my people say, ‘We have broken loose.
+VERSE:We will come to you no more’?
+LABEL:32
+VERSE:“Can a virgin forget her ornaments,
+VERSE:or a bride her attire?
+VERSE:Yet my people have forgotten me for days without number.
+LABEL:33
+VERSE:How well you prepare your way to seek love!
+VERSE:Therefore you have even taught the wicked women your ways.
+LABEL:34
+VERSE:Also the blood of the souls of the innocent poor is found in your skirts.
+VERSE:You didn’t find them breaking in,
+VERSE:but it is because of all these things.
+LABEL:35
+VERSE:“Yet you said, ‘I am innocent.
+VERSE:Surely his anger has turned away from me.’
+VERSE:“Behold, I will judge you,
+VERSE:because you say, ‘I have not sinned.’
+LABEL:36
+VERSE:Why do you go about so much to change your ways?
+VERSE:You will be ashamed of Egypt also,
+VERSE:as you were ashamed of Assyria.
+LABEL:37
+VERSE:You will also leave that place with your hands on your head;
+VERSE:for Yahweh has rejected those in whom you trust,
+VERSE:and you won’t prosper with them.

@@ -1,0 +1,97 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:21
+TITLE:Proverbs 21
+LABEL:1
+VERSE:The king’s heart is in the hand of Jehovah as the watercourses:
+VERSE:He turneth it whithersoever he will.
+LABEL:2
+VERSE:Every way of a man is right in his own eyes;
+VERSE:But Jehovah weigheth the hearts.
+LABEL:3
+VERSE:To do righteousness and justice
+VERSE:Is more acceptable to Jehovah than sacrifice.
+LABEL:4
+VERSE:A high look, and a proud heart,
+VERSE:Even the lamp of the wicked, is sin.
+LABEL:5
+VERSE:The thoughts of the diligent tend only to plenteousness;
+VERSE:But every one that is hasty hasteth only to want.
+LABEL:6
+VERSE:The getting of treasures by a lying tongue
+VERSE:Is a vapor driven to and fro by them that seek death.
+LABEL:7
+VERSE:The violence of the wicked shall sweep them away,
+VERSE:Because they refuse to do justice.
+LABEL:8
+VERSE:The way of him that is laden with guilt is exceeding crooked;
+VERSE:But as for the pure, his work is right.
+LABEL:9
+VERSE:It is better to dwell in the corner of the housetop,
+VERSE:Than with a contentious woman in a wide house.
+LABEL:10
+VERSE:The soul of the wicked desireth evil:
+VERSE:His neighbor findeth no favor in his eyes.
+LABEL:11
+VERSE:When the scoffer is punished, the simple is made wise;
+VERSE:And when the wise is instructed, he receiveth knowledge.
+LABEL:12
+VERSE:The righteous man considereth the house of the wicked,
+VERSE:How the wicked are overthrown to their ruin.
+LABEL:13
+VERSE:Whoso stoppeth his ears at the cry of the poor,
+VERSE:He also shall cry, but shall not be heard.
+LABEL:14
+VERSE:A gift in secret pacifieth anger;
+VERSE:And a present in the bosom, strong wrath.
+LABEL:15
+VERSE:It is joy to the righteous to do justice;
+VERSE:But it is a destruction to the workers of iniquity.
+LABEL:16
+VERSE:The man that wandereth out of the way of understanding
+VERSE:Shall rest in the assembly of the dead.
+LABEL:17
+VERSE:He that loveth pleasure shall be a poor man:
+VERSE:He that loveth wine and oil shall not be rich.
+LABEL:18
+VERSE:The wicked is a ransom for the righteous;
+VERSE:And the treacherous cometh in the stead of the upright.
+LABEL:19
+VERSE:It is better to dwell in a desert land,
+VERSE:Than with a contentious and fretful woman.
+LABEL:20
+VERSE:There is precious treasure and oil in the dwelling of the wise;
+VERSE:But a foolish man swalloweth it up.
+LABEL:21
+VERSE:He that followeth after righteousness and kindness
+VERSE:Findeth life, righteousness, and honor.
+LABEL:22
+VERSE:A wise man scaleth the city of the mighty,
+VERSE:And bringeth down the strength of the confidence thereof.
+LABEL:23
+VERSE:Whoso keepeth his mouth and his tongue
+VERSE:Keepeth his soul from troubles.
+LABEL:24
+VERSE:The proud and haughty man, scoffer is his name;
+VERSE:He worketh in the arrogance of pride.
+LABEL:25
+VERSE:The desire of the sluggard killeth him;
+VERSE:For his hands refuse to labor.
+LABEL:26
+VERSE:There is that coveteth greedily all the day long;
+VERSE:But the righteous giveth and withholdeth not.
+LABEL:27
+VERSE:The sacrifice of the wicked is an abomination;
+VERSE:How much more, when he bringeth it with a wicked mind!
+LABEL:28
+VERSE:A false witness shall perish;
+VERSE:But the man that heareth shall speak so as to endure.
+LABEL:29
+VERSE:A wicked man hardeneth his face;
+VERSE:But as for the upright, he establisheth his ways.
+LABEL:30
+VERSE:There is no wisdom nor understanding
+VERSE:Nor counsel against Jehovah.
+LABEL:31
+VERSE:The horse is prepared against the day of battle;
+VERSE:But victory is of Jehovah.

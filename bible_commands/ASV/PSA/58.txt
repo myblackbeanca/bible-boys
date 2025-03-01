@@ -1,0 +1,37 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:58
+TITLE:Psalms 58
+LABEL:1
+VERSE:Do ye indeed in silence speak righteousness?
+VERSE:Do ye judge uprightly, O ye sons of men?
+LABEL:2
+VERSE:Nay, in heart ye work wickedness;
+VERSE:Ye weigh out the violence of your hands in the earth.
+LABEL:3
+VERSE:The wicked are estranged from the womb:
+VERSE:They go astray as soon as they are born, speaking lies.
+LABEL:4
+VERSE:Their poison is like the poison of a serpent:
+VERSE:They are like the deaf adder that stoppeth her ear,
+LABEL:5
+VERSE:Which hearkeneth not to the voice of charmers,
+VERSE:Charming never so wisely.
+LABEL:6
+VERSE:Break their teeth, O God, in their mouth:
+VERSE:Break out the great teeth of the young lions, O Jehovah.
+LABEL:7
+VERSE:Let them melt away as water that runneth apace:
+VERSE:When he aimeth his arrows, let them be as though they were cut off.
+LABEL:8
+VERSE:  Let them be as a snail which melteth and passeth away,
+VERSE:Like the untimely birth of a woman, that hath not seen the sun.
+LABEL:9
+VERSE:Before your pots can feel the thorns,
+VERSE:He will take them away with a whirlwind, the green and the burning alike.
+LABEL:10
+VERSE:The righteous shall rejoice when he seeth the vengeance:
+VERSE:He shall wash his feet in the blood of the wicked;
+LABEL:11
+VERSE:So that men shall say, Verily there is a reward for the righteous:
+VERSE:Verily there is a God that judgeth in the earth.

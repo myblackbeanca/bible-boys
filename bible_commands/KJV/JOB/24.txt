@@ -1,0 +1,87 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:24
+TITLE:Job 24
+LABEL:1
+VERSE:Why, seeing times are not hidden from the Almighty,
+VERSE:Do they that know him not see his days?
+LABEL:2
+VERSE:  Some remove the landmarks;
+VERSE:They violently take away flocks, and feed thereof.
+LABEL:3
+VERSE:They drive away the ass of the fatherless,
+VERSE:They take the widow's ox for a pledge.
+LABEL:4
+VERSE:They turn the needy out of the way:
+VERSE:The poor of the earth hide themselves together.
+LABEL:5
+VERSE:Behold, as wild asses in the desert,
+VERSE:Go they forth to their work; rising betimes for a prey:
+VERSE:The wilderness yieldeth food for them and for their children.
+LABEL:6
+VERSE:They reap every one his corn in the field:
+VERSE:And they gather the vintage of the wicked.
+LABEL:7
+VERSE:They cause the naked to lodge without clothing,
+VERSE:That they have no covering in the cold.
+LABEL:8
+VERSE:They are wet with the showers of the mountains,
+VERSE:And embrace the rock for want of a shelter.
+LABEL:9
+VERSE:They pluck the fatherless from the breast,
+VERSE:And take a pledge of the poor.
+LABEL:10
+VERSE:They cause him to go naked without clothing,
+VERSE:And they take away the sheaf from the hungry;
+LABEL:11
+VERSE:  Which make oil within their walls,
+VERSE:And tread their winepresses, and suffer thirst.
+LABEL:12
+VERSE:Men groan from out of the city,
+VERSE:And the soul of the wounded crieth out:
+VERSE:Yet God layeth not folly to them.
+LABEL:13
+VERSE:They are of those that rebel against the light;
+VERSE:They know not the ways thereof,
+VERSE:Nor abide in the paths thereof.
+LABEL:14
+VERSE:The murderer rising with the light killeth the poor and needy,
+VERSE:And in the night is as a thief.
+LABEL:15
+VERSE:The eye also of the adulterer waiteth for the twilight,
+VERSE:Saying, No eye shall see me:
+VERSE:And disguiseth his face.
+LABEL:16
+VERSE:In the dark they dig through houses,
+VERSE:Which they had marked for themselves in the daytime:
+VERSE:They know not the light.
+LABEL:17
+VERSE:For the morning is to them even as the shadow of death:
+VERSE:If one know them, they are in the terrors of the shadow of death.
+LABEL:18
+VERSE:He is swift as the waters;
+VERSE:Their portion is cursed in the earth:
+VERSE:He beholdeth not the way of the vineyards.
+LABEL:19
+VERSE:Drought and heat consume the snow waters:
+VERSE:So doth the grave those which have sinned.
+LABEL:20
+VERSE:The womb shall forget him; the worm shall feed sweetly on him;
+VERSE:He shall be no more remembered;
+VERSE:And wickedness shall be broken as a tree.
+LABEL:21
+VERSE:He evil entreateth the barren that beareth not:
+VERSE:And doeth not good to the widow.
+LABEL:22
+VERSE:He draweth also the mighty with his power:
+VERSE:He riseth up, and no man is sure of life.
+LABEL:23
+VERSE:  Though it be given him to be in safety, whereon he resteth;
+VERSE:Yet his eyes are upon their ways.
+LABEL:24
+VERSE:They are exalted for a little while, but are gone
+VERSE:And brought low; they are taken out of the way as all other,
+VERSE:And cut off as the tops of the ears of corn.
+LABEL:25
+VERSE:And if it be not so now, who will make me a liar,
+VERSE:And make my speech nothing worth?

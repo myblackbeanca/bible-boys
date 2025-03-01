@@ -1,0 +1,30 @@
+TRANSLATION:ASV
+BOOK:ISA
+CHAPTER:6
+TITLE:Isaiah 6
+LABEL:1
+VERSE:In the year that king Uzziah died I saw the Lord sitting upon a throne, high and lifted up; and his train filled the temple.
+LABEL:2
+VERSE:Above him stood the seraphim: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
+LABEL:3
+VERSE:And one cried unto another, and said, Holy, holy, holy, is Jehovah of hosts: the whole earth is full of his glory.
+LABEL:4
+VERSE:And the foundations of the thresholds shook at the voice of him that cried, and the house was filled with smoke.
+LABEL:5
+VERSE:Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, Jehovah of hosts.
+LABEL:6
+VERSE:Then flew one of the seraphim unto me, having a live coal in his hand, which he had taken with the tongs from off the altar:
+LABEL:7
+VERSE:and he touched my mouth with it, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin forgiven.
+LABEL:8
+VERSE:And I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then I said, Here am I; send me.
+LABEL:9
+VERSE:And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
+LABEL:10
+VERSE:Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and turn again, and be healed.
+LABEL:11
+VERSE:Then said I, Lord, how long? And he answered, Until cities be waste without inhabitant, and houses without man, and the land become utterly waste,
+LABEL:12
+VERSE:and Jehovah have removed men far away, and the forsaken places be many in the midst of the land.
+LABEL:13
+VERSE:And if there be yet a tenth in it, it also shall in turn be eaten up: as a terebinth, and as an oak, whose stock remaineth, when they are felled; so the holy seed is the stock thereof.

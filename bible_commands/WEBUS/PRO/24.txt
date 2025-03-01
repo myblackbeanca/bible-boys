@@ -1,0 +1,111 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:24
+TITLE:Proverbs 24
+LABEL:1
+VERSE:Don’t be envious of evil men,
+VERSE:neither desire to be with them;
+LABEL:2
+VERSE:for their hearts plot violence
+VERSE:and their lips talk about mischief.
+LABEL:3
+VERSE:Through wisdom a house is built;
+VERSE:by understanding it is established;
+LABEL:4
+VERSE:by knowledge the rooms are filled
+VERSE:with all rare and beautiful treasure.
+LABEL:5
+VERSE:A wise man has great power.
+VERSE:A knowledgeable man increases strength,
+LABEL:6
+VERSE:for by wise guidance you wage your war,
+VERSE:and victory is in many advisors.
+LABEL:7
+VERSE:Wisdom is too high for a fool.
+VERSE:He doesn’t open his mouth in the gate.
+LABEL:8
+VERSE:One who plots to do evil
+VERSE:will be called a schemer.
+LABEL:9
+VERSE:The schemes of folly are sin.
+VERSE:The mocker is detested by men.
+LABEL:10
+VERSE:If you falter in the time of trouble,
+VERSE:your strength is small.
+LABEL:11
+VERSE:Rescue those who are being led away to death!
+VERSE:Indeed, hold back those who are staggering to the slaughter!
+LABEL:12
+VERSE:If you say, “Behold, we didn’t know this,”
+VERSE:doesn’t he who weighs the hearts consider it?
+VERSE:He who keeps your soul, doesn’t he know it?
+VERSE:Shall he not render to every man according to his work?
+LABEL:13
+VERSE:My son, eat honey, for it is good,
+VERSE:the droppings of the honeycomb, which are sweet to your taste;
+LABEL:14
+VERSE:so you shall know wisdom to be to your soul.
+VERSE:If you have found it, then there will be a reward:
+VERSE:Your hope will not be cut off.
+LABEL:15
+VERSE:Don’t lay in wait, wicked man, against the habitation of the righteous.
+VERSE:Don’t destroy his resting place;
+LABEL:16
+VERSE:for a righteous man falls seven times and rises up again,
+VERSE:but the wicked are overthrown by calamity.
+LABEL:17
+VERSE:Don’t rejoice when your enemy falls.
+VERSE:Don’t let your heart be glad when he is overthrown,
+LABEL:18
+VERSE:lest Yahweh see it, and it displease him,
+VERSE:and he turn away his wrath from him.
+LABEL:19
+VERSE:Don’t fret yourself because of evildoers,
+VERSE:neither be envious of the wicked;
+LABEL:20
+VERSE:for there will be no reward to the evil man.
+VERSE:The lamp of the wicked will be snuffed out.
+LABEL:21
+VERSE:My son, fear Yahweh and the king.
+VERSE:Don’t join those who are rebellious,
+LABEL:22
+VERSE:for their calamity will rise suddenly.
+VERSE:Who knows what destruction may come from them both?
+LABEL:23
+VERSE:These also are sayings of the wise:
+VERSE:To show partiality in judgment is not good.
+LABEL:24
+VERSE:He who says to the wicked, “You are righteous,”
+VERSE:peoples will curse him, and nations will abhor him—
+LABEL:25
+VERSE:but it will go well with those who convict the guilty,
+VERSE:and a rich blessing will come on them.
+LABEL:26
+VERSE:An honest answer
+VERSE:is like a kiss on the lips.
+LABEL:27
+VERSE:Prepare your work outside,
+VERSE:and get your fields ready.
+VERSE:Afterwards, build your house.
+LABEL:28
+VERSE:Don’t be a witness against your neighbor without cause.
+VERSE:Don’t deceive with your lips.
+LABEL:29
+VERSE:Don’t say, “I will do to him as he has done to me;
+VERSE:I will repay the man according to his work.”
+LABEL:30
+VERSE:I went by the field of the sluggard,
+VERSE:by the vineyard of the man void of understanding.
+LABEL:31
+VERSE:Behold, it was all grown over with thorns.
+VERSE:Its surface was covered with nettles,
+VERSE:and its stone wall was broken down.
+LABEL:32
+VERSE:Then I saw, and considered well.
+VERSE:I saw, and received instruction:
+LABEL:33
+VERSE:a little sleep, a little slumber,
+VERSE:a little folding of the hands to sleep,
+LABEL:34
+VERSE:so your poverty will come as a robber
+VERSE:and your want as an armed man.

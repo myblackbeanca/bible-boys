@@ -1,0 +1,67 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:147
+TITLE:Psalms 147
+LABEL:1
+VERSE:Praise Yah,
+VERSE:for it is good to sing praises to our God;
+VERSE:for it is pleasant and fitting to praise him.
+LABEL:2
+VERSE:Yahweh builds up Jerusalem.
+VERSE:He gathers together the outcasts of Israel.
+LABEL:3
+VERSE:He heals the broken in heart,
+VERSE:and binds up their wounds.
+LABEL:4
+VERSE:He counts the number of the stars.
+VERSE:He calls them all by their names.
+LABEL:5
+VERSE:Great is our Lord, and mighty in power.
+VERSE:His understanding is infinite.
+LABEL:6
+VERSE:Yahweh upholds the humble.
+VERSE:He brings the wicked down to the ground.
+LABEL:7
+VERSE:Sing to Yahweh with thanksgiving.
+VERSE:Sing praises on the harp to our God,
+LABEL:8
+VERSE:who covers the sky with clouds,
+VERSE:who prepares rain for the earth,
+VERSE:who makes grass grow on the mountains.
+LABEL:9
+VERSE:He provides food for the livestock,
+VERSE:and for the young ravens when they call.
+LABEL:10
+VERSE:He doesn’t delight in the strength of the horse.
+VERSE:He takes no pleasure in the legs of a man.
+LABEL:11
+VERSE:Yahweh takes pleasure in those who fear him,
+VERSE:in those who hope in his loving kindness.
+LABEL:12
+VERSE:Praise Yahweh, Jerusalem!
+VERSE:Praise your God, Zion!
+LABEL:13
+VERSE:For he has strengthened the bars of your gates.
+VERSE:He has blessed your children within you.
+LABEL:14
+VERSE:He makes peace in your borders.
+VERSE:He fills you with the finest of the wheat.
+LABEL:15
+VERSE:He sends out his commandment to the earth.
+VERSE:His word runs very swiftly.
+LABEL:16
+VERSE:He gives snow like wool,
+VERSE:and scatters frost like ashes.
+LABEL:17
+VERSE:He hurls down his hail like pebbles.
+VERSE:Who can stand before his cold?
+LABEL:18
+VERSE:He sends out his word, and melts them.
+VERSE:He causes his wind to blow, and the waters flow.
+LABEL:19
+VERSE:He shows his word to Jacob,
+VERSE:his statutes and his ordinances to Israel.
+LABEL:20
+VERSE:He has not done this for just any nation.
+VERSE:They don’t know his ordinances.
+VERSE:Praise Yah!

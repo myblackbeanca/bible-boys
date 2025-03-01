@@ -1,0 +1,65 @@
+TRANSLATION:WEBUS
+BOOK:HEB
+CHAPTER:7
+TITLE:Hebrews 7
+LABEL:1
+VERSE:For this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him,
+LABEL:2
+VERSE:to whom also Abraham divided a tenth part of all (being first, by interpretation, “king of righteousness”, and then also “king of Salem”, which means “king of peace”,
+LABEL:3
+VERSE:without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God), remains a priest continually.
+LABEL:4
+VERSE:Now consider how great this man was, to whom even Abraham the patriarch gave a tenth out of the best plunder.
+LABEL:5
+VERSE:They indeed of the sons of Levi who receive the priest’s office have a commandment to take tithes from the people according to the law, that is, of their brothers, though these have come out of the body of Abraham,
+LABEL:6
+VERSE:but he whose genealogy is not counted from them has accepted tithes from Abraham, and has blessed him who has the promises.
+LABEL:7
+VERSE:But without any dispute the lesser is blessed by the greater.
+LABEL:8
+VERSE:Here people who die receive tithes, but there one receives tithes of whom it is testified that he lives.
+LABEL:9
+VERSE:We can say that through Abraham even Levi, who receives tithes, has paid tithes,
+LABEL:10
+VERSE:for he was yet in the body of his father when Melchizedek met him.
+LABEL:11
+VERSE:Now if perfection was through the Levitical priesthood (for under it the people have received the law), what further need was there for another priest to arise after the order of Melchizedek, and not be called after the order of Aaron?
+LABEL:12
+VERSE:For the priesthood being changed, there is of necessity a change made also in the law.
+LABEL:13
+VERSE:For he of whom these things are said belongs to another tribe, from which no one has officiated at the altar.
+LABEL:14
+VERSE:For it is evident that our Lord has sprung out of Judah, about which tribe Moses spoke nothing concerning priesthood.
+LABEL:15
+VERSE:This is yet more abundantly evident, if after the likeness of Melchizedek there arises another priest,
+LABEL:16
+VERSE:who has been made, not after the law of a fleshly commandment, but after the power of an endless life;
+LABEL:17
+VERSE:for it is testified,
+VERSE:“You are a priest forever,
+VERSE:according to the order of Melchizedek.”
+LABEL:18
+VERSE:For there is an annulling of a foregoing commandment because of its weakness and uselessness
+LABEL:19
+VERSE:(for the law made nothing perfect), and a bringing in of a better hope, through which we draw near to God.
+LABEL:20
+VERSE:Inasmuch as he was not made priest without the taking of an oath
+LABEL:21
+VERSE:(for they indeed have been made priests without an oath), but he with an oath by him that says of him,
+VERSE:“The Lord swore and will not change his mind,
+VERSE:‘You are a priest forever,
+VERSE:according to the order of Melchizedek.’”
+LABEL:22
+VERSE:By so much, Jesus has become the guarantee of a better covenant.
+LABEL:23
+VERSE:Many, indeed, have been made priests, because they are hindered from continuing by death.
+LABEL:24
+VERSE:But he, because he lives forever, has his priesthood unchangeable.
+LABEL:25
+VERSE:Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.
+LABEL:26
+VERSE:For such a high priest was fitting for us: holy, guiltless, undefiled, separated from sinners, and made higher than the heavens;
+LABEL:27
+VERSE:who doesn’t need, like those high priests, to offer up sacrifices daily, first for his own sins, and then for the sins of the people. For he did this once for all, when he offered up himself.
+LABEL:28
+VERSE:For the law appoints men as high priests who have weakness, but the word of the oath, which came after the law, appoints a Son forever who has been perfected.

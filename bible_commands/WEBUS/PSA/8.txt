@@ -1,0 +1,31 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:8
+TITLE:Psalms 8
+LABEL:1
+VERSE:Yahweh, our Lord, how majestic is your name in all the earth!
+VERSE:You have set your glory above the heavens!
+LABEL:2
+VERSE:From the lips of babes and infants you have established strength,
+VERSE:because of your adversaries, that you might silence the enemy and the avenger.
+LABEL:3
+VERSE:When I consider your heavens, the work of your fingers,
+VERSE:the moon and the stars, which you have ordained,
+LABEL:4
+VERSE:what is man, that you think of him?
+VERSE:What is the son of man, that you care for him?
+LABEL:5
+VERSE:For you have made him a little lower than the angels,
+VERSE:and crowned him with glory and honor.
+LABEL:6
+VERSE:You make him ruler over the works of your hands.
+VERSE:You have put all things under his feet:
+LABEL:7
+VERSE:All sheep and cattle,
+VERSE:yes, and the animals of the field,
+LABEL:8
+VERSE:the birds of the sky, the fish of the sea,
+VERSE:and whatever passes through the paths of the seas.
+LABEL:9
+VERSE:Yahweh, our Lord,
+VERSE:how majestic is your name in all the earth!

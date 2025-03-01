@@ -1,0 +1,94 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:20
+TITLE:Proverbs 20
+LABEL:1
+VERSE:Wine is a mocker and beer is a brawler.
+VERSE:Whoever is led astray by them is not wise.
+LABEL:2
+VERSE:The terror of a king is like the roaring of a lion.
+VERSE:He who provokes him to anger forfeits his own life.
+LABEL:3
+VERSE:It is an honor for a man to keep aloof from strife,
+VERSE:but every fool will be quarreling.
+LABEL:4
+VERSE:The sluggard will not plow by reason of the winter;
+VERSE:therefore he shall beg in harvest, and have nothing.
+LABEL:5
+VERSE:Counsel in the heart of man is like deep water,
+VERSE:but a man of understanding will draw it out.
+LABEL:6
+VERSE:Many men claim to be men of unfailing love,
+VERSE:but who can find a faithful man?
+LABEL:7
+VERSE:A righteous man walks in integrity.
+VERSE:Blessed are his children after him.
+LABEL:8
+VERSE:A king who sits on the throne of judgment
+VERSE:scatters away all evil with his eyes.
+LABEL:9
+VERSE:Who can say, “I have made my heart pure.
+VERSE:I am clean and without sin”?
+LABEL:10
+VERSE:Differing weights and differing measures,
+VERSE:both of them alike are an abomination to Yahweh.
+LABEL:11
+VERSE:Even a child makes himself known by his doings,
+VERSE:whether his work is pure, and whether it is right.
+LABEL:12
+VERSE:The hearing ear, and the seeing eye,
+VERSE:Yahweh has made even both of them.
+LABEL:13
+VERSE:Don’t love sleep, lest you come to poverty.
+VERSE:Open your eyes, and you shall be satisfied with bread.
+LABEL:14
+VERSE:“It’s no good, it’s no good,” says the buyer;
+VERSE:but when he is gone his way, then he boasts.
+LABEL:15
+VERSE:There is gold and abundance of rubies,
+VERSE:but the lips of knowledge are a rare jewel.
+LABEL:16
+VERSE:Take the garment of one who puts up collateral for a stranger;
+VERSE:and hold him in pledge for a wayward woman.
+LABEL:17
+VERSE:Fraudulent food is sweet to a man,
+VERSE:but afterwards his mouth is filled with gravel.
+LABEL:18
+VERSE:Plans are established by advice;
+VERSE:by wise guidance you wage war!
+LABEL:19
+VERSE:He who goes about as a tale-bearer reveals secrets;
+VERSE:therefore don’t keep company with him who opens wide his lips.
+LABEL:20
+VERSE:Whoever curses his father or his mother,
+VERSE:his lamp shall be put out in blackness of darkness.
+LABEL:21
+VERSE:An inheritance quickly gained at the beginning
+VERSE:won’t be blessed in the end.
+LABEL:22
+VERSE:Don’t say, “I will pay back evil.”
+VERSE:Wait for Yahweh, and he will save you.
+LABEL:23
+VERSE:Yahweh detests differing weights,
+VERSE:and dishonest scales are not pleasing.
+LABEL:24
+VERSE:A man’s steps are from Yahweh;
+VERSE:how then can man understand his way?
+LABEL:25
+VERSE:It is a snare to a man to make a rash dedication,
+VERSE:then later to consider his vows.
+LABEL:26
+VERSE:A wise king winnows out the wicked,
+VERSE:and drives the threshing wheel over them.
+LABEL:27
+VERSE:The spirit of man is Yahweh’s lamp,
+VERSE:searching all his innermost parts.
+LABEL:28
+VERSE:Love and faithfulness keep the king safe.
+VERSE:His throne is sustained by love.
+LABEL:29
+VERSE:The glory of young men is their strength.
+VERSE:The splendor of old men is their gray hair.
+LABEL:30
+VERSE:Wounding blows cleanse away evil,
+VERSE:and beatings purge the innermost parts.

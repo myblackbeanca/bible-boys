@@ -1,0 +1,70 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:33
+TITLE:Psalms 33
+LABEL:1
+VERSE:Rejoice in Jehovah, O ye righteous:
+VERSE:Praise is comely for the upright.
+LABEL:2
+VERSE:Give thanks unto Jehovah with the harp:
+VERSE:Sing praises unto him with the psaltery of ten strings.
+LABEL:3
+VERSE:Sing unto him a new song;
+VERSE:Play skilfully with a loud noise.
+LABEL:4
+VERSE:For the word of Jehovah is right;
+VERSE:And all his work is done in faithfulness.
+LABEL:5
+VERSE:He loveth righteousness and justice:
+VERSE:The earth is full of the lovingkindness of Jehovah.
+LABEL:6
+VERSE:By the word of Jehovah were the heavens made,
+VERSE:And all the host of them by the breath of his mouth.
+LABEL:7
+VERSE:He gathereth the waters of the sea together as a heap:
+VERSE:He layeth up the deeps in store-houses.
+LABEL:8
+VERSE:Let all the earth fear Jehovah:
+VERSE:Let all the inhabitants of the world stand in awe of him.
+LABEL:9
+VERSE:For he spake, and it was done;
+VERSE:He commanded, and it stood fast.
+LABEL:10
+VERSE:Jehovah bringeth the counsel of the nations to nought;
+VERSE:He maketh the thoughts of the peoples to be of no effect.
+LABEL:11
+VERSE:The counsel of Jehovah standeth fast for ever,
+VERSE:The thoughts of his heart to all generations.
+LABEL:12
+VERSE:Blessed is the nation whose God is Jehovah,
+VERSE:The people whom he hath chosen for his own inheritance.
+LABEL:13
+VERSE:Jehovah looketh from heaven;
+VERSE:He beholdeth all the sons of men;
+LABEL:14
+VERSE:From the place of his habitation he looketh forth
+VERSE:Upon all the inhabitants of the earth,
+LABEL:15
+VERSE:He that fashioneth the hearts of them all,
+VERSE:That considereth all their works.
+LABEL:16
+VERSE:There is no king saved by the multitude of a host:
+VERSE:A mighty man is not delivered by great strength.
+LABEL:17
+VERSE:A horse is a vain thing for safety;
+VERSE:Neither doth he deliver any by his great power.
+LABEL:18
+VERSE:Behold, the eye of Jehovah is upon them that fear him,
+VERSE:Upon them that hope in his lovingkindness;
+LABEL:19
+VERSE:To deliver their soul from death,
+VERSE:And to keep them alive in famine.
+LABEL:20
+VERSE:Our soul hath waited for Jehovah:
+VERSE:He is our help and our shield.
+LABEL:21
+VERSE:For our heart shall rejoice in him,
+VERSE:Because we have trusted in his holy name.
+LABEL:22
+VERSE:Let thy lovingkindness, O Jehovah, be upon us,
+VERSE:According as we have hoped in thee.

@@ -1,0 +1,48 @@
+TRANSLATION:ASV
+BOOK:EPH
+CHAPTER:2
+TITLE:Ephesians 2
+LABEL:1
+VERSE:And you did he make alive, when ye were dead through your trespasses and sins,
+LABEL:2
+VERSE:wherein ye once walked according to the course of this world, according to the prince of the powers of the air, of the spirit that now worketh in the sons of disobedience;
+LABEL:3
+VERSE:among whom we also all once lived in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest:—
+LABEL:4
+VERSE:but God, being rich in mercy, for his great love wherewith he loved us,
+LABEL:5
+VERSE:even when we were dead through our trespasses, made us alive together with Christ (by grace have ye been saved),
+LABEL:6
+VERSE:and raised us up with him, and made us to sit with him in the heavenly places, in Christ Jesus:
+LABEL:7
+VERSE:that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus:
+LABEL:8
+VERSE:for by grace have ye been saved through faith; and that not of yourselves, it is the gift of God;
+LABEL:9
+VERSE:not of works, that no man should glory.
+LABEL:10
+VERSE:For we are his workmanship, created in Christ Jesus for good works, which God afore prepared that we should walk in them.
+LABEL:11
+VERSE:Wherefore remember, that once ye, the Gentiles in the flesh, who are called Uncircumcision by that which is called Circumcision, in the flesh, made by hands;
+LABEL:12
+VERSE:that ye were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world.
+LABEL:13
+VERSE:But now in Christ Jesus ye that once were far off are made nigh in the blood of Christ.
+LABEL:14
+VERSE:For he is our peace, who made both one, and brake down the middle wall of partition,
+LABEL:15
+VERSE:having abolished in his flesh the enmity, even the law of commandments contained in ordinances; that he might create in himself of the two one new man, so making peace;
+LABEL:16
+VERSE:and might reconcile them both in one body unto God through the cross, having slain the enmity thereby:
+LABEL:17
+VERSE:and he came and preached peace to you that were far off, and peace to them that were nigh:
+LABEL:18
+VERSE:for through him we both have our access in one Spirit unto the Father.
+LABEL:19
+VERSE:So then ye are no more strangers and sojourners, but ye are fellow-citizens with the saints, and of the household of God,
+LABEL:20
+VERSE:being built upon the foundation of the apostles and prophets, Christ Jesus himself being the chief corner stone;
+LABEL:21
+VERSE:in whom each several building, fitly framed together, groweth into a holy temple in the Lord;
+LABEL:22
+VERSE:in whom ye also are builded together for a habitation of God in the Spirit.

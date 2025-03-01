@@ -1,0 +1,62 @@
+TRANSLATION:KJV
+BOOK:ACT
+CHAPTER:1
+TITLE:Acts 1
+LABEL:1
+VERSE:The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
+LABEL:2
+VERSE:until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
+LABEL:3
+VERSE:to whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
+LABEL:4
+VERSE:and, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which,  saith he, ye have heard of me.
+LABEL:5
+VERSE:For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
+LABEL:6
+VERSE:When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
+LABEL:7
+VERSE:And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
+LABEL:8
+VERSE:But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth.
+LABEL:9
+VERSE:And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
+LABEL:10
+VERSE:And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
+LABEL:11
+VERSE:which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.
+SECTION:The Church in Jerusalem
+LABEL:12
+VERSE:Then returned they unto Jerusalem from the mount called Olivet, which is from Jerusalem a sabbath day's journey.
+LABEL:13
+VERSE:And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James the son of Alphæus, and Simon Zelotes, and Judas the brother of James.
+LABEL:14
+VERSE:These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
+SECTION:Peter's Speech
+LABEL:15
+VERSE:And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,)
+LABEL:16
+VERSE:Men and brethren, this scripture must needs have been fulfilled, which the Holy Ghost by the mouth of David spake before concerning Judas, which was guide to them that took Jesus.
+LABEL:17
+VERSE:For he was numbered with us, and had obtained part of this ministry.
+LABEL:18
+VERSE:Now this man purchased a field with the reward of iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
+LABEL:19
+VERSE:And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
+LABEL:20
+VERSE:For it is written in the book of Psalms,
+VERSE:Let his habitation be desolate,
+VERSE:And let no man dwell therein:
+VERSE:and
+VERSE:His bishoprick let another take.
+LABEL:21
+VERSE:Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
+LABEL:22
+VERSE:beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.
+LABEL:23
+VERSE:And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
+LABEL:24
+VERSE:And they prayed, and said, Thou, Lord, which knowest the hearts of all men, shew whether of these two thou hast chosen,
+LABEL:25
+VERSE:that he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.
+LABEL:26
+VERSE:And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.

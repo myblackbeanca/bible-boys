@@ -1,0 +1,73 @@
+TRANSLATION:WEBUS
+BOOK:MAT
+CHAPTER:8
+TITLE:Matthew 8
+LABEL:1
+VERSE:When he came down from the mountain, great multitudes followed him.
+LABEL:2
+VERSE:Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”
+LABEL:3
+VERSE:Jesus stretched out his hand and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed.
+LABEL:4
+VERSE:Jesus said to him, “See that you tell nobody; but go, show yourself to the priest, and offer the gift that Moses commanded, as a testimony to them.”
+LABEL:5
+VERSE:When he came into Capernaum, a centurion came to him, asking him for help,
+LABEL:6
+VERSE:saying, “Lord, my servant lies in the house paralyzed, grievously tormented.”
+LABEL:7
+VERSE:Jesus said to him, “I will come and heal him.”
+LABEL:8
+VERSE:The centurion answered, “Lord, I’m not worthy for you to come under my roof. Just say the word, and my servant will be healed.
+LABEL:9
+VERSE:For I am also a man under authority, having under myself soldiers. I tell this one, ‘Go,’ and he goes; and tell another, ‘Come,’ and he comes; and tell my servant, ‘Do this,’ and he does it.”
+LABEL:10
+VERSE:When Jesus heard it, he marveled and said to those who followed, “Most certainly I tell you, I haven’t found so great a faith, not even in Israel.
+LABEL:11
+VERSE:I tell you that many will come from the east and the west, and will sit down with Abraham, Isaac, and Jacob in the Kingdom of Heaven,
+LABEL:12
+VERSE:but the children of the Kingdom will be thrown out into the outer darkness. There will be weeping and gnashing of teeth.”
+LABEL:13
+VERSE:Jesus said to the centurion, “Go your way. Let it be done for you as you have believed.” His servant was healed in that hour.
+LABEL:14
+VERSE:When Jesus came into Peter’s house, he saw his wife’s mother lying sick with a fever.
+LABEL:15
+VERSE:He touched her hand, and the fever left her. So she got up and served him.
+LABEL:16
+VERSE:When evening came, they brought to him many possessed with demons. He cast out the spirits with a word, and healed all who were sick,
+LABEL:17
+VERSE:that it might be fulfilled which was spoken through Isaiah the prophet, saying, “He took our infirmities and bore our diseases.”
+LABEL:18
+VERSE:Now when Jesus saw great multitudes around him, he gave the order to depart to the other side.
+LABEL:19
+VERSE:A scribe came and said to him, “Teacher, I will follow you wherever you go.”
+LABEL:20
+VERSE:Jesus said to him, “The foxes have holes and the birds of the sky have nests, but the Son of Man has nowhere to lay his head.”
+LABEL:21
+VERSE:Another of his disciples said to him, “Lord, allow me first to go and bury my father.”
+LABEL:22
+VERSE:But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”
+LABEL:23
+VERSE:When he got into a boat, his disciples followed him.
+LABEL:24
+VERSE:Behold, a violent storm came up on the sea, so much that the boat was covered with the waves; but he was asleep.
+LABEL:25
+VERSE:The disciples came to him and woke him up, saying, “Save us, Lord! We are dying!”
+LABEL:26
+VERSE:He said to them, “Why are you fearful, O you of little faith?”  Then he got up, rebuked the wind and the sea, and there was a great calm.
+LABEL:27
+VERSE:The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”
+LABEL:28
+VERSE:When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.
+LABEL:29
+VERSE:Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?”
+LABEL:30
+VERSE:Now there was a herd of many pigs feeding far away from them.
+LABEL:31
+VERSE:The demons begged him, saying, “If you cast us out, permit us to go away into the herd of pigs.”
+LABEL:32
+VERSE:He said to them, “Go!”
+VERSE:They came out and went into the herd of pigs; and behold, the whole herd of pigs rushed down the cliff into the sea and died in the water.
+LABEL:33
+VERSE:Those who fed them fled and went away into the city and told everything, including what happened to those who were possessed with demons.
+LABEL:34
+VERSE:Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.

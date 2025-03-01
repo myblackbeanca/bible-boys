@@ -1,0 +1,44 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:57
+TITLE:Psalms 57
+LABEL:1
+VERSE:Be merciful unto me, O God, be merciful unto me;
+VERSE:For my soul taketh refuge in thee:
+VERSE:Yea, in the shadow of thy wings will I take refuge,
+VERSE:Until these calamities be overpast.
+LABEL:2
+VERSE:I will cry unto God Most High,
+VERSE:Unto God that performeth all things for me.
+LABEL:3
+VERSE:He will send from heaven, and save me,
+VERSE:When he that would swallow me up reproacheth; [Selah
+VERSE:God will send forth his lovingkindness and his truth.
+LABEL:4
+VERSE:My soul is among lions;
+VERSE:I lie among them that are set on fire,
+VERSE:Even the sons of men, whose teeth are spears and arrows,
+VERSE:And their tongue a sharp sword.
+LABEL:5
+VERSE:Be thou exalted, O God, above the heavens;
+VERSE:Let thy glory be above all the earth.
+LABEL:6
+VERSE:They have prepared a net for my steps;
+VERSE:My soul is bowed down:
+VERSE:They have digged a pit before me;
+VERSE:They are fallen into the midst thereof themselves. [Selah
+LABEL:7
+VERSE:My heart is fixed, O God, my heart is fixed:
+VERSE:I will sing, yea, I will sing praises.
+LABEL:8
+VERSE:Awake up, my glory; awake, psaltery and harp:
+VERSE:I myself will awake right early.
+LABEL:9
+VERSE:I will give thanks unto thee, O Lord, among the peoples:
+VERSE:I will sing praises unto thee among the nations.
+LABEL:10
+VERSE:For thy lovingkindness is great unto the heavens,
+VERSE:And thy truth unto the skies.
+LABEL:11
+VERSE:Be thou exalted, O God, above the heavens;
+VERSE:Let thy glory be above all the earth.

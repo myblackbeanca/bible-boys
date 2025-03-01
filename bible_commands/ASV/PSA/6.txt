@@ -1,0 +1,35 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:6
+TITLE:Psalms 6
+LABEL:1
+VERSE:O Jehovah, rebuke me not in thine anger,
+VERSE:Neither chasten me in thy hot displeasure.
+LABEL:2
+VERSE:Have mercy upon me, O Jehovah; for I am withered away:
+VERSE:O Jehovah, heal me; for my bones are troubled.
+LABEL:3
+VERSE:My soul also is sore troubled:
+VERSE:And thou, O Jehovah, how long?
+LABEL:4
+VERSE:Return, O Jehovah, deliver my soul:
+VERSE:Save me for thy lovingkindness’ sake.
+LABEL:5
+VERSE:For in death there is no remembrance of thee:
+VERSE:In Sheol who shall give thee thanks?
+LABEL:6
+VERSE:I am weary with my groaning;
+VERSE:Every night make I my bed to swim;
+VERSE:I water my couch with my tears.
+LABEL:7
+VERSE:Mine eye wasteth away because of grief;
+VERSE:It waxeth old because of all mine adversaries.
+LABEL:8
+VERSE:Depart from me, all ye workers of iniquity;
+VERSE:For Jehovah hath heard the voice of my weeping.
+LABEL:9
+VERSE:Jehovah hath heard my supplication;
+VERSE:Jehovah will receive my prayer.
+LABEL:10
+VERSE:All mine enemies shall be put to shame and sore troubled:
+VERSE:They shall turn back, they shall be put to shame suddenly.

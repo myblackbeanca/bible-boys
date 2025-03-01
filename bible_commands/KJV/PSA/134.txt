@@ -1,0 +1,14 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:134
+TITLE:Psalm 134
+LABEL:1
+VERSE:Behold, bless ye the LORD,
+VERSE:All ye servants of the LORD,
+VERSE:Which by night stand in the house of the LORD.
+LABEL:2
+VERSE:Lift up your hands in the sanctuary,
+VERSE:And bless the LORD.
+LABEL:3
+VERSE:The LORD that made heaven and earth
+VERSE:Bless thee out of Zion.

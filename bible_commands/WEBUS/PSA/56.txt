@@ -1,0 +1,49 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:56
+TITLE:Psalms 56
+LABEL:1
+VERSE:Be merciful to me, God, for man wants to swallow me up.
+VERSE:All day long, he attacks and oppresses me.
+LABEL:2
+VERSE:My enemies want to swallow me up all day long,
+VERSE:for they are many who fight proudly against me.
+LABEL:3
+VERSE:When I am afraid,
+VERSE:I will put my trust in you.
+LABEL:4
+VERSE:In God, I praise his word.
+VERSE:In God, I put my trust.
+VERSE:I will not be afraid.
+VERSE:What can flesh do to me?
+LABEL:5
+VERSE:All day long they twist my words.
+VERSE:All their thoughts are against me for evil.
+LABEL:6
+VERSE:They conspire and lurk,
+VERSE:watching my steps.
+VERSE:They are eager to take my life.
+LABEL:7
+VERSE:Shall they escape by iniquity?
+VERSE:In anger cast down the peoples, God.
+LABEL:8
+VERSE:You count my wanderings.
+VERSE:You put my tears into your container.
+VERSE:Aren’t they in your book?
+LABEL:9
+VERSE:Then my enemies shall turn back in the day that I call.
+VERSE:I know this: that God is for me.
+LABEL:10
+VERSE:In God, I will praise his word.
+VERSE:In Yahweh, I will praise his word.
+LABEL:11
+VERSE:I have put my trust in God.
+VERSE:I will not be afraid.
+VERSE:What can man do to me?
+LABEL:12
+VERSE:Your vows are on me, God.
+VERSE:I will give thank offerings to you.
+LABEL:13
+VERSE:For you have delivered my soul from death,
+VERSE:and prevented my feet from falling,
+VERSE:that I may walk before God in the light of the living.

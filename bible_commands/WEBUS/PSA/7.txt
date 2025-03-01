@@ -1,0 +1,60 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:7
+TITLE:Psalms 7
+LABEL:1
+VERSE:Yahweh, my God, I take refuge in you.
+VERSE:Save me from all those who pursue me, and deliver me,
+LABEL:2
+VERSE:lest they tear apart my soul like a lion,
+VERSE:ripping it in pieces, while there is no one to deliver.
+LABEL:3
+VERSE:Yahweh, my God, if I have done this,
+VERSE:if there is iniquity in my hands,
+LABEL:4
+VERSE:if I have rewarded evil to him who was at peace with me
+VERSE:(yes, I have plundered him who without cause was my adversary),
+LABEL:5
+VERSE:let the enemy pursue my soul, and overtake it;
+VERSE:yes, let him tread my life down to the earth,
+VERSE:and lay my glory in the dust. Selah.
+LABEL:6
+VERSE:Arise, Yahweh, in your anger.
+VERSE:Lift up yourself against the rage of my adversaries.
+VERSE:Awake for me. You have commanded judgment.
+LABEL:7
+VERSE:Let the congregation of the peoples surround you.
+VERSE:Rule over them on high.
+LABEL:8
+VERSE:Yahweh administers judgment to the peoples.
+VERSE:Judge me, Yahweh, according to my righteousness,
+VERSE:and to my integrity that is in me.
+LABEL:9
+VERSE:Oh let the wickedness of the wicked come to an end,
+VERSE:but establish the righteous;
+VERSE:their minds and hearts are searched by the righteous God.
+LABEL:10
+VERSE:My shield is with God,
+VERSE:who saves the upright in heart.
+LABEL:11
+VERSE:God is a righteous judge,
+VERSE:yes, a God who has indignation every day.
+LABEL:12
+VERSE:If a man doesn’t repent, he will sharpen his sword;
+VERSE:he has bent and strung his bow.
+LABEL:13
+VERSE:He has also prepared for himself the instruments of death.
+VERSE:He makes ready his flaming arrows.
+LABEL:14
+VERSE:Behold, he travails with iniquity.
+VERSE:Yes, he has conceived mischief,
+VERSE:and brought out falsehood.
+LABEL:15
+VERSE:He has dug a hole,
+VERSE:and has fallen into the pit which he made.
+LABEL:16
+VERSE:The trouble he causes shall return to his own head.
+VERSE:His violence shall come down on the crown of his own head.
+LABEL:17
+VERSE:I will give thanks to Yahweh according to his righteousness,
+VERSE:and will sing praise to the name of Yahweh Most High.

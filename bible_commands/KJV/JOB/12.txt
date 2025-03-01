@@ -1,0 +1,82 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:12
+TITLE:Job 12
+SECTION:Job's Reply
+LABEL:1
+VERSE:And Job answered and said,
+LABEL:2
+VERSE:No doubt but ye are the people,
+VERSE:And wisdom shall die with you.
+LABEL:3
+VERSE:But I have understanding as well as you;
+VERSE:I am not inferior to you:
+VERSE:Yea, who knoweth not such things as these?
+LABEL:4
+VERSE:I am as one mocked of his neighbour,
+VERSE:Who calleth upon God, and he answereth him:
+VERSE:The just upright man is laughed to scorn.
+LABEL:5
+VERSE:He that is ready to slip with his feet
+VERSE:Is as a lamp despised in the thought of him that is at ease.
+LABEL:6
+VERSE:The tabernacles of robbers prosper,
+VERSE:And they that provoke God are secure;
+VERSE:Into whose hand God bringeth abundantly.
+LABEL:7
+VERSE:But ask now the beasts, and they shall teach thee;
+VERSE:And the fowls of the air, and they shall tell thee:
+LABEL:8
+VERSE:Or speak to the earth, and it shall teach thee:
+VERSE:And the fishes of the sea shall declare unto thee.
+LABEL:9
+VERSE:Who knoweth not in all these
+VERSE:That the hand of the LORD hath wrought this?
+LABEL:10
+VERSE:In whose hand is the soul of every living thing,
+VERSE:And the breath of all mankind.
+LABEL:11
+VERSE:Doth not the ear try words?
+VERSE:And the mouth taste his meat?
+LABEL:12
+VERSE:With the ancient is wisdom;
+VERSE:And in length of days understanding.
+LABEL:13
+VERSE:With him is wisdom and strength,
+VERSE:He hath counsel and understanding.
+LABEL:14
+VERSE:Behold, he breaketh down, and it cannot be built again:
+VERSE:He shutteth up a man, and there can be no opening.
+LABEL:15
+VERSE:Behold, he withholdeth the waters, and they dry up:
+VERSE:Also he sendeth them out, and they overturn the earth.
+LABEL:16
+VERSE:With him is strength and wisdom:
+VERSE:The deceived and the deceiver are his.
+LABEL:17
+VERSE:He leadeth counsellors away spoiled,
+VERSE:And maketh the judges fools.
+LABEL:18
+VERSE:He looseth the bond of kings,
+VERSE:And girdeth their loins with a girdle.
+LABEL:19
+VERSE:He leadeth princes away spoiled,
+VERSE:And overthroweth the mighty.
+LABEL:20
+VERSE:He removeth away the speech of the trusty,
+VERSE:And taketh away the understanding of the aged.
+LABEL:21
+VERSE:He poureth contempt upon princes,
+VERSE:And weakeneth the strength of the mighty.
+LABEL:22
+VERSE:He discovereth deep things out of darkness,
+VERSE:And bringeth out to light the shadow of death.
+LABEL:23
+VERSE:He increaseth the nations, and destroyeth them:
+VERSE:He enlargeth the nations, and straiteneth them again.
+LABEL:24
+VERSE:He taketh away the heart of the chief of the people of the earth,
+VERSE:And causeth them to wander in a wilderness where there is no way.
+LABEL:25
+VERSE:They grope in the dark without light,
+VERSE:And he maketh them to stagger like a drunken man.

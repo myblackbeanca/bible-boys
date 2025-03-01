@@ -1,0 +1,135 @@
+TRANSLATION:WEBUS
+BOOK:LUK
+CHAPTER:9
+TITLE:Luke 9
+LABEL:1
+VERSE:He called the twelve together and gave them power and authority over all demons, and to cure diseases.
+LABEL:2
+VERSE:He sent them out to preach God’s Kingdom and to heal the sick.
+LABEL:3
+VERSE:He said to them, “Take nothing for your journey—no staffs, nor wallet, nor bread, nor money. Don’t have two tunics each.
+LABEL:4
+VERSE:Into whatever house you enter, stay there, and depart from there.
+LABEL:5
+VERSE:As many as don’t receive you, when you depart from that city, shake off even the dust from your feet for a testimony against them.”
+LABEL:6
+VERSE:They departed and went throughout the villages, preaching the Good News and healing everywhere.
+LABEL:7
+VERSE:Now Herod the tetrarch heard of all that was done by him; and he was very perplexed, because it was said by some that John had risen from the dead,
+LABEL:8
+VERSE:and by some that Elijah had appeared, and by others that one of the old prophets had risen again.
+LABEL:9
+VERSE:Herod said, “I beheaded John, but who is this about whom I hear such things?” He sought to see him.
+LABEL:10
+VERSE:The apostles, when they had returned, told him what things they had done.
+VERSE:He took them and withdrew apart to a desert region of a city called Bethsaida.
+LABEL:11
+VERSE:But the multitudes, perceiving it, followed him. He welcomed them, spoke to them of God’s Kingdom, and he cured those who needed healing.
+LABEL:12
+VERSE:The day began to wear away; and the twelve came and said to him, “Send the multitude away, that they may go into the surrounding villages and farms and lodge and get food, for we are here in a deserted place.”
+LABEL:13
+VERSE:But he said to them, “You give them something to eat.”
+VERSE:They said, “We have no more than five loaves and two fish, unless we should go and buy food for all these people.”
+LABEL:14
+VERSE:For they were about five thousand men.
+VERSE:He said to his disciples, “Make them sit down in groups of about fifty each.”
+LABEL:15
+VERSE:They did so, and made them all sit down.
+LABEL:16
+VERSE:He took the five loaves and the two fish, and looking up to the sky, he blessed them, broke them, and gave them to the disciples to set before the multitude.
+LABEL:17
+VERSE:They ate and were all filled. They gathered up twelve baskets of broken pieces that were left over.
+LABEL:18
+VERSE:As he was praying alone, the disciples were near him, and he asked them, “Who do the multitudes say that I am?”
+LABEL:19
+VERSE:They answered, “‘John the Baptizer,’ but others say, ‘Elijah,’ and others, that one of the old prophets has risen again.”
+LABEL:20
+VERSE:He said to them, “But who do you say that I am?”
+VERSE:Peter answered, “The Christ of God.”
+LABEL:21
+VERSE:But he warned them and commanded them to tell this to no one,
+LABEL:22
+VERSE:saying, “The Son of Man must suffer many things, and be rejected by the elders, chief priests, and scribes, and be killed, and the third day be raised up.”
+LABEL:23
+VERSE:He said to all, “If anyone desires to come after me, let him deny himself, take up his cross,  and follow me.
+LABEL:24
+VERSE:For whoever desires to save his life will lose it, but whoever will lose his life for my sake will save it.
+LABEL:25
+VERSE:For what does it profit a man if he gains the whole world, and loses or forfeits his own self?
+LABEL:26
+VERSE:For whoever will be ashamed of me and of my words, of him will the Son of Man be ashamed when he comes in his glory, and the glory of the Father, and of the holy angels.
+LABEL:27
+VERSE:But I tell you the truth: There are some of those who stand here who will in no way taste of death until they see God’s Kingdom.”
+LABEL:28
+VERSE:About eight days after these sayings, he took with him Peter, John, and James, and went up onto the mountain to pray.
+LABEL:29
+VERSE:As he was praying, the appearance of his face was altered, and his clothing became white and dazzling.
+LABEL:30
+VERSE:Behold, two men were talking with him, who were Moses and Elijah,
+LABEL:31
+VERSE:who appeared in glory and spoke of his departure, which he was about to accomplish at Jerusalem.
+LABEL:32
+VERSE:Now Peter and those who were with him were heavy with sleep, but when they were fully awake, they saw his glory, and the two men who stood with him.
+LABEL:33
+VERSE:As they were parting from him, Peter said to Jesus, “Master, it is good for us to be here. Let’s make three tents: one for you, one for Moses, and one for Elijah,” not knowing what he said.
+LABEL:34
+VERSE:While he said these things, a cloud came and overshadowed them, and they were afraid as they entered into the cloud.
+LABEL:35
+VERSE:A voice came out of the cloud, saying, “This is my beloved Son. Listen to him!”
+LABEL:36
+VERSE:When the voice came, Jesus was found alone. They were silent, and told no one in those days any of the things which they had seen.
+LABEL:37
+VERSE:On the next day, when they had come down from the mountain, a great multitude met him.
+LABEL:38
+VERSE:Behold, a man from the crowd called out, saying, “Teacher, I beg you to look at my son, for he is my only born child.
+LABEL:39
+VERSE:Behold, a spirit takes him, he suddenly cries out, and it convulses him so that he foams; and it hardly departs from him, bruising him severely.
+LABEL:40
+VERSE:I begged your disciples to cast it out, and they couldn’t.”
+LABEL:41
+VERSE:Jesus answered, “Faithless and perverse generation, how long shall I be with you and bear with you? Bring your son here.”
+LABEL:42
+VERSE:While he was still coming, the demon threw him down and convulsed him violently. But Jesus rebuked the unclean spirit, healed the boy, and gave him back to his father.
+LABEL:43
+VERSE:They were all astonished at the majesty of God.
+VERSE:But while all were marveling at all the things which Jesus did, he said to his disciples,
+LABEL:44
+VERSE:“Let these words sink into your ears, for the Son of Man will be delivered up into the hands of men.”
+LABEL:45
+VERSE:But they didn’t understand this saying. It was concealed from them, that they should not perceive it, and they were afraid to ask him about this saying.
+LABEL:46
+VERSE:An argument arose among them about which of them was the greatest.
+LABEL:47
+VERSE:Jesus, perceiving the reasoning of their hearts, took a little child, and set him by his side,
+LABEL:48
+VERSE:and said to them, “Whoever receives this little child in my name receives me. Whoever receives me receives him who sent me. For whoever is least among you all, this one will be great.”
+LABEL:49
+VERSE:John answered, “Master, we saw someone casting out demons in your name, and we forbade him, because he doesn’t follow with us.”
+LABEL:50
+VERSE:Jesus said to him, “Don’t forbid him, for he who is not against us is for us.”
+LABEL:51
+VERSE:It came to pass, when the days were near that he should be taken up, he intently set his face to go to Jerusalem
+LABEL:52
+VERSE:and sent messengers before his face. They went and entered into a village of the Samaritans, so as to prepare for him.
+LABEL:53
+VERSE:They didn’t receive him, because he was traveling with his face set toward Jerusalem.
+LABEL:54
+VERSE:When his disciples, James and John, saw this, they said, “Lord, do you want us to command fire to come down from the sky and destroy them, just as Elijah did?”
+LABEL:55
+VERSE:But he turned and rebuked them, “You don’t know of what kind of spirit you are.
+LABEL:56
+VERSE:For the Son of Man didn’t come to destroy men’s lives, but to save them.”
+VERSE:They went to another village.
+LABEL:57
+VERSE:As they went on the way, a certain man said to him, “I want to follow you wherever you go, Lord.”
+LABEL:58
+VERSE:Jesus said to him, “The foxes have holes and the birds of the sky have nests, but the Son of Man has no place to lay his head.”
+LABEL:59
+VERSE:He said to another, “Follow me!”
+VERSE:But he said, “Lord, allow me first to go and bury my father.”
+LABEL:60
+VERSE:But Jesus said to him, “Leave the dead to bury their own dead, but you go and announce God’s Kingdom.”
+LABEL:61
+VERSE:Another also said, “I want to follow you, Lord, but first allow me to say good-bye to those who are at my house.”
+LABEL:62
+VERSE:But Jesus said to him, “No one, having put his hand to the plow and looking back, is fit for God’s Kingdom.”

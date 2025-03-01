@@ -1,0 +1,89 @@
+TRANSLATION:WEBUS
+BOOK:EXO
+CHAPTER:15
+TITLE:Exodus 15
+LABEL:1
+VERSE:Then Moses and the children of Israel sang this song to Yahweh, and said,
+VERSE:“I will sing to Yahweh, for he has triumphed gloriously.
+VERSE:He has thrown the horse and his rider into the sea.
+LABEL:2
+VERSE:Yah is my strength and song.
+VERSE:He has become my salvation.
+VERSE:This is my God, and I will praise him;
+VERSE:my father’s God, and I will exalt him.
+LABEL:3
+VERSE:Yahweh is a man of war.
+VERSE:Yahweh is his name.
+LABEL:4
+VERSE:He has cast Pharaoh’s chariots and his army into the sea.
+VERSE:His chosen captains are sunk in the Red Sea.
+LABEL:5
+VERSE:The deeps cover them.
+VERSE:They went down into the depths like a stone.
+LABEL:6
+VERSE:Your right hand, Yahweh, is glorious in power.
+VERSE:Your right hand, Yahweh, dashes the enemy in pieces.
+LABEL:7
+VERSE:In the greatness of your excellency, you overthrow those who rise up against you.
+VERSE:You send out your wrath. It consumes them as stubble.
+LABEL:8
+VERSE:With the blast of your nostrils, the waters were piled up.
+VERSE:The floods stood upright as a heap.
+VERSE:The deeps were congealed in the heart of the sea.
+LABEL:9
+VERSE:The enemy said, ‘I will pursue. I will overtake. I will divide the plunder.
+VERSE:My desire will be satisfied on them.
+VERSE:I will draw my sword. My hand will destroy them.’
+LABEL:10
+VERSE:You blew with your wind.
+VERSE:The sea covered them.
+VERSE:They sank like lead in the mighty waters.
+LABEL:11
+VERSE:Who is like you, Yahweh, among the gods?
+VERSE:Who is like you, glorious in holiness,
+VERSE:fearful in praises, doing wonders?
+LABEL:12
+VERSE:You stretched out your right hand.
+VERSE:The earth swallowed them.
+LABEL:13
+VERSE:“You, in your loving kindness, have led the people that you have redeemed.
+VERSE:You have guided them in your strength to your holy habitation.
+LABEL:14
+VERSE:The peoples have heard.
+VERSE:They tremble.
+VERSE:Pangs have taken hold of the inhabitants of Philistia.
+LABEL:15
+VERSE:Then the chiefs of Edom were dismayed.
+VERSE:Trembling takes hold of the mighty men of Moab.
+VERSE:All the inhabitants of Canaan have melted away.
+LABEL:16
+VERSE:Terror and dread falls on them.
+VERSE:By the greatness of your arm they are as still as a stone,
+VERSE:until your people pass over, Yahweh,
+VERSE:until the people you have purchased pass over.
+LABEL:17
+VERSE:You will bring them in, and plant them in the mountain of your inheritance,
+VERSE:the place, Yahweh, which you have made for yourself to dwell in:
+VERSE:the sanctuary, Lord, which your hands have established.
+LABEL:18
+VERSE:Yahweh will reign forever and ever.”
+LABEL:19
+VERSE:For the horses of Pharaoh went in with his chariots and with his horsemen into the sea, and Yahweh brought back the waters of the sea on them; but the children of Israel walked on dry land in the middle of the sea.
+LABEL:20
+VERSE:Miriam the prophetess, the sister of Aaron, took a tambourine in her hand; and all the women went out after her with tambourines and with dances.
+LABEL:21
+VERSE:Miriam answered them,
+VERSE:“Sing to Yahweh, for he has triumphed gloriously.
+VERSE:He has thrown the horse and his rider into the sea.”
+LABEL:22
+VERSE:Moses led Israel onward from the Red Sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
+LABEL:23
+VERSE:When they came to Marah, they couldn’t drink from the waters of Marah, for they were bitter. Therefore its name was called Marah.
+LABEL:24
+VERSE:The people murmured against Moses, saying, “What shall we drink?”
+LABEL:25
+VERSE:Then he cried to Yahweh. Yahweh showed him a tree, and he threw it into the waters, and the waters were made sweet. There he made a statute and an ordinance for them, and there he tested them.
+LABEL:26
+VERSE:He said, “If you will diligently listen to Yahweh your God’s voice, and will do that which is right in his eyes, and will pay attention to his commandments, and keep all his statutes, I will put none of the diseases on you which I have put on the Egyptians; for I am Yahweh who heals you.”
+LABEL:27
+VERSE:They came to Elim, where there were twelve springs of water and seventy palm trees. They encamped there by the waters.

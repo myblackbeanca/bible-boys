@@ -1,0 +1,50 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:143
+TITLE:Psalms 143
+LABEL:1
+VERSE:Hear my prayer, Yahweh.
+VERSE:Listen to my petitions.
+VERSE:In your faithfulness and righteousness, relieve me.
+LABEL:2
+VERSE:Don’t enter into judgment with your servant,
+VERSE:for in your sight no man living is righteous.
+LABEL:3
+VERSE:For the enemy pursues my soul.
+VERSE:He has struck my life down to the ground.
+VERSE:He has made me live in dark places, as those who have been long dead.
+LABEL:4
+VERSE:Therefore my spirit is overwhelmed within me.
+VERSE:My heart within me is desolate.
+LABEL:5
+VERSE:I remember the days of old.
+VERSE:I meditate on all your doings.
+VERSE:I contemplate the work of your hands.
+LABEL:6
+VERSE:I spread out my hands to you.
+VERSE:My soul thirsts for you, like a parched land. Selah.
+LABEL:7
+VERSE:Hurry to answer me, Yahweh.
+VERSE:My spirit fails.
+VERSE:Don’t hide your face from me,
+VERSE:so that I don’t become like those who go down into the pit.
+LABEL:8
+VERSE:Cause me to hear your loving kindness in the morning,
+VERSE:for I trust in you.
+VERSE:Cause me to know the way in which I should walk,
+VERSE:for I lift up my soul to you.
+LABEL:9
+VERSE:Deliver me, Yahweh, from my enemies.
+VERSE:I flee to you to hide me.
+LABEL:10
+VERSE:Teach me to do your will,
+VERSE:for you are my God.
+VERSE:Your Spirit is good.
+VERSE:Lead me in the land of uprightness.
+LABEL:11
+VERSE:Revive me, Yahweh, for your name’s sake.
+VERSE:In your righteousness, bring my soul out of trouble.
+LABEL:12
+VERSE:In your loving kindness, cut off my enemies,
+VERSE:and destroy all those who afflict my soul,
+VERSE:for I am your servant.

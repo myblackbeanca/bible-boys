@@ -1,0 +1,96 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:39
+TITLE:Job 39
+LABEL:1
+VERSE:“Do you know the time when the mountain goats give birth?
+VERSE:Do you watch when the doe bears fawns?
+LABEL:2
+VERSE:Can you count the months that they fulfill?
+VERSE:Or do you know the time when they give birth?
+LABEL:3
+VERSE:They bow themselves. They bear their young.
+VERSE:They end their labor pains.
+LABEL:4
+VERSE:Their young ones become strong.
+VERSE:They grow up in the open field.
+VERSE:They go out, and don’t return again.
+LABEL:5
+VERSE:“Who has set the wild donkey free?
+VERSE:Or who has loosened the bonds of the swift donkey,
+LABEL:6
+VERSE:whose home I have made the wilderness,
+VERSE:and the salt land his dwelling place?
+LABEL:7
+VERSE:He scorns the tumult of the city,
+VERSE:neither does he hear the shouting of the driver.
+LABEL:8
+VERSE:The range of the mountains is his pasture.
+VERSE:He searches after every green thing.
+LABEL:9
+VERSE:“Will the wild ox be content to serve you?
+VERSE:Or will he stay by your feeding trough?
+LABEL:10
+VERSE:Can you hold the wild ox in the furrow with his harness?
+VERSE:Or will he till the valleys after you?
+LABEL:11
+VERSE:Will you trust him, because his strength is great?
+VERSE:Or will you leave to him your labor?
+LABEL:12
+VERSE:Will you confide in him, that he will bring home your seed,
+VERSE:and gather the grain of your threshing floor?
+LABEL:13
+VERSE:“The wings of the ostrich wave proudly,
+VERSE:but are they the feathers and plumage of love?
+LABEL:14
+VERSE:For she leaves her eggs on the earth,
+VERSE:warms them in the dust,
+LABEL:15
+VERSE:and forgets that the foot may crush them,
+VERSE:or that the wild animal may trample them.
+LABEL:16
+VERSE:She deals harshly with her young ones, as if they were not hers.
+VERSE:Though her labor is in vain, she is without fear,
+LABEL:17
+VERSE:because God has deprived her of wisdom,
+VERSE:neither has he imparted to her understanding.
+LABEL:18
+VERSE:When she lifts up herself on high,
+VERSE:she scorns the horse and his rider.
+LABEL:19
+VERSE:“Have you given the horse might?
+VERSE:Have you clothed his neck with a quivering mane?
+LABEL:20
+VERSE:Have you made him to leap as a locust?
+VERSE:The glory of his snorting is awesome.
+LABEL:21
+VERSE:He paws in the valley, and rejoices in his strength.
+VERSE:He goes out to meet the armed men.
+LABEL:22
+VERSE:He mocks at fear, and is not dismayed,
+VERSE:neither does he turn back from the sword.
+LABEL:23
+VERSE:The quiver rattles against him,
+VERSE:the flashing spear and the javelin.
+LABEL:24
+VERSE:He eats up the ground with fierceness and rage,
+VERSE:neither does he stand still at the sound of the trumpet.
+LABEL:25
+VERSE:As often as the trumpet sounds he snorts, ‘Aha!’
+VERSE:He smells the battle afar off,
+VERSE:the thunder of the captains, and the shouting.
+LABEL:26
+VERSE:“Is it by your wisdom that the hawk soars,
+VERSE:and stretches her wings toward the south?
+LABEL:27
+VERSE:Is it at your command that the eagle mounts up,
+VERSE:and makes his nest on high?
+LABEL:28
+VERSE:On the cliff he dwells and makes his home,
+VERSE:on the point of the cliff and the stronghold.
+LABEL:29
+VERSE:From there he spies out the prey.
+VERSE:His eyes see it afar off.
+LABEL:30
+VERSE:His young ones also suck up blood.
+VERSE:Where the slain are, there he is.”

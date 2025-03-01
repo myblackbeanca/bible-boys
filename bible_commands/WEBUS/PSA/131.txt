@@ -1,0 +1,15 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:131
+TITLE:Psalms 131
+LABEL:1
+VERSE:Yahweh, my heart isn’t arrogant, nor my eyes lofty;
+VERSE:nor do I concern myself with great matters,
+VERSE:or things too wonderful for me.
+LABEL:2
+VERSE:Surely I have stilled and quieted my soul,
+VERSE:like a weaned child with his mother,
+VERSE:like a weaned child is my soul within me.
+LABEL:3
+VERSE:Israel, hope in Yahweh,
+VERSE:from this time forward and forever more.

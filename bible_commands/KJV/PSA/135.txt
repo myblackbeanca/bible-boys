@@ -1,0 +1,68 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:135
+TITLE:Psalm 135
+LABEL:1
+VERSE:Praise ye the LORD. Praise ye the name of the LORD;
+VERSE:Praise him, O ye servants of the LORD.
+LABEL:2
+VERSE:Ye that stand in the house of the LORD,
+VERSE:In the courts of the house of our God,
+LABEL:3
+VERSE:Praise the LORD; for the LORD  is good:
+VERSE:Sing praises unto his name; for it is pleasant.
+LABEL:4
+VERSE:For the LORD hath chosen Jacob unto himself,
+VERSE:And Israel for his peculiar treasure.
+LABEL:5
+VERSE:For I know that the LORD  is great,
+VERSE:And that our Lord is above all gods.
+LABEL:6
+VERSE:Whatsoever the LORD pleased, that did he in heaven, and in earth,
+VERSE:In the seas, and all deep places.
+LABEL:7
+VERSE:He causeth the vapours to ascend from the ends of the earth;
+VERSE:He maketh lightnings for the rain; He bringeth the wind out of his treasuries.
+LABEL:8
+VERSE:Who smote the firstborn of Egypt,
+VERSE:Both of man and beast.
+LABEL:9
+VERSE:  Who sent tokens and wonders into the midst of thee, O Egypt,
+VERSE:Upon Pharaoh, and upon all his servants.
+LABEL:10
+VERSE:Who smote great nations,
+VERSE:And slew mighty kings;
+LABEL:11
+VERSE:Sihon king of the Amorites, and Og king of Bashan,
+VERSE:And all the kingdoms of Canaan:
+LABEL:12
+VERSE:And gave their land for an heritage,
+VERSE:An heritage unto Israel his people.
+LABEL:13
+VERSE:Thy name, O LORD, endureth for ever;
+VERSE:And thy memorial, O LORD, throughout all generations.
+LABEL:14
+VERSE:For the LORD will judge his people,
+VERSE:And he will repent himself concerning his servants.
+LABEL:15
+VERSE:The idols of the heathen
+VERSE:are silver and gold, the work of men's hands.
+LABEL:16
+VERSE:They have mouths, but they speak not;
+VERSE:Eyes have they, but they see not;
+LABEL:17
+VERSE:They have ears, but they hear not;
+VERSE:Neither is there any breath in their mouths.
+LABEL:18
+VERSE:They that make them are like unto them:
+VERSE:So is every one that trusteth in them.
+LABEL:19
+VERSE:Bless the LORD, O house of Israel:
+VERSE:Bless the LORD, O house of Aaron:
+LABEL:20
+VERSE:Bless the LORD, O house of Levi:
+VERSE:Ye that fear the LORD, bless the LORD.
+LABEL:21
+VERSE:Blessed be the LORD out of Zion,
+VERSE:Which dwelleth at Jerusalem.
+VERSE:Praise ye the LORD.

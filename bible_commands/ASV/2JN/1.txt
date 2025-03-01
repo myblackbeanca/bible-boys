@@ -1,0 +1,30 @@
+TRANSLATION:ASV
+BOOK:2JN
+CHAPTER:1
+TITLE:2 John 1
+LABEL:1
+VERSE:The elder unto the elect lady and her children, whom I love in truth; and not I only, but also all they that know the truth;
+LABEL:2
+VERSE:for the truth’s sake which abideth in us, and it shall be with us for ever:
+LABEL:3
+VERSE:Grace, mercy, peace shall be with us, from God the Father, and from Jesus Christ, the Son of the Father, in truth and love.
+LABEL:4
+VERSE:I rejoice greatly that I have found certain of thy children walking in truth, even as we received commandment from the Father.
+LABEL:5
+VERSE:And now I beseech thee, lady, not as though I wrote to thee a new commandment, but that which we had from the beginning, that we love one another.
+LABEL:6
+VERSE:And this is love, that we should walk after his commandments. This is the commandment, even as ye heard from the beginning, that ye should walk in it.
+LABEL:7
+VERSE:For many deceivers are gone forth into the world, even they that confess not that Jesus Christ cometh in the flesh. This is the deceiver and the antichrist.
+LABEL:8
+VERSE:Look to yourselves, that ye lose not the things which we have wrought, but that ye receive a full reward.
+LABEL:9
+VERSE:Whosoever goeth onward and abideth not in the teaching of Christ, hath not God: he that abideth in the teaching, the same hath both the Father and the Son.
+LABEL:10
+VERSE:If any one cometh unto you, and bringeth not this teaching, receive him not into your house, and give him no greeting:
+LABEL:11
+VERSE:for he that giveth him greeting partaketh in his evil works.
+LABEL:12
+VERSE:Having many things to write unto you, I would not write them with paper and ink: but I hope to come unto you, and to speak face to face, that your joy may be made full.
+LABEL:13
+VERSE:The children of thine elect sister salute thee.

@@ -1,0 +1,42 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:2
+TITLE:Psalms 2
+LABEL:1
+VERSE:Why do the nations rage,
+VERSE:and the peoples plot a vain thing?
+LABEL:2
+VERSE:The kings of the earth take a stand,
+VERSE:and the rulers take counsel together,
+VERSE:against Yahweh, and against his Anointed, saying,
+LABEL:3
+VERSE:“Let’s break their bonds apart,
+VERSE:and cast their cords from us.”
+LABEL:4
+VERSE:He who sits in the heavens will laugh.
+VERSE:The Lord will have them in derision.
+LABEL:5
+VERSE:Then he will speak to them in his anger,
+VERSE:and terrify them in his wrath:
+LABEL:6
+VERSE:“Yet I have set my King on my holy hill of Zion.”
+LABEL:7
+VERSE:I will tell of the decree:
+VERSE:Yahweh said to me, “You are my son.
+VERSE:Today I have become your father.
+LABEL:8
+VERSE:Ask of me, and I will give the nations for your inheritance,
+VERSE:the uttermost parts of the earth for your possession.
+LABEL:9
+VERSE:You shall break them with a rod of iron.
+VERSE:You shall dash them in pieces like a potter’s vessel.”
+LABEL:10
+VERSE:Now therefore be wise, you kings.
+VERSE:Be instructed, you judges of the earth.
+LABEL:11
+VERSE:Serve Yahweh with fear,
+VERSE:and rejoice with trembling.
+LABEL:12
+VERSE:Give sincere homage to the Son, lest he be angry, and you perish on the way,
+VERSE:for his wrath will soon be kindled.
+VERSE:Blessed are all those who take refuge in him.

@@ -1,0 +1,44 @@
+TRANSLATION:WEBUS
+BOOK:HEB
+CHAPTER:8
+TITLE:Hebrews 8
+LABEL:1
+VERSE:Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,
+LABEL:2
+VERSE:a servant of the sanctuary and of the true tabernacle which the Lord pitched, not man.
+LABEL:3
+VERSE:For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this high priest also have something to offer.
+LABEL:4
+VERSE:For if he were on earth, he would not be a priest at all, seeing there are priests who offer the gifts according to the law,
+LABEL:5
+VERSE:who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, “See, you shall make everything according to the pattern that was shown to you on the mountain.”
+LABEL:6
+VERSE:But now he has obtained a more excellent ministry, by as much as he is also the mediator of a better covenant, which on better promises has been given as law.
+LABEL:7
+VERSE:For if that first covenant had been faultless, then no place would have been sought for a second.
+LABEL:8
+VERSE:For finding fault with them, he said,
+VERSE:“Behold, the days are coming”, says the Lord,
+VERSE:“that I will make a new covenant with the house of Israel and with the house of Judah;
+LABEL:9
+VERSE:not according to the covenant that I made with their fathers
+VERSE:in the day that I took them by the hand to lead them out of the land of Egypt;
+VERSE:for they didn’t continue in my covenant,
+VERSE:and I disregarded them,” says the Lord.
+LABEL:10
+VERSE:“For this is the covenant that I will make with the house of Israel
+VERSE:after those days,” says the Lord:
+VERSE:“I will put my laws into their mind;
+VERSE:I will also write them on their heart.
+VERSE:I will be their God,
+VERSE:and they will be my people.
+LABEL:11
+VERSE:They will not teach every man his fellow citizen
+VERSE:and every man his brother, saying, ‘Know the Lord,’
+VERSE:for all will know me,
+VERSE:from their least to their greatest.
+LABEL:12
+VERSE:For I will be merciful to their unrighteousness.
+VERSE:I will remember their sins and lawless deeds no more.”
+LABEL:13
+VERSE:In that he says, “A new covenant”, he has made the first obsolete. But that which is becoming obsolete and grows aged is near to vanishing away.

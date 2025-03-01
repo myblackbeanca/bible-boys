@@ -1,0 +1,37 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:111
+TITLE:Psalms 111
+LABEL:1
+VERSE:Praise Yah!
+VERSE:I will give thanks to Yahweh with my whole heart,
+VERSE:in the council of the upright, and in the congregation.
+LABEL:2
+VERSE:Yahweh’s works are great,
+VERSE:pondered by all those who delight in them.
+LABEL:3
+VERSE:His work is honor and majesty.
+VERSE:His righteousness endures forever.
+LABEL:4
+VERSE:He has caused his wonderful works to be remembered.
+VERSE:Yahweh is gracious and merciful.
+LABEL:5
+VERSE:He has given food to those who fear him.
+VERSE:He always remembers his covenant.
+LABEL:6
+VERSE:He has shown his people the power of his works,
+VERSE:in giving them the heritage of the nations.
+LABEL:7
+VERSE:The works of his hands are truth and justice.
+VERSE:All his precepts are sure.
+LABEL:8
+VERSE:They are established forever and ever.
+VERSE:They are done in truth and uprightness.
+LABEL:9
+VERSE:He has sent redemption to his people.
+VERSE:He has ordained his covenant forever.
+VERSE:His name is holy and awesome!
+LABEL:10
+VERSE:The fear of Yahweh is the beginning of wisdom.
+VERSE:All those who do his work have a good understanding.
+VERSE:His praise endures forever!

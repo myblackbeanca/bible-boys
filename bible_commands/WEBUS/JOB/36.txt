@@ -1,0 +1,105 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:36
+TITLE:Job 36
+LABEL:1
+VERSE:Elihu also continued, and said,
+LABEL:2
+VERSE:“Bear with me a little, and I will show you;
+VERSE:for I still have something to say on God’s behalf.
+LABEL:3
+VERSE:I will get my knowledge from afar,
+VERSE:and will ascribe righteousness to my Maker.
+LABEL:4
+VERSE:For truly my words are not false.
+VERSE:One who is perfect in knowledge is with you.
+LABEL:5
+VERSE:“Behold, God is mighty, and doesn’t despise anyone.
+VERSE:He is mighty in strength of understanding.
+LABEL:6
+VERSE:He doesn’t preserve the life of the wicked,
+VERSE:but gives justice to the afflicted.
+LABEL:7
+VERSE:He doesn’t withdraw his eyes from the righteous,
+VERSE:but with kings on the throne,
+VERSE:he sets them forever, and they are exalted.
+LABEL:8
+VERSE:If they are bound in fetters,
+VERSE:and are taken in the cords of afflictions,
+LABEL:9
+VERSE:then he shows them their work,
+VERSE:and their transgressions, that they have behaved themselves proudly.
+LABEL:10
+VERSE:He also opens their ears to instruction,
+VERSE:and commands that they return from iniquity.
+LABEL:11
+VERSE:If they listen and serve him,
+VERSE:they will spend their days in prosperity,
+VERSE:and their years in pleasures.
+LABEL:12
+VERSE:But if they don’t listen, they will perish by the sword;
+VERSE:they will die without knowledge.
+LABEL:13
+VERSE:“But those who are godless in heart lay up anger.
+VERSE:They don’t cry for help when he binds them.
+LABEL:14
+VERSE:They die in youth.
+VERSE:Their life perishes among the unclean.
+LABEL:15
+VERSE:He delivers the afflicted by their affliction,
+VERSE:and opens their ear in oppression.
+LABEL:16
+VERSE:Yes, he would have allured you out of distress,
+VERSE:into a wide place, where there is no restriction.
+VERSE:That which is set on your table would be full of fatness.
+LABEL:17
+VERSE:“But you are full of the judgment of the wicked.
+VERSE:Judgment and justice take hold of you.
+LABEL:18
+VERSE:Don’t let riches entice you to wrath,
+VERSE:neither let the great size of a bribe turn you aside.
+LABEL:19
+VERSE:Would your wealth sustain you in distress,
+VERSE:or all the might of your strength?
+LABEL:20
+VERSE:Don’t desire the night,
+VERSE:when people are cut off in their place.
+LABEL:21
+VERSE:Take heed, don’t regard iniquity;
+VERSE:for you have chosen this rather than affliction.
+LABEL:22
+VERSE:Behold, God is exalted in his power.
+VERSE:Who is a teacher like him?
+LABEL:23
+VERSE:Who has prescribed his way for him?
+VERSE:Or who can say, ‘You have committed unrighteousness’?
+LABEL:24
+VERSE:“Remember that you magnify his work,
+VERSE:about which men have sung.
+LABEL:25
+VERSE:All men have looked on it.
+VERSE:Man sees it afar off.
+LABEL:26
+VERSE:Behold, God is great, and we don’t know him.
+VERSE:The number of his years is unsearchable.
+LABEL:27
+VERSE:For he draws up the drops of water,
+VERSE:which distill in rain from his vapor,
+LABEL:28
+VERSE:which the skies pour down
+VERSE:and which drop on man abundantly.
+LABEL:29
+VERSE:Indeed, can anyone understand the spreading of the clouds
+VERSE:and the thunderings of his pavilion?
+LABEL:30
+VERSE:Behold, he spreads his light around him.
+VERSE:He covers the bottom of the sea.
+LABEL:31
+VERSE:For by these he judges the people.
+VERSE:He gives food in abundance.
+LABEL:32
+VERSE:He covers his hands with the lightning,
+VERSE:and commands it to strike the mark.
+LABEL:33
+VERSE:Its noise tells about him,
+VERSE:and the livestock also, concerning the storm that comes up.

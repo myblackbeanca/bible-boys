@@ -1,0 +1,125 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:43
+TITLE:Isaiah 43
+LABEL:1
+VERSE:But now Yahweh who created you, Jacob,
+VERSE:and he who formed you, Israel, says:
+VERSE:“Don’t be afraid, for I have redeemed you.
+VERSE:I have called you by your name.
+VERSE:You are mine.
+LABEL:2
+VERSE:When you pass through the waters, I will be with you,
+VERSE:and through the rivers, they will not overflow you.
+VERSE:When you walk through the fire, you will not be burned,
+VERSE:and flame will not scorch you.
+LABEL:3
+VERSE:For I am Yahweh your God,
+VERSE:the Holy One of Israel,
+VERSE:your Savior.
+VERSE:I have given Egypt as your ransom,
+VERSE:Ethiopia and Seba in your place.
+LABEL:4
+VERSE:Since you have been precious and honored in my sight,
+VERSE:and I have loved you,
+VERSE:therefore I will give people in your place,
+VERSE:and nations instead of your life.
+LABEL:5
+VERSE:Don’t be afraid, for I am with you.
+VERSE:I will bring your offspring from the east,
+VERSE:and gather you from the west.
+LABEL:6
+VERSE:I will tell the north, ‘Give them up!’
+VERSE:and tell the south, ‘Don’t hold them back!
+VERSE:Bring my sons from far away,
+VERSE:and my daughters from the ends of the earth—
+LABEL:7
+VERSE:everyone who is called by my name,
+VERSE:and whom I have created for my glory,
+VERSE:whom I have formed,
+VERSE:yes, whom I have made.’”
+LABEL:8
+VERSE:Bring out the blind people who have eyes,
+VERSE:and the deaf who have ears.
+LABEL:9
+VERSE:Let all the nations be gathered together,
+VERSE:and let the peoples be assembled.
+VERSE:Who among them can declare this,
+VERSE:and show us former things?
+VERSE:Let them bring their witnesses, that they may be justified,
+VERSE:or let them hear, and say, “That is true.”
+LABEL:10
+VERSE:“You are my witnesses,” says Yahweh,
+VERSE:“With my servant whom I have chosen;
+VERSE:that you may know and believe me,
+VERSE:and understand that I am he.
+VERSE:Before me there was no God formed,
+VERSE:neither will there be after me.
+LABEL:11
+VERSE:I myself am Yahweh.
+VERSE:Besides me, there is no savior.
+LABEL:12
+VERSE:I have declared, I have saved, and I have shown,
+VERSE:and there was no strange god among you.
+VERSE:Therefore you are my witnesses”,
+VERSE:says Yahweh, “and I am God.
+LABEL:13
+VERSE:Yes, since the day was, I am he.
+VERSE:There is no one who can deliver out of my hand.
+VERSE:I will work, and who can hinder it?”
+LABEL:14
+VERSE:Yahweh, your Redeemer, the Holy One of Israel says: “For your sake, I have sent to Babylon, and I will bring all of them down as fugitives, even the Chaldeans, in the ships of their rejoicing.
+LABEL:15
+VERSE:I am Yahweh, your Holy One, the Creator of Israel, your King.”
+LABEL:16
+VERSE:Yahweh, who makes a way in the sea,
+VERSE:and a path in the mighty waters,
+LABEL:17
+VERSE:who brings out the chariot and horse,
+VERSE:the army and the mighty man
+VERSE:(they lie down together, they shall not rise;
+VERSE:they are extinct, they are quenched like a wick) says:
+LABEL:18
+VERSE:“Don’t remember the former things,
+VERSE:and don’t consider the things of old.
+LABEL:19
+VERSE:Behold, I will do a new thing.
+VERSE:It springs out now.
+VERSE:Don’t you know it?
+VERSE:I will even make a way in the wilderness,
+VERSE:and rivers in the desert.
+LABEL:20
+VERSE:The animals of the field, the jackals and the ostriches, shall honor me,
+VERSE:because I give water in the wilderness and rivers in the desert,
+VERSE:to give drink to my people, my chosen,
+LABEL:21
+VERSE:the people which I formed for myself,
+VERSE:that they might declare my praise.
+LABEL:22
+VERSE:Yet you have not called on me, Jacob;
+VERSE:but you have been weary of me, Israel.
+LABEL:23
+VERSE:You have not brought me any of your sheep for burnt offerings,
+VERSE:neither have you honored me with your sacrifices.
+VERSE:I have not burdened you with offerings,
+VERSE:nor wearied you with frankincense.
+LABEL:24
+VERSE:You have bought me no sweet cane with money,
+VERSE:nor have you filled me with the fat of your sacrifices,
+VERSE:but you have burdened me with your sins.
+VERSE:You have wearied me with your iniquities.
+LABEL:25
+VERSE:I, even I, am he who blots out your transgressions for my own sake;
+VERSE:and I will not remember your sins.
+LABEL:26
+VERSE:Put me in remembrance.
+VERSE:Let us plead together.
+VERSE:Declare your case,
+VERSE:that you may be justified.
+LABEL:27
+VERSE:Your first father sinned,
+VERSE:and your teachers have transgressed against me.
+LABEL:28
+VERSE:Therefore I will profane the princes of the sanctuary;
+VERSE:and I will make Jacob a curse,
+VERSE:and Israel an insult.”

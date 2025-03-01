@@ -1,0 +1,118 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:104
+TITLE:Psalms 104
+LABEL:1
+VERSE:Bless Jehovah, O my soul.
+VERSE:O Jehovah my God, thou art very great;
+VERSE:Thou art clothed with honor and majesty:
+LABEL:2
+VERSE:Who coverest thyself with light as with a garment;
+VERSE:Who stretchest out the heavens like a curtain;
+LABEL:3
+VERSE:Who layeth the beams of his chambers in the waters;
+VERSE:Who maketh the clouds his chariot;
+VERSE:Who walketh upon the wings of the wind;
+LABEL:4
+VERSE:Who maketh winds his messengers;
+VERSE:Flames of fire his ministers;
+LABEL:5
+VERSE:Who laid the foundations of the earth,
+VERSE:That it should not be moved for ever.
+LABEL:6
+VERSE:Thou coveredst it with the deep as with a vesture;
+VERSE:The waters stood above the mountains.
+LABEL:7
+VERSE:At thy rebuke they fled;
+VERSE:At the voice of thy thunder they hasted away
+LABEL:8
+VERSE:(The mountains rose, the valleys sank down)
+VERSE:Unto the place which thou hadst founded for them.
+LABEL:9
+VERSE:Thou hast set a bound that they may not pass over;
+VERSE:That they turn not again to cover the earth.
+LABEL:10
+VERSE:He sendeth forth springs into the valleys;
+VERSE:They run among the mountains;
+LABEL:11
+VERSE:They give drink to every beast of the field;
+VERSE:The wild asses quench their thirst.
+LABEL:12
+VERSE:By them the birds of the heavens have their habitation;
+VERSE:They sing among the branches.
+LABEL:13
+VERSE:He watereth the mountains from his chambers:
+VERSE:The earth is filled with the fruit of thy works.
+LABEL:14
+VERSE:He causeth the grass to grow for the cattle,
+VERSE:And herb for the service of man;
+VERSE:That he may bring forth food out of the earth,
+LABEL:15
+VERSE:And wine that maketh glad the heart of man,
+VERSE:And oil to make his face to shine,
+VERSE:And bread that strengtheneth man’s heart.
+LABEL:16
+VERSE:The trees of Jehovah are filled with moisture,
+VERSE:The cedars of Lebanon, which he hath planted;
+LABEL:17
+VERSE:Where the birds make their nests:
+VERSE:As for the stork, the fir-trees are her house.
+LABEL:18
+VERSE:The high mountains are for the wild goats;
+VERSE:The rocks are a refuge for the conies.
+LABEL:19
+VERSE:He appointed the moon for seasons:
+VERSE:The sun knoweth his going down.
+LABEL:20
+VERSE:Thou makest darkness, and it is night,
+VERSE:Wherein all the beasts of the forest creep forth.
+LABEL:21
+VERSE:The young lions roar after their prey,
+VERSE:And seek their food from God.
+LABEL:22
+VERSE:The sun ariseth, they get them away,
+VERSE:And lay them down in their dens.
+LABEL:23
+VERSE:Man goeth forth unto his work
+VERSE:And to his labor until the evening.
+LABEL:24
+VERSE:O Jehovah, how manifold are thy works!
+VERSE:In wisdom hast thou made them all:
+VERSE:The earth is full of thy riches.
+LABEL:25
+VERSE:Yonder is the sea, great and wide,
+VERSE:Wherein are things creeping innumerable,
+VERSE:Both small and great beasts.
+LABEL:26
+VERSE:There go the ships;
+VERSE:There is leviathan, whom thou hast formed to play therein.
+LABEL:27
+VERSE:These wait all for thee,
+VERSE:That thou mayest give them their food in due season.
+LABEL:28
+VERSE:Thou givest unto them, they gather;
+VERSE:Thou openest thy hand, they are satisfied with good.
+LABEL:29
+VERSE:Thou hidest thy face, they are troubled;
+VERSE:Thou takest away their breath, they die,
+VERSE:And return to their dust.
+LABEL:30
+VERSE:Thou sendest forth thy Spirit, they are created;
+VERSE:And thou renewest the face of the ground.
+LABEL:31
+VERSE:Let the glory of Jehovah endure for ever;
+VERSE:Let Jehovah rejoice in his works:
+LABEL:32
+VERSE:Who looketh on the earth, and it trembleth;
+VERSE:He toucheth the mountains, and they smoke.
+LABEL:33
+VERSE:I will sing unto Jehovah as long as I live:
+VERSE:I will sing praise to my God while I have any being.
+LABEL:34
+VERSE:Let my meditation be sweet unto him:
+VERSE:I will rejoice in Jehovah.
+LABEL:35
+VERSE:Let sinners be consumed out of the earth.
+VERSE:And let the wicked be no more.
+VERSE:Bless Jehovah, O my soul.
+VERSE:Praise ye Jehovah.

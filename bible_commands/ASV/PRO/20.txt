@@ -1,0 +1,94 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:20
+TITLE:Proverbs 20
+LABEL:1
+VERSE:Wine is a mocker, strong drink a brawler;
+VERSE:And whosoever erreth thereby is not wise.
+LABEL:2
+VERSE:The terror of a king is as the roaring of a lion:
+VERSE:He that provoketh him to anger sinneth against his own life.
+LABEL:3
+VERSE:It is an honor for a man to keep aloof from strife;
+VERSE:But every fool will be quarrelling.
+LABEL:4
+VERSE:The sluggard will not plow by reason of the winter;
+VERSE:Therefore he shall beg in harvest, and have nothing.
+LABEL:5
+VERSE:Counsel in the heart of man is like deep water;
+VERSE:But a man of understanding will draw it out.
+LABEL:6
+VERSE:Most men will proclaim every one his own kindness;
+VERSE:But a faithful man who can find?
+LABEL:7
+VERSE:A righteous man that walketh in his integrity,
+VERSE:Blessed are his children after him.
+LABEL:8
+VERSE:A king that sitteth on the throne of judgment
+VERSE:Scattereth away all evil with his eyes.
+LABEL:9
+VERSE:Who can say, I have made my heart clean,
+VERSE:I am pure from my sin?
+LABEL:10
+VERSE:Diverse weights, and diverse measures,
+VERSE:Both of them alike are an abomination to Jehovah.
+LABEL:11
+VERSE:Even a child maketh himself known by his doings,
+VERSE:Whether his work be pure, and whether it be right.
+LABEL:12
+VERSE:The hearing ear, and the seeing eye,
+VERSE:Jehovah hath made even both of them.
+LABEL:13
+VERSE:Love not sleep, lest thou come to poverty;
+VERSE:Open thine eyes, and thou shalt be satisfied with bread.
+LABEL:14
+VERSE:It is bad, it is bad, saith the buyer;
+VERSE:But when he is gone his way, then he boasteth.
+LABEL:15
+VERSE:There is gold, and abundance of rubies;
+VERSE:But the lips of knowledge are a precious jewel.
+LABEL:16
+VERSE:Take his garment that is surety for a stranger;
+VERSE:And hold him in pledge that is surety for foreigners.
+LABEL:17
+VERSE:Bread of falsehood is sweet to a man;
+VERSE:But afterwards his mouth shall be filled with gravel.
+LABEL:18
+VERSE:Every purpose is established by counsel;
+VERSE:And by wise guidance make thou war.
+LABEL:19
+VERSE:He that goeth about as a tale-bearer revealeth secrets;
+VERSE:Therefore company not with him that openeth wide his lips.
+LABEL:20
+VERSE:Whoso curseth his father or his mother,
+VERSE:His lamp shall be put out in blackness of darkness.
+LABEL:21
+VERSE:An inheritance may be gotten hastily at the beginning;
+VERSE:But the end thereof shall not be blessed.
+LABEL:22
+VERSE:Say not thou, I will recompense evil:
+VERSE:Wait for Jehovah, and he will save thee.
+LABEL:23
+VERSE:Diverse weights are an abomination to Jehovah;
+VERSE:And a false balance is not good.
+LABEL:24
+VERSE:A man’s goings are of Jehovah;
+VERSE:How then can man understand his way?
+LABEL:25
+VERSE:It is a snare to a man rashly to say, It is holy,
+VERSE:And after vows to make inquiry.
+LABEL:26
+VERSE:A wise king winnoweth the wicked,
+VERSE:And bringeth the threshing-wheel over them.
+LABEL:27
+VERSE:The spirit of man is the lamp of Jehovah,
+VERSE:Searching all his innermost parts.
+LABEL:28
+VERSE:Kindness and truth preserve the king;
+VERSE:And his throne is upholden by kindness.
+LABEL:29
+VERSE:The glory of young men is their strength;
+VERSE:And the beauty of old men is the hoary head.
+LABEL:30
+VERSE:Stripes that wound cleanse away evil;
+VERSE:And strokes reach the innermost parts.

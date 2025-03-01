@@ -1,0 +1,124 @@
+TRANSLATION:WEBUS
+BOOK:EZK
+CHAPTER:27
+TITLE:Ezekiel 27
+LABEL:1
+VERSE:Yahweh’s word came again to me, saying,
+LABEL:2
+VERSE:“You, son of man, take up a lamentation over Tyre;
+LABEL:3
+VERSE:and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord Yahweh says:
+VERSE:“You, Tyre, have said,
+VERSE:‘I am perfect in beauty.’
+LABEL:4
+VERSE:Your borders are in the heart of the seas.
+VERSE:Your builders have perfected your beauty.
+LABEL:5
+VERSE:They have made all your planks of cypress trees from Senir.
+VERSE:They have taken a cedar from Lebanon to make a mast for you.
+LABEL:6
+VERSE:They have made your oars of the oaks of Bashan.
+VERSE:They have made your benches of ivory inlaid in cypress wood from the islands of Kittim.
+LABEL:7
+VERSE:Your sail was of fine linen with embroidered work from Egypt,
+VERSE:that it might be to you for a banner.
+VERSE:Blue and purple from the islands of Elishah was your awning.
+LABEL:8
+VERSE:The inhabitants of Sidon and Arvad were your rowers.
+VERSE:Your wise men, Tyre, were in you.
+VERSE:They were your pilots.
+LABEL:9
+VERSE:The old men of Gebal
+VERSE:and its wise men were your repairers of ship seams in you.
+VERSE:All the ships of the sea with their mariners were in you
+VERSE:to deal in your merchandise.
+LABEL:10
+VERSE:“‘“Persia, Lud, and Put were in your army,
+VERSE:your men of war.
+VERSE:They hung the shield and helmet in you.
+VERSE:They showed your beauty.
+LABEL:11
+VERSE:The men of Arvad with your army were on your walls all around,
+VERSE:and valiant men were in your towers.
+VERSE:They hung their shields on your walls all around.
+VERSE:They have perfected your beauty.
+LABEL:12
+VERSE:“‘“Tarshish was your merchant by reason of the multitude of all kinds of riches. They traded for your wares with silver, iron, tin, and lead.
+LABEL:13
+VERSE:“‘“Javan, Tubal, and Meshech were your traders. They traded the persons of men and vessels of bronze for your merchandise.
+LABEL:14
+VERSE:“‘“They of the house of Togarmah traded for your wares with horses, war horses, and mules.
+LABEL:15
+VERSE:“‘“The men of Dedan traded with you. Many islands were the market of your hand. They brought you horns of ivory and ebony in exchange.
+LABEL:16
+VERSE:“‘“Syria was your merchant by reason of the multitude of your handiworks. They traded for your wares with emeralds, purple, embroidered work, fine linen, coral, and rubies.
+LABEL:17
+VERSE:“‘“Judah and the land of Israel were your traders. They traded wheat of Minnith, confections, honey, oil, and balm for your merchandise.
+LABEL:18
+VERSE:“‘“Damascus was your merchant for the multitude of your handiworks by reason of the multitude of all kinds of riches, with the wine of Helbon, and white wool.
+LABEL:19
+VERSE:“‘“Vedan and Javan traded with yarn for your wares; wrought iron, cassia, and calamus were among your merchandise.
+LABEL:20
+VERSE:“‘“Dedan was your merchant in precious saddle blankets for riding.
+LABEL:21
+VERSE:“‘“Arabia and all the princes of Kedar were your favorite dealers in lambs, rams, and goats. In these, they were your merchants.
+LABEL:22
+VERSE:“‘“The traders of Sheba and Raamah were your traders. They traded for your wares with the best of all spices, all precious stones, and gold.
+LABEL:23
+VERSE:“‘“Haran, Canneh, Eden, the traders of Sheba, Asshur and Chilmad, were your traders.
+LABEL:24
+VERSE:These were your traders in choice wares, in wrappings of blue and embroidered work, and in cedar chests of rich clothing bound with cords, among your merchandise.
+LABEL:25
+VERSE:“‘“The ships of Tarshish were your caravans for your merchandise.
+VERSE:You were replenished
+VERSE:and made very glorious in the heart of the seas.
+LABEL:26
+VERSE:Your rowers have brought you into great waters.
+VERSE:The east wind has broken you in the heart of the seas.
+LABEL:27
+VERSE:Your riches, your wares, your merchandise,
+VERSE:your mariners, your pilots, your repairers of ship seams,
+VERSE:the dealers in your merchandise,
+VERSE:and all your men of war who are in you,
+VERSE:with all your company which is among you,
+VERSE:will fall into the heart of the seas in the day of your ruin.
+LABEL:28
+VERSE:At the sound of the cry of your pilots,
+VERSE:the pasture lands will shake.
+LABEL:29
+VERSE:All who handle the oars,
+VERSE:the mariners and all the pilots of the sea,
+VERSE:will come down from their ships.
+VERSE:They will stand on the land,
+LABEL:30
+VERSE:and will cause their voice to be heard over you,
+VERSE:and will cry bitterly.
+VERSE:They will cast up dust on their heads.
+VERSE:They will wallow in the ashes.
+LABEL:31
+VERSE:They will make themselves bald for you,
+VERSE:and clothe themselves with sackcloth.
+VERSE:They will weep for you in bitterness of soul,
+VERSE:with bitter mourning.
+LABEL:32
+VERSE:In their wailing they will take up a lamentation for you,
+VERSE:and lament over you, saying,
+VERSE:‘Who is there like Tyre,
+VERSE:like her who is brought to silence in the middle of the sea?’
+LABEL:33
+VERSE:When your wares came from the seas,
+VERSE:you filled many peoples.
+VERSE:You enriched the kings of the earth
+VERSE:with the multitude of your riches and of your merchandise.
+LABEL:34
+VERSE:In the time that you were broken by the seas,
+VERSE:in the depths of the waters,
+VERSE:your merchandise and all your company fell within you.
+LABEL:35
+VERSE:All the inhabitants of the islands are astonished at you,
+VERSE:and their kings are horribly afraid.
+VERSE:They are troubled in their face.
+LABEL:36
+VERSE:The merchants among the peoples hiss at you.
+VERSE:You have come to a terrible end,
+VERSE:and you will be no more.”’”

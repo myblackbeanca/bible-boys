@@ -1,0 +1,89 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:28
+TITLE:Proverbs 28
+LABEL:1
+VERSE:The wicked flee when no man pursueth:
+VERSE:But the righteous are bold as a lion.
+LABEL:2
+VERSE:For the transgression of a land many are the princes thereof:
+VERSE:But by a man of understanding and knowledge the state thereof shall be prolonged.
+LABEL:3
+VERSE:A poor man that oppresseth the poor
+VERSE:Is like a sweeping rain which leaveth no food.
+LABEL:4
+VERSE:They that forsake the law praise the wicked:
+VERSE:But such as keep the law contend with them.
+LABEL:5
+VERSE:Evil men understand not judgment:
+VERSE:But they that seek the LORD understand all things.
+LABEL:6
+VERSE:Better is the poor that walketh in his uprightness,
+VERSE:Than he that is perverse in his ways, though he be rich.
+LABEL:7
+VERSE:Whoso keepeth the law is a wise son:
+VERSE:But he that is a companion of riotous men shameth his father.
+LABEL:8
+VERSE:He that by usury and unjust gain increaseth his substance,
+VERSE:He shall gather it for him that will pity the poor.
+LABEL:9
+VERSE:He that turneth away his ear from hearing the law,
+VERSE:Even his prayer shall be abomination.
+LABEL:10
+VERSE:Whoso causeth the righteous to go astray in an evil way,
+VERSE:He shall fall himself into his own pit:
+VERSE:But the upright shall have good things in possession.
+LABEL:11
+VERSE:The rich man is wise in his own conceit;
+VERSE:But the poor that hath understanding searcheth him out.
+LABEL:12
+VERSE:When righteous men do rejoice, there is great glory:
+VERSE:But when the wicked rise, a man is hidden.
+LABEL:13
+VERSE:He that covereth his sins shall not prosper:
+VERSE:But whoso confesseth and forsaketh them shall have mercy.
+LABEL:14
+VERSE:Happy is the man that feareth alway:
+VERSE:But he that hardeneth his heart shall fall into mischief.
+LABEL:15
+VERSE:  As a roaring lion, and a ranging bear;
+VERSE:So is a wicked ruler over the poor people.
+LABEL:16
+VERSE:The prince that wanteth understanding is also a great oppressor:
+VERSE:But he that hateth covetousness shall prolong his days.
+LABEL:17
+VERSE:A man that doeth violence to the blood of any person
+VERSE:Shall flee to the pit; let no man stay him.
+LABEL:18
+VERSE:Whoso walketh uprightly shall be saved:
+VERSE:But he that is perverse in his ways shall fall at once.
+LABEL:19
+VERSE:He that tilleth his land shall have plenty of bread:
+VERSE:But he that followeth after vain persons shall have poverty enough.
+LABEL:20
+VERSE:A faithful man shall abound with blessings:
+VERSE:But he that maketh haste to be rich shall not be innocent.
+LABEL:21
+VERSE:To have respect of persons is not good:
+VERSE:For for a piece of bread that man will transgress.
+LABEL:22
+VERSE:He that hasteth to be rich hath an evil eye,
+VERSE:And considereth not that poverty shall come upon him.
+LABEL:23
+VERSE:He that rebuketh a man afterwards shall find more favour
+VERSE:Than he that flattereth with the tongue.
+LABEL:24
+VERSE:Whoso robbeth his father or his mother, and saith, It is no transgression;
+VERSE:The same is the companion of a destroyer.
+LABEL:25
+VERSE:He that is of a proud heart stirreth up strife:
+VERSE:But he that putteth his trust in the LORD shall be made fat.
+LABEL:26
+VERSE:He that trusteth in his own heart is a fool:
+VERSE:But whoso walketh wisely, he shall be delivered.
+LABEL:27
+VERSE:He that giveth unto the poor shall not lack:
+VERSE:But he that hideth his eyes shall have many a curse.
+LABEL:28
+VERSE:When the wicked rise, men hide themselves:
+VERSE:But when they perish, the righteous increase.

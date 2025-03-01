@@ -1,0 +1,131 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:45
+TITLE:Isaiah 45
+LABEL:1
+VERSE:Yahweh says to his anointed, to Cyrus, whose right hand I have held to subdue nations before him and strip kings of their armor, to open the doors before him, and the gates shall not be shut:
+LABEL:2
+VERSE:“I will go before you
+VERSE:and make the rough places smooth.
+VERSE:I will break the doors of bronze in pieces
+VERSE:and cut apart the bars of iron.
+LABEL:3
+VERSE:I will give you the treasures of darkness
+VERSE:and hidden riches of secret places,
+VERSE:that you may know that it is I, Yahweh, who calls you by your name,
+VERSE:even the God of Israel.
+LABEL:4
+VERSE:For Jacob my servant’s sake,
+VERSE:and Israel my chosen,
+VERSE:I have called you by your name.
+VERSE:I have given you a title,
+VERSE:though you have not known me.
+LABEL:5
+VERSE:I am Yahweh, and there is no one else.
+VERSE:Besides me, there is no God.
+VERSE:I will strengthen you,
+VERSE:though you have not known me,
+LABEL:6
+VERSE:that they may know from the rising of the sun,
+VERSE:and from the west,
+VERSE:that there is no one besides me.
+VERSE:I am Yahweh, and there is no one else.
+LABEL:7
+VERSE:I form the light
+VERSE:and create darkness.
+VERSE:I make peace
+VERSE:and create calamity.
+VERSE:I am Yahweh,
+VERSE:who does all these things.
+LABEL:8
+VERSE:Rain, you heavens, from above,
+VERSE:and let the skies pour down righteousness.
+VERSE:Let the earth open, that it may produce salvation,
+VERSE:and let it cause righteousness to spring up with it.
+VERSE:I, Yahweh, have created it.
+LABEL:9
+VERSE:Woe to him who strives with his Maker—
+VERSE:a clay pot among the clay pots of the earth!
+VERSE:Shall the clay ask him who fashions it, ‘What are you making?’
+VERSE:or your work, ‘He has no hands’?
+LABEL:10
+VERSE:Woe to him who says to a father, ‘What have you become the father of?’
+VERSE:or to a mother, ‘What have you given birth to?’”
+LABEL:11
+VERSE:Yahweh, the Holy One of Israel
+VERSE:and his Maker says:
+VERSE:“You ask me about the things that are to come, concerning my sons,
+VERSE:and you command me concerning the work of my hands!
+LABEL:12
+VERSE:I have made the earth, and created man on it.
+VERSE:I, even my hands, have stretched out the heavens.
+VERSE:I have commanded all their army.
+LABEL:13
+VERSE:I have raised him up in righteousness,
+VERSE:and I will make all his ways straight.
+VERSE:He shall build my city,
+VERSE:and he shall let my exiles go free,
+VERSE:not for price nor reward,” says Yahweh of Armies.
+LABEL:14
+VERSE:Yahweh says: “The labor of Egypt,
+VERSE:and the merchandise of Ethiopia,
+VERSE:and the Sabeans, men of stature, will come over to you,
+VERSE:and they will be yours.
+VERSE:They will go after you.
+VERSE:They shall come over in chains.
+VERSE:They will bow down to you.
+VERSE:They will make supplication to you:
+VERSE:‘Surely God is in you; and there is no one else.
+VERSE:There is no other god.
+LABEL:15
+VERSE:Most certainly you are a God who has hidden yourself,
+VERSE:God of Israel, the Savior.’”
+LABEL:16
+VERSE:They will be disappointed,
+VERSE:yes, confounded, all of them.
+VERSE:Those who are makers of idols will go into confusion together.
+LABEL:17
+VERSE:Israel will be saved by Yahweh with an everlasting salvation.
+VERSE:You will not be disappointed nor confounded to ages everlasting.
+LABEL:18
+VERSE:For Yahweh who created the heavens,
+VERSE:the God who formed the earth and made it,
+VERSE:who established it and didn’t create it a waste,
+VERSE:who formed it to be inhabited says:
+VERSE:“I am Yahweh.
+VERSE:There is no other.
+LABEL:19
+VERSE:I have not spoken in secret,
+VERSE:in a place of the land of darkness.
+VERSE:I didn’t say to the offspring of Jacob, ‘Seek me in vain.’
+VERSE:I, Yahweh, speak righteousness.
+VERSE:I declare things that are right.
+LABEL:20
+VERSE:“Assemble yourselves and come.
+VERSE:Draw near together, you who have escaped from the nations.
+VERSE:Those have no knowledge who carry the wood of their engraved image,
+VERSE:and pray to a god that can’t save.
+LABEL:21
+VERSE:Declare and present it.
+VERSE:Yes, let them take counsel together.
+VERSE:Who has shown this from ancient time?
+VERSE:Who has declared it of old?
+VERSE:Haven’t I, Yahweh?
+VERSE:There is no other God besides me, a just God and a Savior.
+VERSE:There is no one besides me.
+LABEL:22
+VERSE:“Look to me, and be saved, all the ends of the earth;
+VERSE:for I am God, and there is no other.
+LABEL:23
+VERSE:I have sworn by myself.
+VERSE:The word has gone out of my mouth in righteousness, and will not be revoked,
+VERSE:that to me every knee shall bow,
+VERSE:every tongue shall take an oath.
+LABEL:24
+VERSE:They will say of me,
+VERSE:‘There is righteousness and strength only in Yahweh.’”
+VERSE:Even to him will men come.
+VERSE:All those who raged against him will be disappointed.
+LABEL:25
+VERSE:All the offspring of Israel will be justified in Yahweh,
+VERSE:and will rejoice!

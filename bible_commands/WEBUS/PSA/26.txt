@@ -1,0 +1,40 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:26
+TITLE:Psalms 26
+LABEL:1
+VERSE:Judge me, Yahweh, for I have walked in my integrity.
+VERSE:I have trusted also in Yahweh without wavering.
+LABEL:2
+VERSE:Examine me, Yahweh, and prove me.
+VERSE:Try my heart and my mind.
+LABEL:3
+VERSE:For your loving kindness is before my eyes.
+VERSE:I have walked in your truth.
+LABEL:4
+VERSE:I have not sat with deceitful men,
+VERSE:neither will I go in with hypocrites.
+LABEL:5
+VERSE:I hate the assembly of evildoers,
+VERSE:and will not sit with the wicked.
+LABEL:6
+VERSE:I will wash my hands in innocence,
+VERSE:so I will go about your altar, Yahweh,
+LABEL:7
+VERSE:that I may make the voice of thanksgiving to be heard
+VERSE:and tell of all your wondrous deeds.
+LABEL:8
+VERSE:Yahweh, I love the habitation of your house,
+VERSE:the place where your glory dwells.
+LABEL:9
+VERSE:Don’t gather my soul with sinners,
+VERSE:nor my life with bloodthirsty men
+LABEL:10
+VERSE:in whose hands is wickedness;
+VERSE:their right hand is full of bribes.
+LABEL:11
+VERSE:But as for me, I will walk in my integrity.
+VERSE:Redeem me, and be merciful to me.
+LABEL:12
+VERSE:My foot stands in an even place.
+VERSE:In the congregations I will bless Yahweh.

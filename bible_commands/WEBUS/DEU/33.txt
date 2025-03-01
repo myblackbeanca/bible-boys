@@ -1,0 +1,140 @@
+TRANSLATION:WEBUS
+BOOK:DEU
+CHAPTER:33
+TITLE:Deuteronomy 33
+LABEL:1
+VERSE:This is the blessing with which Moses the man of God blessed the children of Israel before his death.
+LABEL:2
+VERSE:He said,
+VERSE:“Yahweh came from Sinai,
+VERSE:and rose from Seir to them.
+VERSE:He shone from Mount Paran.
+VERSE:He came from the ten thousands of holy ones.
+VERSE:At his right hand was a fiery law for them.
+LABEL:3
+VERSE:Yes, he loves the people.
+VERSE:All his saints are in your hand.
+VERSE:They sat down at your feet.
+VERSE:Each receives your words.
+LABEL:4
+VERSE:Moses commanded us a law,
+VERSE:an inheritance for the assembly of Jacob.
+LABEL:5
+VERSE:He was king in Jeshurun,
+VERSE:when the heads of the people were gathered,
+VERSE:all the tribes of Israel together.
+LABEL:6
+VERSE:“Let Reuben live, and not die;
+VERSE:Nor let his men be few.”
+LABEL:7
+VERSE:This is for Judah. He said,
+VERSE:“Hear, Yahweh, the voice of Judah.
+VERSE:Bring him in to his people.
+VERSE:With his hands he contended for himself.
+VERSE:You shall be a help against his adversaries.”
+LABEL:8
+VERSE:About Levi he said,
+VERSE:“Your Thummim and your Urim are with your godly one,
+VERSE:whom you proved at Massah,
+VERSE:with whom you contended at the waters of Meribah.
+LABEL:9
+VERSE:He said of his father, and of his mother, ‘I have not seen him.’
+VERSE:He didn’t acknowledge his brothers,
+VERSE:nor did he know his own children;
+VERSE:for they have observed your word,
+VERSE:and keep your covenant.
+LABEL:10
+VERSE:They shall teach Jacob your ordinances,
+VERSE:and Israel your law.
+VERSE:They shall put incense before you,
+VERSE:and whole burnt offering on your altar.
+LABEL:11
+VERSE:Yahweh, bless his skills.
+VERSE:Accept the work of his hands.
+VERSE:Strike through the hips of those who rise up against him,
+VERSE:of those who hate him, that they not rise again.”
+LABEL:12
+VERSE:About Benjamin he said,
+VERSE:“The beloved of Yahweh will dwell in safety by him.
+VERSE:He covers him all day long.
+VERSE:He dwells between his shoulders.”
+LABEL:13
+VERSE:About Joseph he said,
+VERSE:“His land is blessed by Yahweh,
+VERSE:for the precious things of the heavens, for the dew,
+VERSE:for the deep that couches beneath,
+LABEL:14
+VERSE:for the precious things of the fruits of the sun,
+VERSE:for the precious things that the moon can yield,
+LABEL:15
+VERSE:for the best things of the ancient mountains,
+VERSE:for the precious things of the everlasting hills,
+LABEL:16
+VERSE:for the precious things of the earth and its fullness,
+VERSE:the good will of him who lived in the bush.
+VERSE:Let this come on the head of Joseph,
+VERSE:on the crown of the head of him who was separated from his brothers.
+LABEL:17
+VERSE:Majesty belongs to the firstborn of his herd.
+VERSE:His horns are the horns of the wild ox.
+VERSE:With them he will push all the peoples to the ends of the earth.
+VERSE:They are the ten thousands of Ephraim.
+VERSE:They are the thousands of Manasseh.”
+LABEL:18
+VERSE:About Zebulun he said,
+VERSE:“Rejoice, Zebulun, in your going out;
+VERSE:and Issachar, in your tents.
+LABEL:19
+VERSE:They will call the peoples to the mountain.
+VERSE:There they will offer sacrifices of righteousness,
+VERSE:for they will draw out the abundance of the seas,
+VERSE:the hidden treasures of the sand.”
+LABEL:20
+VERSE:About Gad he said,
+VERSE:“He who enlarges Gad is blessed.
+VERSE:He dwells as a lioness,
+VERSE:and tears the arm and the crown of the head.
+LABEL:21
+VERSE:He provided the first part for himself,
+VERSE:for the lawgiver’s portion was reserved for him.
+VERSE:He came with the heads of the people.
+VERSE:He executed the righteousness of Yahweh,
+VERSE:His ordinances with Israel.”
+LABEL:22
+VERSE:About Dan he said,
+VERSE:“Dan is a lion’s cub
+VERSE:that leaps out of Bashan.”
+LABEL:23
+VERSE:About Naphtali he said,
+VERSE:“Naphtali, satisfied with favor,
+VERSE:full of Yahweh’s blessing,
+VERSE:Possess the west and the south.”
+LABEL:24
+VERSE:About Asher he said,
+VERSE:“Asher is blessed with children.
+VERSE:Let him be acceptable to his brothers.
+VERSE:Let him dip his foot in oil.
+LABEL:25
+VERSE:Your bars will be iron and bronze.
+VERSE:As your days, so your strength will be.
+LABEL:26
+VERSE:“There is no one like God, Jeshurun,
+VERSE:who rides on the heavens for your help,
+VERSE:in his excellency on the skies.
+LABEL:27
+VERSE:The eternal God is your dwelling place.
+VERSE:Underneath are the everlasting arms.
+VERSE:He thrust out the enemy from before you,
+VERSE:and said, ‘Destroy!’
+LABEL:28
+VERSE:Israel dwells in safety,
+VERSE:the fountain of Jacob alone,
+VERSE:In a land of grain and new wine.
+VERSE:Yes, his heavens drop down dew.
+LABEL:29
+VERSE:You are happy, Israel!
+VERSE:Who is like you, a people saved by Yahweh,
+VERSE:the shield of your help,
+VERSE:the sword of your excellency?
+VERSE:Your enemies will submit themselves to you.
+VERSE:You will tread on their high places.”

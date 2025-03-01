@@ -1,0 +1,133 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:107
+TITLE:Psalm 107
+LABEL:1
+VERSE:O give thanks unto the LORD, for he is good:
+VERSE:For his mercy endureth for ever.
+LABEL:2
+VERSE:Let the redeemed of the LORD say so,
+VERSE:Whom he hath redeemed from the hand of the enemy;
+LABEL:3
+VERSE:And gathered them out of the lands, from the east, and from the west,
+VERSE:From the north, and from the south.
+LABEL:4
+VERSE:They wandered in the wilderness in a solitary way;
+VERSE:They found no city to dwell in.
+LABEL:5
+VERSE:Hungry and thirsty,
+VERSE:Their soul fainted in them.
+LABEL:6
+VERSE:Then they cried unto the LORD in their trouble,
+VERSE:And he delivered them out of their distresses.
+LABEL:7
+VERSE:And he led them forth by the right way,
+VERSE:That they might go to a city of habitation.
+LABEL:8
+VERSE:Oh that men would praise the LORD  for his goodness,
+VERSE:And for his wonderful works to the children of men!
+LABEL:9
+VERSE:For he satisfieth the longing soul,
+VERSE:And filleth the hungry soul with goodness.
+LABEL:10
+VERSE:Such as sit in darkness and in the shadow of death,
+VERSE:Being bound in affliction and iron;
+LABEL:11
+VERSE:Because they rebelled against the words of God,
+VERSE:And contemned the counsel of the Most High:
+LABEL:12
+VERSE:Therefore he brought down their heart with labour;
+VERSE:They fell down, and there was none to help.
+LABEL:13
+VERSE:Then they cried unto the LORD in their trouble,
+VERSE:And he saved them out of their distresses.
+LABEL:14
+VERSE:He brought them out of darkness and the shadow of death,
+VERSE:And brake their bands in sunder.
+LABEL:15
+VERSE:Oh that men would praise the LORD  for his goodness,
+VERSE:And for his wonderful works to the children of men!
+LABEL:16
+VERSE:For he hath broken the gates of brass,
+VERSE:And cut the bars of iron in sunder.
+LABEL:17
+VERSE:Fools because of their transgression,
+VERSE:And because of their iniquities, are afflicted.
+LABEL:18
+VERSE:Their soul abhorreth all manner of meat;
+VERSE:And they draw near unto the gates of death.
+LABEL:19
+VERSE:Then they cry unto the LORD in their trouble,
+VERSE:And he saveth them out of their distresses.
+LABEL:20
+VERSE:He sent his word, and healed them,
+VERSE:And delivered them from their destructions.
+LABEL:21
+VERSE:Oh that men would praise the LORD  for his goodness,
+VERSE:And for his wonderful works to the children of men!
+LABEL:22
+VERSE:And let them sacrifice the sacrifices of thanksgiving,
+VERSE:And declare his works with rejoicing.
+LABEL:23
+VERSE:They that go down to the sea in ships,
+VERSE:That do business in great waters;
+LABEL:24
+VERSE:These see the works of the LORD,
+VERSE:And his wonders in the deep.
+LABEL:25
+VERSE:For he commandeth, and raiseth the stormy wind,
+VERSE:Which lifteth up the waves thereof.
+LABEL:26
+VERSE:They mount up to the heaven, they go down again to the depths:
+VERSE:Their soul is melted because of trouble.
+LABEL:27
+VERSE:They reel to and fro, and stagger like a drunken man,
+VERSE:And are at their wits' end.
+LABEL:28
+VERSE:Then they cry unto the LORD in their trouble,
+VERSE:And he bringeth them out of their distresses.
+LABEL:29
+VERSE:He maketh the storm a calm,
+VERSE:So that the waves thereof are still.
+LABEL:30
+VERSE:Then are they glad because they be quiet;
+VERSE:So he bringeth them unto their desired haven.
+LABEL:31
+VERSE:Oh that men would praise the LORD  for his goodness,
+VERSE:And for his wonderful works to the children of men!
+LABEL:32
+VERSE:Let them exalt him also in the congregation of the people,
+VERSE:And praise him in the assembly of the elders.
+LABEL:33
+VERSE:He turneth rivers into a wilderness,
+VERSE:And the watersprings into dry ground;
+LABEL:34
+VERSE:A fruitful land into barrenness,
+VERSE:For the wickedness of them that dwell therein.
+LABEL:35
+VERSE:He turneth the wilderness into a standing water,
+VERSE:And dry ground into watersprings.
+LABEL:36
+VERSE:And there he maketh the hungry
+VERSE:To dwell, that they may prepare a city for habitation;
+LABEL:37
+VERSE:And sow the fields, and plant vineyards,
+VERSE:Which may yield fruits of increase.
+LABEL:38
+VERSE:He blesseth them also, so that they are multiplied greatly;
+VERSE:And suffereth not their cattle to decrease.
+LABEL:39
+VERSE:Again, they are minished and brought low
+VERSE:Through oppression, affliction, and sorrow.
+LABEL:40
+VERSE:He poureth contempt upon princes,
+VERSE:And causeth them to wander in the wilderness, where there is no way.
+LABEL:41
+VERSE:Yet setteth he the poor on high from affliction,
+VERSE:And maketh him families like a flock.
+LABEL:42
+VERSE:The righteous shall see it, and rejoice:
+VERSE:And all iniquity shall stop her mouth.
+LABEL:43
+VERSE:Whoso is wise, and will observe these things,
+VERSE:Even they shall understand the lovingkindness of the LORD.

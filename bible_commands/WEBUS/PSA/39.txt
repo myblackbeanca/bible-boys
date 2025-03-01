@@ -1,0 +1,52 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:39
+TITLE:Psalms 39
+LABEL:1
+VERSE:I said, “I will watch my ways, so that I don’t sin with my tongue.
+VERSE:I will keep my mouth with a bridle while the wicked is before me.”
+LABEL:2
+VERSE:I was mute with silence.
+VERSE:I held my peace, even from good.
+VERSE:My sorrow was stirred.
+LABEL:3
+VERSE:My heart was hot within me.
+VERSE:While I meditated, the fire burned.
+VERSE:I spoke with my tongue:
+LABEL:4
+VERSE:“Yahweh, show me my end,
+VERSE:what is the measure of my days.
+VERSE:Let me know how frail I am.
+LABEL:5
+VERSE:Behold, you have made my days hand widths.
+VERSE:My lifetime is as nothing before you.
+VERSE:Surely every man stands as a breath.” Selah.
+LABEL:6
+VERSE:“Surely every man walks like a shadow.
+VERSE:Surely they busy themselves in vain.
+VERSE:He heaps up, and doesn’t know who shall gather.
+LABEL:7
+VERSE:Now, Lord, what do I wait for?
+VERSE:My hope is in you.
+LABEL:8
+VERSE:Deliver me from all my transgressions.
+VERSE:Don’t make me the reproach of the foolish.
+LABEL:9
+VERSE:I was mute.
+VERSE:I didn’t open my mouth,
+VERSE:because you did it.
+LABEL:10
+VERSE:Remove your scourge away from me.
+VERSE:I am overcome by the blow of your hand.
+LABEL:11
+VERSE:When you rebuke and correct man for iniquity,
+VERSE:you consume his wealth like a moth.
+VERSE:Surely every man is but a breath.” Selah.
+LABEL:12
+VERSE:“Hear my prayer, Yahweh, and give ear to my cry.
+VERSE:Don’t be silent at my tears.
+VERSE:For I am a stranger with you,
+VERSE:a foreigner, as all my fathers were.
+LABEL:13
+VERSE:Oh spare me, that I may recover strength,
+VERSE:before I go away and exist no more.”

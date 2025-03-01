@@ -1,0 +1,46 @@
+TRANSLATION:ASV
+BOOK:GEN
+CHAPTER:15
+TITLE:Genesis 15
+LABEL:1
+VERSE:After these things the word of Jehovah came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward.
+LABEL:2
+VERSE:And Abram said, O Lord Jehovah, what wilt thou give me, seeing I go childless, and he that shall be possessor of my house is Eliezer of Damascus?
+LABEL:3
+VERSE:And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir.
+LABEL:4
+VERSE:And, behold, the word of Jehovah came unto him, saying, This man shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.
+LABEL:5
+VERSE:And he brought him forth abroad, and said, Look now toward heaven, and number the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
+LABEL:6
+VERSE:And he believed in Jehovah; and he reckoned it to him for righteousness.
+LABEL:7
+VERSE:And he said unto him, I am Jehovah that brought thee out of Ur of the Chaldees, to give thee this land to inherit it.
+LABEL:8
+VERSE:And he said, O Lord Jehovah, whereby shall I know that I shall inherit it?
+LABEL:9
+VERSE:And he said unto him, Take me a heifer three years old, and a she-goat three years old, and a ram three years old, and a turtle-dove, and a young pigeon.
+LABEL:10
+VERSE:And he took him all these, and divided them in the midst, and laid each half over against the other: but the birds divided he not.
+LABEL:11
+VERSE:And the birds of prey came down upon the carcasses, and Abram drove them away.
+LABEL:12
+VERSE:And when the sun was going down, a deep sleep fell upon Abram; and, lo, a horror of great darkness fell upon him.
+LABEL:13
+VERSE:And he said unto Abram, Know of a surety that thy seed shall be sojourners in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
+LABEL:14
+VERSE:and also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.
+LABEL:15
+VERSE:But thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.
+LABEL:16
+VERSE:And in the fourth generation they shall come hither again: for the iniquity of the Amorite is not yet full.
+LABEL:17
+VERSE:And it came to pass, that, when the sun went down, and it was dark, behold, a smoking furnace, and a flaming torch that passed between these pieces.
+LABEL:18
+VERSE:In that day Jehovah made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
+LABEL:19
+VERSE:the Kenite, and the Kenizzite, and the Kadmonite,
+LABEL:20
+VERSE:and the Hittite, and the Perizzite, and the Rephaim,
+LABEL:21
+VERSE:and the Amorite, and the Canaanite, and the Girgashite, and the Jebusite.

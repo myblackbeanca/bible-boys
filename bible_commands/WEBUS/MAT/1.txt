@@ -1,0 +1,57 @@
+TRANSLATION:WEBUS
+BOOK:MAT
+CHAPTER:1
+TITLE:Matthew 1
+LABEL:1
+VERSE:The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
+LABEL:2
+VERSE:Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.
+LABEL:3
+VERSE:Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.
+LABEL:4
+VERSE:Ram became the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon.
+LABEL:5
+VERSE:Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.
+LABEL:6
+VERSE:Jesse became the father of King David. David the king became the father of Solomon by her who had been Uriah’s wife.
+LABEL:7
+VERSE:Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.
+LABEL:8
+VERSE:Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.
+LABEL:9
+VERSE:Uzziah became the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.
+LABEL:10
+VERSE:Hezekiah became the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah.
+LABEL:11
+VERSE:Josiah became the father of Jechoniah and his brothers at the time of the exile to Babylon.
+LABEL:12
+VERSE:After the exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel.
+LABEL:13
+VERSE:Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.
+LABEL:14
+VERSE:Azor became the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud.
+LABEL:15
+VERSE:Eliud became the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob.
+LABEL:16
+VERSE:Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.
+LABEL:17
+VERSE:So all the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.
+LABEL:18
+VERSE:Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.
+LABEL:19
+VERSE:Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.
+LABEL:20
+VERSE:But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit.
+LABEL:21
+VERSE:She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.”
+LABEL:22
+VERSE:Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,
+LABEL:23
+VERSE:“Behold, the virgin shall be with child,
+VERSE:and shall give birth to a son.
+VERSE:They shall call his name Immanuel,”
+VERSE:which is, being interpreted, “God with us.”
+LABEL:24
+VERSE:Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;
+LABEL:25
+VERSE:and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.

@@ -1,0 +1,107 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:21
+TITLE:Job 21
+LABEL:1
+VERSE:Then Job answered and said,
+LABEL:2
+VERSE:Hear diligently my speech;
+VERSE:And let this be your consolations.
+LABEL:3
+VERSE:Suffer me, and I also will speak;
+VERSE:And after that I have spoken, mock on.
+LABEL:4
+VERSE:As for me, is my complaint to man?
+VERSE:And why should I not be impatient?
+LABEL:5
+VERSE:Mark me, and be astonished,
+VERSE:And lay your hand upon your mouth.
+LABEL:6
+VERSE:Even when I remember I am troubled,
+VERSE:And horror taketh hold on my flesh.
+LABEL:7
+VERSE:Wherefore do the wicked live,
+VERSE:Become old, yea, wax mighty in power?
+LABEL:8
+VERSE:Their seed is established with them in their sight,
+VERSE:And their offspring before their eyes.
+LABEL:9
+VERSE:Their houses are safe from fear,
+VERSE:Neither is the rod of God upon them.
+LABEL:10
+VERSE:Their bull gendereth, and faileth not;
+VERSE:Their cow calveth, and casteth not her calf.
+LABEL:11
+VERSE:They send forth their little ones like a flock,
+VERSE:And their children dance.
+LABEL:12
+VERSE:They sing to the timbrel and harp,
+VERSE:And rejoice at the sound of the pipe.
+LABEL:13
+VERSE:They spend their days in prosperity,
+VERSE:And in a moment they go down to Sheol.
+LABEL:14
+VERSE:And they say unto God, Depart from us;
+VERSE:For we desire not the knowledge of thy ways.
+LABEL:15
+VERSE:What is the Almighty, that we should serve him?
+VERSE:And what profit should we have, if we pray unto him?
+LABEL:16
+VERSE:Lo, their prosperity is not in their hand:
+VERSE:The counsel of the wicked is far from me.
+LABEL:17
+VERSE:How oft is it that the lamp of the wicked is put out?
+VERSE:That their calamity cometh upon them?
+VERSE:That God distributeth sorrows in his anger?
+LABEL:18
+VERSE:That they are as stubble before the wind,
+VERSE:And as chaff that the storm carrieth away?
+LABEL:19
+VERSE:  Ye say, God layeth up his iniquity for his children.
+VERSE:Let him recompense it unto himself, that he may know it:
+LABEL:20
+VERSE:Let his own eyes see his destruction,
+VERSE:And let him drink of the wrath of the Almighty.
+LABEL:21
+VERSE:For what careth he for his house after him,
+VERSE:When the number of his months is cut off?
+LABEL:22
+VERSE:Shall any teach God knowledge,
+VERSE:Seeing he judgeth those that are high?
+LABEL:23
+VERSE:One dieth in his full strength,
+VERSE:Being wholly at ease and quiet:
+LABEL:24
+VERSE:His pails are full of milk,
+VERSE:And the marrow of his bones is moistened.
+LABEL:25
+VERSE:And another dieth in bitterness of soul,
+VERSE:And never tasteth of good.
+LABEL:26
+VERSE:They lie down alike in the dust,
+VERSE:And the worm covereth them.
+LABEL:27
+VERSE:Behold, I know your thoughts,
+VERSE:And the devices wherewith ye would wrong me.
+LABEL:28
+VERSE:For ye say, Where is the house of the prince?
+VERSE:And where is the tent wherein the wicked dwelt?
+LABEL:29
+VERSE:Have ye not asked wayfaring men?
+VERSE:And do ye not know their evidences,
+LABEL:30
+VERSE:That the evil man is reserved to the day of calamity?
+VERSE:That they are led forth to the day of wrath?
+LABEL:31
+VERSE:Who shall declare his way to his face?
+VERSE:And who shall repay him what he hath done?
+LABEL:32
+VERSE:Yet shall he be borne to the grave,
+VERSE:And men shall keep watch over the tomb.
+LABEL:33
+VERSE:The clods of the valley shall be sweet unto him,
+VERSE:And all men shall draw after him,
+VERSE:As there were innumerable before him.
+LABEL:34
+VERSE:How then comfort ye me in vain,
+VERSE:Seeing in your answers there remaineth only falsehood?

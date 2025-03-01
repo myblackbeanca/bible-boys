@@ -1,0 +1,22 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:15
+TITLE:Psalms 15
+LABEL:1
+VERSE:Jehovah, who shall sojourn in thy tabernacle?
+VERSE:Who shall dwell in thy holy hill?
+LABEL:2
+VERSE:He that walketh uprightly, and worketh righteousness,
+VERSE:And speaketh truth in his heart;
+LABEL:3
+VERSE:He that slandereth not with his tongue,
+VERSE:Nor doeth evil to his friend,
+VERSE:Nor taketh up a reproach against his neighbor;
+LABEL:4
+VERSE:In whose eyes a reprobate is despised,
+VERSE:But who honoreth them that fear Jehovah;
+VERSE:He that sweareth to his own hurt, and changeth not;
+LABEL:5
+VERSE:He that putteth not out his money to interest,
+VERSE:Nor taketh reward against the innocent.
+VERSE:He that doeth these things shall never be moved.

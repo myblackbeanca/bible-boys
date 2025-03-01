@@ -1,0 +1,140 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:105
+TITLE:Psalms 105
+LABEL:1
+VERSE:Give thanks to Yahweh! Call on his name!
+VERSE:Make his doings known among the peoples.
+LABEL:2
+VERSE:Sing to him, sing praises to him!
+VERSE:Tell of all his marvelous works.
+LABEL:3
+VERSE:Glory in his holy name.
+VERSE:Let the heart of those who seek Yahweh rejoice.
+LABEL:4
+VERSE:Seek Yahweh and his strength.
+VERSE:Seek his face forever more.
+LABEL:5
+VERSE:Remember his marvelous works that he has done:
+VERSE:his wonders, and the judgments of his mouth,
+LABEL:6
+VERSE:you offspring of Abraham, his servant,
+VERSE:you children of Jacob, his chosen ones.
+LABEL:7
+VERSE:He is Yahweh, our God.
+VERSE:His judgments are in all the earth.
+LABEL:8
+VERSE:He has remembered his covenant forever,
+VERSE:the word which he commanded to a thousand generations,
+LABEL:9
+VERSE:the covenant which he made with Abraham,
+VERSE:his oath to Isaac,
+LABEL:10
+VERSE:and confirmed it to Jacob for a statute;
+VERSE:to Israel for an everlasting covenant,
+LABEL:11
+VERSE:saying, “To you I will give the land of Canaan,
+VERSE:the lot of your inheritance,”
+LABEL:12
+VERSE:when they were but a few men in number,
+VERSE:yes, very few, and foreigners in it.
+LABEL:13
+VERSE:They went about from nation to nation,
+VERSE:from one kingdom to another people.
+LABEL:14
+VERSE:He allowed no one to do them wrong.
+VERSE:Yes, he reproved kings for their sakes,
+LABEL:15
+VERSE:“Don’t touch my anointed ones!
+VERSE:Do my prophets no harm!”
+LABEL:16
+VERSE:He called for a famine on the land.
+VERSE:He destroyed the food supplies.
+LABEL:17
+VERSE:He sent a man before them.
+VERSE:Joseph was sold for a slave.
+LABEL:18
+VERSE:They bruised his feet with shackles.
+VERSE:His neck was locked in irons,
+LABEL:19
+VERSE:until the time that his word happened,
+VERSE:and Yahweh’s word proved him true.
+LABEL:20
+VERSE:The king sent and freed him,
+VERSE:even the ruler of peoples, and let him go free.
+LABEL:21
+VERSE:He made him lord of his house,
+VERSE:and ruler of all of his possessions,
+LABEL:22
+VERSE:to discipline his princes at his pleasure,
+VERSE:and to teach his elders wisdom.
+LABEL:23
+VERSE:Israel also came into Egypt.
+VERSE:Jacob lived in the land of Ham.
+LABEL:24
+VERSE:He increased his people greatly,
+VERSE:and made them stronger than their adversaries.
+LABEL:25
+VERSE:He turned their heart to hate his people,
+VERSE:to conspire against his servants.
+LABEL:26
+VERSE:He sent Moses, his servant,
+VERSE:and Aaron, whom he had chosen.
+LABEL:27
+VERSE:They performed miracles among them,
+VERSE:and wonders in the land of Ham.
+LABEL:28
+VERSE:He sent darkness, and made it dark.
+VERSE:They didn’t rebel against his words.
+LABEL:29
+VERSE:He turned their waters into blood,
+VERSE:and killed their fish.
+LABEL:30
+VERSE:Their land swarmed with frogs,
+VERSE:even in the rooms of their kings.
+LABEL:31
+VERSE:He spoke, and swarms of flies came,
+VERSE:and lice in all their borders.
+LABEL:32
+VERSE:He gave them hail for rain,
+VERSE:with lightning in their land.
+LABEL:33
+VERSE:He struck their vines and also their fig trees,
+VERSE:and shattered the trees of their country.
+LABEL:34
+VERSE:He spoke, and the locusts came
+VERSE:with the grasshoppers, without number.
+LABEL:35
+VERSE:They ate up every plant in their land,
+VERSE:and ate up the fruit of their ground.
+LABEL:36
+VERSE:He struck also all the firstborn in their land,
+VERSE:the first fruits of all their manhood.
+LABEL:37
+VERSE:He brought them out with silver and gold.
+VERSE:There was not one feeble person among his tribes.
+LABEL:38
+VERSE:Egypt was glad when they departed,
+VERSE:for the fear of them had fallen on them.
+LABEL:39
+VERSE:He spread a cloud for a covering,
+VERSE:fire to give light in the night.
+LABEL:40
+VERSE:They asked, and he brought quails,
+VERSE:and satisfied them with the bread of the sky.
+LABEL:41
+VERSE:He opened the rock, and waters gushed out.
+VERSE:They ran as a river in the dry places.
+LABEL:42
+VERSE:For he remembered his holy word,
+VERSE:and Abraham, his servant.
+LABEL:43
+VERSE:He brought his people out with joy,
+VERSE:his chosen with singing.
+LABEL:44
+VERSE:He gave them the lands of the nations.
+VERSE:They took the labor of the peoples in possession,
+LABEL:45
+VERSE:that they might keep his statutes,
+VERSE:and observe his laws.
+VERSE:Praise Yah!

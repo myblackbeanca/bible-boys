@@ -1,0 +1,134 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:41
+TITLE:Isaiah 41
+LABEL:1
+VERSE:“Keep silent before me, islands,
+VERSE:and let the peoples renew their strength.
+VERSE:Let them come near,
+VERSE:then let them speak.
+VERSE:Let’s meet together for judgment.
+LABEL:2
+VERSE:Who has raised up one from the east?
+VERSE:Who called him to his feet in righteousness?
+VERSE:He hands over nations to him
+VERSE:and makes him rule over kings.
+VERSE:He gives them like the dust to his sword,
+VERSE:like the driven stubble to his bow.
+LABEL:3
+VERSE:He pursues them
+VERSE:and passes by safely,
+VERSE:even by a way that he had not gone with his feet.
+LABEL:4
+VERSE:Who has worked and done it,
+VERSE:calling the generations from the beginning?
+VERSE:I, Yahweh, the first, and with the last, I am he.”
+LABEL:5
+VERSE:The islands have seen, and fear.
+VERSE:The ends of the earth tremble.
+VERSE:They approach, and come.
+LABEL:6
+VERSE:Everyone helps his neighbor.
+VERSE:They say to their brothers, “Be strong!”
+LABEL:7
+VERSE:So the carpenter encourages the goldsmith.
+VERSE:He who smooths with the hammer encourages him who strikes the anvil,
+VERSE:saying of the soldering, “It is good;”
+VERSE:and he fastens it with nails, that it might not totter.
+LABEL:8
+VERSE:“But you, Israel, my servant,
+VERSE:Jacob whom I have chosen,
+VERSE:the offspring of Abraham my friend,
+LABEL:9
+VERSE:you whom I have taken hold of from the ends of the earth,
+VERSE:and called from its corners,
+VERSE:and said to you, ‘You are my servant. I have chosen you and have not cast you away.’
+LABEL:10
+VERSE:Don’t you be afraid, for I am with you.
+VERSE:Don’t be dismayed, for I am your God.
+VERSE:I will strengthen you.
+VERSE:Yes, I will help you.
+VERSE:Yes, I will uphold you with the right hand of my righteousness.
+LABEL:11
+VERSE:Behold, all those who are incensed against you will be disappointed and confounded.
+VERSE:Those who strive with you will be like nothing, and shall perish.
+LABEL:12
+VERSE:You will seek them, and won’t find them,
+VERSE:even those who contend with you.
+VERSE:Those who war against you will be as nothing,
+VERSE:as a nonexistent thing.
+LABEL:13
+VERSE:For I, Yahweh your God, will hold your right hand,
+VERSE:saying to you, ‘Don’t be afraid.
+VERSE:I will help you.’
+LABEL:14
+VERSE:Don’t be afraid, you worm Jacob,
+VERSE:and you men of Israel.
+VERSE:I will help you,” says Yahweh.
+VERSE:“Your Redeemer is the Holy One of Israel.
+LABEL:15
+VERSE:Behold, I have made you into a new sharp threshing instrument with teeth.
+VERSE:You will thresh the mountains,
+VERSE:and beat them small,
+VERSE:and will make the hills like chaff.
+LABEL:16
+VERSE:You will winnow them,
+VERSE:and the wind will carry them away,
+VERSE:and the whirlwind will scatter them.
+VERSE:You will rejoice in Yahweh.
+VERSE:You will glory in the Holy One of Israel.
+LABEL:17
+VERSE:The poor and needy seek water, and there is none.
+VERSE:Their tongue fails for thirst.
+VERSE:I, Yahweh, will answer them.
+VERSE:I, the God of Israel, will not forsake them.
+LABEL:18
+VERSE:I will open rivers on the bare heights,
+VERSE:and springs in the middle of the valleys.
+VERSE:I will make the wilderness a pool of water,
+VERSE:and the dry land springs of water.
+LABEL:19
+VERSE:I will put cedar, acacia, myrtle, and oil trees in the wilderness.
+VERSE:I will set cypress trees, pine, and box trees together in the desert;
+LABEL:20
+VERSE:that they may see, know, consider, and understand together,
+VERSE:that Yahweh’s hand has done this,
+VERSE:and the Holy One of Israel has created it.
+LABEL:21
+VERSE:Produce your cause,” says Yahweh.
+VERSE:“Bring out your strong reasons!” says the King of Jacob.
+LABEL:22
+VERSE:“Let them announce and declare to us what will happen!
+VERSE:Declare the former things, what they are,
+VERSE:that we may consider them, and know the latter end of them;
+VERSE:or show us things to come.
+LABEL:23
+VERSE:Declare the things that are to come hereafter,
+VERSE:that we may know that you are gods.
+VERSE:Yes, do good, or do evil,
+VERSE:that we may be dismayed,
+VERSE:and see it together.
+LABEL:24
+VERSE:Behold, you are nothing,
+VERSE:and your work is nothing.
+VERSE:He who chooses you is an abomination.
+LABEL:25
+VERSE:“I have raised up one from the north, and he has come,
+VERSE:from the rising of the sun, one who calls on my name,
+VERSE:and he shall come on rulers as on mortar,
+VERSE:and as the potter treads clay.
+LABEL:26
+VERSE:Who has declared it from the beginning, that we may know?
+VERSE:and before, that we may say, ‘He is right’?
+VERSE:Surely, there is no one who declares.
+VERSE:Surely, there is no one who shows.
+VERSE:Surely, there is no one who hears your words.
+LABEL:27
+VERSE:I am the first to say to Zion, ‘Behold, look at them;’
+VERSE:and I will give one who brings good news to Jerusalem.
+LABEL:28
+VERSE:When I look, there is no man,
+VERSE:even among them there is no counselor who, when I ask, can answer a word.
+LABEL:29
+VERSE:Behold, all of their deeds are vanity and nothing.
+VERSE:Their molten images are wind and confusion.

@@ -1,0 +1,97 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:21
+TITLE:Proverbs 21
+LABEL:1
+VERSE:The king’s heart is in Yahweh’s hand like the watercourses.
+VERSE:He turns it wherever he desires.
+LABEL:2
+VERSE:Every way of a man is right in his own eyes,
+VERSE:but Yahweh weighs the hearts.
+LABEL:3
+VERSE:To do righteousness and justice
+VERSE:is more acceptable to Yahweh than sacrifice.
+LABEL:4
+VERSE:A high look and a proud heart,
+VERSE:the lamp of the wicked, is sin.
+LABEL:5
+VERSE:The plans of the diligent surely lead to profit;
+VERSE:and everyone who is hasty surely rushes to poverty.
+LABEL:6
+VERSE:Getting treasures by a lying tongue
+VERSE:is a fleeting vapor for those who seek death.
+LABEL:7
+VERSE:The violence of the wicked will drive them away,
+VERSE:because they refuse to do what is right.
+LABEL:8
+VERSE:The way of the guilty is devious,
+VERSE:but the conduct of the innocent is upright.
+LABEL:9
+VERSE:It is better to dwell in the corner of the housetop
+VERSE:than to share a house with a contentious woman.
+LABEL:10
+VERSE:The soul of the wicked desires evil;
+VERSE:his neighbor finds no mercy in his eyes.
+LABEL:11
+VERSE:When the mocker is punished, the simple gains wisdom.
+VERSE:When the wise is instructed, he receives knowledge.
+LABEL:12
+VERSE:The Righteous One considers the house of the wicked,
+VERSE:and brings the wicked to ruin.
+LABEL:13
+VERSE:Whoever stops his ears at the cry of the poor,
+VERSE:he will also cry out, but shall not be heard.
+LABEL:14
+VERSE:A gift in secret pacifies anger,
+VERSE:and a bribe in the cloak, strong wrath.
+LABEL:15
+VERSE:It is joy to the righteous to do justice;
+VERSE:but it is a destruction to the workers of iniquity.
+LABEL:16
+VERSE:The man who wanders out of the way of understanding
+VERSE:shall rest in the assembly of the departed spirits.
+LABEL:17
+VERSE:He who loves pleasure will be a poor man.
+VERSE:He who loves wine and oil won’t be rich.
+LABEL:18
+VERSE:The wicked is a ransom for the righteous,
+VERSE:the treacherous for the upright.
+LABEL:19
+VERSE:It is better to dwell in a desert land,
+VERSE:than with a contentious and fretful woman.
+LABEL:20
+VERSE:There is precious treasure and oil in the dwelling of the wise,
+VERSE:but a foolish man swallows it up.
+LABEL:21
+VERSE:He who follows after righteousness and kindness
+VERSE:finds life, righteousness, and honor.
+LABEL:22
+VERSE:A wise man scales the city of the mighty,
+VERSE:and brings down the strength of its confidence.
+LABEL:23
+VERSE:Whoever guards his mouth and his tongue
+VERSE:keeps his soul from troubles.
+LABEL:24
+VERSE:The proud and arrogant man—“Scoffer” is his name—
+VERSE:he works in the arrogance of pride.
+LABEL:25
+VERSE:The desire of the sluggard kills him,
+VERSE:for his hands refuse to labor.
+LABEL:26
+VERSE:There are those who covet greedily all day long;
+VERSE:but the righteous give and don’t withhold.
+LABEL:27
+VERSE:The sacrifice of the wicked is an abomination—
+VERSE:how much more, when he brings it with a wicked mind!
+LABEL:28
+VERSE:A false witness will perish.
+VERSE:A man who listens speaks to eternity.
+LABEL:29
+VERSE:A wicked man hardens his face;
+VERSE:but as for the upright, he establishes his ways.
+LABEL:30
+VERSE:There is no wisdom nor understanding
+VERSE:nor counsel against Yahweh.
+LABEL:31
+VERSE:The horse is prepared for the day of battle;
+VERSE:but victory is with Yahweh.

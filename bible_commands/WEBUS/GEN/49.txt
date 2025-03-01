@@ -1,0 +1,122 @@
+TRANSLATION:WEBUS
+BOOK:GEN
+CHAPTER:49
+TITLE:Genesis 49
+LABEL:1
+VERSE:Jacob called to his sons, and said: “Gather yourselves together, that I may tell you that which will happen to you in the days to come.
+LABEL:2
+VERSE:Assemble yourselves, and hear, you sons of Jacob.
+VERSE:Listen to Israel, your father.
+LABEL:3
+VERSE:“Reuben, you are my firstborn, my might, and the beginning of my strength,
+VERSE:excelling in dignity, and excelling in power.
+LABEL:4
+VERSE:Boiling over like water, you shall not excel,
+VERSE:because you went up to your father’s bed,
+VERSE:then defiled it. He went up to my couch.
+LABEL:5
+VERSE:“Simeon and Levi are brothers.
+VERSE:Their swords are weapons of violence.
+LABEL:6
+VERSE:My soul, don’t come into their council.
+VERSE:My glory, don’t be united to their assembly;
+VERSE:for in their anger they killed men.
+VERSE:In their self-will they hamstrung cattle.
+LABEL:7
+VERSE:Cursed be their anger, for it was fierce;
+VERSE:and their wrath, for it was cruel.
+VERSE:I will divide them in Jacob,
+VERSE:and scatter them in Israel.
+LABEL:8
+VERSE:“Judah, your brothers will praise you.
+VERSE:Your hand will be on the neck of your enemies.
+VERSE:Your father’s sons will bow down before you.
+LABEL:9
+VERSE:Judah is a lion’s cub.
+VERSE:From the prey, my son, you have gone up.
+VERSE:He stooped down, he crouched as a lion,
+VERSE:as a lioness.
+VERSE:Who will rouse him up?
+LABEL:10
+VERSE:The scepter will not depart from Judah,
+VERSE:nor the ruler’s staff from between his feet,
+VERSE:until he comes to whom it belongs.
+VERSE:The obedience of the peoples will be to him.
+LABEL:11
+VERSE:Binding his foal to the vine,
+VERSE:his donkey’s colt to the choice vine,
+VERSE:he has washed his garments in wine,
+VERSE:his robes in the blood of grapes.
+LABEL:12
+VERSE:His eyes will be red with wine,
+VERSE:his teeth white with milk.
+LABEL:13
+VERSE:“Zebulun will dwell at the haven of the sea.
+VERSE:He will be for a haven of ships.
+VERSE:His border will be on Sidon.
+LABEL:14
+VERSE:“Issachar is a strong donkey,
+VERSE:lying down between the saddlebags.
+LABEL:15
+VERSE:He saw a resting place, that it was good,
+VERSE:the land, that it was pleasant.
+VERSE:He bows his shoulder to the burden,
+VERSE:and becomes a servant doing forced labor.
+LABEL:16
+VERSE:“Dan will judge his people,
+VERSE:as one of the tribes of Israel.
+LABEL:17
+VERSE:Dan will be a serpent on the trail,
+VERSE:an adder in the path,
+VERSE:that bites the horse’s heels,
+VERSE:so that his rider falls backward.
+LABEL:18
+VERSE:I have waited for your salvation, Yahweh.
+LABEL:19
+VERSE:“A troop will press on Gad,
+VERSE:but he will press on their heel.
+LABEL:20
+VERSE:“Asher’s food will be rich.
+VERSE:He will produce royal dainties.
+LABEL:21
+VERSE:“Naphtali is a doe set free,
+VERSE:who bears beautiful fawns.
+LABEL:22
+VERSE:“Joseph is a fruitful vine,
+VERSE:a fruitful vine by a spring.
+VERSE:His branches run over the wall.
+LABEL:23
+VERSE:The archers have severely grieved him,
+VERSE:shot at him, and persecuted him:
+LABEL:24
+VERSE:But his bow remained strong.
+VERSE:The arms of his hands were made strong,
+VERSE:by the hands of the Mighty One of Jacob,
+VERSE:(from there is the shepherd, the stone of Israel),
+LABEL:25
+VERSE:even by the God of your father, who will help you,
+VERSE:by the Almighty, who will bless you,
+VERSE:with blessings of heaven above,
+VERSE:blessings of the deep that lies below,
+VERSE:blessings of the breasts, and of the womb.
+LABEL:26
+VERSE:The blessings of your father have prevailed above the blessings of my ancestors,
+VERSE:above the boundaries of the ancient hills.
+VERSE:They will be on the head of Joseph,
+VERSE:on the crown of the head of him who is separated from his brothers.
+LABEL:27
+VERSE:“Benjamin is a ravenous wolf.
+VERSE:In the morning he will devour the prey.
+VERSE:At evening he will divide the plunder.”
+LABEL:28
+VERSE:All these are the twelve tribes of Israel, and this is what their father spoke to them, and blessed them. He blessed everyone according to his own blessing.
+LABEL:29
+VERSE:He instructed them, and said to them, “I am to be gathered to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+LABEL:30
+VERSE:in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite as a burial place.
+LABEL:31
+VERSE:There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife, and there I buried Leah:
+LABEL:32
+VERSE:the field and the cave that is therein, which was purchased from the children of Heth.”
+LABEL:33
+VERSE:When Jacob finished charging his sons, he gathered up his feet into the bed, breathed his last breath, and was gathered to his people.

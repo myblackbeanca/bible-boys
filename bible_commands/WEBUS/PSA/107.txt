@@ -1,0 +1,135 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:107
+TITLE:Psalms 107
+SECTION:BOOK 5
+LABEL:1
+VERSE:Give thanks to Yahweh, for he is good,
+VERSE:for his loving kindness endures forever.
+LABEL:2
+VERSE:Let the redeemed by Yahweh say so,
+VERSE:whom he has redeemed from the hand of the adversary,
+LABEL:3
+VERSE:and gathered out of the lands,
+VERSE:from the east and from the west,
+VERSE:from the north and from the south.
+LABEL:4
+VERSE:They wandered in the wilderness in a desert way.
+VERSE:They found no city to live in.
+LABEL:5
+VERSE:Hungry and thirsty,
+VERSE:their soul fainted in them.
+LABEL:6
+VERSE:Then they cried to Yahweh in their trouble,
+VERSE:and he delivered them out of their distresses.
+LABEL:7
+VERSE:He led them also by a straight way,
+VERSE:that they might go to a city to live in.
+LABEL:8
+VERSE:Let them praise Yahweh for his loving kindness,
+VERSE:for his wonderful deeds to the children of men!
+LABEL:9
+VERSE:For he satisfies the longing soul.
+VERSE:He fills the hungry soul with good.
+LABEL:10
+VERSE:Some sat in darkness and in the shadow of death,
+VERSE:being bound in affliction and iron,
+LABEL:11
+VERSE:because they rebelled against the words of God,
+VERSE:and condemned the counsel of the Most High.
+LABEL:12
+VERSE:Therefore he brought down their heart with labor.
+VERSE:They fell down, and there was no one to help.
+LABEL:13
+VERSE:Then they cried to Yahweh in their trouble,
+VERSE:and he saved them out of their distresses.
+LABEL:14
+VERSE:He brought them out of darkness and the shadow of death,
+VERSE:and broke away their chains.
+LABEL:15
+VERSE:Let them praise Yahweh for his loving kindness,
+VERSE:for his wonderful deeds to the children of men!
+LABEL:16
+VERSE:For he has broken the gates of bronze,
+VERSE:and cut through bars of iron.
+LABEL:17
+VERSE:Fools are afflicted because of their disobedience,
+VERSE:and because of their iniquities.
+LABEL:18
+VERSE:Their soul abhors all kinds of food.
+VERSE:They draw near to the gates of death.
+LABEL:19
+VERSE:Then they cry to Yahweh in their trouble,
+VERSE:and he saves them out of their distresses.
+LABEL:20
+VERSE:He sends his word, and heals them,
+VERSE:and delivers them from their graves.
+LABEL:21
+VERSE:Let them praise Yahweh for his loving kindness,
+VERSE:for his wonderful deeds to the children of men!
+LABEL:22
+VERSE:Let them offer the sacrifices of thanksgiving,
+VERSE:and declare his deeds with singing.
+LABEL:23
+VERSE:Those who go down to the sea in ships,
+VERSE:who do business in great waters,
+LABEL:24
+VERSE:these see Yahweh’s deeds,
+VERSE:and his wonders in the deep.
+LABEL:25
+VERSE:For he commands, and raises the stormy wind,
+VERSE:which lifts up its waves.
+LABEL:26
+VERSE:They mount up to the sky; they go down again to the depths.
+VERSE:Their soul melts away because of trouble.
+LABEL:27
+VERSE:They reel back and forth, and stagger like a drunken man,
+VERSE:and are at their wits’ end.
+LABEL:28
+VERSE:Then they cry to Yahweh in their trouble,
+VERSE:and he brings them out of their distress.
+LABEL:29
+VERSE:He makes the storm a calm,
+VERSE:so that its waves are still.
+LABEL:30
+VERSE:Then they are glad because it is calm,
+VERSE:so he brings them to their desired haven.
+LABEL:31
+VERSE:Let them praise Yahweh for his loving kindness,
+VERSE:for his wonderful deeds for the children of men!
+LABEL:32
+VERSE:Let them exalt him also in the assembly of the people,
+VERSE:and praise him in the seat of the elders.
+LABEL:33
+VERSE:He turns rivers into a desert,
+VERSE:water springs into a thirsty ground,
+LABEL:34
+VERSE:and a fruitful land into a salt waste,
+VERSE:for the wickedness of those who dwell in it.
+LABEL:35
+VERSE:He turns a desert into a pool of water,
+VERSE:and a dry land into water springs.
+LABEL:36
+VERSE:There he makes the hungry live,
+VERSE:that they may prepare a city to live in,
+LABEL:37
+VERSE:sow fields, plant vineyards,
+VERSE:and reap the fruits of increase.
+LABEL:38
+VERSE:He blesses them also, so that they are multiplied greatly.
+VERSE:He doesn’t allow their livestock to decrease.
+LABEL:39
+VERSE:Again, they are diminished and bowed down
+VERSE:through oppression, trouble, and sorrow.
+LABEL:40
+VERSE:He pours contempt on princes,
+VERSE:and causes them to wander in a trackless waste.
+LABEL:41
+VERSE:Yet he lifts the needy out of their affliction,
+VERSE:and increases their families like a flock.
+LABEL:42
+VERSE:The upright will see it, and be glad.
+VERSE:All the wicked will shut their mouths.
+LABEL:43
+VERSE:Whoever is wise will pay attention to these things.
+VERSE:They will consider the loving kindnesses of Yahweh.

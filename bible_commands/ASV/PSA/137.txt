@@ -1,0 +1,38 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:137
+TITLE:Psalms 137
+LABEL:1
+VERSE:By the rivers of Babylon,
+VERSE:There we sat down, yea, we wept,
+VERSE:When we remembered Zion.
+LABEL:2
+VERSE:Upon the willows in the midst thereof
+VERSE:We hanged up our harps.
+LABEL:3
+VERSE:For there they that led us captive required of us songs,
+VERSE:And they that wasted us required of us mirth, saying,
+VERSE:Sing us one of the songs of Zion.
+LABEL:4
+VERSE:How shall we sing Jehovah’s song
+VERSE:In a foreign land?
+LABEL:5
+VERSE:If I forget thee, O Jerusalem,
+VERSE:Let my right hand forget her skill.
+LABEL:6
+VERSE:Let my tongue cleave to the roof of my mouth,
+VERSE:If I remember thee not;
+VERSE:If I prefer not Jerusalem
+VERSE:Above my chief joy.
+LABEL:7
+VERSE:Remember, O Jehovah, against the children of Edom
+VERSE:The day of Jerusalem;
+VERSE:Who said, Rase it, rase it,
+VERSE:Even to the foundation thereof.
+LABEL:8
+VERSE:O daughter of Babylon, that art to be destroyed,
+VERSE:Happy shall he be, that rewardeth thee
+VERSE:As thou hast served us.
+LABEL:9
+VERSE:Happy shall he be, that taketh and dasheth thy little ones
+VERSE:Against the rock.

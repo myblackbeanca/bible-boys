@@ -1,0 +1,100 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:15
+TITLE:Jeremiah 15
+LABEL:1
+VERSE:Then Yahweh said to me, “Though Moses and Samuel stood before me, yet my mind would not turn toward this people. Cast them out of my sight, and let them go out!
+LABEL:2
+VERSE:It will happen when they ask you, ‘Where shall we go out?’ then you shall tell them, ‘Yahweh says:
+VERSE:“Such as are for death, to death;
+VERSE:such as are for the sword, to the sword;
+VERSE:such as are for the famine, to the famine;
+VERSE:and such as are for captivity, to captivity.”’
+LABEL:3
+VERSE:“I will appoint over them four kinds,” says Yahweh: “the sword to kill, the dogs to tear, the birds of the sky, and the animals of the earth, to devour and to destroy.
+LABEL:4
+VERSE:I will cause them to be tossed back and forth among all the kingdoms of the earth, because of Manasseh, the son of Hezekiah, king of Judah, for that which he did in Jerusalem.
+LABEL:5
+VERSE:For who will have pity on you, Jerusalem?
+VERSE:Who will mourn you?
+VERSE:Who will come to ask of your welfare?
+LABEL:6
+VERSE:You have rejected me,” says Yahweh.
+VERSE:“You have gone backward.
+VERSE:Therefore I have stretched out my hand against you
+VERSE:and destroyed you.
+VERSE:I am weary of showing compassion.
+LABEL:7
+VERSE:I have winnowed them with a fan in the gates of the land.
+VERSE:I have bereaved them of children.
+VERSE:I have destroyed my people.
+VERSE:They didn’t return from their ways.
+LABEL:8
+VERSE:Their widows are increased more than the sand of the seas.
+VERSE:I have brought on them against the mother of the young men a destroyer at noonday.
+VERSE:I have caused anguish and terrors to fall on her suddenly.
+LABEL:9
+VERSE:She who has borne seven languishes.
+VERSE:She has given up the spirit.
+VERSE:Her sun has gone down while it was yet day.
+VERSE:She has been disappointed and confounded.
+VERSE:I will deliver their residue to the sword before their enemies,” says Yahweh.
+LABEL:10
+VERSE:Woe is me, my mother, that you have borne me, a man of strife,
+VERSE:and a man of contention to the whole earth!
+VERSE:I have not lent, neither have men lent to me;
+VERSE:yet every one of them curses me.
+LABEL:11
+VERSE:Yahweh said,
+VERSE:“Most certainly I will strengthen you for good.
+VERSE:Most certainly I will cause the enemy to make supplication to you in the time of evil
+VERSE:and in the time of affliction.
+LABEL:12
+VERSE:Can one break iron,
+VERSE:even iron from the north, and bronze?
+LABEL:13
+VERSE:I will give your substance and your treasures for a plunder without price,
+VERSE:and that for all your sins,
+VERSE:even in all your borders.
+LABEL:14
+VERSE:I will make them to pass with your enemies into a land which you don’t know;
+VERSE:for a fire is kindled in my anger,
+VERSE:which will burn on you.”
+LABEL:15
+VERSE:Yahweh, you know.
+VERSE:Remember me, visit me,
+VERSE:and avenge me of my persecutors.
+VERSE:You are patient, so don’t take me away.
+VERSE:Know that for your sake I have suffered reproach.
+LABEL:16
+VERSE:Your words were found,
+VERSE:and I ate them.
+VERSE:Your words were to me a joy and the rejoicing of my heart,
+VERSE:for I am called by your name, Yahweh, God of Armies.
+LABEL:17
+VERSE:I didn’t sit in the assembly of those who make merry and rejoice.
+VERSE:I sat alone because of your hand,
+VERSE:for you have filled me with indignation.
+LABEL:18
+VERSE:Why is my pain perpetual,
+VERSE:and my wound incurable,
+VERSE:which refuses to be healed?
+VERSE:Will you indeed be to me as a deceitful brook,
+VERSE:like waters that fail?
+LABEL:19
+VERSE:Therefore Yahweh says,
+VERSE:“If you return, then I will bring you again,
+VERSE:that you may stand before me;
+VERSE:and if you take out the precious from the vile,
+VERSE:you will be as my mouth.
+VERSE:They will return to you,
+VERSE:but you will not return to them.
+LABEL:20
+VERSE:I will make you to this people a fortified bronze wall.
+VERSE:They will fight against you,
+VERSE:but they will not prevail against you;
+VERSE:for I am with you to save you
+VERSE:and to deliver you,” says Yahweh.
+LABEL:21
+VERSE:“I will deliver you out of the hand of the wicked,
+VERSE:and I will redeem you out of the hand of the terrible.”

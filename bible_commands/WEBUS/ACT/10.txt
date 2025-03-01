@@ -1,0 +1,103 @@
+TRANSLATION:WEBUS
+BOOK:ACT
+CHAPTER:10
+TITLE:Acts 10
+LABEL:1
+VERSE:Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment,
+LABEL:2
+VERSE:a devout man, and one who feared God with all his house, who gave gifts for the needy generously to the people, and always prayed to God.
+LABEL:3
+VERSE:At about the ninth hour of the day, he clearly saw in a vision an angel of God coming to him and saying to him, “Cornelius!”
+LABEL:4
+VERSE:He, fastening his eyes on him and being frightened, said, “What is it, Lord?”
+VERSE:He said to him, “Your prayers and your gifts to the needy have gone up for a memorial before God.
+LABEL:5
+VERSE:Now send men to Joppa, and get Simon, who is also called Peter.
+LABEL:6
+VERSE:He is staying with a tanner named Simon, whose house is by the seaside.
+LABEL:7
+VERSE:When the angel who spoke to him had departed, Cornelius called two of his household servants and a devout soldier of those who waited on him continually.
+LABEL:8
+VERSE:Having explained everything to them, he sent them to Joppa.
+LABEL:9
+VERSE:Now on the next day as they were on their journey and got close to the city, Peter went up on the housetop to pray at about noon.
+LABEL:10
+VERSE:He became hungry and desired to eat, but while they were preparing, he fell into a trance.
+LABEL:11
+VERSE:He saw heaven opened and a certain container descending to him, like a great sheet let down by four corners on the earth,
+LABEL:12
+VERSE:in which were all kinds of four-footed animals of the earth, wild animals, reptiles, and birds of the sky.
+LABEL:13
+VERSE:A voice came to him, “Rise, Peter, kill and eat!”
+LABEL:14
+VERSE:But Peter said, “Not so, Lord; for I have never eaten anything that is common or unclean.”
+LABEL:15
+VERSE:A voice came to him again the second time, “What God has cleansed, you must not call unclean.”
+LABEL:16
+VERSE:This was done three times, and immediately the thing was received up into heaven.
+LABEL:17
+VERSE:Now while Peter was very perplexed in himself what the vision which he had seen might mean, behold, the men who were sent by Cornelius, having made inquiry for Simon’s house, stood before the gate,
+LABEL:18
+VERSE:and called and asked whether Simon, who was also called Peter, was lodging there.
+LABEL:19
+VERSE:While Peter was pondering the vision, the Spirit said to him, “Behold, three men seek you.
+LABEL:20
+VERSE:But arise, get down, and go with them, doubting nothing; for I have sent them.”
+LABEL:21
+VERSE:Peter went down to the men, and said, “Behold, I am he whom you seek. Why have you come?”
+LABEL:22
+VERSE:They said, “Cornelius, a centurion, a righteous man and one who fears God, and well spoken of by all the nation of the Jews, was directed by a holy angel to invite you to his house, and to listen to what you say.”
+LABEL:23
+VERSE:So he called them in and provided a place to stay.
+VERSE:On the next day Peter arose and went out with them, and some of the brothers from Joppa accompanied him.
+LABEL:24
+VERSE:On the next day they entered into Caesarea. Cornelius was waiting for them, having called together his relatives and his near friends.
+LABEL:25
+VERSE:When Peter entered, Cornelius met him, fell down at his feet, and worshiped him.
+LABEL:26
+VERSE:But Peter raised him up, saying, “Stand up! I myself am also a man.”
+LABEL:27
+VERSE:As he talked with him, he went in and found many gathered together.
+LABEL:28
+VERSE:He said to them, “You yourselves know how it is an unlawful thing for a man who is a Jew to join himself or come to one of another nation, but God has shown me that I shouldn’t call any man unholy or unclean.
+LABEL:29
+VERSE:Therefore I also came without complaint when I was sent for. I ask therefore, why did you send for me?”
+LABEL:30
+VERSE:Cornelius said, “Four days ago, I was fasting until this hour; and at the ninth hour, I prayed in my house, and behold, a man stood before me in bright clothing
+LABEL:31
+VERSE:and said, ‘Cornelius, your prayer is heard, and your gifts to the needy are remembered in the sight of God.
+LABEL:32
+VERSE:Send therefore to Joppa and summon Simon, who is also called Peter. He is staying in the house of a tanner named Simon, by the seaside. When he comes, he will speak to you.’
+LABEL:33
+VERSE:Therefore I sent to you at once, and it was good of you to come. Now therefore we are all here present in the sight of God to hear all things that have been commanded you by God.”
+LABEL:34
+VERSE:Peter opened his mouth and said, “Truly I perceive that God doesn’t show favoritism;
+LABEL:35
+VERSE:but in every nation he who fears him and works righteousness is acceptable to him.
+LABEL:36
+VERSE:The word which he sent to the children of Israel, preaching good news of peace by Jesus Christ—he is Lord of all—
+LABEL:37
+VERSE:you yourselves know what happened, which was proclaimed throughout all Judea, beginning from Galilee, after the baptism which John preached;
+LABEL:38
+VERSE:how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with him.
+LABEL:39
+VERSE:We are witnesses of everything he did both in the country of the Jews and in Jerusalem; whom they also killed, hanging him on a tree.
+LABEL:40
+VERSE:God raised him up the third day and gave him to be revealed,
+LABEL:41
+VERSE:not to all the people, but to witnesses who were chosen before by God, to us, who ate and drank with him after he rose from the dead.
+LABEL:42
+VERSE:He commanded us to preach to the people and to testify that this is he who is appointed by God as the Judge of the living and the dead.
+LABEL:43
+VERSE:All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”
+LABEL:44
+VERSE:While Peter was still speaking these words, the Holy Spirit fell on all those who heard the word.
+LABEL:45
+VERSE:They of the circumcision who believed were amazed, as many as came with Peter, because the gift of the Holy Spirit was also poured out on the Gentiles.
+LABEL:46
+VERSE:For they heard them speaking in other languages and magnifying God.
+VERSE:Then Peter answered,
+LABEL:47
+VERSE:“Can anyone forbid these people from being baptized with water? They have received the Holy Spirit just like us.”
+LABEL:48
+VERSE:He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days.

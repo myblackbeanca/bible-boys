@@ -1,0 +1,30 @@
+TRANSLATION:KJV
+BOOK:2JN
+CHAPTER:1
+TITLE:2 John 1
+LABEL:1
+VERSE:The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
+LABEL:2
+VERSE:for the truth's sake, which dwelleth in us, and shall be with us for ever.
+LABEL:3
+VERSE:Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
+LABEL:4
+VERSE:I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.
+LABEL:5
+VERSE:And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.
+LABEL:6
+VERSE:And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
+LABEL:7
+VERSE:For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
+LABEL:8
+VERSE:Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
+LABEL:9
+VERSE:Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
+LABEL:10
+VERSE:If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:
+LABEL:11
+VERSE:for he that biddeth him God speed is partaker of his evil deeds.
+LABEL:12
+VERSE:Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.
+LABEL:13
+VERSE:The children of thy elect sister greet thee. Amen.

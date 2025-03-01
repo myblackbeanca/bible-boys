@@ -1,0 +1,33 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:47
+TITLE:Psalms 47
+LABEL:1
+VERSE:Oh clap your hands, all ye peoples;
+VERSE:Shout unto God with the voice of triumph.
+LABEL:2
+VERSE:For Jehovah Most High is terrible;
+VERSE:He is a great King over all the earth.
+LABEL:3
+VERSE:He subdueth peoples under us,
+VERSE:And nations under our feet.
+LABEL:4
+VERSE:He chooseth our inheritance for us,
+VERSE:The glory of Jacob whom he loved. [Selah
+LABEL:5
+VERSE:God is gone up with a shout,
+VERSE:Jehovah with the sound of a trumpet.
+LABEL:6
+VERSE:Sing praises to God, sing praises:
+VERSE:Sing praises unto our King, sing praises.
+LABEL:7
+VERSE:For God is the King of all the earth:
+VERSE:Sing ye praises with understanding.
+LABEL:8
+VERSE:God reigneth over the nations:
+VERSE:God sitteth upon his holy throne.
+LABEL:9
+VERSE:The princes of the peoples are gathered together
+VERSE:To be the people of the God of Abraham;
+VERSE:For the shields of the earth belong unto God:
+VERSE:He is greatly exalted.

@@ -1,0 +1,297 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:51
+TITLE:Jeremiah 51
+LABEL:1
+VERSE:Yahweh says:
+VERSE:“Behold, I will raise up against Babylon,
+VERSE:and against those who dwell in Lebkamai, a destroying wind.
+LABEL:2
+VERSE:I will send to Babylon strangers, who will winnow her.
+VERSE:They will empty her land;
+VERSE:for in the day of trouble they will be against her all around.
+LABEL:3
+VERSE:Against him who bends, let the archer bend his bow,
+VERSE:also against him who lifts himself up in his coat of mail.
+VERSE:Don’t spare her young men!
+VERSE:Utterly destroy all her army!
+LABEL:4
+VERSE:They will fall down slain in the land of the Chaldeans,
+VERSE:and thrust through in her streets.
+LABEL:5
+VERSE:For Israel is not forsaken, nor Judah, by his God,
+VERSE:by Yahweh of Armies;
+VERSE:though their land is full of guilt against the Holy One of Israel.
+LABEL:6
+VERSE:“Flee out of the middle of Babylon!
+VERSE:Everyone save his own life!
+VERSE:Don’t be cut off in her iniquity,
+VERSE:for it is the time of Yahweh’s vengeance.
+VERSE:He will render to her a recompense.
+LABEL:7
+VERSE:Babylon has been a golden cup in Yahweh’s hand,
+VERSE:who made all the earth drunk.
+VERSE:The nations have drunk of her wine;
+VERSE:therefore the nations have gone mad.
+LABEL:8
+VERSE:Babylon has suddenly fallen and been destroyed!
+VERSE:Wail for her!
+VERSE:Take balm for her pain.
+VERSE:Perhaps she may be healed.
+LABEL:9
+VERSE:“We would have healed Babylon,
+VERSE:but she is not healed.
+VERSE:Forsake her,
+VERSE:and let’s each go into his own country;
+VERSE:for her judgment reaches to heaven,
+VERSE:and is lifted up even to the skies.
+LABEL:10
+VERSE:‘Yahweh has produced our righteousness.
+VERSE:Come, and let’s declare in Zion the work of Yahweh our God.’
+LABEL:11
+VERSE:“Make the arrows sharp!
+VERSE:Hold the shields firmly!
+VERSE:Yahweh has stirred up the spirit of the kings of the Medes,
+VERSE:because his purpose is against Babylon, to destroy it;
+VERSE:for it is the vengeance of Yahweh,
+VERSE:the vengeance of his temple.
+LABEL:12
+VERSE:Set up a standard against the walls of Babylon!
+VERSE:Make the watch strong!
+VERSE:Set the watchmen,
+VERSE:and prepare the ambushes;
+VERSE:for Yahweh has both purposed and done
+VERSE:that which he spoke concerning the inhabitants of Babylon.
+LABEL:13
+VERSE:You who dwell on many waters, abundant in treasures,
+VERSE:your end has come, the measure of your covetousness.
+LABEL:14
+VERSE:Yahweh of Armies has sworn by himself, saying,
+VERSE:‘Surely I will fill you with men,
+VERSE:as with locusts,
+VERSE:and they will lift up a shout against you.’
+LABEL:15
+VERSE:“He has made the earth by his power.
+VERSE:He has established the world by his wisdom.
+VERSE:By his understanding he has stretched out the heavens.
+LABEL:16
+VERSE:When he utters his voice,
+VERSE:there is a roar of waters in the heavens,
+VERSE:and he causes the vapors to ascend from the ends of the earth.
+VERSE:He makes lightning for the rain,
+VERSE:and brings the wind out of his treasuries.
+LABEL:17
+VERSE:“Every man has become stupid and without knowledge.
+VERSE:Every goldsmith is disappointed by his image,
+VERSE:for his molten images are falsehood,
+VERSE:and there is no breath in them.
+LABEL:18
+VERSE:They are vanity,
+VERSE:a work of delusion.
+VERSE:In the time of their visitation, they will perish.
+LABEL:19
+VERSE:The portion of Jacob is not like these,
+VERSE:for he formed all things,
+VERSE:including the tribe of his inheritance.
+VERSE:Yahweh of Armies is his name.
+LABEL:20
+VERSE:“You are my battle ax and weapons of war.
+VERSE:With you I will break the nations into pieces.
+VERSE:With you I will destroy kingdoms.
+LABEL:21
+VERSE:With you I will break in pieces
+VERSE:the horse and his rider.
+LABEL:22
+VERSE:With you I will break in pieces
+VERSE:the chariot and him who rides therein.
+VERSE:With you I will break in pieces
+VERSE:man and woman.
+VERSE:With you I will break in pieces
+VERSE:the old man and the youth.
+VERSE:With you I will break in pieces
+VERSE:the young man and the virgin.
+LABEL:23
+VERSE:With you I will break in pieces
+VERSE:the shepherd and his flock.
+VERSE:With you I will break in pieces
+VERSE:the farmer and his yoke.
+VERSE:With you I will break in pieces
+VERSE:governors and deputies.
+LABEL:24
+VERSE:“I will render to Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight,” says Yahweh.
+LABEL:25
+VERSE:“Behold, I am against you, destroying mountain,” says Yahweh,
+VERSE:“which destroys all the earth.
+VERSE:I will stretch out my hand on you,
+VERSE:roll you down from the rocks,
+VERSE:and will make you a burned mountain.
+LABEL:26
+VERSE:They won’t take a cornerstone from you,
+VERSE:nor a stone for foundations;
+VERSE:but you will be desolate forever,” says Yahweh.
+LABEL:27
+VERSE:“Set up a standard in the land!
+VERSE:Blow the trumpet among the nations!
+VERSE:Prepare the nations against her!
+VERSE:Call together against her the kingdoms of Ararat, Minni, and Ashkenaz!
+VERSE:Appoint a marshal against her!
+VERSE:Cause the horses to come up as the swarming locusts!
+LABEL:28
+VERSE:Prepare against her the nations,
+VERSE:the kings of the Medes, its governors, and all its deputies, and all the land of their dominion!
+LABEL:29
+VERSE:The land trembles and is in pain;
+VERSE:for the purposes of Yahweh against Babylon stand,
+VERSE:to make the land of Babylon a desolation, without inhabitant.
+LABEL:30
+VERSE:The mighty men of Babylon have stopped fighting,
+VERSE:they remain in their strongholds.
+VERSE:Their might has failed.
+VERSE:They have become as women.
+VERSE:Her dwelling places are set on fire.
+VERSE:Her bars are broken.
+LABEL:31
+VERSE:One runner will run to meet another,
+VERSE:and one messenger to meet another,
+VERSE:to show the king of Babylon that his city is taken on every quarter.
+LABEL:32
+VERSE:So the passages are seized.
+VERSE:They have burned the reeds with fire.
+VERSE:The men of war are frightened.”
+LABEL:33
+VERSE:For Yahweh of Armies, the God of Israel says:
+VERSE:“The daughter of Babylon is like a threshing floor at the time when it is trodden.
+VERSE:Yet a little while, and the time of harvest comes for her.”
+LABEL:34
+VERSE:“Nebuchadnezzar the king of Babylon has devoured me.
+VERSE:He has crushed me.
+VERSE:He has made me an empty vessel.
+VERSE:He has, like a monster, swallowed me up.
+VERSE:He has filled his mouth with my delicacies.
+VERSE:He has cast me out.
+LABEL:35
+VERSE:May the violence done to me and to my flesh be on Babylon!”
+VERSE:the inhabitant of Zion will say; and,
+VERSE:“May my blood be on the inhabitants of Chaldea!”
+VERSE:will Jerusalem say.
+LABEL:36
+VERSE:Therefore Yahweh says:
+VERSE:“Behold, I will plead your cause,
+VERSE:and take vengeance for you.
+VERSE:I will dry up her sea,
+VERSE:and make her fountain dry.
+LABEL:37
+VERSE:Babylon will become heaps,
+VERSE:a dwelling place for jackals,
+VERSE:an astonishment, and a hissing,
+VERSE:without inhabitant.
+LABEL:38
+VERSE:They will roar together like young lions.
+VERSE:They will growl as lions’ cubs.
+LABEL:39
+VERSE:When they are inflamed, I will make their feast,
+VERSE:and I will make them drunk,
+VERSE:that they may rejoice,
+VERSE:and sleep a perpetual sleep,
+VERSE:and not wake up,” says Yahweh.
+LABEL:40
+VERSE:“I will bring them down like lambs to the slaughter,
+VERSE:like rams with male goats.
+LABEL:41
+VERSE:“How Sheshach is taken!
+VERSE:How the praise of the whole earth is seized!
+VERSE:How Babylon has become a desolation among the nations!
+LABEL:42
+VERSE:The sea has come up on Babylon.
+VERSE:She is covered with the multitude of its waves.
+LABEL:43
+VERSE:Her cities have become a desolation,
+VERSE:a dry land, and a desert,
+VERSE:a land in which no man dwells.
+VERSE:No son of man passes by it.
+LABEL:44
+VERSE:I will execute judgment on Bel in Babylon,
+VERSE:and I will bring out of his mouth that which he has swallowed up.
+VERSE:The nations will not flow any more to him.
+VERSE:Yes, the wall of Babylon will fall.
+LABEL:45
+VERSE:“My people, go away from the middle of her,
+VERSE:and each of you save yourselves from Yahweh’s fierce anger.
+LABEL:46
+VERSE:Don’t let your heart faint.
+VERSE:Don’t fear for the news that will be heard in the land.
+VERSE:For news will come one year,
+VERSE:and after that in another year news will come,
+VERSE:and violence in the land,
+VERSE:ruler against ruler.
+LABEL:47
+VERSE:Therefore behold, the days come that I will execute judgment on the engraved images of Babylon;
+VERSE:and her whole land will be confounded.
+VERSE:All her slain will fall in the middle of her.
+LABEL:48
+VERSE:Then the heavens and the earth,
+VERSE:and all that is therein,
+VERSE:will sing for joy over Babylon;
+VERSE:for the destroyers will come to her from the north,” says Yahweh.
+LABEL:49
+VERSE:“As Babylon has caused the slain of Israel to fall,
+VERSE:so the slain of all the land will fall at Babylon.
+LABEL:50
+VERSE:You who have escaped the sword, go!
+VERSE:Don’t stand still!
+VERSE:Remember Yahweh from afar,
+VERSE:and let Jerusalem come into your mind.”
+LABEL:51
+VERSE:“We are confounded
+VERSE:because we have heard reproach.
+VERSE:Confusion has covered our faces,
+VERSE:for strangers have come into the sanctuaries of Yahweh’s house.”
+LABEL:52
+VERSE:“Therefore behold, the days come,” says Yahweh,
+VERSE:“that I will execute judgment on her engraved images;
+VERSE:and through all her land the wounded will groan.
+LABEL:53
+VERSE:Though Babylon should mount up to the sky,
+VERSE:and though she should fortify the height of her strength,
+VERSE:yet destroyers will come to her from me,” says Yahweh.
+LABEL:54
+VERSE:“The sound of a cry comes from Babylon,
+VERSE:and of great destruction from the land of the Chaldeans!
+LABEL:55
+VERSE:For Yahweh lays Babylon waste,
+VERSE:and destroys out of her the great voice!
+VERSE:Their waves roar like many waters.
+VERSE:The noise of their voice is uttered.
+LABEL:56
+VERSE:For the destroyer has come on her,
+VERSE:even on Babylon.
+VERSE:Her mighty men are taken.
+VERSE:Their bows are broken in pieces,
+VERSE:for Yahweh is a God of retribution.
+VERSE:He will surely repay.
+LABEL:57
+VERSE:I will make her princes, her wise men,
+VERSE:her governors, her deputies, and her mighty men drunk.
+VERSE:They will sleep a perpetual sleep,
+VERSE:and not wake up,”
+VERSE:says the King, whose name is Yahweh of Armies.
+LABEL:58
+VERSE:Yahweh of Armies says:
+VERSE:“The wide walls of Babylon will be utterly overthrown.
+VERSE:Her high gates will be burned with fire.
+VERSE:The peoples will labor for vanity,
+VERSE:and the nations for the fire;
+VERSE:and they will be weary.”
+LABEL:59
+VERSE:The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Mahseiah, when he went with Zedekiah the king of Judah to Babylon in the fourth year of his reign. Now Seraiah was chief quartermaster.
+LABEL:60
+VERSE:Jeremiah wrote in a book all the evil that should come on Babylon, even all these words that are written concerning Babylon.
+LABEL:61
+VERSE:Jeremiah said to Seraiah, “When you come to Babylon, then see that you read all these words,
+LABEL:62
+VERSE:and say, ‘Yahweh, you have spoken concerning this place, to cut it off, that no one will dwell in it, neither man nor animal, but that it will be desolate forever.’
+LABEL:63
+VERSE:It will be, when you have finished reading this book, that you shall bind a stone to it, and cast it into the middle of the Euphrates.
+LABEL:64
+VERSE:Then you shall say, ‘Thus will Babylon sink, and will not rise again because of the evil that I will bring on her; and they will be weary.’”
+VERSE:Thus far are the words of Jeremiah.

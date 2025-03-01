@@ -1,0 +1,99 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:109
+TITLE:Psalms 109
+LABEL:1
+VERSE:Hold not thy peace, O God of my praise;
+LABEL:2
+VERSE:For the mouth of the wicked and the mouth of deceit have they opened against me:
+VERSE:They have spoken unto me with a lying tongue.
+LABEL:3
+VERSE:They have compassed me about also with words of hatred,
+VERSE:And fought against me without a cause.
+LABEL:4
+VERSE:For my love they are my adversaries:
+VERSE:But I give myself unto prayer.
+LABEL:5
+VERSE:And they have rewarded me evil for good,
+VERSE:And hatred for my love.
+LABEL:6
+VERSE:Set thou a wicked man over him;
+VERSE:And let an adversary stand at his right hand.
+LABEL:7
+VERSE:When he is judged, let him come forth guilty;
+VERSE:And let his prayer be turned into sin.
+LABEL:8
+VERSE:Let his days be few;
+VERSE:And let another take his office.
+LABEL:9
+VERSE:Let his children be fatherless,
+VERSE:And his wife a widow.
+LABEL:10
+VERSE:Let his children be vagabonds, and beg;
+VERSE:And let them seek their bread out of their desolate places.
+LABEL:11
+VERSE:Let the extortioner catch all that he hath;
+VERSE:And let strangers make spoil of his labor.
+LABEL:12
+VERSE:Let there be none to extend kindness unto him;
+VERSE:Neither let there be any to have pity on his fatherless children.
+LABEL:13
+VERSE:Let his posterity be cut off;
+VERSE:In the generation following let their name be blotted out.
+LABEL:14
+VERSE:Let the iniquity of his fathers be remembered with Jehovah;
+VERSE:And let not the sin of his mother be blotted out.
+LABEL:15
+VERSE:Let them be before Jehovah continually,
+VERSE:That he may cut off the memory of them from the earth;
+LABEL:16
+VERSE:Because he remembered not to show kindness,
+VERSE:But persecuted the poor and needy man,
+VERSE:And the broken in heart, to slay them.
+LABEL:17
+VERSE:Yea, he loved cursing, and it came unto him;
+VERSE:And he delighted not in blessing, and it was far from him.
+LABEL:18
+VERSE:He clothed himself also with cursing as with his garment,
+VERSE:And it came into his inward parts like water,
+VERSE:And like oil into his bones.
+LABEL:19
+VERSE:Let it be unto him as the raiment wherewith he covereth himself,
+VERSE:And for the girdle wherewith he is girded continually.
+LABEL:20
+VERSE:This is the reward of mine adversaries from Jehovah,
+VERSE:And of them that speak evil against my soul.
+LABEL:21
+VERSE:But deal thou with me, O Jehovah the Lord, for thy name’s sake:
+VERSE:Because thy lovingkindness is good, deliver thou me;
+LABEL:22
+VERSE:For I am poor and needy,
+VERSE:And my heart is wounded within me.
+LABEL:23
+VERSE:I am gone like the shadow when it declineth:
+VERSE:I am tossed up and down as the locust.
+LABEL:24
+VERSE:My knees are weak through fasting;
+VERSE:And my flesh faileth of fatness.
+LABEL:25
+VERSE:I am become also a reproach unto them:
+VERSE:When they see me, they shake their head.
+LABEL:26
+VERSE:Help me, O Jehovah my God;
+VERSE:Oh save me according to thy lovingkindness:
+LABEL:27
+VERSE:That they may know that this is thy hand;
+VERSE:That thou, Jehovah, hast done it.
+LABEL:28
+VERSE:Let them curse, but bless thou:
+VERSE:When they arise, they shall be put to shame,
+VERSE:But thy servant shall rejoice.
+LABEL:29
+VERSE:Let mine adversaries be clothed with dishonor,
+VERSE:And let them cover themselves with their own shame as with a robe.
+LABEL:30
+VERSE:I will give great thanks unto Jehovah with my mouth;
+VERSE:Yea, I will praise him among the multitude.
+LABEL:31
+VERSE:For he will stand at the right hand of the needy,
+VERSE:To save him from them that judge his soul.

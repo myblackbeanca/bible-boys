@@ -7,6 +7,7 @@ import (
 	"strconv"
 
 	"github.com/Phillip-England/bible-bot/module/database"
+	"github.com/Phillip-England/bible-bot/module/operation"
 	"github.com/Phillip-England/vbf"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/mattn/go-sqlite3"
@@ -14,8 +15,9 @@ import (
 
 func main() {
 
+	// operation.GetCommands("./bible_html", "./bible_commands")
 	// operation.MakeBibleJson("./bible_commands", "./bible_json")
-	// operation.MakeBibleDb("./bible_json")
+	operation.MakeBibleDb("./bible_json")
 
 	db, err := sqlx.Open("sqlite3", "bible.db")
 	if err != nil {

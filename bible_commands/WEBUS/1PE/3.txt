@@ -1,0 +1,55 @@
+TRANSLATION:WEBUS
+BOOK:1PE
+CHAPTER:3
+TITLE:1 Peter 3
+LABEL:1
+VERSE:In the same way, wives, be in subjection to your own husbands, so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word,
+LABEL:2
+VERSE:seeing your pure behavior in fear.
+LABEL:3
+VERSE:Let your beauty come not from the outward adorning of braiding your hair, and of wearing gold ornaments or of putting on fine clothing,
+LABEL:4
+VERSE:but from the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit, which is very precious in God’s sight.
+LABEL:5
+VERSE:For this is how in the past the holy women who hoped in God also adorned themselves, being in subjection to their own husbands.
+LABEL:6
+VERSE:So Sarah obeyed Abraham, calling him lord, whose children you now are if you do well and are not put in fear by any terror.
+LABEL:7
+VERSE:You husbands, in the same way, live with your wives according to knowledge, giving honor to the woman as to the weaker vessel, as also being joint heirs of the grace of life, that your prayers may not be hindered.
+LABEL:8
+VERSE:Finally, all of you be like-minded, compassionate, loving as brothers, tenderhearted, courteous,
+LABEL:9
+VERSE:not rendering evil for evil or insult for insult; but instead blessing, knowing that you were called to this, that you may inherit a blessing.
+LABEL:10
+VERSE:For,
+VERSE:“He who would love life
+VERSE:and see good days,
+VERSE:let him keep his tongue from evil
+VERSE:and his lips from speaking deceit.
+LABEL:11
+VERSE:Let him turn away from evil and do good.
+VERSE:Let him seek peace and pursue it.
+LABEL:12
+VERSE:For the eyes of the Lord are on the righteous,
+VERSE:and his ears open to their prayer;
+VERSE:but the face of the Lord is against those who do evil.”
+LABEL:13
+VERSE:Now who will harm you if you become imitators of that which is good?
+LABEL:14
+VERSE:But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.”
+LABEL:15
+VERSE:But sanctify the Lord God in your hearts. Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear,
+LABEL:16
+VERSE:having a good conscience. Thus, while you are spoken against as evildoers, they may be disappointed who curse your good way of life in Christ.
+LABEL:17
+VERSE:For it is better, if it is God’s will, that you suffer for doing what is right than for doing evil.
+LABEL:18
+VERSE:Because Christ also suffered for sins once, the righteous for the unrighteous, that he might bring you to God, being put to death in the flesh, but made alive in the Spirit,
+LABEL:19
+VERSE:in whom he also went and preached to the spirits in prison,
+LABEL:20
+VERSE:who before were disobedient when God waited patiently in the days of Noah while the ship was being built. In it, few, that is, eight souls, were saved through water.
+LABEL:21
+VERSE:This is a symbol of baptism, which now saves you—not the putting away of the filth of the flesh, but the answer of a good conscience toward God—through the resurrection of Jesus Christ,
+LABEL:22
+VERSE:who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.

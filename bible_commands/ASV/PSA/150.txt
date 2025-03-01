@@ -1,0 +1,23 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:150
+TITLE:Psalms 150
+LABEL:1
+VERSE:Praise ye Jehovah.
+VERSE:Praise God in his sanctuary:
+VERSE:Praise him in the firmament of his power.
+LABEL:2
+VERSE:Praise him for his mighty acts:
+VERSE:Praise him according to his excellent greatness.
+LABEL:3
+VERSE:Praise him with trumpet sound:
+VERSE:Praise him with psaltery and harp.
+LABEL:4
+VERSE:Praise him with timbrel and dance:
+VERSE:Praise him with stringed instruments and pipe.
+LABEL:5
+VERSE:Praise him with loud cymbals:
+VERSE:Praise him with high sounding cymbals.
+LABEL:6
+VERSE:Let everything that hath breath praise Jehovah.
+VERSE:Praise ye Jehovah.

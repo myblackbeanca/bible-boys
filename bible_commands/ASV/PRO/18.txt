@@ -1,0 +1,76 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:18
+TITLE:Proverbs 18
+LABEL:1
+VERSE:He that separateth himself seeketh his own desire,
+VERSE:And rageth against all sound wisdom.
+LABEL:2
+VERSE:A fool hath no delight in understanding,
+VERSE:But only that his heart may reveal itself.
+LABEL:3
+VERSE:When the wicked cometh, there cometh also contempt,
+VERSE:And with ignominy cometh reproach.
+LABEL:4
+VERSE:The words of a man’s mouth are as deep waters;
+VERSE:The wellspring of wisdom is as a flowing brook.
+LABEL:5
+VERSE:To respect the person of the wicked is not good,
+VERSE:Nor to turn aside the righteous in judgment.
+LABEL:6
+VERSE:A fool’s lips enter into contention,
+VERSE:And his mouth calleth for stripes.
+LABEL:7
+VERSE:A fool’s mouth is his destruction,
+VERSE:And his lips are the snare of his soul.
+LABEL:8
+VERSE:The words of a whisperer are as dainty morsels,
+VERSE:And they go down into the innermost parts.
+LABEL:9
+VERSE:He also that is slack in his work
+VERSE:Is brother to him that is a destroyer.
+LABEL:10
+VERSE:The name of Jehovah is a strong tower;
+VERSE:The righteous runneth into it, and is safe.
+LABEL:11
+VERSE:The rich man’s wealth is his strong city,
+VERSE:And as a high wall in his own imagination.
+LABEL:12
+VERSE:Before destruction the heart of man is haughty;
+VERSE:And before honor goeth humility.
+LABEL:13
+VERSE:He that giveth answer before he heareth,
+VERSE:It is folly and shame unto him.
+LABEL:14
+VERSE:The spirit of a man will sustain his infirmity;
+VERSE:But a broken spirit who can bear?
+LABEL:15
+VERSE:The heart of the prudent getteth knowledge;
+VERSE:And the ear of the wise seeketh knowledge.
+LABEL:16
+VERSE:A man’s gift maketh room for him,
+VERSE:And bringeth him before great men.
+LABEL:17
+VERSE:He that pleadeth his cause first seemeth just;
+VERSE:But his neighbor cometh and searcheth him out.
+LABEL:18
+VERSE:The lot causeth contentions to cease,
+VERSE:And parteth between the mighty.
+LABEL:19
+VERSE:A brother offended is harder to be won than a strong city;
+VERSE:And such contentions are like the bars of a castle.
+LABEL:20
+VERSE:A man’s belly shall be filled with the fruit of his mouth;
+VERSE:With the increase of his lips shall he be satisfied.
+LABEL:21
+VERSE:Death and life are in the power of the tongue;
+VERSE:And they that love it shall eat the fruit thereof.
+LABEL:22
+VERSE:Whoso findeth a wife findeth a good thing,
+VERSE:And obtaineth favor of Jehovah.
+LABEL:23
+VERSE:The poor useth entreaties;
+VERSE:But the rich answereth roughly.
+LABEL:24
+VERSE:He that maketh many friends doeth it to his own destruction;
+VERSE:But there is a friend that sticketh closer than a brother.

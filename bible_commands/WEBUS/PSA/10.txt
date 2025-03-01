@@ -1,0 +1,66 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:10
+TITLE:Psalms 10
+LABEL:1
+VERSE:Why do you stand far off, Yahweh?
+VERSE:Why do you hide yourself in times of trouble?
+LABEL:2
+VERSE:In arrogance, the wicked hunt down the weak.
+VERSE:They are caught in the schemes that they devise.
+LABEL:3
+VERSE:For the wicked boasts of his heart’s cravings.
+VERSE:He blesses the greedy and condemns Yahweh.
+LABEL:4
+VERSE:The wicked, in the pride of his face,
+VERSE:has no room in his thoughts for God.
+LABEL:5
+VERSE:His ways are prosperous at all times.
+VERSE:He is arrogant, and your laws are far from his sight.
+VERSE:As for all his adversaries, he sneers at them.
+LABEL:6
+VERSE:He says in his heart, “I shall not be shaken.
+VERSE:For generations I shall have no trouble.”
+LABEL:7
+VERSE:His mouth is full of cursing, deceit, and oppression.
+VERSE:Under his tongue is mischief and iniquity.
+LABEL:8
+VERSE:He lies in wait near the villages.
+VERSE:From ambushes, he murders the innocent.
+VERSE:His eyes are secretly set against the helpless.
+LABEL:9
+VERSE:He lurks in secret as a lion in his ambush.
+VERSE:He lies in wait to catch the helpless.
+VERSE:He catches the helpless when he draws him in his net.
+LABEL:10
+VERSE:The helpless are crushed.
+VERSE:They collapse.
+VERSE:They fall under his strength.
+LABEL:11
+VERSE:He says in his heart, “God has forgotten.
+VERSE:He hides his face.
+VERSE:He will never see it.”
+LABEL:12
+VERSE:Arise, Yahweh!
+VERSE:God, lift up your hand!
+VERSE:Don’t forget the helpless.
+LABEL:13
+VERSE:Why does the wicked person condemn God,
+VERSE:and say in his heart, “God won’t call me into account”?
+LABEL:14
+VERSE:But you do see trouble and grief.
+VERSE:You consider it to take it into your hand.
+VERSE:You help the victim and the fatherless.
+LABEL:15
+VERSE:Break the arm of the wicked.
+VERSE:As for the evil man, seek out his wickedness until you find none.
+LABEL:16
+VERSE:Yahweh is King forever and ever!
+VERSE:The nations will perish out of his land.
+LABEL:17
+VERSE:Yahweh, you have heard the desire of the humble.
+VERSE:You will prepare their heart.
+VERSE:You will cause your ear to hear,
+LABEL:18
+VERSE:to judge the fatherless and the oppressed,
+VERSE:that man who is of the earth may terrify no more.

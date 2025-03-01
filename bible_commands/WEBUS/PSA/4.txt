@@ -1,0 +1,29 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:4
+TITLE:Psalms 4
+LABEL:1
+VERSE:Answer me when I call, God of my righteousness.
+VERSE:Give me relief from my distress.
+VERSE:Have mercy on me, and hear my prayer.
+LABEL:2
+VERSE:You sons of men, how long shall my glory be turned into dishonor?
+VERSE:Will you love vanity and seek after falsehood? Selah.
+LABEL:3
+VERSE:But know that Yahweh has set apart for himself him who is godly;
+VERSE:Yahweh will hear when I call to him.
+LABEL:4
+VERSE:Stand in awe, and don’t sin.
+VERSE:Search your own heart on your bed, and be still. Selah.
+LABEL:5
+VERSE:Offer the sacrifices of righteousness.
+VERSE:Put your trust in Yahweh.
+LABEL:6
+VERSE:Many say, “Who will show us any good?”
+VERSE:Yahweh, let the light of your face shine on us.
+LABEL:7
+VERSE:You have put gladness in my heart,
+VERSE:more than when their grain and their new wine are increased.
+LABEL:8
+VERSE:In peace I will both lay myself down and sleep,
+VERSE:for you alone, Yahweh, make me live in safety.

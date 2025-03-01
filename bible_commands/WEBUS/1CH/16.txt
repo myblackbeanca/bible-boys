@@ -1,0 +1,126 @@
+TRANSLATION:WEBUS
+BOOK:1CH
+CHAPTER:16
+TITLE:1 Chronicles 16
+LABEL:1
+VERSE:They brought in God’s ark, and set it in the middle of the tent that David had pitched for it; and they offered burnt offerings and peace offerings before God.
+LABEL:2
+VERSE:When David had finished offering the burnt offering and the peace offerings, he blessed the people in Yahweh’s name.
+LABEL:3
+VERSE:He gave to everyone of Israel, both man and woman, to everyone a loaf of bread, a portion of meat, and a cake of raisins.
+LABEL:4
+VERSE:He appointed some of the Levites to minister before Yahweh’s ark, and to commemorate, to thank, and to praise Yahweh, the God of Israel:
+LABEL:5
+VERSE:Asaph the chief, and second to him Zechariah, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-Edom, and Jeiel, with stringed instruments and with harps; and Asaph with cymbals, sounding aloud;
+LABEL:6
+VERSE:with Benaiah and Jahaziel the priests with trumpets continually, before the ark of the covenant of God.
+LABEL:7
+VERSE:Then on that day David first ordained giving of thanks to Yahweh by the hand of Asaph and his brothers.
+LABEL:8
+VERSE:Oh give thanks to Yahweh.
+VERSE:Call on his name.
+VERSE:Make what he has done known among the peoples.
+LABEL:9
+VERSE:Sing to him.
+VERSE:Sing praises to him.
+VERSE:Tell of all his marvelous works.
+LABEL:10
+VERSE:Glory in his holy name.
+VERSE:Let the heart of those who seek Yahweh rejoice.
+LABEL:11
+VERSE:Seek Yahweh and his strength.
+VERSE:Seek his face forever more.
+LABEL:12
+VERSE:Remember his marvelous works that he has done,
+VERSE:his wonders, and the judgments of his mouth,
+LABEL:13
+VERSE:you offspring of Israel his servant,
+VERSE:you children of Jacob, his chosen ones.
+LABEL:14
+VERSE:He is Yahweh our God.
+VERSE:His judgments are in all the earth.
+LABEL:15
+VERSE:Remember his covenant forever,
+VERSE:the word which he commanded to a thousand generations,
+LABEL:16
+VERSE:the covenant which he made with Abraham,
+VERSE:his oath to Isaac.
+LABEL:17
+VERSE:He confirmed it to Jacob for a statute,
+VERSE:and to Israel for an everlasting covenant,
+LABEL:18
+VERSE:saying, “I will give you the land of Canaan,
+VERSE:The lot of your inheritance,”
+LABEL:19
+VERSE:when you were but a few men in number,
+VERSE:yes, very few, and foreigners in it.
+LABEL:20
+VERSE:They went about from nation to nation,
+VERSE:from one kingdom to another people.
+LABEL:21
+VERSE:He allowed no man to do them wrong.
+VERSE:Yes, he reproved kings for their sakes,
+LABEL:22
+VERSE:“Don’t touch my anointed ones!
+VERSE:Do my prophets no harm!”
+LABEL:23
+VERSE:Sing to Yahweh, all the earth!
+VERSE:Display his salvation from day to day.
+LABEL:24
+VERSE:Declare his glory among the nations,
+VERSE:and his marvelous works among all the peoples.
+LABEL:25
+VERSE:For great is Yahweh, and greatly to be praised.
+VERSE:He also is to be feared above all gods.
+LABEL:26
+VERSE:For all the gods of the peoples are idols,
+VERSE:but Yahweh made the heavens.
+LABEL:27
+VERSE:Honor and majesty are before him.
+VERSE:Strength and gladness are in his place.
+LABEL:28
+VERSE:Ascribe to Yahweh, you families of the peoples,
+VERSE:ascribe to Yahweh glory and strength!
+LABEL:29
+VERSE:Ascribe to Yahweh the glory due to his name.
+VERSE:Bring an offering, and come before him.
+VERSE:Worship Yahweh in holy array.
+LABEL:30
+VERSE:Tremble before him, all the earth.
+VERSE:The world also is established that it can’t be moved.
+LABEL:31
+VERSE:Let the heavens be glad,
+VERSE:and let the earth rejoice!
+VERSE:Let them say among the nations, “Yahweh reigns!”
+LABEL:32
+VERSE:Let the sea roar, and its fullness!
+VERSE:Let the field exult, and all that is in it!
+LABEL:33
+VERSE:Then the trees of the forest will sing for joy before Yahweh,
+VERSE:for he comes to judge the earth.
+LABEL:34
+VERSE:Oh give thanks to Yahweh, for he is good,
+VERSE:for his loving kindness endures forever.
+LABEL:35
+VERSE:Say, “Save us, God of our salvation!
+VERSE:Gather us together and deliver us from the nations,
+VERSE:to give thanks to your holy name,
+VERSE:to triumph in your praise.”
+LABEL:36
+VERSE:Blessed be Yahweh, the God of Israel,
+VERSE:from everlasting even to everlasting.
+VERSE:All the people said, “Amen,” and praised Yahweh.
+LABEL:37
+VERSE:So he left Asaph and his brothers there before the ark of Yahweh’s covenant, to minister before the ark continually, as every day’s work required;
+LABEL:38
+VERSE:and Obed-Edom with their sixty-eight relatives; Obed-Edom also the son of Jeduthun and Hosah to be doorkeepers;
+LABEL:39
+VERSE:and Zadok the priest and his brothers the priests, before Yahweh’s tabernacle in the high place that was at Gibeon,
+LABEL:40
+VERSE:to offer burnt offerings to Yahweh on the altar of burnt offering continually morning and evening, even according to all that is written in Yahweh’s law, which he commanded to Israel;
+LABEL:41
+VERSE:and with them Heman and Jeduthun and the rest who were chosen, who were mentioned by name, to give thanks to Yahweh, because his loving kindness endures forever;
+LABEL:42
+VERSE:and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God, and the sons of Jeduthun to be at the gate.
+LABEL:43
+VERSE:All the people departed, each man to his house; and David returned to bless his house.

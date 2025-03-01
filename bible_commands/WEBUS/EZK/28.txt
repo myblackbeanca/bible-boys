@@ -1,0 +1,116 @@
+TRANSLATION:WEBUS
+BOOK:EZK
+CHAPTER:28
+TITLE:Ezekiel 28
+LABEL:1
+VERSE:Yahweh’s word came again to me, saying,
+LABEL:2
+VERSE:“Son of man, tell the prince of Tyre, ‘The Lord Yahweh says:
+VERSE:“Because your heart is lifted up,
+VERSE:and you have said, ‘I am a god,
+VERSE:I sit in the seat of God,
+VERSE:in the middle of the seas;’
+VERSE:yet you are man,
+VERSE:and no god,
+VERSE:though you set your heart as the heart of a god—
+LABEL:3
+VERSE:behold, you are wiser than Daniel.
+VERSE:There is no secret that is hidden from you.
+LABEL:4
+VERSE:By your wisdom and by your understanding you have gotten yourself riches,
+VERSE:and have gotten gold and silver into your treasuries.
+LABEL:5
+VERSE:By your great wisdom
+VERSE:and by your trading you have increased your riches,
+VERSE:and your heart is lifted up because of your riches—”
+LABEL:6
+VERSE:“‘therefore the Lord Yahweh says:
+VERSE:“Because you have set your heart as the heart of God,
+LABEL:7
+VERSE:therefore, behold, I will bring strangers on you,
+VERSE:the terrible of the nations.
+VERSE:They will draw their swords against the beauty of your wisdom.
+VERSE:They will defile your brightness.
+LABEL:8
+VERSE:They will bring you down to the pit.
+VERSE:You will die the death of those who are slain
+VERSE:in the heart of the seas.
+LABEL:9
+VERSE:Will you yet say before him who kills you, ‘I am God’?
+VERSE:But you are man, and not God,
+VERSE:in the hand of him who wounds you.
+LABEL:10
+VERSE:You will die the death of the uncircumcised
+VERSE:by the hand of strangers;
+VERSE:for I have spoken it,” says the Lord Yahweh.’”
+LABEL:11
+VERSE:Moreover Yahweh’s word came to me, saying,
+LABEL:12
+VERSE:“Son of man, take up a lamentation over the king of Tyre, and tell him, ‘The Lord Yahweh says:
+VERSE:“You were the seal of full measure,
+VERSE:full of wisdom,
+VERSE:and perfect in beauty.
+LABEL:13
+VERSE:You were in Eden,
+VERSE:the garden of God.
+VERSE:Every precious stone adorned you:
+VERSE:ruby, topaz, emerald,
+VERSE:chrysolite, onyx, jasper,
+VERSE:sapphire, turquoise, and beryl.
+VERSE:Gold work of tambourines
+VERSE:and of pipes was in you.
+VERSE:They were prepared in the day that you were created.
+LABEL:14
+VERSE:You were the anointed cherub who covers.
+VERSE:Then I set you up on the holy mountain of God.
+VERSE:You have walked up and down in the middle of the stones of fire.
+LABEL:15
+VERSE:You were perfect in your ways from the day that you were created,
+VERSE:until unrighteousness was found in you.
+LABEL:16
+VERSE:By the abundance of your commerce, your insides were filled with violence,
+VERSE:and you have sinned.
+VERSE:Therefore I have cast you as profane out of God’s mountain.
+VERSE:I have destroyed you, covering cherub,
+VERSE:from the middle of the stones of fire.
+LABEL:17
+VERSE:Your heart was lifted up because of your beauty.
+VERSE:You have corrupted your wisdom by reason of your splendor.
+VERSE:I have cast you to the ground.
+VERSE:I have laid you before kings,
+VERSE:that they may see you.
+LABEL:18
+VERSE:By the multitude of your iniquities,
+VERSE:in the unrighteousness of your commerce,
+VERSE:you have profaned your sanctuaries.
+VERSE:Therefore I have brought out a fire from the middle of you.
+VERSE:It has devoured you.
+VERSE:I have turned you to ashes on the earth
+VERSE:in the sight of all those who see you.
+LABEL:19
+VERSE:All those who know you among the peoples will be astonished at you.
+VERSE:You have become a terror,
+VERSE:and you will exist no more.”’”
+LABEL:20
+VERSE:Yahweh’s word came to me, saying,
+LABEL:21
+VERSE:“Son of man, set your face toward Sidon, and prophesy against it,
+LABEL:22
+VERSE:and say, ‘The Lord Yahweh says:
+VERSE:“Behold, I am against you, Sidon.
+VERSE:I will be glorified among you.
+VERSE:Then they will know that I am Yahweh,
+VERSE:when I have executed judgments in her,
+VERSE:and am sanctified in her.
+LABEL:23
+VERSE:For I will send pestilence into her,
+VERSE:and blood into her streets.
+VERSE:The wounded will fall within her,
+VERSE:with the sword on her on every side.
+VERSE:Then they will know that I am Yahweh.
+LABEL:24
+VERSE:“‘“There will no longer be a pricking brier to the house of Israel, nor a hurting thorn of any that are around them that scorned them. Then they will know that I am the Lord Yahweh.”
+LABEL:25
+VERSE:“‘The Lord Yahweh says: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am shown as holy among them in the sight of the nations, then they will dwell in their own land which I gave to my servant Jacob.
+LABEL:26
+VERSE:They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely when I have executed judgments on all those around them who have treated them with contempt. Then they will know that I am Yahweh their God.”’”

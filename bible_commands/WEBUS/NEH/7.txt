@@ -1,0 +1,152 @@
+TRANSLATION:WEBUS
+BOOK:NEH
+CHAPTER:7
+TITLE:Nehemiah 7
+LABEL:1
+VERSE:Now when the wall was built and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed,
+LABEL:2
+VERSE:I put my brother Hanani, and Hananiah the governor of the fortress, in charge of Jerusalem; for he was a faithful man and feared God above many.
+LABEL:3
+VERSE:I said to them, “Don’t let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut the doors, and you bar them; and appoint watches of the inhabitants of Jerusalem, everyone in his watch, with everyone near his house.”
+LABEL:4
+VERSE:Now the city was wide and large; but the people were few therein, and the houses were not built.
+LABEL:5
+VERSE:My God put into my heart to gather together the nobles, and the rulers, and the people, that they might be listed by genealogy. I found the book of the genealogy of those who came up at the first, and I found this written in it:
+LABEL:6
+VERSE:These are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and who returned to Jerusalem and to Judah, everyone to his city,
+LABEL:7
+VERSE:who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah.
+VERSE:The number of the men of the people of Israel:
+LABEL:8
+VERSE:The children of Parosh: two thousand one hundred seventy-two.
+LABEL:9
+VERSE:The children of Shephatiah: three hundred seventy-two.
+LABEL:10
+VERSE:The children of Arah: six hundred fifty-two.
+LABEL:11
+VERSE:The children of Pahathmoab, of the children of Jeshua and Joab: two thousand eight hundred eighteen.
+LABEL:12
+VERSE:The children of Elam: one thousand two hundred fifty-four.
+LABEL:13
+VERSE:The children of Zattu: eight hundred forty-five.
+LABEL:14
+VERSE:The children of Zaccai: seven hundred sixty.
+LABEL:15
+VERSE:The children of Binnui: six hundred forty-eight.
+LABEL:16
+VERSE:The children of Bebai: six hundred twenty-eight.
+LABEL:17
+VERSE:The children of Azgad: two thousand three hundred twenty-two.
+LABEL:18
+VERSE:The children of Adonikam: six hundred sixty-seven.
+LABEL:19
+VERSE:The children of Bigvai: two thousand sixty-seven.
+LABEL:20
+VERSE:The children of Adin: six hundred fifty-five.
+LABEL:21
+VERSE:The children of Ater: of Hezekiah, ninety-eight.
+LABEL:22
+VERSE:The children of Hashum: three hundred twenty-eight.
+LABEL:23
+VERSE:The children of Bezai: three hundred twenty-four.
+LABEL:24
+VERSE:The children of Hariph: one hundred twelve.
+LABEL:25
+VERSE:The children of Gibeon: ninety-five.
+LABEL:26
+VERSE:The men of Bethlehem and Netophah: one hundred eighty-eight.
+LABEL:27
+VERSE:The men of Anathoth: one hundred twenty-eight.
+LABEL:28
+VERSE:The men of Beth Azmaveth: forty-two.
+LABEL:29
+VERSE:The men of Kiriath Jearim, Chephirah, and Beeroth: seven hundred forty-three.
+LABEL:30
+VERSE:The men of Ramah and Geba: six hundred twenty-one.
+LABEL:31
+VERSE:The men of Michmas: one hundred twenty-two.
+LABEL:32
+VERSE:The men of Bethel and Ai: one hundred twenty-three.
+LABEL:33
+VERSE:The men of the other Nebo: fifty-two.
+LABEL:34
+VERSE:The children of the other Elam: one thousand two hundred fifty-four.
+LABEL:35
+VERSE:The children of Harim: three hundred twenty.
+LABEL:36
+VERSE:The children of Jericho: three hundred forty-five.
+LABEL:37
+VERSE:The children of Lod, Hadid, and Ono: seven hundred twenty-one.
+LABEL:38
+VERSE:The children of Senaah: three thousand nine hundred thirty.
+LABEL:39
+VERSE:The priests: The children of Jedaiah, of the house of Jeshua: nine hundred seventy-three.
+LABEL:40
+VERSE:The children of Immer: one thousand fifty-two.
+LABEL:41
+VERSE:The children of Pashhur: one thousand two hundred forty-seven.
+LABEL:42
+VERSE:The children of Harim: one thousand seventeen.
+LABEL:43
+VERSE:The Levites: the children of Jeshua, of Kadmiel, of the children of Hodevah: seventy-four.
+LABEL:44
+VERSE:The singers: the children of Asaph: one hundred forty-eight.
+LABEL:45
+VERSE:The gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai: one hundred thirty-eight.
+LABEL:46
+VERSE:The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth,
+LABEL:47
+VERSE:the children of Keros, the children of Sia, the children of Padon,
+LABEL:48
+VERSE:the children of Lebana, the children of Hagaba, the children of Salmai,
+LABEL:49
+VERSE:the children of Hanan, the children of Giddel, the children of Gahar,
+LABEL:50
+VERSE:the children of Reaiah, the children of Rezin, the children of Nekoda,
+LABEL:51
+VERSE:the children of Gazzam, the children of Uzza, the children of Paseah,
+LABEL:52
+VERSE:the children of Besai, the children of Meunim, the children of Nephushesim,
+LABEL:53
+VERSE:the children of Bakbuk, the children of Hakupha, the children of Harhur,
+LABEL:54
+VERSE:the children of Bazlith, the children of Mehida, the children of Harsha,
+LABEL:55
+VERSE:the children of Barkos, the children of Sisera, the children of Temah,
+LABEL:56
+VERSE:the children of Neziah, and the children of Hatipha.
+LABEL:57
+VERSE:The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,
+LABEL:58
+VERSE:the children of Jaala, the children of Darkon, the children of Giddel,
+LABEL:59
+VERSE:the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, and the children of Amon.
+LABEL:60
+VERSE:All the temple servants and the children of Solomon’s servants were three hundred ninety-two.
+LABEL:61
+VERSE:These were those who went up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer; but they could not show their fathers’ houses, nor their offspring, whether they were of Israel:
+LABEL:62
+VERSE:The children of Delaiah, the children of Tobiah, the children of Nekoda: six hundred forty-two.
+LABEL:63
+VERSE:Of the priests: the children of Hobaiah, the children of Hakkoz, the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.
+LABEL:64
+VERSE:These searched for their genealogical records, but couldn’t find them. Therefore they were deemed disqualified and removed from the priesthood.
+LABEL:65
+VERSE:The governor told them not to eat of the most holy things until a priest stood up to minister with Urim and Thummim.
+LABEL:66
+VERSE:The whole assembly together was forty-two thousand three hundred sixty,
+LABEL:67
+VERSE:in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven. They had two hundred forty-five singing men and singing women.
+LABEL:68
+VERSE:Their horses were seven hundred thirty-six; their mules, two hundred forty-five;
+LABEL:69
+VERSE:their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
+LABEL:70
+VERSE:Some from among the heads of fathers’ households gave to the work. The governor gave to the treasury one thousand darics of gold, fifty basins, and five hundred thirty priests’ garments.
+LABEL:71
+VERSE:Some of the heads of fathers’ households gave into the treasury of the work twenty thousand darics of gold, and two thousand two hundred minas of silver.
+LABEL:72
+VERSE:That which the rest of the people gave was twenty thousand darics of gold, plus two thousand minas of silver, and sixty-seven priests’ garments.
+LABEL:73
+VERSE:So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel lived in their cities.
+VERSE:When the seventh month had come, the children of Israel were in their cities.

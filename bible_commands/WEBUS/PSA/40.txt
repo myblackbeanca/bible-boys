@@ -1,0 +1,64 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:40
+TITLE:Psalms 40
+LABEL:1
+VERSE:I waited patiently for Yahweh.
+VERSE:He turned to me, and heard my cry.
+LABEL:2
+VERSE:He brought me up also out of a horrible pit,
+VERSE:out of the miry clay.
+VERSE:He set my feet on a rock,
+VERSE:and gave me a firm place to stand.
+LABEL:3
+VERSE:He has put a new song in my mouth, even praise to our God.
+VERSE:Many shall see it, and fear, and shall trust in Yahweh.
+LABEL:4
+VERSE:Blessed is the man who makes Yahweh his trust,
+VERSE:and doesn’t respect the proud, nor such as turn away to lies.
+LABEL:5
+VERSE:Many, Yahweh, my God, are the wonderful works which you have done,
+VERSE:and your thoughts which are toward us.
+VERSE:They can’t be declared back to you.
+VERSE:If I would declare and speak of them, they are more than can be counted.
+LABEL:6
+VERSE:Sacrifice and offering you didn’t desire.
+VERSE:You have opened my ears.
+VERSE:You have not required burnt offering and sin offering.
+LABEL:7
+VERSE:Then I said, “Behold, I have come.
+VERSE:It is written about me in the book in the scroll.
+LABEL:8
+VERSE:I delight to do your will, my God.
+VERSE:Yes, your law is within my heart.”
+LABEL:9
+VERSE:I have proclaimed glad news of righteousness in the great assembly.
+VERSE:Behold, I will not seal my lips, Yahweh, you know.
+LABEL:10
+VERSE:I have not hidden your righteousness within my heart.
+VERSE:I have declared your faithfulness and your salvation.
+VERSE:I have not concealed your loving kindness and your truth from the great assembly.
+LABEL:11
+VERSE:Don’t withhold your tender mercies from me, Yahweh.
+VERSE:Let your loving kindness and your truth continually preserve me.
+LABEL:12
+VERSE:For innumerable evils have surrounded me.
+VERSE:My iniquities have overtaken me, so that I am not able to look up.
+VERSE:They are more than the hairs of my head.
+VERSE:My heart has failed me.
+LABEL:13
+VERSE:Be pleased, Yahweh, to deliver me.
+VERSE:Hurry to help me, Yahweh.
+LABEL:14
+VERSE:Let them be disappointed and confounded together who seek after my soul to destroy it.
+VERSE:Let them be turned backward and brought to dishonor who delight in my hurt.
+LABEL:15
+VERSE:Let them be desolate by reason of their shame that tell me, “Aha! Aha!”
+LABEL:16
+VERSE:Let all those who seek you rejoice and be glad in you.
+VERSE:Let such as love your salvation say continually, “Let Yahweh be exalted!”
+LABEL:17
+VERSE:But I am poor and needy.
+VERSE:May the Lord think about me.
+VERSE:You are my help and my deliverer.
+VERSE:Don’t delay, my God.

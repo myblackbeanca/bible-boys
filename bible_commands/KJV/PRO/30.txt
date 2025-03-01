@@ -1,0 +1,122 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:30
+TITLE:Proverbs 30
+SECTION:Words of Agur
+LABEL:1
+VERSE:The words of Agur the son of Jakeh, even the prophecy:
+VERSE:The man spake unto Ithiel,
+VERSE:even unto Ithiel and Ucal,
+LABEL:2
+VERSE:Surely I am more brutish than any man,
+VERSE:And have not the understanding of a man.
+LABEL:3
+VERSE:I neither learned wisdom,
+VERSE:Nor have the knowledge of the holy.
+LABEL:4
+VERSE:Who hath ascended up into heaven, or descended?
+VERSE:Who hath gathered the wind in his fists?
+VERSE:Who hath bound the waters in a garment?
+VERSE:Who hath established all the ends of the earth?
+VERSE:What is his name, and what is his son's name,
+VERSE:If thou canst tell?
+LABEL:5
+VERSE:Every word of God is pure:
+VERSE:He is a shield unto them that put their trust in him.
+LABEL:6
+VERSE:Add thou not unto his words,
+VERSE:Lest he reprove thee, and thou be found a liar.
+LABEL:7
+VERSE:Two things have I required of thee;
+VERSE:Deny me them not before I die:
+LABEL:8
+VERSE:Remove far from me vanity and lies:
+VERSE:Give me neither poverty nor riches;
+VERSE:Feed me with food convenient for me:
+LABEL:9
+VERSE:Lest I be full, and deny thee, and say,
+VERSE:Who is the LORD?
+VERSE:Or lest I be poor, and steal,
+VERSE:And take the name of my God in vain.
+LABEL:10
+VERSE:Accuse not a servant unto his master,
+VERSE:Lest he curse thee, and thou be found guilty.
+LABEL:11
+VERSE:  There is a generation that curseth their father,
+VERSE:And doth not bless their mother.
+LABEL:12
+VERSE:  There is a generation that are pure in their own eyes,
+VERSE:And yet is not washed from their filthiness.
+LABEL:13
+VERSE:  There is a generation, O how lofty are their eyes!
+VERSE:And their eyelids are lifted up.
+LABEL:14
+VERSE:  There is a generation, whose teeth are as swords, and their jaw teeth as knives,
+VERSE:To devour the poor from off the earth, and the needy from among men.
+LABEL:15
+VERSE:The horseleach hath two daughters, crying, Give, give.
+VERSE:There are three things that are never satisfied,
+VERSE:Yea, four things say not,
+VERSE:It is enough:
+LABEL:16
+VERSE:The grave; and the barren womb;
+VERSE:The earth that is not filled with water;
+VERSE:And the fire that saith not, It is enough.
+LABEL:17
+VERSE:The eye that mocketh at his father,
+VERSE:And despiseth to obey his mother,
+VERSE:The ravens of the valley shall pick it out,
+VERSE:And the young eagles shall eat it.
+LABEL:18
+VERSE:There be three things which are too wonderful for me,
+VERSE:Yea, four which I know not:
+LABEL:19
+VERSE:The way of an eagle in the air;
+VERSE:The way of a serpent upon a rock;
+VERSE:The way of a ship in the midst of the sea;
+VERSE:And the way of a man with a maid.
+LABEL:20
+VERSE:Such is the way of an adulterous woman;
+VERSE:She eateth, and wipeth her mouth,
+VERSE:And saith, I have done no wickedness.
+LABEL:21
+VERSE:For three things the earth is disquieted,
+VERSE:And for four which it cannot bear:
+LABEL:22
+VERSE:For a servant when he reigneth;
+VERSE:And a fool when he is filled with meat;
+LABEL:23
+VERSE:For an odious woman when she is married;
+VERSE:And an handmaid that is heir to her mistress.
+LABEL:24
+VERSE:There be four things which are little upon the earth,
+VERSE:But they are exceeding wise:
+LABEL:25
+VERSE:The ants are a people not strong,
+VERSE:Yet they prepare their meat in the summer;
+LABEL:26
+VERSE:The conies are but a feeble folk,
+VERSE:Yet make they their houses in the rocks;
+LABEL:27
+VERSE:The locusts have no king,
+VERSE:Yet go they forth all of them by bands;
+LABEL:28
+VERSE:The spider taketh hold with her hands,
+VERSE:And is in kings' palaces.
+LABEL:29
+VERSE:There be three things which go well,
+VERSE:Yea, four are comely in going:
+LABEL:30
+VERSE:A lion which is strongest among beasts,
+VERSE:And turneth not away for any;
+LABEL:31
+VERSE:An greyhound; an he goat also;
+VERSE:And a king, against whom there is no rising up.
+LABEL:32
+VERSE:If thou hast done foolishly in lifting up thyself,
+VERSE:Or if thou hast thought evil,
+VERSE:Lay thine hand upon thy mouth.
+LABEL:33
+VERSE:Surely the churning of milk bringeth forth butter,
+VERSE:And the wringing of the nose bringeth forth blood:
+VERSE:So the forcing of wrath bringeth forth strife.

@@ -1,0 +1,17 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:100
+TITLE:Psalm 100
+LABEL:1
+VERSE:Make a joyful noise unto the LORD, all ye lands.
+LABEL:2
+VERSE:Serve the LORD with gladness: Come before his presence with singing.
+LABEL:3
+VERSE:Know ye that the LORD he is God:
+VERSE:It is he that hath made us, and not we ourselves; We are his people, and the sheep of his pasture.
+LABEL:4
+VERSE:Enter into his gates with thanksgiving, And into his courts with praise:
+VERSE:Be thankful unto him, and bless his name.
+LABEL:5
+VERSE:For the LORD  is good; his mercy is everlasting;
+VERSE:And his truth endureth to all generations.

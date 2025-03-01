@@ -1,0 +1,88 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:7
+TITLE:Proverbs 7
+LABEL:1
+VERSE:My son, keep my words,
+VERSE:And lay up my commandments with thee.
+LABEL:2
+VERSE:Keep my commandments, and live;
+VERSE:And my law as the apple of thine eye.
+LABEL:3
+VERSE:Bind them upon thy fingers,
+VERSE:Write them upon the table of thine heart.
+LABEL:4
+VERSE:Say unto wisdom, Thou art my sister;
+VERSE:And call understanding thy kinswoman:
+LABEL:5
+VERSE:That they may keep thee from the strange woman,
+VERSE:From the stranger which flattereth with her words.
+LABEL:6
+VERSE:For at the window of my house
+VERSE:I looked through my casement,
+LABEL:7
+VERSE:And beheld among the simple ones,
+VERSE:I discerned among the youths,
+VERSE:A young man void of understanding,
+LABEL:8
+VERSE:Passing through the street near her corner;
+VERSE:And he went the way to her house,
+LABEL:9
+VERSE:In the twilight, in the evening,
+VERSE:In the black and dark night:
+LABEL:10
+VERSE:And, behold, there met him a woman
+VERSE:With the attire of an harlot, and subtil of heart.
+LABEL:11
+VERSE:(She is loud and stubborn;
+VERSE:Her feet abide not in her house:
+LABEL:12
+VERSE:Now is she without, now in the streets,
+VERSE:And lieth in wait at every corner.)
+LABEL:13
+VERSE:So she caught him, and kissed him,
+VERSE:And with an impudent face said unto him,
+LABEL:14
+VERSE:  I have peace offerings with me;
+VERSE:This day have I payed my vows.
+LABEL:15
+VERSE:Therefore came I forth to meet thee,
+VERSE:Diligently to seek thy face, and I have found thee.
+LABEL:16
+VERSE:I have decked my bed with coverings of tapestry,
+VERSE:With carved works, with fine linen of Egypt.
+LABEL:17
+VERSE:I have perfumed my bed
+VERSE:With myrrh, aloes, and cinnamon.
+LABEL:18
+VERSE:Come, let us take our fill of love until the morning:
+VERSE:Let us solace ourselves with loves.
+LABEL:19
+VERSE:For the goodman is not at home,
+VERSE:He is gone a long journey:
+LABEL:20
+VERSE:He hath taken a bag of money with him,
+VERSE:And will come home at the day appointed.
+LABEL:21
+VERSE:With her much fair speech she caused him to yield,
+VERSE:With the flattering of her lips she forced him.
+LABEL:22
+VERSE:He goeth after her straightway,
+VERSE:As an ox goeth to the slaughter,
+VERSE:Or as a fool to the correction of the stocks;
+LABEL:23
+VERSE:Till a dart strike through his liver;
+VERSE:As a bird hasteth to the snare,
+VERSE:And knoweth not that it is for his life.
+LABEL:24
+VERSE:Hearken unto me now therefore, O ye children,
+VERSE:And attend to the words of my mouth.
+LABEL:25
+VERSE:Let not thine heart decline to her ways,
+VERSE:Go not astray in her paths.
+LABEL:26
+VERSE:For she hath cast down many wounded:
+VERSE:Yea, many strong men have been slain by her.
+LABEL:27
+VERSE:Her house is the way to hell,
+VERSE:Going down to the chambers of death.

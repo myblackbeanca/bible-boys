@@ -1,0 +1,66 @@
+TRANSLATION:KJV
+BOOK:HEB
+CHAPTER:7
+TITLE:Hebrews 7
+SECTION:Melchisedec
+LABEL:1
+VERSE:For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
+LABEL:2
+VERSE:to whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;
+LABEL:3
+VERSE:without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.
+LABEL:4
+VERSE:Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils.
+LABEL:5
+VERSE:And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:
+LABEL:6
+VERSE:but he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.
+LABEL:7
+VERSE:And without all contradiction the less is blessed of the better.
+LABEL:8
+VERSE:And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.
+LABEL:9
+VERSE:And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.
+LABEL:10
+VERSE:For he was yet in the loins of his father, when Melchisedec met him.
+LABEL:11
+VERSE:If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
+LABEL:12
+VERSE:For the priesthood being changed, there is made of necessity a change also of the law.
+LABEL:13
+VERSE:For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.
+LABEL:14
+VERSE:For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
+LABEL:15
+VERSE:And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,
+LABEL:16
+VERSE:who is made, not after the law of a carnal commandment, but after the power of an endless life.
+LABEL:17
+VERSE:For he testifieth,
+VERSE:Thou art a priest for ever
+VERSE:After the order of Melchisedec.
+LABEL:18
+VERSE:For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.
+LABEL:19
+VERSE:For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.
+LABEL:20
+VERSE:And inasmuch as not without an oath he was made priest:
+LABEL:21
+VERSE:(for those priests were made without an oath; but this with an oath by him that said unto him,
+VERSE:The Lord sware and will not repent,
+VERSE:Thou art a priest for ever
+VERSE:After the order of Melchisedec:)
+LABEL:22
+VERSE:By so much was Jesus made a surety of a better testament.
+LABEL:23
+VERSE:And they truly were many priests, because they were not suffered to continue by reason of death:
+LABEL:24
+VERSE:but this man, because he continueth ever, hath an unchangeable priesthood.
+LABEL:25
+VERSE:Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.
+LABEL:26
+VERSE:For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;
+LABEL:27
+VERSE:who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.
+LABEL:28
+VERSE:For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore.

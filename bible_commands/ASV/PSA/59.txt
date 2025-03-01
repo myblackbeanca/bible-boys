@@ -1,0 +1,63 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:59
+TITLE:Psalms 59
+LABEL:1
+VERSE:Deliver me from mine enemies, O my God:
+VERSE:Set me on high from them that rise up against me.
+LABEL:2
+VERSE:Deliver me from the workers of iniquity,
+VERSE:And save me from the bloodthirsty men.
+LABEL:3
+VERSE:For, lo, they lie in wait for my soul;
+VERSE:The mighty gather themselves together against me:
+VERSE:Not for my transgression, nor for my sin, O Jehovah.
+LABEL:4
+VERSE:They run and prepare themselves without my fault:
+VERSE:Awake thou to help me, and behold.
+LABEL:5
+VERSE:Even thou, O Jehovah God of hosts, the God of Israel,
+VERSE:Arise to visit all the nations:
+VERSE:Be not merciful to any wicked transgressors. [Selah
+LABEL:6
+VERSE:They return at evening, they howl like a dog,
+VERSE:And go round about the city.
+LABEL:7
+VERSE:Behold, they belch out with their mouth;
+VERSE:Swords are in their lips:
+VERSE:For who, say they, doth hear?
+LABEL:8
+VERSE:But thou, O Jehovah, wilt laugh at them;
+VERSE:Thou wilt have all the nations in derision.
+LABEL:9
+VERSE:  Because of his strength I will give heed unto thee;
+VERSE:For God is my high tower.
+LABEL:10
+VERSE:My God with his lovingkindness will meet me:
+VERSE:God will let me see my desire upon mine enemies.
+LABEL:11
+VERSE:Slay them not, lest my people forget:
+VERSE:Scatter them by thy power, and bring them down,
+VERSE:O Lord our shield.
+LABEL:12
+VERSE:  For the sin of their mouth, and the words of their lips,
+VERSE:Let them even be taken in their pride,
+VERSE:And for cursing and lying which they speak.
+LABEL:13
+VERSE:Consume them in wrath, consume them, so that they shall be no more:
+VERSE:And let them know that God ruleth in Jacob,
+VERSE:Unto the ends of the earth. [Selah
+LABEL:14
+VERSE:And at evening let them return, let them howl like a dog,
+VERSE:And go round about the city.
+LABEL:15
+VERSE:They shall wander up and down for food,
+VERSE:And tarry all night if they be not satisfied.
+LABEL:16
+VERSE:But I will sing of thy strength;
+VERSE:Yea, I will sing aloud of thy lovingkindness in the morning:
+VERSE:For thou hast been my high tower,
+VERSE:And a refuge in the day of my distress.
+LABEL:17
+VERSE:Unto thee, O my strength, will I sing praises:
+VERSE:For God is my high tower, the God of my mercy.

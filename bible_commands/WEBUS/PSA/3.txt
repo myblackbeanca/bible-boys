@@ -1,0 +1,30 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:3
+TITLE:Psalms 3
+LABEL:1
+VERSE:Yahweh, how my adversaries have increased!
+VERSE:Many are those who rise up against me.
+LABEL:2
+VERSE:Many there are who say of my soul,
+VERSE:“There is no help for him in God.”  Selah.
+LABEL:3
+VERSE:But you, Yahweh, are a shield around me,
+VERSE:my glory, and the one who lifts up my head.
+LABEL:4
+VERSE:I cry to Yahweh with my voice,
+VERSE:and he answers me out of his holy hill. Selah.
+LABEL:5
+VERSE:I laid myself down and slept.
+VERSE:I awakened, for Yahweh sustains me.
+LABEL:6
+VERSE:I will not be afraid of tens of thousands of people
+VERSE:who have set themselves against me on every side.
+LABEL:7
+VERSE:Arise, Yahweh!
+VERSE:Save me, my God!
+VERSE:For you have struck all of my enemies on the cheek bone.
+VERSE:You have broken the teeth of the wicked.
+LABEL:8
+VERSE:Salvation belongs to Yahweh.
+VERSE:May your blessing be on your people. Selah.

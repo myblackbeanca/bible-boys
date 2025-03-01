@@ -1,0 +1,44 @@
+TRANSLATION:ASV
+BOOK:ISA
+CHAPTER:32
+TITLE:Isaiah 32
+LABEL:1
+VERSE:Behold, a king shall reign in righteousness, and princes shall rule in justice.
+LABEL:2
+VERSE:And a man shall be as a hiding-place from the wind, and a covert from the tempest, as streams of water in a dry place, as the shade of a great rock in a weary land.
+LABEL:3
+VERSE:And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.
+LABEL:4
+VERSE:And the heart of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
+LABEL:5
+VERSE:The fool shall be no more called noble, nor the churl said to be bountiful.
+LABEL:6
+VERSE:For the fool will speak folly, and his heart will work iniquity, to practise profaneness, and to utter error against Jehovah, to make empty the soul of the hungry, and to cause the drink of the thirsty to fail.
+LABEL:7
+VERSE:And the instruments of the churl are evil: he deviseth wicked devices to destroy the meek with lying words, even when the needy speaketh right.
+LABEL:8
+VERSE:But the noble deviseth noble things; and in noble things shall he continue.
+LABEL:9
+VERSE:Rise up, ye women that are at ease, and hear my voice; ye careless daughters, give ear unto my speech.
+LABEL:10
+VERSE:For days beyond a year shall ye be troubled, ye careless women; for the vintage shall fail, the ingathering shall not come.
+LABEL:11
+VERSE:Tremble, ye women that are at ease; be troubled, ye careless ones; strip you, and make you bare, and gird sackcloth upon your loins.
+LABEL:12
+VERSE:They shall smite upon the breasts for the pleasant fields, for the fruitful vine.
+LABEL:13
+VERSE:Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city.
+LABEL:14
+VERSE:For the palace shall be forsaken; the populous city shall be deserted; the hill and the watch-tower shall be for dens for ever, a joy of wild asses, a pasture of flocks;
+LABEL:15
+VERSE:until the Spirit be poured upon us from on high, and the wilderness become a fruitful field, and the fruitful field be esteemed as a forest.
+LABEL:16
+VERSE:Then justice shall dwell in the wilderness; and righteousness shall abide in the fruitful field.
+LABEL:17
+VERSE:And the work of righteousness shall be peace; and the effect of righteousness, quietness and confidence for ever.
+LABEL:18
+VERSE:And my people shall abide in a peaceable habitation, and in safe dwellings, and in quiet resting-places.
+LABEL:19
+VERSE:But it shall hail in the downfall of the forest; and the city shall be utterly laid low.
+LABEL:20
+VERSE:Blessed are ye that sow beside all waters, that send forth the feet of the ox and the ass.

@@ -1,0 +1,73 @@
+TRANSLATION:WEBUS
+BOOK:MIC
+CHAPTER:4
+TITLE:Micah 4
+LABEL:1
+VERSE:But in the latter days,
+VERSE:it will happen that the mountain of Yahweh’s temple will be established on the top of the mountains,
+VERSE:and it will be exalted above the hills;
+VERSE:and peoples will stream to it.
+LABEL:2
+VERSE:Many nations will go and say,
+VERSE:“Come! Let’s go up to the mountain of Yahweh,
+VERSE:and to the house of the God of Jacob;
+VERSE:and he will teach us of his ways,
+VERSE:and we will walk in his paths.”
+VERSE:For the law will go out of Zion,
+VERSE:and Yahweh’s word from Jerusalem;
+LABEL:3
+VERSE:and he will judge between many peoples,
+VERSE:and will decide concerning strong nations afar off.
+VERSE:They will beat their swords into plowshares,
+VERSE:and their spears into pruning hooks.
+VERSE:Nation will not lift up sword against nation,
+VERSE:neither will they learn war any more.
+LABEL:4
+VERSE:But every man will sit under his vine and under his fig tree.
+VERSE:No one will make them afraid,
+VERSE:for the mouth of Yahweh of Armies has spoken.
+LABEL:5
+VERSE:Indeed all the nations may walk in the name of their gods,
+VERSE:but we will walk in the name of Yahweh our God forever and ever.
+LABEL:6
+VERSE:“In that day,” says Yahweh,
+VERSE:“I will assemble that which is lame,
+VERSE:and I will gather that which is driven away,
+VERSE:and that which I have afflicted;
+LABEL:7
+VERSE:and I will make that which was lame a remnant,
+VERSE:and that which was cast far off a strong nation:
+VERSE:and Yahweh will reign over them on Mount Zion from then on, even forever.”
+LABEL:8
+VERSE:You, tower of the flock, the hill of the daughter of Zion,
+VERSE:to you it will come.
+VERSE:Yes, the former dominion will come,
+VERSE:the kingdom of the daughter of Jerusalem.
+LABEL:9
+VERSE:Now why do you cry out aloud?
+VERSE:Is there no king in you?
+VERSE:Has your counselor perished,
+VERSE:that pains have taken hold of you as of a woman in travail?
+LABEL:10
+VERSE:Be in pain, and labor to give birth, daughter of Zion,
+VERSE:like a woman in travail;
+VERSE:for now you will go out of the city,
+VERSE:and will dwell in the field,
+VERSE:and will come even to Babylon.
+VERSE:There you will be rescued.
+VERSE:There Yahweh will redeem you from the hand of your enemies.
+LABEL:11
+VERSE:Now many nations have assembled against you, that say,
+VERSE:“Let her be defiled,
+VERSE:and let our eye gloat over Zion.”
+LABEL:12
+VERSE:But they don’t know the thoughts of Yahweh,
+VERSE:neither do they understand his counsel;
+VERSE:for he has gathered them like the sheaves to the threshing floor.
+LABEL:13
+VERSE:Arise and thresh, daughter of Zion,
+VERSE:for I will make your horn iron,
+VERSE:and I will make your hoofs bronze.
+VERSE:You will beat in pieces many peoples.
+VERSE:I will devote their gain to Yahweh,
+VERSE:and their substance to the Lord of the whole earth.

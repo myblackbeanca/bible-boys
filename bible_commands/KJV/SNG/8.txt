@@ -1,0 +1,72 @@
+TRANSLATION:KJV
+BOOK:SNG
+CHAPTER:8
+TITLE:Song of Solomon 8
+LABEL:1
+VERSE:O that thou wert as my brother,
+VERSE:That sucked the breasts of my mother!
+VERSE:When I should find thee without, I would kiss thee;
+VERSE:Yea, I should not be despised.
+LABEL:2
+VERSE:I would lead thee,
+VERSE:And bring thee into my mother's house,
+VERSE:Who would instruct me:
+VERSE:I would cause thee to drink of spiced wine
+VERSE:Of the juice of my pomegranate.
+LABEL:3
+VERSE:His left hand should be under my head,
+VERSE:And his right hand should embrace me.
+LABEL:4
+VERSE:I charge you, O daughters of Jerusalem,
+VERSE:That ye stir not up, nor awake my love,
+VERSE:Until he please.
+LABEL:5
+VERSE:Who is this that cometh up from the wilderness,
+VERSE:Leaning upon her beloved?
+VERSE:I raised thee up under the apple tree:
+VERSE:There thy mother brought thee forth:
+VERSE:There she brought thee forth that bare thee.
+LABEL:6
+VERSE:Set me as a seal upon thine heart,
+VERSE:As a seal upon thine arm:
+VERSE:For love is strong as death;
+VERSE:Jealousy is cruel as the grave:
+VERSE:The coals thereof are coals of fire,
+VERSE:Which hath a most vehement flame.
+LABEL:7
+VERSE:Many waters cannot quench love,
+VERSE:Neither can the floods drown it:
+VERSE:If a man would give all the substance of his house for love,
+VERSE:It would utterly be contemned.
+LABEL:8
+VERSE:We have a little sister,
+VERSE:And she hath no breasts:
+VERSE:What shall we do for our sister
+VERSE:In the day when she shall be spoken for?
+LABEL:9
+VERSE:If she be a wall,
+VERSE:We will build upon her a palace of silver:
+VERSE:And if she be a door,
+VERSE:We will inclose her with boards of cedar.
+LABEL:10
+VERSE:I am a wall,
+VERSE:And my breasts like towers:
+VERSE:Then was I in his eyes
+VERSE:As one that found favour.
+LABEL:11
+VERSE:Solomon had a vineyard at Baalhamon;
+VERSE:He let out the vineyard unto keepers;
+VERSE:Every one for the fruit thereof was to bring a thousand pieces of silver.
+LABEL:12
+VERSE:My vineyard, which is mine, is before me:
+VERSE:Thou, O Solomon, must have a thousand,
+VERSE:And those that keep the fruit thereof two hundred.
+LABEL:13
+VERSE:Thou that dwellest in the gardens,
+VERSE:The companions hearken to thy voice:
+VERSE:Cause me to hear it.
+LABEL:14
+VERSE:Make haste, my beloved,
+VERSE:And be thou like to a roe
+VERSE:Or to a young hart
+VERSE:Upon the mountains of spices.

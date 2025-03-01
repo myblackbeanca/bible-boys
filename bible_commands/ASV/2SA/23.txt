@@ -1,0 +1,100 @@
+TRANSLATION:ASV
+BOOK:2SA
+CHAPTER:23
+TITLE:2 Samuel 23
+LABEL:1
+VERSE:Now these are the last words of David.
+VERSE:David the son of Jesse saith,
+VERSE:And the man who was raised on high saith,
+VERSE:The anointed of the God of Jacob,
+VERSE:And the sweet psalmist of Israel:
+LABEL:2
+VERSE:The Spirit of Jehovah spake by me,
+VERSE:And his word was upon my tongue.
+LABEL:3
+VERSE:The God of Israel said,
+VERSE:The Rock of Israel spake to me:
+VERSE:One that ruleth over men righteously,
+VERSE:That ruleth in the fear of God,
+LABEL:4
+VERSE:  He shall be as the light of the morning, when the sun riseth,
+VERSE:A morning without clouds,
+VERSE:When the tender grass springeth out of the earth,
+VERSE:Through clear shining after rain.
+LABEL:5
+VERSE:Verily my house is not so with God;
+VERSE:Yet he hath made with me an everlasting covenant,
+VERSE:Ordered in all things, and sure:
+VERSE:For it is all my salvation, and all my desire,
+VERSE:Although he maketh it not to grow.
+LABEL:6
+VERSE:But the ungodly shall be all of them as thorns to be thrust away,
+VERSE:Because they cannot be taken with the hand;
+LABEL:7
+VERSE:But the man that toucheth them
+VERSE:Must be armed with iron and the staff of a spear:
+VERSE:And they shall be utterly burned with fire in their place.
+LABEL:8
+VERSE:These are the names of the mighty men whom David had: Josheb-basshebeth a Tahchemonite, chief of the captains; the same was Adino the Eznite, against eight hundred slain at one time.
+LABEL:9
+VERSE:And after him was Eleazar the son of Dodai the son of an Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away.
+LABEL:10
+VERSE:He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword; and Jehovah wrought a great victory that day; and the people returned after him only to take spoil.
+LABEL:11
+VERSE:And after him was Shammah the son of Agee a Hararite. And the Philistines were gathered together into a troop, where was a plot of ground full of lentils; and the people fled from the Philistines.
+LABEL:12
+VERSE:But he stood in the midst of the plot, and defended it, and slew the Philistines; and Jehovah wrought a great victory.
+LABEL:13
+VERSE:And three of the thirty chief men went down, and came to David in the harvest time unto the cave of Adullam; and the troop of the Philistines was encamped in the valley of Rephaim.
+LABEL:14
+VERSE:And David was then in the stronghold; and the garrison of the Philistines was then in Beth-lehem.
+LABEL:15
+VERSE:And David longed, and said, Oh that one would give me water to drink of the well of Beth-lehem, which is by the gate!
+LABEL:16
+VERSE:And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but he would not drink thereof, but poured it out unto Jehovah.
+LABEL:17
+VERSE:And he said, Be it far from me, O Jehovah, that I should do this: shall I drink the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did the three mighty men.
+LABEL:18
+VERSE:And Abishai, the brother of Joab, the son of Zeruiah, was chief of the three. And he lifted up his spear against three hundred and slew them, and had a name among the three.
+LABEL:19
+VERSE:Was he not most honorable of the three? therefore he was made their captain: howbeit he attained not unto the first three.
+LABEL:20
+VERSE:And Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done mighty deeds, he slew the two sons of Ariel of Moab: he went down also and slew a lion in the midst of a pit in time of snow.
+LABEL:21
+VERSE:And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
+LABEL:22
+VERSE:These things did Benaiah the son of Jehoiada, and had a name among the three mighty men.
+LABEL:23
+VERSE:He was more honorable than the thirty, but he attained not to the first three. And David set him over his guard.
+LABEL:24
+VERSE:Asahel the brother of Joab was one of the thirty; Elhanan the son of Dodo of Beth-lehem,
+LABEL:25
+VERSE:Shammah the Harodite, Elika the Harodite,
+LABEL:26
+VERSE:Helez the Paltite, Ira the son of Ikkesh the Tekoite,
+LABEL:27
+VERSE:Abiezer the Anathothite, Mebunnai the Hushathite,
+LABEL:28
+VERSE:Zalmon the Ahohite, Maharai the Netophathite,
+LABEL:29
+VERSE:Heleb the son of Baanah the Netophathite, Ittai the son of Ribai of Gibeah of the children of Benjamin,
+LABEL:30
+VERSE:Benaiah a Pirathonite, Hiddai of the brooks of Gaash.
+LABEL:31
+VERSE:Abi-albon the Arbathite, Azmaveth the Barhumite,
+LABEL:32
+VERSE:Eliahba the Shaalbonite, the sons of Jashen, Jonathan,
+LABEL:33
+VERSE:Shammah the Hararite, Ahiam the son of Sharar the Ararite,
+LABEL:34
+VERSE:Eliphelet the son of Ahasbai, the son of the Maacathite, Eliam the son of Ahithophel the Gilonite,
+LABEL:35
+VERSE:Hezro the Carmelite, Paarai the Arbite,
+LABEL:36
+VERSE:Igal the son of Nathan of Zobah, Bani the Gadite,
+LABEL:37
+VERSE:Zelek the Ammonite, Naharai the Beerothite, armorbearers to Joab the son of Zeruiah,
+LABEL:38
+VERSE:Ira the Ithrite, Gareb the Ithrite,
+LABEL:39
+VERSE:Uriah the Hittite: thirty and seven in all.

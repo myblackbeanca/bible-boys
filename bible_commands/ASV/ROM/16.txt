@@ -1,0 +1,59 @@
+TRANSLATION:ASV
+BOOK:ROM
+CHAPTER:16
+TITLE:Romans 16
+LABEL:1
+VERSE:I commend unto you Phoebe our sister, who is a servant of the church that is at Cenchreæ:
+LABEL:2
+VERSE:that ye receive her in the Lord, worthily of the saints, and that ye assist her in whatsoever matter she may have need of you: for she herself also hath been a helper of many, and of mine own self.
+LABEL:3
+VERSE:Salute Prisca and Aquila my fellow-workers in Christ Jesus,
+LABEL:4
+VERSE:who for my life laid down their own necks; unto whom not only I give thanks, but also all the churches of the Gentiles:
+LABEL:5
+VERSE:and salute the church that is in their house. Salute Epænetus my beloved, who is the firstfruits of Asia unto Christ.
+LABEL:6
+VERSE:Salute Mary, who bestowed much labor on you.
+LABEL:7
+VERSE:Salute Andronicus and Junias, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also have been in Christ before me.
+LABEL:8
+VERSE:Salute Ampliatus my beloved in the Lord.
+LABEL:9
+VERSE:Salute Urbanus our fellow-worker in Christ, and Stachys my beloved.
+LABEL:10
+VERSE:Salute Apelles the approved in Christ. Salute them that are of the household of Aristobulus.
+LABEL:11
+VERSE:Salute Herodion my kinsman. Salute them of the household of Narcissus, that are in the Lord.
+LABEL:12
+VERSE:Salute Tryphæna and Tryphosa, who labor in the Lord. Salute Persis the beloved, who labored much in the Lord.
+LABEL:13
+VERSE:Salute Rufus the chosen in the Lord, and his mother and mine.
+LABEL:14
+VERSE:Salute Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brethren that are with them.
+LABEL:15
+VERSE:Salute Philologus and Julia, Nereus and his sister, and Olympas, and all the saints that are with them.
+LABEL:16
+VERSE:Salute one another with a holy kiss. All the churches of Christ salute you.
+LABEL:17
+VERSE:Now I beseech you, brethren, mark them that are causing the divisions and occasions of stumbling, contrary to the doctrine which ye learned: and turn away from them.
+LABEL:18
+VERSE:For they that are such serve not our Lord Christ, but their own belly; and by their smooth and fair speech they beguile the hearts of the innocent.
+LABEL:19
+VERSE:For your obedience is come abroad unto all men. I rejoice therefore over you: but I would have you wise unto that which is good, and simple unto that which is evil.
+LABEL:20
+VERSE:And the God of peace shall bruise Satan under your feet shortly.
+VERSE:The grace of our Lord Jesus Christ be with you.
+LABEL:21
+VERSE:Timothy my fellow-worker saluteth you; and Lucius and Jason and Sosipater, my kinsmen.
+LABEL:22
+VERSE:I Tertius, who write the epistle, salute you in the Lord.
+LABEL:23
+VERSE:Gaius my host, and of the whole church, saluteth you. Erastus the treasurer of the city saluteth you, and Quartus the brother.
+LABEL:24
+VERSE:
+LABEL:25
+VERSE:Now to him that is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery which hath been kept in silence through times eternal,
+LABEL:26
+VERSE:but now is manifested, and by the scriptures of the prophets, according to the commandment of the eternal God, is made known unto all the nations unto obedience of faith:
+LABEL:27
+VERSE:to the only wise God, through Jesus Christ, to whom be the glory for ever. Amen.

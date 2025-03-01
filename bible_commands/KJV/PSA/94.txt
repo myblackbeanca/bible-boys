@@ -1,0 +1,73 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:94
+TITLE:Psalm 94
+LABEL:1
+VERSE:O LORD God, to whom vengeance belongeth;
+VERSE:O God, to whom vengeance belongeth, shew thyself.
+LABEL:2
+VERSE:Lift up thyself, thou judge of the earth:
+VERSE:Render a reward to the proud.
+LABEL:3
+VERSE:  LORD, how long shall the wicked,
+VERSE:How long shall the wicked triumph?
+LABEL:4
+VERSE:  How long shall they utter and speak hard things?
+VERSE:And all the workers of iniquity boast themselves?
+LABEL:5
+VERSE:They break in pieces thy people, O LORD,
+VERSE:And afflict thine heritage.
+LABEL:6
+VERSE:They slay the widow and the stranger,
+VERSE:And murder the fatherless.
+LABEL:7
+VERSE:Yet they say, The LORD shall not see,
+VERSE:Neither shall the God of Jacob regard it.
+LABEL:8
+VERSE:Understand, ye brutish among the people:
+VERSE:And ye fools, when will ye be wise?
+LABEL:9
+VERSE:He that planted the ear, shall he not hear?
+VERSE:He that formed the eye, shall he not see?
+LABEL:10
+VERSE:He that chastiseth the heathen, shall not he correct?
+VERSE:He that teacheth man knowledge, shall not he know?
+LABEL:11
+VERSE:The LORD knoweth the thoughts of man,
+VERSE:That they are vanity.
+LABEL:12
+VERSE:Blessed is the man whom thou chastenest, O LORD,
+VERSE:And teachest him out of thy law;
+LABEL:13
+VERSE:That thou mayest give him rest from the days of adversity,
+VERSE:Until the pit be digged for the wicked.
+LABEL:14
+VERSE:For the LORD will not cast off his people,
+VERSE:Neither will he forsake his inheritance.
+LABEL:15
+VERSE:But judgment shall return unto righteousness:
+VERSE:And all the upright in heart shall follow it.
+LABEL:16
+VERSE:Who will rise up for me against the evildoers?
+VERSE:Or who will stand up for me against the workers of iniquity?
+LABEL:17
+VERSE:Unless the LORD  had been my help,
+VERSE:My soul had almost dwelt in silence.
+LABEL:18
+VERSE:When I said, My foot slippeth;
+VERSE:Thy mercy, O LORD, held me up.
+LABEL:19
+VERSE:In the multitude of my thoughts within me
+VERSE:Thy comforts delight my soul.
+LABEL:20
+VERSE:Shall the throne of iniquity have fellowship with thee,
+VERSE:Which frameth mischief by a law?
+LABEL:21
+VERSE:They gather themselves together against the soul of the righteous,
+VERSE:And condemn the innocent blood.
+LABEL:22
+VERSE:But the LORD is my defence;
+VERSE:And my God is the rock of my refuge.
+LABEL:23
+VERSE:And he shall bring upon them their own iniquity, and shall cut them off in their own wickedness;
+VERSE:Yea, the LORD our God shall cut them off.

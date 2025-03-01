@@ -1,0 +1,39 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:28
+TITLE:Psalms 28
+LABEL:1
+VERSE:Unto thee, O Jehovah, will I call:
+VERSE:My rock, be not thou deaf unto me;
+VERSE:Lest, if thou be silent unto me,
+VERSE:I become like them that go down into the pit.
+LABEL:2
+VERSE:Hear the voice of my supplications, when I cry unto thee,
+VERSE:When I lift up my hands toward thy holy oracle.
+LABEL:3
+VERSE:Draw me not away with the wicked,
+VERSE:And with the workers of iniquity;
+VERSE:That speak peace with their neighbors,
+VERSE:But mischief is in their hearts.
+LABEL:4
+VERSE:Give them according to their work, and according to the wickedness of their doings:
+VERSE:Give them after the operation of their hands;
+VERSE:Render to them their desert.
+LABEL:5
+VERSE:Because they regard not the works of Jehovah,
+VERSE:Nor the operation of his hands,
+VERSE:He will break them down and not build them up.
+LABEL:6
+VERSE:Blessed be Jehovah,
+VERSE:Because he hath heard the voice of my supplications.
+LABEL:7
+VERSE:Jehovah is my strength and my shield;
+VERSE:My heart hath trusted in him, and I am helped:
+VERSE:Therefore my heart greatly rejoiceth;
+VERSE:And with my song will I praise him.
+LABEL:8
+VERSE:Jehovah is their strength,
+VERSE:And he is a stronghold of salvation to his anointed.
+LABEL:9
+VERSE:Save thy people, and bless thine inheritance:
+VERSE:Be their shepherd also, and bear them up for ever.

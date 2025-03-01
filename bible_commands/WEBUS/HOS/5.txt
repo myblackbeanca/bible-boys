@@ -1,0 +1,69 @@
+TRANSLATION:WEBUS
+BOOK:HOS
+CHAPTER:5
+TITLE:Hosea 5
+LABEL:1
+VERSE:“Listen to this, you priests!
+VERSE:Listen, house of Israel,
+VERSE:and give ear, house of the king!
+VERSE:For the judgment is against you;
+VERSE:for you have been a snare at Mizpah,
+VERSE:and a net spread on Tabor.
+LABEL:2
+VERSE:The rebels are deep in slaughter,
+VERSE:but I discipline all of them.
+LABEL:3
+VERSE:I know Ephraim,
+VERSE:and Israel is not hidden from me;
+VERSE:for now, Ephraim, you have played the prostitute.
+VERSE:Israel is defiled.
+LABEL:4
+VERSE:Their deeds won’t allow them to turn to their God,
+VERSE:for the spirit of prostitution is within them,
+VERSE:and they don’t know Yahweh.
+LABEL:5
+VERSE:The pride of Israel testifies to his face.
+VERSE:Therefore Israel and Ephraim will stumble in their iniquity.
+VERSE:Judah also will stumble with them.
+LABEL:6
+VERSE:They will go with their flocks and with their herds to seek Yahweh,
+VERSE:but they won’t find him.
+VERSE:He has withdrawn himself from them.
+LABEL:7
+VERSE:They are unfaithful to Yahweh;
+VERSE:for they have borne illegitimate children.
+VERSE:Now the new moon will devour them with their fields.
+LABEL:8
+VERSE:“Blow the cornet in Gibeah,
+VERSE:and the trumpet in Ramah!
+VERSE:Sound a battle cry at Beth Aven, behind you, Benjamin!
+LABEL:9
+VERSE:Ephraim will become a desolation in the day of rebuke.
+VERSE:Among the tribes of Israel, I have made known that which will surely be.
+LABEL:10
+VERSE:The princes of Judah are like those who remove a landmark.
+VERSE:I will pour out my wrath on them like water.
+LABEL:11
+VERSE:Ephraim is oppressed,
+VERSE:he is crushed in judgment,
+VERSE:because he is intent in his pursuit of idols.
+LABEL:12
+VERSE:Therefore I am to Ephraim like a moth,
+VERSE:and to the house of Judah like rottenness.
+LABEL:13
+VERSE:“When Ephraim saw his sickness,
+VERSE:and Judah his wound,
+VERSE:then Ephraim went to Assyria,
+VERSE:and sent to King Jareb:
+VERSE:but he is not able to heal you,
+VERSE:neither will he cure you of your wound.
+LABEL:14
+VERSE:For I will be to Ephraim like a lion,
+VERSE:and like a young lion to the house of Judah.
+VERSE:I myself will tear in pieces and go away.
+VERSE:I will carry off, and there will be no one to deliver.
+LABEL:15
+VERSE:I will go and return to my place,
+VERSE:until they acknowledge their offense,
+VERSE:and seek my face.
+VERSE:In their affliction they will seek me earnestly.”

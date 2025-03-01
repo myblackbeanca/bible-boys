@@ -1,0 +1,69 @@
+TRANSLATION:KJV
+BOOK:EZK
+CHAPTER:18
+TITLE:Ezekiel 18
+SECTION:Personal Responsibility
+LABEL:1
+VERSE:The word of the LORD came unto me again, saying,
+LABEL:2
+VERSE:What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children's teeth are set on edge?
+LABEL:3
+VERSE:As I live, saith the Lord GOD, ye shall not have occasion any more to use this proverb in Israel.
+LABEL:4
+VERSE:Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.
+LABEL:5
+VERSE:But if a man be just, and do that which is lawful and right,
+LABEL:6
+VERSE:and hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour's wife, neither hath come near to a menstruous woman,
+LABEL:7
+VERSE:and hath not oppressed any, but hath restored to the debtor his pledge, hath spoiled none by violence, hath given his bread to the hungry, and hath covered the naked with a garment;
+LABEL:8
+VERSE:he that hath not given forth upon usury, neither hath taken any increase, that hath withdrawn his hand from iniquity, hath executed true judgment between man and man,
+LABEL:9
+VERSE:hath walked in my statutes, and hath kept my judgments, to deal truly; he is just, he shall surely live, saith the Lord GOD.
+LABEL:10
+VERSE:If he beget a son that is a robber, a shedder of blood, and that doeth the like to any one of these things,
+LABEL:11
+VERSE:and that doeth not any of those duties, but even hath eaten upon the mountains, and defiled his neighbour's wife,
+LABEL:12
+VERSE:hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination,
+LABEL:13
+VERSE:hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
+LABEL:14
+VERSE:Now, lo, if he beget a son, that seeth all his father's sins which he hath done, and considereth, and doeth not such like,
+LABEL:15
+VERSE:that hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour's wife,
+LABEL:16
+VERSE:neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, but hath given his bread to the hungry, and hath covered the naked with a garment,
+LABEL:17
+VERSE:that hath taken off his hand from the poor, that hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live.
+LABEL:18
+VERSE:As for his father, because he cruelly oppressed, spoiled his brother by violence, and did that which is not good among his people, lo, even he shall die in his iniquity.
+LABEL:19
+VERSE:Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, and hath kept all my statutes, and hath done them, he shall surely live.
+LABEL:20
+VERSE:The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
+LABEL:21
+VERSE:But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.
+LABEL:22
+VERSE:All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live.
+LABEL:23
+VERSE:Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?
+LABEL:24
+VERSE:But when the righteous turneth away from his righteousness, and committeth iniquity, and doeth according to all the abominations that the wicked man doeth, shall he live? All his righteousness that he hath done shall not be mentioned: in his trespass that he hath trespassed, and in his sin that he hath sinned, in them shall he die.
+LABEL:25
+VERSE:Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
+LABEL:26
+VERSE:When a righteous man turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die.
+LABEL:27
+VERSE:Again, when the wicked man turneth away from his wickedness that he hath committed, and doeth that which is lawful and right, he shall save his soul alive.
+LABEL:28
+VERSE:Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die.
+LABEL:29
+VERSE:Yet saith the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unequal?
+LABEL:30
+VERSE:Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.
+LABEL:31
+VERSE:Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
+LABEL:32
+VERSE:For I have no pleasure in the death of him that dieth, saith the Lord GOD: wherefore turn yourselves, and live ye.

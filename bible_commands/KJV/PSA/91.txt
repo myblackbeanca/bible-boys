@@ -1,0 +1,52 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:91
+TITLE:Psalm 91
+LABEL:1
+VERSE:He that dwelleth in the secret place of the Most High
+VERSE:Shall abide under the shadow of the Almighty.
+LABEL:2
+VERSE:I will say of the LORD, He is my refuge and my fortress:
+VERSE:My God; in him will I trust.
+LABEL:3
+VERSE:Surely he shall deliver thee from the snare of the fowler,
+VERSE:And from the noisome pestilence.
+LABEL:4
+VERSE:He shall cover thee with his feathers, and under his wings shalt thou trust:
+VERSE:His truth shall be thy shield and buckler.
+LABEL:5
+VERSE:Thou shalt not be afraid for the terror by night;
+VERSE:Nor for the arrow that flieth by day;
+LABEL:6
+VERSE:  Nor for the pestilence that walketh in darkness;
+VERSE:Nor for the destruction that wasteth at noonday.
+LABEL:7
+VERSE:A thousand shall fall at thy side, and ten thousand at thy right hand;
+VERSE:But it shall not come nigh thee.
+LABEL:8
+VERSE:Only with thine eyes shalt thou behold
+VERSE:And see the reward of the wicked.
+LABEL:9
+VERSE:Because thou hast made the LORD, which is my refuge,
+VERSE:Even the most High, thy habitation;
+LABEL:10
+VERSE:There shall no evil befall thee,
+VERSE:Neither shall any plague come nigh thy dwelling.
+LABEL:11
+VERSE:For he shall give his angels charge over thee,
+VERSE:To keep thee in all thy ways.
+LABEL:12
+VERSE:They shall bear thee up in their hands,
+VERSE:Lest thou dash thy foot against a stone.
+LABEL:13
+VERSE:Thou shalt tread upon the lion and adder:
+VERSE:The young lion and the dragon shalt thou trample under feet.
+LABEL:14
+VERSE:Because he hath set his love upon me, therefore will I deliver him:
+VERSE:I will set him on high, because he hath known my name.
+LABEL:15
+VERSE:He shall call upon me, and I will answer him:
+VERSE:I will be with him in trouble; I will deliver him, and honour him.
+LABEL:16
+VERSE:With long life will I satisfy him,
+VERSE:And shew him my salvation.

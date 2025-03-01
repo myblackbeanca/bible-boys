@@ -1,0 +1,28 @@
+TRANSLATION:KJV
+BOOK:ISA
+CHAPTER:56
+TITLE:Isaiah 56
+LABEL:1
+VERSE:Thus saith the LORD, Keep ye judgment, and do justice: for my salvation is near to come, and my righteousness to be revealed.
+LABEL:2
+VERSE:Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.
+LABEL:3
+VERSE:Neither let the son of the stranger, that hath joined himself to the LORD, speak, saying, The LORD hath utterly separated me from his people: neither let the eunuch say, Behold, I am a dry tree.
+LABEL:4
+VERSE:For thus saith the LORD unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;
+LABEL:5
+VERSE:even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off.
+LABEL:6
+VERSE:Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;
+LABEL:7
+VERSE:even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people.
+LABEL:8
+VERSE:The Lord GOD which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.
+LABEL:9
+VERSE:All ye beasts of the field, come to devour, yea, all ye beasts in the forest.
+LABEL:10
+VERSE:His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
+LABEL:11
+VERSE:Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
+LABEL:12
+VERSE:Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.

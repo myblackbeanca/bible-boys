@@ -1,0 +1,46 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:140
+TITLE:Psalms 140
+LABEL:1
+VERSE:Deliver me, O Jehovah, from the evil man;
+VERSE:Preserve me from the violent man:
+LABEL:2
+VERSE:Who devise mischiefs in their heart;
+VERSE:Continually do they gather themselves together for war.
+LABEL:3
+VERSE:They have sharpened their tongue like a serpent;
+VERSE:Adders’ poison is under their lips. [Selah
+LABEL:4
+VERSE:Keep me, O Jehovah, from the hands of the wicked;
+VERSE:Preserve me from the violent man:
+VERSE:Who have purposed to thrust aside my steps.
+LABEL:5
+VERSE:The proud have hid a snare for me, and cords;
+VERSE:They have spread a net by the wayside;
+VERSE:They have set gins for me. [Selah
+LABEL:6
+VERSE:I said unto Jehovah, Thou art my God:
+VERSE:Give ear unto the voice of my supplications, O Jehovah.
+LABEL:7
+VERSE:O Jehovah the Lord, the strength of my salvation,
+VERSE:Thou hast covered my head in the day of battle.
+LABEL:8
+VERSE:Grant not, O Jehovah, the desires of the wicked;
+VERSE:Further not his evil device, lest they exalt themselves. [Selah
+LABEL:9
+VERSE:As for the head of those that compass me about,
+VERSE:Let the mischief of their own lips cover them.
+LABEL:10
+VERSE:Let burning coals fall upon them:
+VERSE:Let them be cast into the fire,
+VERSE:Into deep pits, whence they shall not rise.
+LABEL:11
+VERSE:An evil speaker shall not be established in the earth:
+VERSE:Evil shall hunt the violent man to overthrow him.
+LABEL:12
+VERSE:I know that Jehovah will maintain the cause of the afflicted,
+VERSE:And justice for the needy.
+LABEL:13
+VERSE:Surely the righteous shall give thanks unto thy name:
+VERSE:The upright shall dwell in thy presence.

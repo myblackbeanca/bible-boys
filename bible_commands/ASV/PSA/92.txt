@@ -1,0 +1,50 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:92
+TITLE:Psalms 92
+LABEL:1
+VERSE:It is a good thing to give thanks unto Jehovah,
+VERSE:And to sing praises unto thy name, O Most High;
+LABEL:2
+VERSE:To show forth thy lovingkindness in the morning,
+VERSE:And thy faithfulness every night,
+LABEL:3
+VERSE:With an instrument of ten strings, and with the psaltery;
+VERSE:With a solemn sound upon the harp.
+LABEL:4
+VERSE:For thou, Jehovah, hast made me glad through thy work:
+VERSE:I will triumph in the works of thy hands.
+LABEL:5
+VERSE:How great are thy works, O Jehovah!
+VERSE:Thy thoughts are very deep.
+LABEL:6
+VERSE:A brutish man knoweth not;
+VERSE:Neither doth a fool understand this:
+LABEL:7
+VERSE:When the wicked spring as the grass,
+VERSE:And when all the workers of iniquity do flourish;
+VERSE:It is that they shall be destroyed for ever.
+LABEL:8
+VERSE:But thou, O Jehovah, art on high for evermore.
+LABEL:9
+VERSE:For, lo, thine enemies, O Jehovah,
+VERSE:For, lo, thine enemies shall perish;
+VERSE:All the workers of iniquity shall be scattered.
+LABEL:10
+VERSE:But my horn hast thou exalted like the horn of the wild-ox:
+VERSE:I am anointed with fresh oil.
+LABEL:11
+VERSE:Mine eye also hath seen my desire on mine enemies,
+VERSE:Mine ears have heard my desire of the evil-doers that rise up against me.
+LABEL:12
+VERSE:The righteous shall flourish like the palm-tree:
+VERSE:He shall grow like a cedar in Lebanon.
+LABEL:13
+VERSE:They are planted in the house of Jehovah;
+VERSE:They shall flourish in the courts of our God.
+LABEL:14
+VERSE:They shall still bring forth fruit in old age;
+VERSE:They shall be full of sap and green:
+LABEL:15
+VERSE:To show that Jehovah is upright;
+VERSE:He is my rock, and there is no unrighteousness in him.

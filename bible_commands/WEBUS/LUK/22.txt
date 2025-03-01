@@ -1,0 +1,151 @@
+TRANSLATION:WEBUS
+BOOK:LUK
+CHAPTER:22
+TITLE:Luke 22
+LABEL:1
+VERSE:Now the feast of unleavened bread, which is called the Passover, was approaching.
+LABEL:2
+VERSE:The chief priests and the scribes sought how they might put him to death, for they feared the people.
+LABEL:3
+VERSE:Satan entered into Judas, who was also called Iscariot, who was counted with the twelve.
+LABEL:4
+VERSE:He went away and talked with the chief priests and captains about how he might deliver him to them.
+LABEL:5
+VERSE:They were glad, and agreed to give him money.
+LABEL:6
+VERSE:He consented and sought an opportunity to deliver him to them in the absence of the multitude.
+LABEL:7
+VERSE:The day of unleavened bread came, on which the Passover must be sacrificed.
+LABEL:8
+VERSE:Jesus sent Peter and John, saying, “Go and prepare the Passover for us, that we may eat.”
+LABEL:9
+VERSE:They said to him, “Where do you want us to prepare?”
+LABEL:10
+VERSE:He said to them, “Behold, when you have entered into the city, a man carrying a pitcher of water will meet you. Follow him into the house which he enters.
+LABEL:11
+VERSE:Tell the master of the house, ‘The Teacher says to you, “Where is the guest room, where I may eat the Passover with my disciples?”’
+LABEL:12
+VERSE:He will show you a large, furnished upper room. Make preparations there.”
+LABEL:13
+VERSE:They went, found things as Jesus had told them, and they prepared the Passover.
+LABEL:14
+VERSE:When the hour had come, he sat down with the twelve apostles.
+LABEL:15
+VERSE:He said to them, “I have earnestly desired to eat this Passover with you before I suffer,
+LABEL:16
+VERSE:for I tell you, I will no longer by any means eat of it until it is fulfilled in God’s Kingdom.”
+LABEL:17
+VERSE:He received a cup, and when he had given thanks, he said, “Take this and share it among yourselves,
+LABEL:18
+VERSE:for I tell you, I will not drink at all again from the fruit of the vine, until God’s Kingdom comes.”
+LABEL:19
+VERSE:He took bread, and when he had given thanks, he broke and gave it to them, saying, “This is my body which is given for you. Do this in memory of me.”
+LABEL:20
+VERSE:Likewise, he took the cup after supper, saying, “This cup is the new covenant in my blood, which is poured out for you.
+LABEL:21
+VERSE:But behold, the hand of him who betrays me is with me on the table.
+LABEL:22
+VERSE:The Son of Man indeed goes as it has been determined, but woe to that man through whom he is betrayed!”
+LABEL:23
+VERSE:They began to question among themselves which of them it was who would do this thing.
+LABEL:24
+VERSE:A dispute also arose among them, which of them was considered to be greatest.
+LABEL:25
+VERSE:He said to them, “The kings of the nations lord it over them, and those who have authority over them are called ‘benefactors.’
+LABEL:26
+VERSE:But not so with you. Rather, the one who is greater among you, let him become as the younger, and one who is governing, as one who serves.
+LABEL:27
+VERSE:For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am among you as one who serves.
+LABEL:28
+VERSE:  “But you are those who have continued with me in my trials.
+LABEL:29
+VERSE:I confer on you a kingdom, even as my Father conferred on me,
+LABEL:30
+VERSE:that you may eat and drink at my table in my Kingdom. You will sit on thrones, judging the twelve tribes of Israel.”
+LABEL:31
+VERSE:The Lord said, “Simon, Simon, behold, Satan asked to have all of you, that he might sift you as wheat,
+LABEL:32
+VERSE:but I prayed for you, that your faith wouldn’t fail. You, when once you have turned again, establish your brothers.”
+LABEL:33
+VERSE:He said to him, “Lord, I am ready to go with you both to prison and to death!”
+LABEL:34
+VERSE:He said, “I tell you, Peter, the rooster will by no means crow today until you deny that you know me three times.”
+LABEL:35
+VERSE:He said to them, “When I sent you out without purse, bag, and sandals, did you lack anything?”
+VERSE:They said, “Nothing.”
+LABEL:36
+VERSE:Then he said to them, “But now, whoever has a purse, let him take it, and likewise a bag. Whoever has none, let him sell his cloak, and buy a sword.
+LABEL:37
+VERSE:For I tell you that this which is written must still be fulfilled in me: ‘He was counted with transgressors.’  For that which concerns me is being fulfilled.”
+LABEL:38
+VERSE:They said, “Lord, behold, here are two swords.”
+VERSE:He said to them, “That is enough.”
+LABEL:39
+VERSE:He came out and went, as his custom was, to the Mount of Olives. His disciples also followed him.
+LABEL:40
+VERSE:When he was at the place, he said to them, “Pray that you don’t enter into temptation.”
+LABEL:41
+VERSE:He was withdrawn from them about a stone’s throw, and he knelt down and prayed,
+LABEL:42
+VERSE:saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”
+LABEL:43
+VERSE:An angel from heaven appeared to him, strengthening him.
+LABEL:44
+VERSE:Being in agony, he prayed more earnestly. His sweat became like great drops of blood falling down on the ground.
+LABEL:45
+VERSE:When he rose up from his prayer, he came to the disciples and found them sleeping because of grief,
+LABEL:46
+VERSE:and said to them, “Why do you sleep? Rise and pray that you may not enter into temptation.”
+LABEL:47
+VERSE:While he was still speaking, a crowd appeared. He who was called Judas, one of the twelve, was leading them. He came near to Jesus to kiss him.
+LABEL:48
+VERSE:But Jesus said to him, “Judas, do you betray the Son of Man with a kiss?”
+LABEL:49
+VERSE:When those who were around him saw what was about to happen, they said to him, “Lord, shall we strike with the sword?”
+LABEL:50
+VERSE:A certain one of them struck the servant of the high priest, and cut off his right ear.
+LABEL:51
+VERSE:But Jesus answered, “Let me at least do this”—and he touched his ear and healed him.
+LABEL:52
+VERSE:Jesus said to the chief priests, captains of the temple, and elders, who had come against him, “Have you come out as against a robber, with swords and clubs?
+LABEL:53
+VERSE:When I was with you in the temple daily, you didn’t stretch out your hands against me. But this is your hour, and the power of darkness.”
+LABEL:54
+VERSE:They seized him and led him away, and brought him into the high priest’s house. But Peter followed from a distance.
+LABEL:55
+VERSE:When they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat among them.
+LABEL:56
+VERSE:A certain servant girl saw him as he sat in the light, and looking intently at him, said, “This man also was with him.”
+LABEL:57
+VERSE:He denied Jesus, saying, “Woman, I don’t know him.”
+LABEL:58
+VERSE:After a little while someone else saw him and said, “You also are one of them!”
+VERSE:But Peter answered, “Man, I am not!”
+LABEL:59
+VERSE:After about one hour passed, another confidently affirmed, saying, “Truly this man also was with him, for he is a Galilean!”
+LABEL:60
+VERSE:But Peter said, “Man, I don’t know what you are talking about!” Immediately, while he was still speaking, a rooster crowed.
+LABEL:61
+VERSE:The Lord turned and looked at Peter. Then Peter remembered the Lord’s word, how he said to him, “Before the rooster crows you will deny me three times.”
+LABEL:62
+VERSE:He went out, and wept bitterly.
+LABEL:63
+VERSE:The men who held Jesus mocked him and beat him.
+LABEL:64
+VERSE:Having blindfolded him, they struck him on the face and asked him, “Prophesy! Who is the one who struck you?”
+LABEL:65
+VERSE:They spoke many other things against him, insulting him.
+LABEL:66
+VERSE:As soon as it was day, the assembly of the elders of the people were gathered together, both chief priests and scribes, and they led him away into their council, saying,
+LABEL:67
+VERSE:“If you are the Christ, tell us.”
+VERSE:But he said to them, “If I tell you, you won’t believe,
+LABEL:68
+VERSE:and if I ask, you will in no way answer me or let me go.
+LABEL:69
+VERSE:From now on, the Son of Man will be seated at the right hand of the power of God.”
+LABEL:70
+VERSE:They all said, “Are you then the Son of God?”
+VERSE:He said to them, “You say it, because I am.”
+LABEL:71
+VERSE:They said, “Why do we need any more witness? For we ourselves have heard from his own mouth!”

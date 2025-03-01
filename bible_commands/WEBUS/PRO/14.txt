@@ -1,0 +1,109 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:14
+TITLE:Proverbs 14
+LABEL:1
+VERSE:Every wise woman builds her house,
+VERSE:but the foolish one tears it down with her own hands.
+LABEL:2
+VERSE:He who walks in his uprightness fears Yahweh,
+VERSE:but he who is perverse in his ways despises him.
+LABEL:3
+VERSE:The fool’s talk brings a rod to his back,
+VERSE:but the lips of the wise protect them.
+LABEL:4
+VERSE:Where no oxen are, the crib is clean,
+VERSE:but much increase is by the strength of the ox.
+LABEL:5
+VERSE:A truthful witness will not lie,
+VERSE:but a false witness pours out lies.
+LABEL:6
+VERSE:A scoffer seeks wisdom, and doesn’t find it,
+VERSE:but knowledge comes easily to a discerning person.
+LABEL:7
+VERSE:Stay away from a foolish man,
+VERSE:for you won’t find knowledge on his lips.
+LABEL:8
+VERSE:The wisdom of the prudent is to think about his way,
+VERSE:but the folly of fools is deceit.
+LABEL:9
+VERSE:Fools mock at making atonement for sins,
+VERSE:but among the upright there is good will.
+LABEL:10
+VERSE:The heart knows its own bitterness and joy;
+VERSE:he will not share these with a stranger.
+LABEL:11
+VERSE:The house of the wicked will be overthrown,
+VERSE:but the tent of the upright will flourish.
+LABEL:12
+VERSE:There is a way which seems right to a man,
+VERSE:but in the end it leads to death.
+LABEL:13
+VERSE:Even in laughter the heart may be sorrowful,
+VERSE:and mirth may end in heaviness.
+LABEL:14
+VERSE:The unfaithful will be repaid for his own ways;
+VERSE:likewise a good man will be rewarded for his ways.
+LABEL:15
+VERSE:A simple man believes everything,
+VERSE:but the prudent man carefully considers his ways.
+LABEL:16
+VERSE:A wise man fears and shuns evil,
+VERSE:but the fool is hot headed and reckless.
+LABEL:17
+VERSE:He who is quick to become angry will commit folly,
+VERSE:and a crafty man is hated.
+LABEL:18
+VERSE:The simple inherit folly,
+VERSE:but the prudent are crowned with knowledge.
+LABEL:19
+VERSE:The evil bow down before the good,
+VERSE:and the wicked at the gates of the righteous.
+LABEL:20
+VERSE:The poor person is shunned even by his own neighbor,
+VERSE:but the rich person has many friends.
+LABEL:21
+VERSE:He who despises his neighbor sins,
+VERSE:but he who has pity on the poor is blessed.
+LABEL:22
+VERSE:Don’t they go astray who plot evil?
+VERSE:But love and faithfulness belong to those who plan good.
+LABEL:23
+VERSE:In all hard work there is profit,
+VERSE:but the talk of the lips leads only to poverty.
+LABEL:24
+VERSE:The crown of the wise is their riches,
+VERSE:but the folly of fools crowns them with folly.
+LABEL:25
+VERSE:A truthful witness saves souls,
+VERSE:but a false witness is deceitful.
+LABEL:26
+VERSE:In the fear of Yahweh is a secure fortress,
+VERSE:and he will be a refuge for his children.
+LABEL:27
+VERSE:The fear of Yahweh is a fountain of life,
+VERSE:turning people from the snares of death.
+LABEL:28
+VERSE:In the multitude of people is the king’s glory,
+VERSE:but in the lack of people is the destruction of the prince.
+LABEL:29
+VERSE:He who is slow to anger has great understanding,
+VERSE:but he who has a quick temper displays folly.
+LABEL:30
+VERSE:The life of the body is a heart at peace,
+VERSE:but envy rots the bones.
+LABEL:31
+VERSE:He who oppresses the poor shows contempt for his Maker,
+VERSE:but he who is kind to the needy honors him.
+LABEL:32
+VERSE:The wicked is brought down in his calamity,
+VERSE:but in death, the righteous has a refuge.
+LABEL:33
+VERSE:Wisdom rests in the heart of one who has understanding,
+VERSE:and is even made known in the inward part of fools.
+LABEL:34
+VERSE:Righteousness exalts a nation,
+VERSE:but sin is a disgrace to any people.
+LABEL:35
+VERSE:The king’s favor is toward a servant who deals wisely,
+VERSE:but his wrath is toward one who causes shame.

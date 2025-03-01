@@ -1,0 +1,69 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:72
+TITLE:Psalms 72
+LABEL:1
+VERSE:God, give the king your justice;
+VERSE:your righteousness to the royal son.
+LABEL:2
+VERSE:He will judge your people with righteousness,
+VERSE:and your poor with justice.
+LABEL:3
+VERSE:The mountains shall bring prosperity to the people.
+VERSE:The hills bring the fruit of righteousness.
+LABEL:4
+VERSE:He will judge the poor of the people.
+VERSE:He will save the children of the needy,
+VERSE:and will break the oppressor in pieces.
+LABEL:5
+VERSE:They shall fear you while the sun endures;
+VERSE:and as long as the moon, throughout all generations.
+LABEL:6
+VERSE:He will come down like rain on the mown grass,
+VERSE:as showers that water the earth.
+LABEL:7
+VERSE:In his days, the righteous shall flourish,
+VERSE:and abundance of peace, until the moon is no more.
+LABEL:8
+VERSE:He shall have dominion also from sea to sea,
+VERSE:from the River to the ends of the earth.
+LABEL:9
+VERSE:Those who dwell in the wilderness shall bow before him.
+VERSE:His enemies shall lick the dust.
+LABEL:10
+VERSE:The kings of Tarshish and of the islands will bring tribute.
+VERSE:The kings of Sheba and Seba shall offer gifts.
+LABEL:11
+VERSE:Yes, all kings shall fall down before him.
+VERSE:All nations shall serve him.
+LABEL:12
+VERSE:For he will deliver the needy when he cries;
+VERSE:the poor, who has no helper.
+LABEL:13
+VERSE:He will have pity on the poor and needy.
+VERSE:He will save the souls of the needy.
+LABEL:14
+VERSE:He will redeem their soul from oppression and violence.
+VERSE:Their blood will be precious in his sight.
+LABEL:15
+VERSE:He will live; and Sheba’s gold will be given to him.
+VERSE:Men will pray for him continually.
+VERSE:They will bless him all day long.
+LABEL:16
+VERSE:Abundance of grain shall be throughout the land.
+VERSE:Its fruit sways like Lebanon.
+VERSE:Let it flourish, thriving like the grass of the field.
+LABEL:17
+VERSE:His name endures forever.
+VERSE:His name continues as long as the sun.
+VERSE:Men shall be blessed by him.
+VERSE:All nations will call him blessed.
+LABEL:18
+VERSE:Praise be to Yahweh God, the God of Israel,
+VERSE:who alone does marvelous deeds.
+LABEL:19
+VERSE:Blessed be his glorious name forever!
+VERSE:Let the whole earth be filled with his glory!
+VERSE:Amen and amen.
+LABEL:20
+VERSE:This ends the prayers by David, the son of Jesse.

@@ -1,0 +1,27 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:124
+TITLE:Psalms 124
+LABEL:1
+VERSE:If it had not been Yahweh who was on our side,
+VERSE:let Israel now say,
+LABEL:2
+VERSE:if it had not been Yahweh who was on our side,
+VERSE:when men rose up against us,
+LABEL:3
+VERSE:then they would have swallowed us up alive,
+VERSE:when their wrath was kindled against us,
+LABEL:4
+VERSE:then the waters would have overwhelmed us,
+VERSE:the stream would have gone over our soul.
+LABEL:5
+VERSE:Then the proud waters would have gone over our soul.
+LABEL:6
+VERSE:Blessed be Yahweh,
+VERSE:who has not given us as a prey to their teeth.
+LABEL:7
+VERSE:Our soul has escaped like a bird out of the fowler’s snare.
+VERSE:The snare is broken, and we have escaped.
+LABEL:8
+VERSE:Our help is in Yahweh’s name,
+VERSE:who made heaven and earth.

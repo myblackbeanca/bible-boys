@@ -1,0 +1,76 @@
+TRANSLATION:WEBUS
+BOOK:LEV
+CHAPTER:8
+TITLE:Leviticus 8
+LABEL:1
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:2
+VERSE:“Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;
+LABEL:3
+VERSE:and assemble all the congregation at the door of the Tent of Meeting.”
+LABEL:4
+VERSE:Moses did as Yahweh commanded him; and the congregation was assembled at the door of the Tent of Meeting.
+LABEL:5
+VERSE:Moses said to the congregation, “This is the thing which Yahweh has commanded to be done.”
+LABEL:6
+VERSE:Moses brought Aaron and his sons, and washed them with water.
+LABEL:7
+VERSE:He put the tunic on him, tied the sash on him, clothed him with the robe, put the ephod on him, and he tied the skillfully woven band of the ephod on him and fastened it to him with it.
+LABEL:8
+VERSE:He placed the breastplate on him. He put the Urim and Thummim in the breastplate.
+LABEL:9
+VERSE:He set the turban on his head. He set the golden plate, the holy crown, on the front of the turban, as Yahweh commanded Moses.
+LABEL:10
+VERSE:Moses took the anointing oil, and anointed the tabernacle and all that was in it, and sanctified them.
+LABEL:11
+VERSE:He sprinkled it on the altar seven times, and anointed the altar and all its vessels, and the basin and its base, to sanctify them.
+LABEL:12
+VERSE:He poured some of the anointing oil on Aaron’s head, and anointed him, to sanctify him.
+LABEL:13
+VERSE:Moses brought Aaron’s sons, and clothed them with tunics, and tied sashes on them, and put headbands on them, as Yahweh commanded Moses.
+LABEL:14
+VERSE:He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering.
+LABEL:15
+VERSE:He killed it; and Moses took the blood, and put it around on the horns of the altar with his finger, and purified the altar, and poured out the blood at the base of the altar, and sanctified it, to make atonement for it.
+LABEL:16
+VERSE:He took all the fat that was on the innards, and the cover of the liver, and the two kidneys, and their fat; and Moses burned it on the altar.
+LABEL:17
+VERSE:But the bull, and its skin, and its meat, and its dung, he burned with fire outside the camp, as Yahweh commanded Moses.
+LABEL:18
+VERSE:He presented the ram of the burnt offering. Aaron and his sons laid their hands on the head of the ram.
+LABEL:19
+VERSE:He killed it; and Moses sprinkled the blood around on the altar.
+LABEL:20
+VERSE:He cut the ram into its pieces; and Moses burned the head, and the pieces, and the fat.
+LABEL:21
+VERSE:He washed the innards and the legs with water; and Moses burned the whole ram on the altar. It was a burnt offering for a pleasant aroma. It was an offering made by fire to Yahweh, as Yahweh commanded Moses.
+LABEL:22
+VERSE:He presented the other ram, the ram of consecration. Aaron and his sons laid their hands on the head of the ram.
+LABEL:23
+VERSE:He killed it; and Moses took some of its blood, and put it on the tip of Aaron’s right ear, and on the thumb of his right hand, and on the great toe of his right foot.
+LABEL:24
+VERSE:He brought Aaron’s sons; and Moses put some of the blood on the tip of their right ear, and on the thumb of their right hand, and on the great toe of their right foot; and Moses sprinkled the blood around on the altar.
+LABEL:25
+VERSE:He took the fat, the fat tail, all the fat that was on the innards, the cover of the liver, the two kidneys and their fat, and the right thigh;
+LABEL:26
+VERSE:and out of the basket of unleavened bread that was before Yahweh, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh.
+LABEL:27
+VERSE:He put all these in Aaron’s hands and in his sons’ hands, and waved them for a wave offering before Yahweh.
+LABEL:28
+VERSE:Moses took them from their hands, and burned them on the altar on the burnt offering. They were a consecration offering for a pleasant aroma. It was an offering made by fire to Yahweh.
+LABEL:29
+VERSE:Moses took the breast, and waved it for a wave offering before Yahweh. It was Moses’ portion of the ram of consecration, as Yahweh commanded Moses.
+LABEL:30
+VERSE:Moses took some of the anointing oil, and some of the blood which was on the altar, and sprinkled it on Aaron, on his garments, and on his sons, and on his sons’ garments with him, and sanctified Aaron, his garments, and his sons, and his sons’ garments with him.
+LABEL:31
+VERSE:Moses said to Aaron and to his sons, “Boil the meat at the door of the Tent of Meeting, and there eat it and the bread that is in the basket of consecration, as I commanded, saying, ‘Aaron and his sons shall eat it.’
+LABEL:32
+VERSE:What remains of the meat and of the bread you shall burn with fire.
+LABEL:33
+VERSE:You shall not go out from the door of the Tent of Meeting for seven days, until the days of your consecration are fulfilled: for he shall consecrate you seven days.
+LABEL:34
+VERSE:What has been done today, so Yahweh has commanded to do, to make atonement for you.
+LABEL:35
+VERSE:You shall stay at the door of the Tent of Meeting day and night seven days, and keep Yahweh’s command, that you don’t die: for so I am commanded.”
+LABEL:36
+VERSE:Aaron and his sons did all the things which Yahweh commanded by Moses.

@@ -1,0 +1,71 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:27
+TITLE:Job 27
+LABEL:1
+VERSE:Job again took up his parable, and said,
+LABEL:2
+VERSE:“As God lives, who has taken away my right,
+VERSE:the Almighty, who has made my soul bitter
+LABEL:3
+VERSE:(for the length of my life is still in me,
+VERSE:and the spirit of God is in my nostrils);
+LABEL:4
+VERSE:surely my lips will not speak unrighteousness,
+VERSE:neither will my tongue utter deceit.
+LABEL:5
+VERSE:Far be it from me that I should justify you.
+VERSE:Until I die I will not put away my integrity from me.
+LABEL:6
+VERSE:I hold fast to my righteousness, and will not let it go.
+VERSE:My heart will not reproach me so long as I live.
+LABEL:7
+VERSE:“Let my enemy be as the wicked.
+VERSE:Let him who rises up against me be as the unrighteous.
+LABEL:8
+VERSE:For what is the hope of the godless, when he is cut off,
+VERSE:when God takes away his life?
+LABEL:9
+VERSE:Will God hear his cry when trouble comes on him?
+LABEL:10
+VERSE:Will he delight himself in the Almighty,
+VERSE:and call on God at all times?
+LABEL:11
+VERSE:I will teach you about the hand of God.
+VERSE:I will not conceal that which is with the Almighty.
+LABEL:12
+VERSE:Behold, all of you have seen it yourselves;
+VERSE:why then have you become altogether vain?
+LABEL:13
+VERSE:“This is the portion of a wicked man with God,
+VERSE:the heritage of oppressors, which they receive from the Almighty.
+LABEL:14
+VERSE:If his children are multiplied, it is for the sword.
+VERSE:His offspring will not be satisfied with bread.
+LABEL:15
+VERSE:Those who remain of him will be buried in death.
+VERSE:His widows will make no lamentation.
+LABEL:16
+VERSE:Though he heap up silver as the dust,
+VERSE:and prepare clothing as the clay;
+LABEL:17
+VERSE:he may prepare it, but the just will put it on,
+VERSE:and the innocent will divide the silver.
+LABEL:18
+VERSE:He builds his house as the moth,
+VERSE:as a booth which the watchman makes.
+LABEL:19
+VERSE:He lies down rich, but he will not do so again.
+VERSE:He opens his eyes, and he is not.
+LABEL:20
+VERSE:Terrors overtake him like waters.
+VERSE:A storm steals him away in the night.
+LABEL:21
+VERSE:The east wind carries him away, and he departs.
+VERSE:It sweeps him out of his place.
+LABEL:22
+VERSE:For it hurls at him, and does not spare,
+VERSE:as he flees away from his hand.
+LABEL:23
+VERSE:Men will clap their hands at him,
+VERSE:and will hiss him out of his place.

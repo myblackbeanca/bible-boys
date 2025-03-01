@@ -1,0 +1,52 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:39
+TITLE:Psalms 39
+LABEL:1
+VERSE:I said, I will take heed to my ways,
+VERSE:That I sin not with my tongue:
+VERSE:I will keep my mouth with a bridle,
+VERSE:While the wicked is before me.
+LABEL:2
+VERSE:I was dumb with silence, I held my peace, even from good;
+VERSE:And my sorrow was stirred.
+LABEL:3
+VERSE:My heart was hot within me;
+VERSE:While I was musing the fire burned;
+VERSE:Then spake I with my tongue:
+LABEL:4
+VERSE:Jehovah, make me to know mine end,
+VERSE:And the measure of my days, what it is;
+VERSE:Let me know how frail I am.
+LABEL:5
+VERSE:Behold, thou hast made my days as handbreadths;
+VERSE:And my life-time is as nothing before thee:
+VERSE:Surely every man at his best estate is altogether vanity. [Selah
+LABEL:6
+VERSE:Surely every man walketh in a vain show;
+VERSE:Surely they are disquieted in vain:
+VERSE:He heapeth up riches, and knoweth not who shall gather them.
+LABEL:7
+VERSE:And now, Lord, what wait I for?
+VERSE:My hope is in thee.
+LABEL:8
+VERSE:Deliver me from all my transgressions:
+VERSE:Make me not the reproach of the foolish.
+LABEL:9
+VERSE:I was dumb, I opened not my mouth;
+VERSE:Because thou didst it.
+LABEL:10
+VERSE:Remove thy stroke away from me:
+VERSE:I am consumed by the blow of thy hand.
+LABEL:11
+VERSE:When thou with rebukes dost correct man for iniquity,
+VERSE:Thou makest his beauty to consume away like a moth:
+VERSE:Surely every man is vanity. [Selah
+LABEL:12
+VERSE:Hear my prayer, O Jehovah, and give ear unto my cry;
+VERSE:Hold not thy peace at my tears:
+VERSE:For I am a stranger with thee,
+VERSE:A sojourner, as all my fathers were.
+LABEL:13
+VERSE:Oh spare me, that I may recover strength,
+VERSE:Before I go hence, and be no more.

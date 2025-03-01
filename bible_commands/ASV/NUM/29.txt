@@ -1,0 +1,84 @@
+TRANSLATION:ASV
+BOOK:NUM
+CHAPTER:29
+TITLE:Numbers 29
+LABEL:1
+VERSE:And in the seventh month, on the first day of the month, ye shall have a holy convocation; ye shall do no servile work: it is a day of blowing of trumpets unto you.
+LABEL:2
+VERSE:And ye shall offer a burnt-offering for a sweet savor unto Jehovah: one young bullock, one ram, seven he-lambs a year old without blemish;
+LABEL:3
+VERSE:and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth parts for the ram,
+LABEL:4
+VERSE:and one tenth part for every lamb of the seven lambs;
+LABEL:5
+VERSE:and one he-goat for a sin-offering, to make atonement for you;
+LABEL:6
+VERSE:besides the burnt-offering of the new moon, and the meal-offering thereof, and the continual burnt-offering and the meal-offering thereof, and their drink-offerings, according unto their ordinance, for a sweet savor, an offering made by fire unto Jehovah.
+LABEL:7
+VERSE:And on the tenth day of this seventh month ye shall have a holy convocation; and ye shall afflict your souls: ye shall do no manner of work;
+LABEL:8
+VERSE:but ye shall offer a burnt-offering unto Jehovah for a sweet savor: one young bullock, one ram, seven he-lambs a year old; they shall be unto you without blemish;
+LABEL:9
+VERSE:and their meal-offering, fine flour mingled with oil, three tenth parts for the bullock, two tenth parts for the one ram,
+LABEL:10
+VERSE:a tenth part for every lamb of the seven lambs:
+LABEL:11
+VERSE:one he-goat for a sin-offering; besides the sin-offering of atonement, and the continual burnt-offering, and the meal-offering thereof, and their drink-offerings.
+LABEL:12
+VERSE:And on the fifteenth day of the seventh month ye shall have a holy convocation; ye shall do no servile work, and ye shall keep a feast unto Jehovah seven days:
+LABEL:13
+VERSE:and ye shall offer a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah; thirteen young bullocks, two rams, fourteen he-lambs a year old; they shall be without blemish;
+LABEL:14
+VERSE:and their meal-offering, fine flour mingled with oil, three tenth parts for every bullock of the thirteen bullocks, two tenth parts for each ram of the two rams,
+LABEL:15
+VERSE:and a tenth part for every lamb of the fourteen lambs;
+LABEL:16
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offering thereof.
+LABEL:17
+VERSE:And on the second day ye shall offer twelve young bullocks, two rams, fourteen he-lambs a year old without blemish;
+LABEL:18
+VERSE:and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:19
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and their drink-offerings.
+LABEL:20
+VERSE:And on the third day eleven bullocks, two rams, fourteen he-lambs a year old without blemish;
+LABEL:21
+VERSE:and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:22
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
+LABEL:23
+VERSE:And on the fourth day ten bullocks, two rams, fourteen he-lambs a year old without blemish;
+LABEL:24
+VERSE:their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:25
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offering thereof.
+LABEL:26
+VERSE:And on the fifth day nine bullocks, two rams, fourteen he-lambs a year old without blemish;
+LABEL:27
+VERSE:and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:28
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
+LABEL:29
+VERSE:And on the sixth day eight bullocks, two rams, fourteen he-lambs a year old without blemish;
+LABEL:30
+VERSE:and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:31
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offerings thereof.
+LABEL:32
+VERSE:And on the seventh day seven bullocks, two rams, fourteen he-lambs a year old without blemish;
+LABEL:33
+VERSE:and their meal-offering and their drink-offerings for the bullocks, for the rams, and for the lambs, according to their number, after the ordinance;
+LABEL:34
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, the meal-offering thereof, and the drink-offering thereof.
+LABEL:35
+VERSE:On the eighth day ye shall have a solemn assembly: ye shall do no servile work;
+LABEL:36
+VERSE:but ye shall offer a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah: one bullock, one ram, seven he-lambs a year old without blemish;
+LABEL:37
+VERSE:their meal-offering and their drink-offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the ordinance:
+LABEL:38
+VERSE:and one he-goat for a sin-offering; besides the continual burnt-offering, and the meal-offering thereof, and the drink-offering thereof.
+LABEL:39
+VERSE:These ye shall offer unto Jehovah in your set feasts, besides your vows, and your freewill-offerings, for your burnt-offerings, and for your meal-offerings, and for your drink-offerings, and for your peace-offerings.
+LABEL:40
+VERSE:And Moses told the children of Israel according to all that Jehovah commanded Moses.

@@ -1,0 +1,111 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:30
+TITLE:Jeremiah 30
+LABEL:1
+VERSE:The word that came to Jeremiah from Yahweh, saying,
+LABEL:2
+VERSE:“Yahweh, the God of Israel, says, ‘Write all the words that I have spoken to you in a book.
+LABEL:3
+VERSE:For, behold, the days come,’ says Yahweh, ‘that I will reverse the captivity of my people Israel and Judah,’ says Yahweh. ‘I will cause them to return to the land that I gave to their fathers, and they will possess it.’”
+LABEL:4
+VERSE:These are the words that Yahweh spoke concerning Israel and concerning Judah.
+LABEL:5
+VERSE:For Yahweh says:
+VERSE:“We have heard a voice of trembling;
+VERSE:a voice of fear, and not of peace.
+LABEL:6
+VERSE:Ask now, and see whether a man travails with child.
+VERSE:Why do I see every man with his hands on his waist, as a woman in travail,
+VERSE:and all faces are turned pale?
+LABEL:7
+VERSE:Alas, for that day is great, so that none is like it!
+VERSE:It is even the time of Jacob’s trouble;
+VERSE:but he will be saved out of it.
+LABEL:8
+VERSE:It will come to pass in that day, says Yahweh of Armies, that I will break his yoke from off your neck,
+VERSE:and will burst your bonds.
+VERSE:Strangers will no more make them their bondservants;
+LABEL:9
+VERSE:but they will serve Yahweh their God,
+VERSE:and David their king,
+VERSE:whom I will raise up to them.
+LABEL:10
+VERSE:Therefore don’t be afraid, O Jacob my servant, says Yahweh.
+VERSE:Don’t be dismayed, Israel.
+VERSE:For, behold, I will save you from afar,
+VERSE:and save your offspring from the land of their captivity.
+VERSE:Jacob will return,
+VERSE:and will be quiet and at ease.
+VERSE:No one will make him afraid.
+LABEL:11
+VERSE:For I am with you, says Yahweh, to save you;
+VERSE:for I will make a full end of all the nations where I have scattered you,
+VERSE:but I will not make a full end of you;
+VERSE:but I will correct you in measure,
+VERSE:and will in no way leave you unpunished.”
+LABEL:12
+VERSE:For Yahweh says,
+VERSE:“Your hurt is incurable.
+VERSE:Your wound is grievous.
+LABEL:13
+VERSE:There is no one to plead your cause,
+VERSE:that you may be bound up.
+VERSE:You have no healing medicines.
+LABEL:14
+VERSE:All your lovers have forgotten you.
+VERSE:They don’t seek you.
+VERSE:For I have wounded you with the wound of an enemy,
+VERSE:with the chastisement of a cruel one,
+VERSE:for the greatness of your iniquity,
+VERSE:because your sins were increased.
+LABEL:15
+VERSE:Why do you cry over your injury?
+VERSE:Your pain is incurable.
+VERSE:For the greatness of your iniquity,
+VERSE:because your sins have increased,
+VERSE:I have done these things to you.
+LABEL:16
+VERSE:Therefore all those who devour you will be devoured.
+VERSE:All your adversaries, everyone of them, will go into captivity.
+VERSE:Those who plunder you will be plunder.
+VERSE:I will make all who prey on you become prey.
+LABEL:17
+VERSE:For I will restore health to you,
+VERSE:and I will heal you of your wounds,” says Yahweh,
+VERSE:“because they have called you an outcast,
+VERSE:saying, ‘It is Zion, whom no man seeks after.’”
+LABEL:18
+VERSE:Yahweh says:
+VERSE:“Behold, I will reverse the captivity of Jacob’s tents,
+VERSE:and have compassion on his dwelling places.
+VERSE:The city will be built on its own hill,
+VERSE:and the palace will be inhabited in its own place.
+LABEL:19
+VERSE:Thanksgiving will proceed out of them
+VERSE:with the voice of those who make merry.
+VERSE:I will multiply them,
+VERSE:and they will not be few;
+VERSE:I will also glorify them,
+VERSE:and they will not be small.
+LABEL:20
+VERSE:Their children also will be as before,
+VERSE:and their congregation will be established before me.
+VERSE:I will punish all who oppress them.
+LABEL:21
+VERSE:Their prince will be one of them,
+VERSE:and their ruler will proceed from among them.
+VERSE:I will cause him to draw near,
+VERSE:and he will approach me;
+VERSE:for who is he who has had boldness to approach me?” says Yahweh.
+LABEL:22
+VERSE:“You shall be my people,
+VERSE:and I will be your God.
+LABEL:23
+VERSE:Behold, Yahweh’s storm, his wrath, has gone out,
+VERSE:a sweeping storm;
+VERSE:it will burst on the head of the wicked.
+LABEL:24
+VERSE:The fierce anger of Yahweh will not return until he has accomplished,
+VERSE:and until he has performed the intentions of his heart.
+VERSE:In the latter days you will understand it.”

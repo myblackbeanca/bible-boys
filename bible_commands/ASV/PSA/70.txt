@@ -1,0 +1,24 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:70
+TITLE:Psalms 70
+LABEL:1
+VERSE:  Make haste, O God, to deliver me;
+VERSE:Make haste to help me, O Jehovah.
+LABEL:2
+VERSE:Let them be put to shame and confounded
+VERSE:That seek after my soul:
+VERSE:Let them be turned backward and brought to dishonor
+VERSE:That delight in my hurt.
+LABEL:3
+VERSE:Let them be turned back by reason of their shame
+VERSE:That say, Aha, aha.
+LABEL:4
+VERSE:Let all those that seek thee rejoice and be glad in thee;
+VERSE:And let such as love thy salvation say continually,
+VERSE:Let God be magnified.
+LABEL:5
+VERSE:But I am poor and needy;
+VERSE:Make haste unto me, O God:
+VERSE:Thou art my help and my deliverer;
+VERSE:O Jehovah, make no tarrying.

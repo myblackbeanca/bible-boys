@@ -1,0 +1,50 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:148
+TITLE:Psalm 148
+LABEL:1
+VERSE:Praise ye the LORD.
+VERSE:Praise ye the LORD from the heavens:
+VERSE:Praise him in the heights.
+LABEL:2
+VERSE:Praise ye him, all his angels:
+VERSE:Praise ye him, all his hosts.
+LABEL:3
+VERSE:Praise ye him, sun and moon:
+VERSE:Praise him, all ye stars of light.
+LABEL:4
+VERSE:Praise him, ye heavens of heavens,
+VERSE:And ye waters that be above the heavens.
+LABEL:5
+VERSE:Let them praise the name of the LORD:
+VERSE:For he commanded, and they were created.
+LABEL:6
+VERSE:He hath also stablished them for ever and ever:
+VERSE:He hath made a decree which shall not pass.
+LABEL:7
+VERSE:Praise the LORD from the earth,
+VERSE:Ye dragons, and all deeps:
+LABEL:8
+VERSE:Fire, and hail; snow, and vapours;
+VERSE:Stormy wind fulfilling his word:
+LABEL:9
+VERSE:Mountains, and all hills;
+VERSE:Fruitful trees, and all cedars:
+LABEL:10
+VERSE:Beasts, and all cattle;
+VERSE:Creeping things, and flying fowl:
+LABEL:11
+VERSE:Kings of the earth, and all people;
+VERSE:Princes, and all judges of the earth:
+LABEL:12
+VERSE:Both young men, and maidens;
+VERSE:Old men, and children:
+LABEL:13
+VERSE:Let them praise the name of the LORD:
+VERSE:For his name alone is excellent;
+VERSE:His glory is above the earth and heaven.
+LABEL:14
+VERSE:He also exalteth the horn of his people,
+VERSE:The praise of all his saints;
+VERSE:Even of the children of Israel, a people near unto him.
+VERSE:Praise ye the LORD.

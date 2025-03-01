@@ -1,0 +1,88 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:17
+TITLE:Proverbs 17
+LABEL:1
+VERSE:Better is a dry morsel, and quietness therewith,
+VERSE:Than an house full of sacrifices with strife.
+LABEL:2
+VERSE:A wise servant shall have rule over a son that causeth shame,
+VERSE:And shall have part of the inheritance among the brethren.
+LABEL:3
+VERSE:The fining pot is for silver, and the furnace for gold:
+VERSE:But the LORD trieth the hearts.
+LABEL:4
+VERSE:A wicked doer giveth heed to false lips;
+VERSE:And a liar giveth ear to a naughty tongue.
+LABEL:5
+VERSE:Whoso mocketh the poor reproacheth his Maker:
+VERSE:And he that is glad at calamities shall not be unpunished.
+LABEL:6
+VERSE:Children's children are the crown of old men;
+VERSE:And the glory of children are their fathers.
+LABEL:7
+VERSE:Excellent speech becometh not a fool:
+VERSE:Much less do lying lips a prince.
+LABEL:8
+VERSE:A gift is as a precious stone in the eyes of him that hath it:
+VERSE:Whithersoever it turneth, it prospereth.
+LABEL:9
+VERSE:He that covereth a transgression seeketh love;
+VERSE:But he that repeateth a matter separateth very friends.
+LABEL:10
+VERSE:A reproof entereth more into a wise man
+VERSE:Than an hundred stripes into a fool.
+LABEL:11
+VERSE:An evil man seeketh only rebellion:
+VERSE:Therefore a cruel messenger shall be sent against him.
+LABEL:12
+VERSE:Let a bear robbed of her whelps meet a man,
+VERSE:Rather than a fool in his folly.
+LABEL:13
+VERSE:Whoso rewardeth evil for good,
+VERSE:Evil shall not depart from his house.
+LABEL:14
+VERSE:The beginning of strife is as when one letteth out water:
+VERSE:Therefore leave off contention, before it be meddled with.
+LABEL:15
+VERSE:He that justifieth the wicked, and he that condemneth the just,
+VERSE:Even they both are abomination to the LORD.
+LABEL:16
+VERSE:Wherefore is there a price in the hand of a fool to get wisdom,
+VERSE:Seeing he hath no heart to it?
+LABEL:17
+VERSE:A friend loveth at all times,
+VERSE:And a brother is born for adversity.
+LABEL:18
+VERSE:A man void of understanding striketh hands,
+VERSE:And becometh surety in the presence of his friend.
+LABEL:19
+VERSE:He loveth transgression that loveth strife:
+VERSE:And he that exalteth his gate seeketh destruction.
+LABEL:20
+VERSE:He that hath a froward heart findeth no good:
+VERSE:And he that hath a perverse tongue falleth into mischief.
+LABEL:21
+VERSE:He that begetteth a fool doeth it to his sorrow:
+VERSE:And the father of a fool hath no joy.
+LABEL:22
+VERSE:A merry heart doeth good like a medicine:
+VERSE:But a broken spirit drieth the bones.
+LABEL:23
+VERSE:A wicked man taketh a gift out of the bosom
+VERSE:To pervert the ways of judgment.
+LABEL:24
+VERSE:Wisdom is before him that hath understanding;
+VERSE:But the eyes of a fool are in the ends of the earth.
+LABEL:25
+VERSE:A foolish son is a grief to his father,
+VERSE:And bitterness to her that bare him.
+LABEL:26
+VERSE:Also to punish the just is not good,
+VERSE:Nor to strike princes for equity.
+LABEL:27
+VERSE:He that hath knowledge spareth his words:
+VERSE:And a man of understanding is of an excellent spirit.
+LABEL:28
+VERSE:Even a fool, when he holdeth his peace, is counted wise:
+VERSE:And he that shutteth his lips is esteemed a man of understanding.

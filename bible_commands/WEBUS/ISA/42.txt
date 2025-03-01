@@ -1,0 +1,122 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:42
+TITLE:Isaiah 42
+LABEL:1
+VERSE:“Behold, my servant, whom I uphold,
+VERSE:my chosen, in whom my soul delights:
+VERSE:I have put my Spirit on him.
+VERSE:He will bring justice to the nations.
+LABEL:2
+VERSE:He will not shout,
+VERSE:nor raise his voice,
+VERSE:nor cause it to be heard in the street.
+LABEL:3
+VERSE:He won’t break a bruised reed.
+VERSE:He won’t quench a dimly burning wick.
+VERSE:He will faithfully bring justice.
+LABEL:4
+VERSE:He will not fail nor be discouraged,
+VERSE:until he has set justice in the earth,
+VERSE:and the islands wait for his law.”
+LABEL:5
+VERSE:God Yahweh,
+VERSE:he who created the heavens and stretched them out,
+VERSE:he who spread out the earth and that which comes out of it,
+VERSE:he who gives breath to its people and spirit to those who walk in it, says:
+LABEL:6
+VERSE:“I, Yahweh, have called you in righteousness.
+VERSE:I will hold your hand.
+VERSE:I will keep you,
+VERSE:and make you a covenant for the people,
+VERSE:as a light for the nations,
+LABEL:7
+VERSE:to open the blind eyes,
+VERSE:to bring the prisoners out of the dungeon,
+VERSE:and those who sit in darkness out of the prison.
+LABEL:8
+VERSE:“I am Yahweh.
+VERSE:That is my name.
+VERSE:I will not give my glory to another,
+VERSE:nor my praise to engraved images.
+LABEL:9
+VERSE:Behold, the former things have happened
+VERSE:and I declare new things.
+VERSE:I tell you about them before they come up.”
+LABEL:10
+VERSE:Sing to Yahweh a new song,
+VERSE:and his praise from the end of the earth,
+VERSE:you who go down to the sea,
+VERSE:and all that is therein,
+VERSE:the islands and their inhabitants.
+LABEL:11
+VERSE:Let the wilderness and its cities raise their voices,
+VERSE:with the villages that Kedar inhabits.
+VERSE:Let the inhabitants of Sela sing.
+VERSE:Let them shout from the top of the mountains!
+LABEL:12
+VERSE:Let them give glory to Yahweh,
+VERSE:and declare his praise in the islands.
+LABEL:13
+VERSE:Yahweh will go out like a mighty man.
+VERSE:He will stir up zeal like a man of war.
+VERSE:He will raise a war cry.
+VERSE:Yes, he will shout aloud.
+VERSE:He will triumph over his enemies.
+LABEL:14
+VERSE:“I have been silent a long time.
+VERSE:I have been quiet and restrained myself.
+VERSE:Now I will cry out like a travailing woman. I will both gasp and pant.
+LABEL:15
+VERSE:I will destroy mountains and hills,
+VERSE:and dry up all their herbs.
+VERSE:I will make the rivers islands,
+VERSE:and will dry up the pools.
+LABEL:16
+VERSE:I will bring the blind by a way that they don’t know.
+VERSE:I will lead them in paths that they don’t know.
+VERSE:I will make darkness light before them,
+VERSE:and crooked places straight.
+VERSE:I will do these things,
+VERSE:and I will not forsake them.
+LABEL:17
+VERSE:“Those who trust in engraved images,
+VERSE:who tell molten images,
+VERSE:‘You are our gods,’
+VERSE:will be turned back.
+VERSE:They will be utterly disappointed.
+LABEL:18
+VERSE:“Hear, you deaf,
+VERSE:and look, you blind,
+VERSE:that you may see.
+LABEL:19
+VERSE:Who is blind, but my servant?
+VERSE:Or who is as deaf as my messenger whom I send?
+VERSE:Who is as blind as he who is at peace,
+VERSE:and as blind as Yahweh’s servant?
+LABEL:20
+VERSE:You see many things, but don’t observe.
+VERSE:His ears are open, but he doesn’t listen.
+LABEL:21
+VERSE:It pleased Yahweh, for his righteousness’ sake, to magnify the law
+VERSE:and make it honorable.
+LABEL:22
+VERSE:But this is a robbed and plundered people.
+VERSE:All of them are snared in holes,
+VERSE:and they are hidden in prisons.
+VERSE:They have become captives, and no one delivers,
+VERSE:and a plunder, and no one says, ‘Restore them!’
+LABEL:23
+VERSE:Who is there among you who will give ear to this?
+VERSE:Who will listen and hear for the time to come?
+LABEL:24
+VERSE:Who gave Jacob as plunder,
+VERSE:and Israel to the robbers?
+VERSE:Didn’t Yahweh, he against whom we have sinned?
+VERSE:For they would not walk in his ways,
+VERSE:and they disobeyed his law.
+LABEL:25
+VERSE:Therefore he poured the fierceness of his anger on him,
+VERSE:and the strength of battle.
+VERSE:It set him on fire all around, but he didn’t know.
+VERSE:It burned him, but he didn’t take it to heart.”

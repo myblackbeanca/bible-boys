@@ -1,0 +1,96 @@
+TRANSLATION:KJV
+BOOK:JOB
+CHAPTER:20
+TITLE:Job 20
+SECTION:Zophar's Speech
+LABEL:1
+VERSE:Then answered Zophar the Naamathite, and said,
+LABEL:2
+VERSE:Therefore do my thoughts cause me to answer,
+VERSE:And for this I make haste.
+LABEL:3
+VERSE:I have heard the check of my reproach,
+VERSE:And the spirit of my understanding causeth me to answer.
+LABEL:4
+VERSE:Knowest thou not this of old,
+VERSE:Since man was placed upon earth,
+LABEL:5
+VERSE:That the triumphing of the wicked is short,
+VERSE:And the joy of the hypocrite but for a moment?
+LABEL:6
+VERSE:Though his excellency mount up to the heavens,
+VERSE:And his head reach unto the clouds;
+LABEL:7
+VERSE:  Yet he shall perish for ever like his own dung:
+VERSE:They which have seen him shall say, Where is he?
+LABEL:8
+VERSE:He shall fly away as a dream, and shall not be found:
+VERSE:Yea, he shall be chased away as a vision of the night.
+LABEL:9
+VERSE:The eye also which saw him shall see him no more;
+VERSE:Neither shall his place any more behold him.
+LABEL:10
+VERSE:His children shall seek to please the poor,
+VERSE:And his hands shall restore their goods.
+LABEL:11
+VERSE:His bones are full of the sin of his youth,
+VERSE:Which shall lie down with him in the dust.
+LABEL:12
+VERSE:Though wickedness be sweet in his mouth,
+VERSE:Though he hide it under his tongue;
+LABEL:13
+VERSE:  Though he spare it, and forsake it not;
+VERSE:But keep it still within his mouth:
+LABEL:14
+VERSE:  Yet his meat in his bowels is turned,
+VERSE:It is the gall of asps within him.
+LABEL:15
+VERSE:He hath swallowed down riches, and he shall vomit them up again:
+VERSE:God shall cast them out of his belly.
+LABEL:16
+VERSE:He shall suck the poison of asps:
+VERSE:The viper's tongue shall slay him.
+LABEL:17
+VERSE:He shall not see the rivers,
+VERSE:The floods, the brooks of honey and butter.
+LABEL:18
+VERSE:That which he laboured for shall he restore,
+VERSE:And shall not swallow it down:
+VERSE:According to his substance shall the restitution be,
+VERSE:and he shall not rejoice therein.
+LABEL:19
+VERSE:Because he hath oppressed and hath forsaken the poor;
+VERSE:Because he hath violently taken away an house which he builded not;
+LABEL:20
+VERSE:Surely he shall not feel quietness in his belly,
+VERSE:He shall not save of that which he desired.
+LABEL:21
+VERSE:There shall none of his meat be left;
+VERSE:Therefore shall no man look for his goods.
+LABEL:22
+VERSE:In the fulness of his sufficiency he shall be in straits:
+VERSE:Every hand of the wicked shall come upon him.
+LABEL:23
+VERSE:  When he is about to fill his belly,
+VERSE:God shall cast the fury of his wrath upon him,
+VERSE:And shall rain it upon him while he is eating.
+LABEL:24
+VERSE:He shall flee from the iron weapon,
+VERSE:And the bow of steel shall strike him through.
+LABEL:25
+VERSE:It is drawn, and cometh out of the body;
+VERSE:Yea, the glittering sword cometh out of his gall:
+VERSE:Terrors are upon him.
+LABEL:26
+VERSE:All darkness shall be hid in his secret places:
+VERSE:A fire not blown shall consume him;
+VERSE:It shall go ill with him that is left in his tabernacle.
+LABEL:27
+VERSE:The heaven shall reveal his iniquity;
+VERSE:And the earth shall rise up against him.
+LABEL:28
+VERSE:The increase of his house shall depart,
+VERSE:And his goods shall flow away in the day of his wrath.
+LABEL:29
+VERSE:This is the portion of a wicked man from God,
+VERSE:And the heritage appointed unto him by God.

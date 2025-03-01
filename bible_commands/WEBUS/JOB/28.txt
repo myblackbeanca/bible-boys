@@ -1,0 +1,91 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:28
+TITLE:Job 28
+LABEL:1
+VERSE:“Surely there is a mine for silver,
+VERSE:and a place for gold which they refine.
+LABEL:2
+VERSE:Iron is taken out of the earth,
+VERSE:and copper is smelted out of the ore.
+LABEL:3
+VERSE:Man sets an end to darkness,
+VERSE:and searches out, to the furthest bound,
+VERSE:the stones of obscurity and of thick darkness.
+LABEL:4
+VERSE:He breaks open a shaft away from where people live.
+VERSE:They are forgotten by the foot.
+VERSE:They hang far from men, they swing back and forth.
+LABEL:5
+VERSE:As for the earth, out of it comes bread.
+VERSE:Underneath it is turned up as it were by fire.
+LABEL:6
+VERSE:Sapphires come from its rocks.
+VERSE:It has dust of gold.
+LABEL:7
+VERSE:That path no bird of prey knows,
+VERSE:neither has the falcon’s eye seen it.
+LABEL:8
+VERSE:The proud animals have not trodden it,
+VERSE:nor has the fierce lion passed by there.
+LABEL:9
+VERSE:He puts his hand on the flinty rock,
+VERSE:and he overturns the mountains by the roots.
+LABEL:10
+VERSE:He cuts out channels among the rocks.
+VERSE:His eye sees every precious thing.
+LABEL:11
+VERSE:He binds the streams that they don’t trickle.
+VERSE:The thing that is hidden he brings out to light.
+LABEL:12
+VERSE:“But where will wisdom be found?
+VERSE:Where is the place of understanding?
+LABEL:13
+VERSE:Man doesn’t know its price,
+VERSE:and it isn’t found in the land of the living.
+LABEL:14
+VERSE:The deep says, ‘It isn’t in me.’
+VERSE:The sea says, ‘It isn’t with me.’
+LABEL:15
+VERSE:It can’t be gotten for gold,
+VERSE:neither will silver be weighed for its price.
+LABEL:16
+VERSE:It can’t be valued with the gold of Ophir,
+VERSE:with the precious onyx, or the sapphire.
+LABEL:17
+VERSE:Gold and glass can’t equal it,
+VERSE:neither will it be exchanged for jewels of fine gold.
+LABEL:18
+VERSE:No mention will be made of coral or of crystal.
+VERSE:Yes, the price of wisdom is above rubies.
+LABEL:19
+VERSE:The topaz of Ethiopia will not equal it.
+VERSE:It won’t be valued with pure gold.
+LABEL:20
+VERSE:Where then does wisdom come from?
+VERSE:Where is the place of understanding?
+LABEL:21
+VERSE:Seeing it is hidden from the eyes of all living,
+VERSE:and kept close from the birds of the sky.
+LABEL:22
+VERSE:Destruction and Death say,
+VERSE:‘We have heard a rumor of it with our ears.’
+LABEL:23
+VERSE:“God understands its way,
+VERSE:and he knows its place.
+LABEL:24
+VERSE:For he looks to the ends of the earth,
+VERSE:and sees under the whole sky.
+LABEL:25
+VERSE:He establishes the force of the wind.
+VERSE:Yes, he measures out the waters by measure.
+LABEL:26
+VERSE:When he made a decree for the rain,
+VERSE:and a way for the lightning of the thunder,
+LABEL:27
+VERSE:then he saw it, and declared it.
+VERSE:He established it, yes, and searched it out.
+LABEL:28
+VERSE:To man he said,
+VERSE:‘Behold, the fear of the Lord, that is wisdom.
+VERSE:To depart from evil is understanding.’”

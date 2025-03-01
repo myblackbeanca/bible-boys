@@ -1,0 +1,42 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:36
+TITLE:Psalms 36
+LABEL:1
+VERSE:The transgression of the wicked saith within my heart,
+VERSE:There is no fear of God before his eyes.
+LABEL:2
+VERSE:For he flattereth himself in his own eyes,
+VERSE:That his iniquity will not be found out and be hated.
+LABEL:3
+VERSE:The words of his mouth are iniquity and deceit:
+VERSE:He hath ceased to be wise and to do good.
+LABEL:4
+VERSE:He deviseth iniquity upon his bed;
+VERSE:He setteth himself in a way that is not good;
+VERSE:He abhorreth not evil.
+LABEL:5
+VERSE:Thy lovingkindness, O Jehovah, is in the heavens;
+VERSE:Thy faithfulness reacheth unto the skies.
+LABEL:6
+VERSE:Thy righteousness is like the mountains of God;
+VERSE:Thy judgments are a great deep:
+VERSE:O Jehovah, thou preservest man and beast.
+LABEL:7
+VERSE:How precious is thy lovingkindness, O God!
+VERSE:And the children of men take refuge under the shadow of thy wings.
+LABEL:8
+VERSE:They shall be abundantly satisfied with the fatness of thy house;
+VERSE:And thou wilt make them drink of the river of thy pleasures.
+LABEL:9
+VERSE:For with thee is the fountain of life:
+VERSE:In thy light shall we see light.
+LABEL:10
+VERSE:Oh continue thy lovingkindness unto them that know thee,
+VERSE:And thy righteousness to the upright in heart.
+LABEL:11
+VERSE:Let not the foot of pride come against me,
+VERSE:And let not the hand of the wicked drive me away.
+LABEL:12
+VERSE:There are the workers of iniquity fallen:
+VERSE:They are thrust down, and shall not be able to rise.

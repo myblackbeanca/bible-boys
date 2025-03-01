@@ -1,0 +1,110 @@
+TRANSLATION:KJV
+BOOK:MAT
+CHAPTER:24
+TITLE:Matthew 24
+SECTION:Destruction of the Temple
+LABEL:1
+VERSE:And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
+LABEL:2
+VERSE:And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
+LABEL:3
+VERSE:And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
+LABEL:4
+VERSE:And Jesus answered and said unto them, Take heed that no man deceive you.
+LABEL:5
+VERSE:For many shall come in my name, saying, I am Christ; and shall deceive many.
+LABEL:6
+VERSE:And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all these things must come to pass, but the end is not yet.
+LABEL:7
+VERSE:For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+LABEL:8
+VERSE:All these are the beginning of sorrows.
+LABEL:9
+VERSE:Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.
+LABEL:10
+VERSE:And then shall many be offended, and shall betray one another, and shall hate one another.
+LABEL:11
+VERSE:And many false prophets shall rise, and shall deceive many.
+LABEL:12
+VERSE:And because iniquity shall abound, the love of many shall wax cold.
+LABEL:13
+VERSE:But he that shall endure unto the end, the same shall be saved.
+LABEL:14
+VERSE:And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
+SECTION:The Abomination of Desolation
+LABEL:15
+VERSE:  When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
+LABEL:16
+VERSE:then let them which be in Judæa flee into the mountains:
+LABEL:17
+VERSE:let him which is on the house top not come down to take any thing out of his house:
+LABEL:18
+VERSE:neither let him which is in the field return back to take his clothes.
+LABEL:19
+VERSE:And woe unto them that are with child, and to them that give suck in those days!
+LABEL:20
+VERSE:But pray ye that your flight be not in the winter, neither on the sabbath day:
+LABEL:21
+VERSE:for then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
+LABEL:22
+VERSE:And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.
+LABEL:23
+VERSE:Then if any man shall say unto you, Lo, here is Christ, or there; believe it not.
+LABEL:24
+VERSE:For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.
+LABEL:25
+VERSE:Behold, I have told you before.
+LABEL:26
+VERSE:Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, he is in the secret chambers; believe it not.
+LABEL:27
+VERSE:For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
+LABEL:28
+VERSE:For wheresoever the carcase is, there will the eagles be gathered together.
+SECTION:The Coming of the Son of Man
+LABEL:29
+VERSE:  Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
+LABEL:30
+VERSE:and then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+LABEL:31
+VERSE:And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+LABEL:32
+VERSE:Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh:
+LABEL:33
+VERSE:so likewise ye, when ye shall see all these things, know that it is near, even at the doors.
+LABEL:34
+VERSE:Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
+LABEL:35
+VERSE:Heaven and earth shall pass away, but my words shall not pass away.
+LABEL:36
+VERSE:  But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only.
+LABEL:37
+VERSE:But as the days of Noe were, so shall also the coming of the Son of man be.
+LABEL:38
+VERSE:For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
+LABEL:39
+VERSE:and knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+LABEL:40
+VERSE:Then shall two be in the field; the one shall be taken, and the other left.
+LABEL:41
+VERSE:Two women shall be grinding at the mill; the one shall be taken, and the other left.
+SECTION:Watch therefore
+LABEL:42
+VERSE:  Watch therefore: for ye know not what hour your Lord doth come.
+LABEL:43
+VERSE:But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
+LABEL:44
+VERSE:Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
+LABEL:45
+VERSE:Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
+LABEL:46
+VERSE:Blessed is that servant, whom his lord when he cometh shall find so doing.
+LABEL:47
+VERSE:Verily I say unto you, That he shall make him ruler over all his goods.
+LABEL:48
+VERSE:But and if that evil servant shall say in his heart, My lord delayeth his coming;
+LABEL:49
+VERSE:and shall begin to smite his fellowservants, and to eat and drink with the drunken;
+LABEL:50
+VERSE:the lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,
+LABEL:51
+VERSE:and shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth.

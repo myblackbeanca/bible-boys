@@ -1,0 +1,61 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:55
+TITLE:Isaiah 55
+LABEL:1
+VERSE:“Hey! Come, everyone who thirsts, to the waters!
+VERSE:Come, he who has no money, buy, and eat!
+VERSE:Yes, come, buy wine and milk without money and without price.
+LABEL:2
+VERSE:Why do you spend money for that which is not bread,
+VERSE:and your labor for that which doesn’t satisfy?
+VERSE:Listen diligently to me, and eat that which is good,
+VERSE:and let your soul delight itself in richness.
+LABEL:3
+VERSE:Turn your ear, and come to me.
+VERSE:Hear, and your soul will live.
+VERSE:I will make an everlasting covenant with you, even the sure mercies of David.
+LABEL:4
+VERSE:Behold, I have given him for a witness to the peoples,
+VERSE:a leader and commander to the peoples.
+LABEL:5
+VERSE:Behold, you shall call a nation that you don’t know;
+VERSE:and a nation that didn’t know you shall run to you,
+VERSE:because of Yahweh your God,
+VERSE:and for the Holy One of Israel;
+VERSE:for he has glorified you.”
+LABEL:6
+VERSE:Seek Yahweh while he may be found.
+VERSE:Call on him while he is near.
+LABEL:7
+VERSE:Let the wicked forsake his way,
+VERSE:and the unrighteous man his thoughts.
+VERSE:Let him return to Yahweh, and he will have mercy on him,
+VERSE:to our God, for he will freely pardon.
+LABEL:8
+VERSE:“For my thoughts are not your thoughts,
+VERSE:and your ways are not my ways,” says Yahweh.
+LABEL:9
+VERSE:“For as the heavens are higher than the earth,
+VERSE:so are my ways higher than your ways,
+VERSE:and my thoughts than your thoughts.
+LABEL:10
+VERSE:For as the rain comes down and the snow from the sky,
+VERSE:and doesn’t return there, but waters the earth,
+VERSE:and makes it grow and bud,
+VERSE:and gives seed to the sower and bread to the eater;
+LABEL:11
+VERSE:so is my word that goes out of my mouth:
+VERSE:it will not return to me void,
+VERSE:but it will accomplish that which I please,
+VERSE:and it will prosper in the thing I sent it to do.
+LABEL:12
+VERSE:For you shall go out with joy,
+VERSE:and be led out with peace.
+VERSE:The mountains and the hills will break out before you into singing;
+VERSE:and all the trees of the fields will clap their hands.
+LABEL:13
+VERSE:Instead of the thorn the cypress tree will come up;
+VERSE:and instead of the brier the myrtle tree will come up.
+VERSE:It will make a name for Yahweh,
+VERSE:for an everlasting sign that will not be cut off.”

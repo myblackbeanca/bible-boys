@@ -1,0 +1,15 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:131
+TITLE:Psalms 131
+LABEL:1
+VERSE:Jehovah, my heart is not haughty, nor mine eyes lofty;
+VERSE:Neither do I exercise myself in great matters,
+VERSE:Or in things too wonderful for me.
+LABEL:2
+VERSE:Surely I have stilled and quieted my soul;
+VERSE:Like a weaned child with his mother,
+VERSE:Like a weaned child is my soul within me.
+LABEL:3
+VERSE:O Israel, hope in Jehovah
+VERSE:From this time forth and for evermore.

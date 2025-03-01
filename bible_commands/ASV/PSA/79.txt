@@ -1,0 +1,47 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:79
+TITLE:Psalms 79
+LABEL:1
+VERSE:O God, the nations are come into thine inheritance;
+VERSE:Thy holy temple have they defiled;
+VERSE:They have laid Jerusalem in heaps.
+LABEL:2
+VERSE:The dead bodies of thy servants have they given to be food unto the birds of the heavens,
+VERSE:The flesh of thy saints unto the beasts of the earth.
+LABEL:3
+VERSE:Their blood have they shed like water round about Jerusalem;
+VERSE:And there was none to bury them.
+LABEL:4
+VERSE:We are become a reproach to our neighbors,
+VERSE:A scoffing and derision to them that are round about us.
+LABEL:5
+VERSE:How long, O Jehovah? wilt thou be angry for ever?
+VERSE:Shall thy jealousy burn like fire?
+LABEL:6
+VERSE:Pour out thy wrath upon the nations that know thee not,
+VERSE:And upon the kingdoms that call not upon thy name.
+LABEL:7
+VERSE:For they have devoured Jacob,
+VERSE:And laid waste his habitation.
+LABEL:8
+VERSE:Remember not against us the iniquities of our forefathers:
+VERSE:Let thy tender mercies speedily meet us;
+VERSE:For we are brought very low.
+LABEL:9
+VERSE:Help us, O God of our salvation, for the glory of thy name;
+VERSE:And deliver us, and forgive our sins, for thy name’s sake.
+LABEL:10
+VERSE:Wherefore should the nations say, Where is their God?
+VERSE:Let the avenging of the blood of thy servants which is shed
+VERSE:Be known among the nations in our sight.
+LABEL:11
+VERSE:Let the sighing of the prisoner come before thee:
+VERSE:According to the greatness of thy power preserve thou those that are appointed to death;
+LABEL:12
+VERSE:And render unto our neighbors sevenfold into their bosom
+VERSE:Their reproach, wherewith they have reproached thee, O Lord.
+LABEL:13
+VERSE:So we thy people and sheep of thy pasture
+VERSE:Will give thee thanks for ever:
+VERSE:We will show forth thy praise to all generations.

@@ -1,0 +1,74 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:94
+TITLE:Psalms 94
+LABEL:1
+VERSE:Yahweh, you God to whom vengeance belongs,
+VERSE:you God to whom vengeance belongs, shine out.
+LABEL:2
+VERSE:Rise up, you judge of the earth.
+VERSE:Pay back the proud what they deserve.
+LABEL:3
+VERSE:Yahweh, how long will the wicked,
+VERSE:how long will the wicked triumph?
+LABEL:4
+VERSE:They pour out arrogant words.
+VERSE:All the evildoers boast.
+LABEL:5
+VERSE:They break your people in pieces, Yahweh,
+VERSE:and afflict your heritage.
+LABEL:6
+VERSE:They kill the widow and the alien,
+VERSE:and murder the fatherless.
+LABEL:7
+VERSE:They say, “Yah will not see,
+VERSE:neither will Jacob’s God consider.”
+LABEL:8
+VERSE:Consider, you senseless among the people;
+VERSE:you fools, when will you be wise?
+LABEL:9
+VERSE:He who implanted the ear, won’t he hear?
+VERSE:He who formed the eye, won’t he see?
+LABEL:10
+VERSE:He who disciplines the nations, won’t he punish?
+VERSE:He who teaches man knows.
+LABEL:11
+VERSE:Yahweh knows the thoughts of man,
+VERSE:that they are futile.
+LABEL:12
+VERSE:Blessed is the man whom you discipline, Yah,
+VERSE:and teach out of your law,
+LABEL:13
+VERSE:that you may give him rest from the days of adversity,
+VERSE:until the pit is dug for the wicked.
+LABEL:14
+VERSE:For Yahweh won’t reject his people,
+VERSE:neither will he forsake his inheritance.
+LABEL:15
+VERSE:For judgment will return to righteousness.
+VERSE:All the upright in heart shall follow it.
+LABEL:16
+VERSE:Who will rise up for me against the wicked?
+VERSE:Who will stand up for me against the evildoers?
+LABEL:17
+VERSE:Unless Yahweh had been my help,
+VERSE:my soul would have soon lived in silence.
+LABEL:18
+VERSE:When I said, “My foot is slipping!”
+VERSE:Your loving kindness, Yahweh, held me up.
+LABEL:19
+VERSE:In the multitude of my thoughts within me,
+VERSE:your comforts delight my soul.
+LABEL:20
+VERSE:Shall the throne of wickedness have fellowship with you,
+VERSE:which brings about mischief by statute?
+LABEL:21
+VERSE:They gather themselves together against the soul of the righteous,
+VERSE:and condemn the innocent blood.
+LABEL:22
+VERSE:But Yahweh has been my high tower,
+VERSE:my God, the rock of my refuge.
+LABEL:23
+VERSE:He has brought on them their own iniquity,
+VERSE:and will cut them off in their own wickedness.
+VERSE:Yahweh, our God, will cut them off.

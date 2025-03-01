@@ -1,0 +1,110 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:48
+TITLE:Isaiah 48
+LABEL:1
+VERSE:“Hear this, house of Jacob,
+VERSE:you who are called by the name of Israel,
+VERSE:and have come out of the waters of Judah.
+VERSE:You swear by Yahweh’s name,
+VERSE:and make mention of the God of Israel,
+VERSE:but not in truth, nor in righteousness—
+LABEL:2
+VERSE:for they call themselves citizens of the holy city,
+VERSE:and rely on the God of Israel;
+VERSE:Yahweh of Armies is his name.
+LABEL:3
+VERSE:I have declared the former things from of old.
+VERSE:Yes, they went out of my mouth, and I revealed them.
+VERSE:I did them suddenly, and they happened.
+LABEL:4
+VERSE:Because I knew that you are obstinate,
+VERSE:and your neck is an iron sinew,
+VERSE:and your brow bronze;
+LABEL:5
+VERSE:therefore I have declared it to you from of old;
+VERSE:before it came to pass I showed it to you;
+VERSE:lest you should say, ‘My idol has done them.
+VERSE:My engraved image and my molten image has commanded them.’
+LABEL:6
+VERSE:You have heard it.
+VERSE:Now see all this.
+VERSE:And you, won’t you declare it?
+VERSE:“I have shown you new things from this time,
+VERSE:even hidden things, which you have not known.
+LABEL:7
+VERSE:They are created now, and not from of old.
+VERSE:Before today, you didn’t hear them,
+VERSE:lest you should say, ‘Behold, I knew them.’
+LABEL:8
+VERSE:Yes, you didn’t hear.
+VERSE:Yes, you didn’t know.
+VERSE:Yes, from of old your ear was not opened,
+VERSE:for I knew that you dealt very treacherously,
+VERSE:and were called a transgressor from the womb.
+LABEL:9
+VERSE:For my name’s sake, I will defer my anger,
+VERSE:and for my praise, I hold it back for you
+VERSE:so that I don’t cut you off.
+LABEL:10
+VERSE:Behold, I have refined you,
+VERSE:but not as silver.
+VERSE:I have chosen you in the furnace of affliction.
+LABEL:11
+VERSE:For my own sake,
+VERSE:for my own sake, I will do it;
+VERSE:for how would my name be profaned?
+VERSE:I will not give my glory to another.
+LABEL:12
+VERSE:“Listen to me, O Jacob,
+VERSE:and Israel my called:
+VERSE:I am he.
+VERSE:I am the first.
+VERSE:I am also the last.
+LABEL:13
+VERSE:Yes, my hand has laid the foundation of the earth,
+VERSE:and my right hand has spread out the heavens.
+VERSE:when I call to them, they stand up together.
+LABEL:14
+VERSE:“Assemble yourselves, all of you, and hear!
+VERSE:Who among them has declared these things?
+VERSE:He whom Yahweh loves will do what he likes to Babylon,
+VERSE:and his arm will be against the Chaldeans.
+LABEL:15
+VERSE:I, even I, have spoken.
+VERSE:Yes, I have called him.
+VERSE:I have brought him
+VERSE:and he shall make his way prosperous.
+LABEL:16
+VERSE:“Come near to me and hear this:
+VERSE:“From the beginning I have not spoken in secret;
+VERSE:from the time that it happened, I was there.”
+VERSE:Now the Lord Yahweh has sent me
+VERSE:with his Spirit.
+LABEL:17
+VERSE:Yahweh,
+VERSE:your Redeemer,
+VERSE:the Holy One of Israel, says:
+VERSE:“I am Yahweh your God,
+VERSE:who teaches you to profit,
+VERSE:who leads you by the way that you should go.
+LABEL:18
+VERSE:Oh that you had listened to my commandments!
+VERSE:Then your peace would have been like a river
+VERSE:and your righteousness like the waves of the sea.
+LABEL:19
+VERSE:Your offspring also would have been as the sand
+VERSE:and the descendants of your body like its grains.
+VERSE:His name would not be cut off nor destroyed from before me.”
+LABEL:20
+VERSE:Leave Babylon!
+VERSE:Flee from the Chaldeans!
+VERSE:With the sound of joyful shouting announce this,
+VERSE:tell it even to the end of the earth;
+VERSE:say, “Yahweh has redeemed his servant Jacob!”
+LABEL:21
+VERSE:They didn’t thirst when he led them through the deserts.
+VERSE:He caused the waters to flow out of the rock for them.
+VERSE:He also split the rock and the waters gushed out.
+LABEL:22
+VERSE:“There is no peace”, says Yahweh, “for the wicked.”

@@ -1,0 +1,63 @@
+TRANSLATION:WEBUS
+BOOK:GEN
+CHAPTER:35
+TITLE:Genesis 35
+LABEL:1
+VERSE:God said to Jacob, “Arise, go up to Bethel, and live there. Make there an altar to God, who appeared to you when you fled from the face of Esau your brother.”
+LABEL:2
+VERSE:Then Jacob said to his household, and to all who were with him, “Put away the foreign gods that are among you, purify yourselves, and change your garments.
+LABEL:3
+VERSE:Let’s arise, and go up to Bethel. I will make there an altar to God, who answered me in the day of my distress, and was with me on the way which I went.”
+LABEL:4
+VERSE:They gave to Jacob all the foreign gods which were in their hands, and the rings which were in their ears; and Jacob hid them under the oak which was by Shechem.
+LABEL:5
+VERSE:They traveled, and a terror of God was on the cities that were around them, and they didn’t pursue the sons of Jacob.
+LABEL:6
+VERSE:So Jacob came to Luz (that is, Bethel), which is in the land of Canaan, he and all the people who were with him.
+LABEL:7
+VERSE:He built an altar there, and called the place El Beth El; because there God was revealed to him, when he fled from the face of his brother.
+LABEL:8
+VERSE:Deborah, Rebekah’s nurse, died, and she was buried below Bethel under the oak; and its name was called Allon Bacuth.
+LABEL:9
+VERSE:God appeared to Jacob again, when he came from Paddan Aram, and blessed him.
+LABEL:10
+VERSE:God said to him, “Your name is Jacob. Your name shall not be Jacob any more, but your name will be Israel.” He named him Israel.
+LABEL:11
+VERSE:God said to him, “I am God Almighty. Be fruitful and multiply. A nation and a company of nations will be from you, and kings will come out of your body.
+LABEL:12
+VERSE:The land which I gave to Abraham and Isaac, I will give it to you, and to your offspring after you I will give the land.”
+LABEL:13
+VERSE:God went up from him in the place where he spoke with him.
+LABEL:14
+VERSE:Jacob set up a pillar in the place where he spoke with him, a pillar of stone. He poured out a drink offering on it, and poured oil on it.
+LABEL:15
+VERSE:Jacob called the name of the place where God spoke with him “Bethel”.
+LABEL:16
+VERSE:They traveled from Bethel. There was still some distance to come to Ephrath, and Rachel travailed. She had hard labor.
+LABEL:17
+VERSE:When she was in hard labor, the midwife said to her, “Don’t be afraid, for now you will have another son.”
+LABEL:18
+VERSE:As her soul was departing (for she died), she named him Benoni, but his father named him Benjamin.
+LABEL:19
+VERSE:Rachel died, and was buried on the way to Ephrath (also called Bethlehem).
+LABEL:20
+VERSE:Jacob set up a pillar on her grave. The same is the Pillar of Rachel’s grave to this day.
+LABEL:21
+VERSE:Israel traveled, and spread his tent beyond the tower of Eder.
+LABEL:22
+VERSE:While Israel lived in that land, Reuben went and lay with Bilhah, his father’s concubine, and Israel heard of it.
+VERSE:Now the sons of Jacob were twelve.
+LABEL:23
+VERSE:The sons of Leah: Reuben (Jacob’s firstborn), Simeon, Levi, Judah, Issachar, and Zebulun.
+LABEL:24
+VERSE:The sons of Rachel: Joseph and Benjamin.
+LABEL:25
+VERSE:The sons of Bilhah (Rachel’s servant): Dan and Naphtali.
+LABEL:26
+VERSE:The sons of Zilpah (Leah’s servant): Gad and Asher. These are the sons of Jacob, who were born to him in Paddan Aram.
+LABEL:27
+VERSE:Jacob came to Isaac his father, to Mamre, to Kiriath Arba (which is Hebron), where Abraham and Isaac lived as foreigners.
+LABEL:28
+VERSE:The days of Isaac were one hundred eighty years.
+LABEL:29
+VERSE:Isaac gave up the spirit and died, and was gathered to his people, old and full of days. Esau and Jacob, his sons, buried him.

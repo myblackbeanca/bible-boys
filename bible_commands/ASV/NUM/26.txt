@@ -1,0 +1,134 @@
+TRANSLATION:ASV
+BOOK:NUM
+CHAPTER:26
+TITLE:Numbers 26
+LABEL:1
+VERSE:And it came to pass after the plague, that Jehovah spake unto Moses and unto Eleazar the son of Aaron the priest, saying,
+LABEL:2
+VERSE:Take the sum of all the congregation of the children of Israel, from twenty years old and upward, by their fathers’ houses, all that are able to go forth to war in Israel.
+LABEL:3
+VERSE:And Moses and Eleazar the priest spake with them in the plains of Moab by the Jordan at Jericho, saying,
+LABEL:4
+VERSE:Take the sum of the people, from twenty years old and upward; as Jehovah commanded Moses and the children of Israel, that came forth out of the land of Egypt.
+LABEL:5
+VERSE:Reuben, the first-born of Israel; the sons of Reuben: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;
+LABEL:6
+VERSE:of Hezron, the family of the Hezronites; of Carmi, the family of the Carmites.
+LABEL:7
+VERSE:These are the families of the Reubenites; and they that were numbered of them were forty and three thousand and seven hundred and thirty.
+LABEL:8
+VERSE:And the sons of Pallu: Eliab.
+LABEL:9
+VERSE:And the sons of Eliab: Nemuel, and Dathan, and Abiram. These are that Dathan and Abiram, who were called of the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against Jehovah,
+LABEL:10
+VERSE:and the earth opened its mouth, and swallowed them up together with Korah, when that company died; what time the fire devoured two hundred and fifty men, and they became a sign.
+LABEL:11
+VERSE:Notwithstanding, the sons of Korah died not.
+LABEL:12
+VERSE:The sons of Simeon after their families: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;
+LABEL:13
+VERSE:of Zerah, the family of the Zerahites; of Shaul, the family of the Shaulites.
+LABEL:14
+VERSE:These are the families of the Simeonites, twenty and two thousand and two hundred.
+LABEL:15
+VERSE:The sons of Gad after their families: of Zephon, the family of the Zephonites; of Haggi, the family of the Haggites; of Shuni, the family of the Shunites;
+LABEL:16
+VERSE:of Ozni, the family of the Oznites; of Eri, the family of the Erites;
+LABEL:17
+VERSE:of Arod, the family of the Arodites; of Areli, the family of the Arelites.
+LABEL:18
+VERSE:These are the families of the sons of Gad according to those that were numbered of them, forty thousand and five hundred.
+LABEL:19
+VERSE:The sons of Judah: Er and Onan; and Er and Onan died in the land of Canaan.
+LABEL:20
+VERSE:And the sons of Judah after their families were: of Shelah, the family of the Shelanites; of Perez, the family of the Perezites; of Zerah, the family of the Zerahites.
+LABEL:21
+VERSE:And the sons of Perez were: of Hezron, the family of the Hezronites; of Hamul, the family of the Hamulites.
+LABEL:22
+VERSE:These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.
+LABEL:23
+VERSE:The sons of Issachar after their families: of Tola, the family of the Tolaites; of Puvah, the family of the Punites;
+LABEL:24
+VERSE:of Jashub, the family of the Jashubites; of Shimron, the family of the Shimronites.
+LABEL:25
+VERSE:These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.
+LABEL:26
+VERSE:The sons of Zebulun after their families: of Sered, the family of the Seredites; of Elon, the family of the Elonites; of Jahleel, the family of the Jahleelites.
+LABEL:27
+VERSE:These are the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred.
+LABEL:28
+VERSE:The sons of Joseph after their families: Manasseh and Ephraim.
+LABEL:29
+VERSE:The sons of Manasseh: of Machir, the family of the Machirites; and Machir begat Gilead: of Gilead, the family of the Gileadites.
+LABEL:30
+VERSE:These are the sons of Gilead: of Iezer, the family of the Iezerites; of Helek, the family of the Helekites;
+LABEL:31
+VERSE:and of Asriel, the family of the Asrielites; and of Shechem, the family of the Shechemites;
+LABEL:32
+VERSE:and of Shemida, the family of the Shemidaites; and of Hepher, the family of the Hepherites.
+LABEL:33
+VERSE:And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
+LABEL:34
+VERSE:These are the families of Manasseh; and they that were numbered of them were fifty and two thousand and seven hundred.
+LABEL:35
+VERSE:These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthelahites; of Becher, the family of the Becherites; of Tahan, the family of the Tahanites.
+LABEL:36
+VERSE:And these are the sons of Shuthelah: of Eran, the family of the Eranites.
+LABEL:37
+VERSE:These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families.
+LABEL:38
+VERSE:The sons of Benjamin after their families: of Bela, the family of the Belaites; of Ashbel, the family of the Ashbelites; of Ahiram, the family of the Ahiramites;
+LABEL:39
+VERSE:of Shephupham, the family of the Shuphamites; of Hupham, the family of the Huphamites.
+LABEL:40
+VERSE:And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites; of Naaman, the family of the Naamites.
+LABEL:41
+VERSE:These are the sons of Benjamin after their families; and they that were numbered of them were forty and five thousand and six hundred.
+LABEL:42
+VERSE:These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.
+LABEL:43
+VERSE:All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred.
+LABEL:44
+VERSE:The sons of Asher after their families: of Imnah, the family of the Imnites; of Ishvi, the family of the Ishvites; of Beriah, the family of the Berites.
+LABEL:45
+VERSE:Of the sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the family of the Malchielites.
+LABEL:46
+VERSE:And the name of the daughter of Asher was Serah.
+LABEL:47
+VERSE:These are the families of the sons of Asher according to those that were numbered of them, fifty and three thousand and four hundred.
+LABEL:48
+VERSE:The sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites;
+LABEL:49
+VERSE:of Jezer, the family of the Jezerites; of Shillem, the family of the Shillemites.
+LABEL:50
+VERSE:These are the families of Naphtali according to their families; and they that were numbered of them were forty and five thousand and four hundred.
+LABEL:51
+VERSE:These are they that were numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.
+LABEL:52
+VERSE:And Jehovah spake unto Moses, saying,
+LABEL:53
+VERSE:Unto these the land shall be divided for an inheritance according to the number of names.
+LABEL:54
+VERSE:To the more thou shalt give the more inheritance, and to the fewer thou shalt give the less inheritance: to every one according to those that were numbered of him shall his inheritance be given.
+LABEL:55
+VERSE:Notwithstanding, the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.
+LABEL:56
+VERSE:According to the lot shall their inheritance be divided between the more and the fewer.
+LABEL:57
+VERSE:And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
+LABEL:58
+VERSE:These are the families of Levi: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korahites. And Kohath begat Amram.
+LABEL:59
+VERSE:And the name of Amram’s wife was Jochebed, the daughter of Levi, who was born to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.
+LABEL:60
+VERSE:And unto Aaron were born Nadab and Abihu, Eleazar and Ithamar.
+LABEL:61
+VERSE:And Nadab and Abihu died, when they offered strange fire before Jehovah.
+LABEL:62
+VERSE:And they that were numbered of them were twenty and three thousand, every male from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
+LABEL:63
+VERSE:These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by the Jordan at Jericho.
+LABEL:64
+VERSE:But among these there was not a man of them that were numbered by Moses and Aaron the priest, who numbered the children of Israel in the wilderness of Sinai.
+LABEL:65
+VERSE:For Jehovah had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.

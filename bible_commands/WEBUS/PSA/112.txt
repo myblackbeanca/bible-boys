@@ -1,0 +1,37 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:112
+TITLE:Psalms 112
+LABEL:1
+VERSE:Praise Yah!
+VERSE:Blessed is the man who fears Yahweh,
+VERSE:who delights greatly in his commandments.
+LABEL:2
+VERSE:His offspring will be mighty in the land.
+VERSE:The generation of the upright will be blessed.
+LABEL:3
+VERSE:Wealth and riches are in his house.
+VERSE:His righteousness endures forever.
+LABEL:4
+VERSE:Light dawns in the darkness for the upright,
+VERSE:gracious, merciful, and righteous.
+LABEL:5
+VERSE:It is well with the man who deals graciously and lends.
+VERSE:He will maintain his cause in judgment.
+LABEL:6
+VERSE:For he will never be shaken.
+VERSE:The righteous will be remembered forever.
+LABEL:7
+VERSE:He will not be afraid of evil news.
+VERSE:His heart is steadfast, trusting in Yahweh.
+LABEL:8
+VERSE:His heart is established.
+VERSE:He will not be afraid in the end when he sees his adversaries.
+LABEL:9
+VERSE:He has dispersed, he has given to the poor.
+VERSE:His righteousness endures forever.
+VERSE:His horn will be exalted with honor.
+LABEL:10
+VERSE:The wicked will see it, and be grieved.
+VERSE:He shall gnash with his teeth, and melt away.
+VERSE:The desire of the wicked will perish.

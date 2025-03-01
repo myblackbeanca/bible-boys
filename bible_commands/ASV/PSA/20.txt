@@ -1,0 +1,33 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:20
+TITLE:Psalms 20
+LABEL:1
+VERSE:Jehovah answer thee in the day of trouble;
+VERSE:The name of the God of Jacob set thee up on high;
+LABEL:2
+VERSE:Send thee help from the sanctuary,
+VERSE:And strengthen thee out of Zion;
+LABEL:3
+VERSE:Remember all thy offerings,
+VERSE:And accept thy burnt-sacrifice; [Selah
+LABEL:4
+VERSE:Grant thee thy heart’s desire,
+VERSE:And fulfil all thy counsel.
+LABEL:5
+VERSE:We will triumph in thy salvation,
+VERSE:And in the name of our God we will set up our banners:
+VERSE:Jehovah fulfil all thy petitions.
+LABEL:6
+VERSE:Now know I that Jehovah saveth his anointed;
+VERSE:He will answer him from his holy heaven
+VERSE:With the saving strength of his right hand.
+LABEL:7
+VERSE:Some trust in chariots, and some in horses;
+VERSE:But we will make mention of the name of Jehovah our God.
+LABEL:8
+VERSE:They are bowed down and fallen;
+VERSE:But we are risen, and stand upright.
+LABEL:9
+VERSE:Save, Jehovah:
+VERSE:Let the King answer us when we call.

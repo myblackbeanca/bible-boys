@@ -1,0 +1,79 @@
+TRANSLATION:WEBUS
+BOOK:ISA
+CHAPTER:32
+TITLE:Isaiah 32
+LABEL:1
+VERSE:Behold, a king shall reign in righteousness,
+VERSE:and princes shall rule in justice.
+LABEL:2
+VERSE:A man shall be as a hiding place from the wind,
+VERSE:and a covert from the storm,
+VERSE:as streams of water in a dry place,
+VERSE:as the shade of a large rock in a weary land.
+LABEL:3
+VERSE:The eyes of those who see will not be dim,
+VERSE:and the ears of those who hear will listen.
+LABEL:4
+VERSE:The heart of the rash will understand knowledge,
+VERSE:and the tongue of the stammerers will be ready to speak plainly.
+LABEL:5
+VERSE:The fool will no longer be called noble,
+VERSE:nor the scoundrel be highly respected.
+LABEL:6
+VERSE:For the fool will speak folly,
+VERSE:and his heart will work iniquity,
+VERSE:to practice profanity,
+VERSE:and to utter error against Yahweh,
+VERSE:to make empty the soul of the hungry,
+VERSE:and to cause the drink of the thirsty to fail.
+LABEL:7
+VERSE:The ways of the scoundrel are evil.
+VERSE:He devises wicked plans to destroy the humble with lying words,
+VERSE:even when the needy speaks right.
+LABEL:8
+VERSE:But the noble devises noble things,
+VERSE:and he will continue in noble things.
+LABEL:9
+VERSE:Rise up, you women who are at ease! Hear my voice!
+VERSE:You careless daughters, give ear to my speech!
+LABEL:10
+VERSE:For days beyond a year you will be troubled, you careless women;
+VERSE:for the vintage will fail.
+VERSE:The harvest won’t come.
+LABEL:11
+VERSE:Tremble, you women who are at ease!
+VERSE:Be troubled, you careless ones!
+VERSE:Strip yourselves, make yourselves naked,
+VERSE:and put sackcloth on your waist.
+LABEL:12
+VERSE:Beat your breasts for the pleasant fields,
+VERSE:for the fruitful vine.
+LABEL:13
+VERSE:Thorns and briers will come up on my people’s land;
+VERSE:yes, on all the houses of joy in the joyous city.
+LABEL:14
+VERSE:For the palace will be forsaken.
+VERSE:The populous city will be deserted.
+VERSE:The hill and the watchtower will be for dens forever,
+VERSE:a delight for wild donkeys,
+VERSE:a pasture of flocks,
+LABEL:15
+VERSE:until the Spirit is poured on us from on high,
+VERSE:and the wilderness becomes a fruitful field,
+VERSE:and the fruitful field is considered a forest.
+LABEL:16
+VERSE:Then justice will dwell in the wilderness;
+VERSE:and righteousness will remain in the fruitful field.
+LABEL:17
+VERSE:The work of righteousness will be peace,
+VERSE:and the effect of righteousness, quietness and confidence forever.
+LABEL:18
+VERSE:My people will live in a peaceful habitation,
+VERSE:in safe dwellings,
+VERSE:and in quiet resting places,
+LABEL:19
+VERSE:though hail flattens the forest,
+VERSE:and the city is leveled completely.
+LABEL:20
+VERSE:Blessed are you who sow beside all waters,
+VERSE:who send out the feet of the ox and the donkey.

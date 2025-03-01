@@ -1,0 +1,25 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:93
+TITLE:Psalms 93
+LABEL:1
+VERSE:Yahweh reigns!
+VERSE:He is clothed with majesty!
+VERSE:Yahweh is armed with strength.
+VERSE:The world also is established.
+VERSE:It can’t be moved.
+LABEL:2
+VERSE:Your throne is established from long ago.
+VERSE:You are from everlasting.
+LABEL:3
+VERSE:The floods have lifted up, Yahweh,
+VERSE:the floods have lifted up their voice.
+VERSE:The floods lift up their waves.
+LABEL:4
+VERSE:Above the voices of many waters,
+VERSE:the mighty breakers of the sea,
+VERSE:Yahweh on high is mighty.
+LABEL:5
+VERSE:Your statutes stand firm.
+VERSE:Holiness adorns your house,
+VERSE:Yahweh, forever more.

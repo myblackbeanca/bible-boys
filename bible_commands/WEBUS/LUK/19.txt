@@ -1,0 +1,100 @@
+TRANSLATION:WEBUS
+BOOK:LUK
+CHAPTER:19
+TITLE:Luke 19
+LABEL:1
+VERSE:He entered and was passing through Jericho.
+LABEL:2
+VERSE:There was a man named Zacchaeus. He was a chief tax collector, and he was rich.
+LABEL:3
+VERSE:He was trying to see who Jesus was, and couldn’t because of the crowd, because he was short.
+LABEL:4
+VERSE:He ran on ahead and climbed up into a sycamore tree to see him, for he was going to pass that way.
+LABEL:5
+VERSE:When Jesus came to the place, he looked up and saw him, and said to him, “Zacchaeus, hurry and come down, for today I must stay at your house.”
+LABEL:6
+VERSE:He hurried, came down, and received him joyfully.
+LABEL:7
+VERSE:When they saw it, they all murmured, saying, “He has gone in to lodge with a man who is a sinner.”
+LABEL:8
+VERSE:Zacchaeus stood and said to the Lord, “Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.”
+LABEL:9
+VERSE:Jesus said to him, “Today, salvation has come to this house, because he also is a son of Abraham.
+LABEL:10
+VERSE:For the Son of Man came to seek and to save that which was lost.”
+LABEL:11
+VERSE:As they heard these things, he went on and told a parable, because he was near Jerusalem, and they supposed that God’s Kingdom would be revealed immediately.
+LABEL:12
+VERSE:He said therefore, “A certain nobleman went into a far country to receive for himself a kingdom and to return.
+LABEL:13
+VERSE:He called ten servants of his and gave them ten mina coins,   and told them, ‘Conduct business until I come.’
+LABEL:14
+VERSE:But his citizens hated him, and sent an envoy after him, saying, ‘We don’t want this man to reign over us.’
+LABEL:15
+VERSE:  “When he had come back again, having received the kingdom, he commanded these servants, to whom he had given the money, to be called to him, that he might know what they had gained by conducting business.
+LABEL:16
+VERSE:The first came before him, saying, ‘Lord, your mina has made ten more minas.’
+LABEL:17
+VERSE:  “He said to him, ‘Well done, you good servant! Because you were found faithful with very little, you shall have authority over ten cities.’
+LABEL:18
+VERSE:  “The second came, saying, ‘Your mina, Lord, has made five minas.’
+LABEL:19
+VERSE:  “So he said to him, ‘And you are to be over five cities.’
+LABEL:20
+VERSE:  Another came, saying, ‘Lord, behold, your mina, which I kept laid away in a handkerchief,
+LABEL:21
+VERSE:for I feared you, because you are an exacting man. You take up that which you didn’t lay down, and reap that which you didn’t sow.’
+LABEL:22
+VERSE:  “He said to him, ‘Out of your own mouth I will judge you, you wicked servant! You knew that I am an exacting man, taking up that which I didn’t lay down and reaping that which I didn’t sow.
+LABEL:23
+VERSE:Then why didn’t you deposit my money in the bank, and at my coming, I might have earned interest on it?’
+LABEL:24
+VERSE:He said to those who stood by, ‘Take the mina away from him and give it to him who has the ten minas.’
+LABEL:25
+VERSE:  “They said to him, ‘Lord, he has ten minas!’
+LABEL:26
+VERSE:‘For I tell you that to everyone who has, will more be given; but from him who doesn’t have, even that which he has will be taken away from him.
+LABEL:27
+VERSE:But bring those enemies of mine who didn’t want me to reign over them here, and kill them before me.’”
+LABEL:28
+VERSE:Having said these things, he went on ahead, going up to Jerusalem.
+LABEL:29
+VERSE:When he came near to Bethsphage and Bethany, at the mountain that is called Olivet, he sent two of his disciples,
+LABEL:30
+VERSE:saying, “Go your way into the village on the other side, in which, as you enter, you will find a colt tied, which no man has ever sat upon. Untie it and bring it.
+LABEL:31
+VERSE:If anyone asks you, ‘Why are you untying it?’ say to him: ‘The Lord needs it.’”
+LABEL:32
+VERSE:Those who were sent went away and found things just as he had told them.
+LABEL:33
+VERSE:As they were untying the colt, its owners said to them, “Why are you untying the colt?”
+LABEL:34
+VERSE:They said, “The Lord needs it.”
+LABEL:35
+VERSE:Then they brought it to Jesus. They threw their cloaks on the colt and sat Jesus on them.
+LABEL:36
+VERSE:As he went, they spread their cloaks on the road.
+LABEL:37
+VERSE:As he was now getting near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,
+LABEL:38
+VERSE:saying, “Blessed is the King who comes in the name of the Lord!  Peace in heaven, and glory in the highest!”
+LABEL:39
+VERSE:Some of the Pharisees from the multitude said to him, “Teacher, rebuke your disciples!”
+LABEL:40
+VERSE:He answered them, “I tell you that if these were silent, the stones would cry out.”
+LABEL:41
+VERSE:When he came near, he saw the city and wept over it,
+LABEL:42
+VERSE:saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.
+LABEL:43
+VERSE:For the days will come on you when your enemies will throw up a barricade against you, surround you, hem you in on every side,
+LABEL:44
+VERSE:and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”
+LABEL:45
+VERSE:He entered into the temple and began to drive out those who bought and sold in it,
+LABEL:46
+VERSE:saying to them, “It is written, ‘My house is a house of prayer,’   but you have made it a ‘den of robbers’!”
+LABEL:47
+VERSE:He was teaching daily in the temple, but the chief priests, the scribes, and the leading men among the people sought to destroy him.
+LABEL:48
+VERSE:They couldn’t find what they might do, for all the people hung on to every word that he said.

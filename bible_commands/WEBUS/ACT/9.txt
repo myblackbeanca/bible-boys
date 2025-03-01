@@ -1,0 +1,93 @@
+TRANSLATION:WEBUS
+BOOK:ACT
+CHAPTER:9
+TITLE:Acts 9
+LABEL:1
+VERSE:But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest
+LABEL:2
+VERSE:and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.
+LABEL:3
+VERSE:As he traveled, he got close to Damascus, and suddenly a light from the sky shone around him.
+LABEL:4
+VERSE:He fell on the earth, and heard a voice saying to him, “Saul, Saul, why do you persecute me?”
+LABEL:5
+VERSE:He said, “Who are you, Lord?”
+VERSE:The Lord said, “I am Jesus, whom you are persecuting.
+LABEL:6
+VERSE:But  rise up and enter into the city, then you will be told what you must do.”
+LABEL:7
+VERSE:The men who traveled with him stood speechless, hearing the sound, but seeing no one.
+LABEL:8
+VERSE:Saul arose from the ground, and when his eyes were opened, he saw no one. They led him by the hand and brought him into Damascus.
+LABEL:9
+VERSE:He was without sight for three days, and neither ate nor drank.
+LABEL:10
+VERSE:Now there was a certain disciple at Damascus named Ananias. The Lord said to him in a vision, “Ananias!”
+VERSE:He said, “Behold, it’s me, Lord.”
+LABEL:11
+VERSE:The Lord said to him, “Arise and go to the street which is called Straight, and inquire in the house of Judah  for one named Saul, a man of Tarsus. For behold, he is praying,
+LABEL:12
+VERSE:and in a vision he has seen a man named Ananias coming in and laying his hands on him, that he might receive his sight.”
+LABEL:13
+VERSE:But Ananias answered, “Lord, I have heard from many about this man, how much evil he did to your saints at Jerusalem.
+LABEL:14
+VERSE:Here he has authority from the chief priests to bind all who call on your name.”
+LABEL:15
+VERSE:But the Lord said to him, “Go your way, for he is my chosen vessel to bear my name before the nations and kings, and the children of Israel.
+LABEL:16
+VERSE:For I will show him how many things he must suffer for my name’s sake.”
+LABEL:17
+VERSE:Ananias departed and entered into the house. Laying his hands on him, he said, “Brother Saul, the Lord, who appeared to you on the road by which you came, has sent me that you may receive your sight and be filled with the Holy Spirit.”
+LABEL:18
+VERSE:Immediately something like scales fell from his eyes, and he received his sight. He arose and was baptized.
+LABEL:19
+VERSE:He took food and was strengthened.
+VERSE:Saul stayed several days with the disciples who were at Damascus.
+LABEL:20
+VERSE:Immediately in the synagogues he proclaimed the Christ, that he is the Son of God.
+LABEL:21
+VERSE:All who heard him were amazed, and said, “Isn’t this he who in Jerusalem made havoc of those who called on this name? And he had come here intending to bring them bound before the chief priests!”
+LABEL:22
+VERSE:But Saul increased more in strength, and confounded the Jews who lived at Damascus, proving that this is the Christ.
+LABEL:23
+VERSE:When many days were fulfilled, the Jews conspired together to kill him,
+LABEL:24
+VERSE:but their plot became known to Saul. They watched the gates both day and night that they might kill him,
+LABEL:25
+VERSE:but his disciples took him by night and let him down through the wall, lowering him in a basket.
+LABEL:26
+VERSE:When Saul had come to Jerusalem, he tried to join himself to the disciples; but they were all afraid of him, not believing that he was a disciple.
+LABEL:27
+VERSE:But Barnabas took him and brought him to the apostles, and declared to them how he had seen the Lord on the way, and that he had spoken to him, and how at Damascus he had preached boldly in the name of Jesus.
+LABEL:28
+VERSE:He was with them entering into Jerusalem,
+LABEL:29
+VERSE:preaching boldly in the name of the Lord Jesus. He spoke and disputed against the Hellenists, but they were seeking to kill him.
+LABEL:30
+VERSE:When the brothers knew it, they brought him down to Caesarea and sent him off to Tarsus.
+LABEL:31
+VERSE:So the assemblies throughout all Judea, Galilee, and Samaria had peace and were built up. They were multiplied, walking in the fear of the Lord and in the comfort of the Holy Spirit.
+LABEL:32
+VERSE:As Peter went throughout all those parts, he came down also to the saints who lived at Lydda.
+LABEL:33
+VERSE:There he found a certain man named Aeneas, who had been bedridden for eight years because he was paralyzed.
+LABEL:34
+VERSE:Peter said to him, “Aeneas, Jesus Christ heals you. Get up and make your bed!” Immediately he arose.
+LABEL:35
+VERSE:All who lived at Lydda and in Sharon saw him, and they turned to the Lord.
+LABEL:36
+VERSE:Now there was at Joppa a certain disciple named Tabitha, which when translated means Dorcas. This woman was full of good works and acts of mercy which she did.
+LABEL:37
+VERSE:In those days, she became sick and died. When they had washed her, they laid her in an upper room.
+LABEL:38
+VERSE:As Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to him, imploring him not to delay in coming to them.
+LABEL:39
+VERSE:Peter got up and went with them. When he had come, they brought him into the upper room. All the widows stood by him weeping, and showing the tunics and other garments which Dorcas had made while she was with them.
+LABEL:40
+VERSE:Peter sent them all out, and knelt down and prayed. Turning to the body, he said, “Tabitha, get up!” She opened her eyes, and when she saw Peter, she sat up.
+LABEL:41
+VERSE:He gave her his hand and raised her up. Calling the saints and widows, he presented her alive.
+LABEL:42
+VERSE:This became known throughout all Joppa, and many believed in the Lord.
+LABEL:43
+VERSE:He stayed many days in Joppa with a tanner named Simon.

@@ -1,0 +1,40 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:25
+TITLE:Numbers 25
+LABEL:1
+VERSE:Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab;
+LABEL:2
+VERSE:for they called the people to the sacrifices of their gods. The people ate and bowed down to their gods.
+LABEL:3
+VERSE:Israel joined himself to Baal Peor, and Yahweh’s anger burned against Israel.
+LABEL:4
+VERSE:Yahweh said to Moses, “Take all the chiefs of the people, and hang them up to Yahweh before the sun, that the fierce anger of Yahweh may turn away from Israel.”
+LABEL:5
+VERSE:Moses said to the judges of Israel, “Everyone kill his men who have joined themselves to Baal Peor.”
+LABEL:6
+VERSE:Behold, one of the children of Israel came and brought to his brothers a Midianite woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, while they were weeping at the door of the Tent of Meeting.
+LABEL:7
+VERSE:When Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from the middle of the congregation, and took a spear in his hand.
+LABEL:8
+VERSE:He went after the man of Israel into the pavilion, and thrust both of them through, the man of Israel, and the woman through her body. So the plague was stopped among the children of Israel.
+LABEL:9
+VERSE:Those who died by the plague were twenty-four thousand.
+LABEL:10
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:11
+VERSE:“Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, in that he was jealous with my jealousy among them, so that I didn’t consume the children of Israel in my jealousy.
+LABEL:12
+VERSE:Therefore say, ‘Behold, I give to him my covenant of peace.
+LABEL:13
+VERSE:It shall be to him, and to his offspring after him, the covenant of an everlasting priesthood, because he was jealous for his God, and made atonement for the children of Israel.’”
+LABEL:14
+VERSE:Now the name of the man of Israel that was slain, who was slain with the Midianite woman, was Zimri, the son of Salu, a prince of a fathers’ house among the Simeonites.
+LABEL:15
+VERSE:The name of the Midianite woman who was slain was Cozbi, the daughter of Zur. He was head of the people of a fathers’ house in Midian.
+LABEL:16
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:17
+VERSE:“Harass the Midianites, and strike them;
+LABEL:18
+VERSE:for they harassed you with their wiles, wherein they have deceived you in the matter of Peor, and in the incident regarding Cozbi, the daughter of the prince of Midian, their sister, who was slain on the day of the plague in the matter of Peor.”

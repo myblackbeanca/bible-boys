@@ -1,0 +1,84 @@
+TRANSLATION:KJV
+BOOK:LUK
+CHAPTER:21
+TITLE:Luke 21
+SECTION:The Widow's Mites
+LABEL:1
+VERSE:And he looked up, and saw the rich men casting their gifts into the treasury.
+LABEL:2
+VERSE:And he saw also a certain poor widow casting in thither two mites.
+LABEL:3
+VERSE:And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
+LABEL:4
+VERSE:for all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
+SECTION:Signs of the Times
+LABEL:5
+VERSE:And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
+LABEL:6
+VERSE:As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down.
+LABEL:7
+VERSE:And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?
+LABEL:8
+VERSE:And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.
+LABEL:9
+VERSE:But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by.
+LABEL:10
+VERSE:Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:
+LABEL:11
+VERSE:and great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
+LABEL:12
+VERSE:But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name's sake.
+LABEL:13
+VERSE:And it shall turn to you for a testimony.
+LABEL:14
+VERSE:Settle it therefore in your hearts, not to meditate before what ye shall answer:
+LABEL:15
+VERSE:for I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
+LABEL:16
+VERSE:  And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.
+LABEL:17
+VERSE:And ye shall be hated of all men for my name's sake.
+LABEL:18
+VERSE:But there shall not an hair of your head perish.
+LABEL:19
+VERSE:In your patience possess ye your souls.
+LABEL:20
+VERSE:  And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
+LABEL:21
+VERSE:Then let them which are in Judæa flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.
+LABEL:22
+VERSE:For these be the days of vengeance, that all things which are written may be fulfilled.
+LABEL:23
+VERSE:But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.
+LABEL:24
+VERSE:And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.
+LABEL:25
+VERSE:  And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
+LABEL:26
+VERSE:men's hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
+LABEL:27
+VERSE:And then shall they see the Son of man coming in a cloud with power and great glory.
+LABEL:28
+VERSE:And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.
+SECTION:Behold the Trees
+LABEL:29
+VERSE:And he spake to them a parable; Behold the fig tree, and all the trees;
+LABEL:30
+VERSE:when they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.
+LABEL:31
+VERSE:So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.
+LABEL:32
+VERSE:Verily I say unto you, This generation shall not pass away, till all be fulfilled.
+LABEL:33
+VERSE:Heaven and earth shall pass away: but my words shall not pass away.
+LABEL:34
+VERSE:  And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares.
+LABEL:35
+VERSE:For as a snare shall it come on all them that dwell on the face of the whole earth.
+LABEL:36
+VERSE:Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
+SECTION:Visits Olivet
+LABEL:37
+VERSE:And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives.
+LABEL:38
+VERSE:And all the people came early in the morning to him in the temple, for to hear him.

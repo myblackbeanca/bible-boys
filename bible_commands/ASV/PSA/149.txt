@@ -1,0 +1,33 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:149
+TITLE:Psalms 149
+LABEL:1
+VERSE:Praise ye Jehovah.
+VERSE:Sing unto Jehovah a new song,
+VERSE:And his praise in the assembly of the saints.
+LABEL:2
+VERSE:Let Israel rejoice in him that made him:
+VERSE:Let the children of Zion be joyful in their King.
+LABEL:3
+VERSE:Let them praise his name in the dance:
+VERSE:Let them sing praises unto him with timbrel and harp.
+LABEL:4
+VERSE:For Jehovah taketh pleasure in his people:
+VERSE:He will beautify the meek with salvation.
+LABEL:5
+VERSE:Let the saints exult in glory:
+VERSE:Let them sing for joy upon their beds.
+LABEL:6
+VERSE:  Let the high praises of God be in their mouth,
+VERSE:And a two-edged sword in their hand;
+LABEL:7
+VERSE:To execute vengeance upon the nations,
+VERSE:And punishments upon the peoples;
+LABEL:8
+VERSE:To bind their kings with chains,
+VERSE:And their nobles with fetters of iron;
+LABEL:9
+VERSE:To execute upon them the judgment written:
+VERSE:This honor have all his saints.
+VERSE:Praise ye Jehovah.

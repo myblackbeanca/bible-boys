@@ -1,0 +1,44 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:97
+TITLE:Psalms 97
+LABEL:1
+VERSE:Yahweh reigns!
+VERSE:Let the earth rejoice!
+VERSE:Let the multitude of islands be glad!
+LABEL:2
+VERSE:Clouds and darkness are around him.
+VERSE:Righteousness and justice are the foundation of his throne.
+LABEL:3
+VERSE:A fire goes before him,
+VERSE:and burns up his adversaries on every side.
+LABEL:4
+VERSE:His lightning lights up the world.
+VERSE:The earth sees, and trembles.
+LABEL:5
+VERSE:The mountains melt like wax at the presence of Yahweh,
+VERSE:at the presence of the Lord of the whole earth.
+LABEL:6
+VERSE:The heavens declare his righteousness.
+VERSE:All the peoples have seen his glory.
+LABEL:7
+VERSE:Let all them be shamed who serve engraved images,
+VERSE:who boast in their idols.
+VERSE:Worship him, all you gods!
+LABEL:8
+VERSE:Zion heard and was glad.
+VERSE:The daughters of Judah rejoiced
+VERSE:because of your judgments, Yahweh.
+LABEL:9
+VERSE:For you, Yahweh, are most high above all the earth.
+VERSE:You are exalted far above all gods.
+LABEL:10
+VERSE:You who love Yahweh, hate evil!
+VERSE:He preserves the souls of his saints.
+VERSE:He delivers them out of the hand of the wicked.
+LABEL:11
+VERSE:Light is sown for the righteous,
+VERSE:and gladness for the upright in heart.
+LABEL:12
+VERSE:Be glad in Yahweh, you righteous people!
+VERSE:Give thanks to his holy Name.

@@ -1,0 +1,38 @@
+TRANSLATION:ASV
+BOOK:ISA
+CHAPTER:34
+TITLE:Isaiah 34
+LABEL:1
+VERSE:Come near, ye nations, to hear; and hearken, ye peoples: let the earth hear, and the fulness thereof; the world, and all things that come forth from it.
+LABEL:2
+VERSE:For Jehovah hath indignation against all the nations, and wrath against all their host: he hath utterly destroyed them, he hath delivered them to the slaughter.
+LABEL:3
+VERSE:Their slain also shall be cast out, and the stench of their dead bodies shall come up; and the mountains shall be melted with their blood.
+LABEL:4
+VERSE:And all the host of heaven shall be dissolved, and the heavens shall be rolled together as a scroll; and all their host shall fade away, as the leaf fadeth from off the vine, and as a fading leaf from the fig-tree.
+LABEL:5
+VERSE:For my sword hath drunk its fill in heaven: behold, it shall come down upon Edom, and upon the people of my curse, to judgment.
+LABEL:6
+VERSE:The sword of Jehovah is filled with blood, it is made fat with fatness, with the blood of lambs and goats, with the fat of the kidneys of rams; for Jehovah hath a sacrifice in Bozrah, and a great slaughter in the land of Edom.
+LABEL:7
+VERSE:And the wild-oxen shall come down with them, and the bullocks with the bulls: and their land shall be drunken with blood, and their dust made fat with fatness.
+LABEL:8
+VERSE:For Jehovah hath a day of vengeance, a year of recompense for the cause of Zion.
+LABEL:9
+VERSE:And the streams of Edom shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
+LABEL:10
+VERSE:It shall not be quenched night nor day; the smoke thereof shall go up for ever; from generation to generation it shall lie waste; none shall pass through it for ever and ever.
+LABEL:11
+VERSE:But the pelican and the porcupine shall possess it; and the owl and the raven shall dwell therein: and he will stretch over it the line of confusion, and the plummet of emptiness.
+LABEL:12
+VERSE:They shall call the nobles thereof to the kingdom, but none shall be there; and all its princes shall be nothing.
+LABEL:13
+VERSE:And thorns shall come up in its palaces, nettles and thistles in the fortresses thereof; and it shall be a habitation of jackals, a court for ostriches.
+LABEL:14
+VERSE:And the wild beasts of the desert shall meet with the wolves, and the wild goat shall cry to his fellow; yea, the night-monster shall settle there, and shall find her a place of rest.
+LABEL:15
+VERSE:There shall the dart-snake make her nest, and lay, and hatch, and gather under her shade; yea, there shall the kites be gathered, every one with her mate.
+LABEL:16
+VERSE:Seek ye out of the book of Jehovah, and read: no one of these shall be missing, none shall want her mate; for my mouth, it hath commanded, and his Spirit, it hath gathered them.
+LABEL:17
+VERSE:And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever; from generation to generation shall they dwell therein.

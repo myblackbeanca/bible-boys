@@ -1,0 +1,64 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:77
+TITLE:Psalm 77
+LABEL:1
+VERSE:I Cried unto God with my voice,
+VERSE:Even unto God with my voice; and he gave ear unto me.
+LABEL:2
+VERSE:In the day of my trouble I sought the Lord:
+VERSE:My sore ran in the night, and ceased not: My soul refused to be comforted.
+LABEL:3
+VERSE:I remembered God, and was troubled:
+VERSE:I complained, and my spirit was overwhelmed. Selah.
+LABEL:4
+VERSE:Thou holdest mine eyes waking:
+VERSE:I am so troubled that I cannot speak.
+LABEL:5
+VERSE:I have considered the days of old,
+VERSE:The years of ancient times.
+LABEL:6
+VERSE:I call to remembrance my song in the night:
+VERSE:I commune with mine own heart: And my spirit made diligent search.
+LABEL:7
+VERSE:Will the Lord cast off for ever?
+VERSE:And will he be favourable no more?
+LABEL:8
+VERSE:Is his mercy clean gone for ever?
+VERSE:Doth his promise fail for evermore?
+LABEL:9
+VERSE:Hath God forgotten to be gracious?
+VERSE:Hath he in anger shut up his tender mercies? Selah.
+LABEL:10
+VERSE:And I said, This is my infirmity:
+VERSE:But I will remember the years of the right hand of the Most High.
+LABEL:11
+VERSE:I will remember the works of the LORD:
+VERSE:Surely I will remember thy wonders of old.
+LABEL:12
+VERSE:I will meditate also of all thy work,
+VERSE:And talk of thy doings.
+LABEL:13
+VERSE:Thy way, O God, is in the sanctuary:
+VERSE:Who is so great a God as our God?
+LABEL:14
+VERSE:Thou art the God that doest wonders:
+VERSE:Thou hast declared thy strength among the people.
+LABEL:15
+VERSE:Thou hast with thine arm redeemed thy people,
+VERSE:The sons of Jacob and Joseph. Selah.
+LABEL:16
+VERSE:The waters saw thee, O God, the waters saw thee; they were afraid:
+VERSE:The depths also were troubled.
+LABEL:17
+VERSE:The clouds poured out water: The skies sent out a sound:
+VERSE:Thine arrows also went abroad.
+LABEL:18
+VERSE:The voice of thy thunder was in the heaven:
+VERSE:The lightnings lightened the world: The earth trembled and shook.
+LABEL:19
+VERSE:Thy way is in the sea, and thy path in the great waters,
+VERSE:And thy footsteps are not known.
+LABEL:20
+VERSE:Thou leddest thy people like a flock
+VERSE:By the hand of Moses and Aaron.

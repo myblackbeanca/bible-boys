@@ -1,0 +1,53 @@
+TRANSLATION:ASV
+BOOK:SNG
+CHAPTER:3
+TITLE:Song of Solomon 3
+LABEL:1
+VERSE:By night on my bed
+VERSE:I sought him whom my soul loveth:
+VERSE:I sought him, but I found him not.
+LABEL:2
+VERSE:  I said, I will rise now, and go about the city;
+VERSE:In the streets and in the broad ways
+VERSE:I will seek him whom my soul loveth:
+VERSE:I sought him, but I found him not.
+LABEL:3
+VERSE:The watchmen that go about the city found me;
+VERSE:To whom I said, Saw ye him whom my soul loveth?
+LABEL:4
+VERSE:It was but a little that I passed from them,
+VERSE:When I found him whom my soul loveth:
+VERSE:I held him, and would not let him go,
+VERSE:Until I had brought him into my mother’s house,
+VERSE:And into the chamber of her that conceived me.
+LABEL:5
+VERSE:I adjure you, O daughters of Jerusalem,
+VERSE:By the roes, or by the hinds of the field,
+VERSE:That ye stir not up, nor awake my love,
+VERSE:Until he please.
+LABEL:6
+VERSE:Who is this that cometh up from the wilderness
+VERSE:Like pillars of smoke,
+VERSE:Perfumed with myrrh and frankincense,
+VERSE:With all powders of the merchant?
+LABEL:7
+VERSE:Behold, it is the litter of Solomon;
+VERSE:Threescore mighty men are about it,
+VERSE:Of the mighty men of Israel.
+LABEL:8
+VERSE:They all handle the sword, and are expert in war:
+VERSE:Every man hath his sword upon his thigh,
+VERSE:Because of fear in the night.
+LABEL:9
+VERSE:King Solomon made himself a palanquin
+VERSE:Of the wood of Lebanon.
+LABEL:10
+VERSE:He made the pillars thereof of silver,
+VERSE:The bottom thereof of gold, the seat of it of purple,
+VERSE:The midst thereof being paved with love,
+VERSE:From the daughters of Jerusalem.
+LABEL:11
+VERSE:Go forth, O ye daughters of Zion, and behold king Solomon,
+VERSE:With the crown wherewith his mother hath crowned him
+VERSE:In the day of his espousals,
+VERSE:And in the day of the gladness of his heart.

@@ -1,0 +1,75 @@
+TRANSLATION:KJV
+BOOK:ROM
+CHAPTER:3
+TITLE:Romans 3
+SECTION:They Are All Under Sin
+LABEL:1
+VERSE:What advantage then hath the Jew? or what profit is there of circumcision?
+LABEL:2
+VERSE:Much every way: chiefly, because that unto them were committed the oracles of God.
+LABEL:3
+VERSE:For what if some did not believe? shall their unbelief make the faith of God without effect?
+LABEL:4
+VERSE:God forbid: yea, let God be true, but every man a liar; as it is written,
+VERSE:That thou mightest be justified in thy sayings,
+VERSE:And mightest overcome when thou art judged.
+LABEL:5
+VERSE:But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)
+LABEL:6
+VERSE:God forbid: for then how shall God judge the world?
+LABEL:7
+VERSE:For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?
+LABEL:8
+VERSE:And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
+LABEL:9
+VERSE:What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;
+LABEL:10
+VERSE:as it is written,
+VERSE:There is none righteous, no, not one:
+LABEL:11
+VERSE:There is none that understandeth,
+VERSE:There is none that seeketh after God.
+LABEL:12
+VERSE:They are all gone out of the way, they are together become unprofitable;
+VERSE:There is none that doeth good, no, not one.
+LABEL:13
+VERSE:Their throat is an open sepulchre;
+VERSE:With their tongues they have used deceit;
+VERSE:The poison of asps is under their lips:
+LABEL:14
+VERSE:Whose mouth is full of cursing and bitterness:
+LABEL:15
+VERSE:Their feet are swift to shed blood:
+LABEL:16
+VERSE:Destruction and misery are in their ways:
+LABEL:17
+VERSE:And the way of peace have they not known:
+LABEL:18
+VERSE:There is no fear of God before their eyes.
+LABEL:19
+VERSE:Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.
+LABEL:20
+VERSE:Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
+SECTION:God's Saving Gift
+LABEL:21
+VERSE:But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
+LABEL:22
+VERSE:even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
+LABEL:23
+VERSE:for all have sinned, and come short of the glory of God;
+LABEL:24
+VERSE:being justified freely by his grace through the redemption that is in Christ Jesus:
+LABEL:25
+VERSE:whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
+LABEL:26
+VERSE:to declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.
+LABEL:27
+VERSE:Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.
+LABEL:28
+VERSE:Therefore we conclude that a man is justified by faith without the deeds of the law.
+LABEL:29
+VERSE:Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also:
+LABEL:30
+VERSE:seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.
+LABEL:31
+VERSE:Do we then make void the law through faith? God forbid: yea, we establish the law.

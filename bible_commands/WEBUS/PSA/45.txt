@@ -1,0 +1,57 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:45
+TITLE:Psalms 45
+LABEL:1
+VERSE:My heart overflows with a noble theme.
+VERSE:I recite my verses for the king.
+VERSE:My tongue is like the pen of a skillful writer.
+LABEL:2
+VERSE:You are the most excellent of the sons of men.
+VERSE:Grace has anointed your lips,
+VERSE:therefore God has blessed you forever.
+LABEL:3
+VERSE:Strap your sword on your thigh, O mighty one,
+VERSE:in your splendor and your majesty.
+LABEL:4
+VERSE:In your majesty ride on victoriously on behalf of truth, humility, and righteousness.
+VERSE:Let your right hand display awesome deeds.
+LABEL:5
+VERSE:Your arrows are sharp.
+VERSE:The nations fall under you, with arrows in the heart of the king’s enemies.
+LABEL:6
+VERSE:Your throne, God, is forever and ever.
+VERSE:A scepter of equity is the scepter of your kingdom.
+LABEL:7
+VERSE:You have loved righteousness, and hated wickedness.
+VERSE:Therefore God, your God, has anointed you with the oil of gladness above your fellows.
+LABEL:8
+VERSE:All your garments smell like myrrh, aloes, and cassia.
+VERSE:Out of ivory palaces stringed instruments have made you glad.
+LABEL:9
+VERSE:Kings’ daughters are among your honorable women.
+VERSE:At your right hand the queen stands in gold of Ophir.
+LABEL:10
+VERSE:Listen, daughter, consider, and turn your ear.
+VERSE:Forget your own people, and also your father’s house.
+LABEL:11
+VERSE:So the king will desire your beauty,
+VERSE:honor him, for he is your lord.
+LABEL:12
+VERSE:The daughter of Tyre comes with a gift.
+VERSE:The rich among the people entreat your favor.
+LABEL:13
+VERSE:The princess inside is all glorious.
+VERSE:Her clothing is interwoven with gold.
+LABEL:14
+VERSE:She shall be led to the king in embroidered work.
+VERSE:The virgins, her companions who follow her, shall be brought to you.
+LABEL:15
+VERSE:With gladness and rejoicing they shall be led.
+VERSE:They shall enter into the king’s palace.
+LABEL:16
+VERSE:Your sons will take the place of your fathers.
+VERSE:You shall make them princes in all the earth.
+LABEL:17
+VERSE:I will make your name to be remembered in all generations.
+VERSE:Therefore the peoples shall give you thanks forever and ever.

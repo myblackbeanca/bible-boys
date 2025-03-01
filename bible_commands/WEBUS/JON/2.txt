@@ -1,0 +1,40 @@
+TRANSLATION:WEBUS
+BOOK:JON
+CHAPTER:2
+TITLE:Jonah 2
+LABEL:1
+VERSE:Then Jonah prayed to Yahweh, his God, out of the fish’s belly.
+LABEL:2
+VERSE:He said,
+VERSE:“I called because of my affliction to Yahweh.
+VERSE:He answered me.
+VERSE:Out of the belly of Sheol I cried.
+VERSE:You heard my voice.
+LABEL:3
+VERSE:For you threw me into the depths,
+VERSE:in the heart of the seas.
+VERSE:The flood was all around me.
+VERSE:All your waves and your billows passed over me.
+LABEL:4
+VERSE:I said, ‘I have been banished from your sight;
+VERSE:yet I will look again toward your holy temple.’
+LABEL:5
+VERSE:The waters surrounded me,
+VERSE:even to the soul.
+VERSE:The deep was around me.
+VERSE:The weeds were wrapped around my head.
+LABEL:6
+VERSE:I went down to the bottoms of the mountains.
+VERSE:The earth barred me in forever;
+VERSE:yet you have brought my life up from the pit, Yahweh my God.
+LABEL:7
+VERSE:“When my soul fainted within me, I remembered Yahweh.
+VERSE:My prayer came in to you, into your holy temple.
+LABEL:8
+VERSE:Those who regard vain idols forsake their own mercy.
+LABEL:9
+VERSE:But I will sacrifice to you with the voice of thanksgiving.
+VERSE:I will pay that which I have vowed.
+VERSE:Salvation belongs to Yahweh.”
+LABEL:10
+VERSE:Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land.

@@ -1,0 +1,31 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:138
+TITLE:Psalms 138
+LABEL:1
+VERSE:I will give you thanks with my whole heart.
+VERSE:Before the gods, I will sing praises to you.
+LABEL:2
+VERSE:I will bow down toward your holy temple,
+VERSE:and give thanks to your Name for your loving kindness and for your truth;
+VERSE:for you have exalted your Name and your Word above all.
+LABEL:3
+VERSE:In the day that I called, you answered me.
+VERSE:You encouraged me with strength in my soul.
+LABEL:4
+VERSE:All the kings of the earth will give you thanks, Yahweh,
+VERSE:for they have heard the words of your mouth.
+LABEL:5
+VERSE:Yes, they will sing of the ways of Yahweh,
+VERSE:for Yahweh’s glory is great!
+LABEL:6
+VERSE:For though Yahweh is high, yet he looks after the lowly;
+VERSE:but he knows the proud from afar.
+LABEL:7
+VERSE:Though I walk in the middle of trouble, you will revive me.
+VERSE:You will stretch out your hand against the wrath of my enemies.
+VERSE:Your right hand will save me.
+LABEL:8
+VERSE:Yahweh will fulfill that which concerns me.
+VERSE:Your loving kindness, Yahweh, endures forever.
+VERSE:Don’t forsake the works of your own hands.

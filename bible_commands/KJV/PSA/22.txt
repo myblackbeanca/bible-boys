@@ -1,0 +1,99 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:22
+TITLE:Psalm 22
+LABEL:1
+VERSE:My God, my God, why hast thou forsaken me?
+VERSE:Why art thou so far from helping me, and from the words of my roaring?
+LABEL:2
+VERSE:O my God, I cry in the daytime, but thou hearest not;
+VERSE:And in the night season, and am not silent.
+LABEL:3
+VERSE:But thou art holy,
+VERSE:O thou that inhabitest the praises of Israel.
+LABEL:4
+VERSE:Our fathers trusted in thee:
+VERSE:They trusted, and thou didst deliver them.
+LABEL:5
+VERSE:They cried unto thee, and were delivered:
+VERSE:They trusted in thee, and were not confounded.
+LABEL:6
+VERSE:But I am a worm, and no man;
+VERSE:A reproach of men, and despised of the people.
+LABEL:7
+VERSE:All they that see me laugh me to scorn:
+VERSE:They shoot out the lip, they shake the head, saying,
+LABEL:8
+VERSE:He trusted on the LORD  that he would deliver him:
+VERSE:Let him deliver him, seeing he delighted in him.
+LABEL:9
+VERSE:But thou art he that took me out of the womb:
+VERSE:Thou didst make me hope when I was upon my mother's breasts.
+LABEL:10
+VERSE:I was cast upon thee from the womb:
+VERSE:Thou art my God from my mother's belly.
+LABEL:11
+VERSE:Be not far from me; for trouble is near;
+VERSE:For there is none to help.
+LABEL:12
+VERSE:Many bulls have compassed me:
+VERSE:Strong bulls of Bashan have beset me round.
+LABEL:13
+VERSE:They gaped upon me with their mouths,
+VERSE:As a ravening and a roaring lion.
+LABEL:14
+VERSE:I am poured out like water, and all my bones are out of joint:
+VERSE:My heart is like wax; It is melted in the midst of my bowels.
+LABEL:15
+VERSE:My strength is dried up like a potsherd; And my tongue cleaveth to my jaws;
+VERSE:And thou hast brought me into the dust of death.
+LABEL:16
+VERSE:For dogs have compassed me:
+VERSE:The assembly of the wicked have inclosed me:
+VERSE:They pierced my hands and my feet.
+LABEL:17
+VERSE:I may tell all my bones:
+VERSE:They look and stare upon me.
+LABEL:18
+VERSE:They part my garments among them,
+VERSE:And cast lots upon my vesture.
+LABEL:19
+VERSE:But be not thou far from me, O LORD:
+VERSE:O my strength, haste thee to help me.
+LABEL:20
+VERSE:Deliver my soul from the sword;
+VERSE:My darling from the power of the dog.
+LABEL:21
+VERSE:Save me from the lion's mouth:
+VERSE:For thou hast heard me from the horns of the unicorns.
+LABEL:22
+VERSE:I will declare thy name unto my brethren:
+VERSE:In the midst of the congregation will I praise thee.
+LABEL:23
+VERSE:Ye that fear the LORD, praise him;
+VERSE:All ye the seed of Jacob, glorify him; And fear him, all ye the seed of Israel.
+LABEL:24
+VERSE:For he hath not despised nor abhorred the affliction of the afflicted;
+VERSE:Neither hath he hid his face from him; But when he cried unto him, he heard.
+LABEL:25
+VERSE:My praise shall be of thee in the great congregation:
+VERSE:I will pay my vows before them that fear him.
+LABEL:26
+VERSE:The meek shall eat and be satisfied:
+VERSE:They shall praise the LORD that seek him: Your heart shall live for ever.
+LABEL:27
+VERSE:All the ends of the world shall remember and turn unto the LORD:
+VERSE:And all the kindreds of the nations shall worship before thee.
+LABEL:28
+VERSE:For the kingdom is the LORD's:
+VERSE:And he is the governor among the nations.
+LABEL:29
+VERSE:All they that be fat upon earth shall eat and worship:
+VERSE:All they that go down to the dust shall bow before him:
+VERSE:And none can keep alive his own soul.
+LABEL:30
+VERSE:A seed shall serve him;
+VERSE:It shall be accounted to the LORD for a generation.
+LABEL:31
+VERSE:They shall come, and shall declare his righteousness
+VERSE:Unto a people that shall be born, that he hath done this.

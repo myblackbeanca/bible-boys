@@ -1,0 +1,60 @@
+TRANSLATION:WEBUS
+BOOK:NUM
+CHAPTER:6
+TITLE:Numbers 6
+LABEL:1
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:2
+VERSE:“Speak to the children of Israel, and tell them: ‘When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to Yahweh,
+LABEL:3
+VERSE:he shall separate himself from wine and strong drink. He shall drink no vinegar of wine, or vinegar of fermented drink, neither shall he drink any juice of grapes, nor eat fresh grapes or dried.
+LABEL:4
+VERSE:All the days of his separation he shall eat nothing that is made of the grapevine, from the seeds even to the skins.
+LABEL:5
+VERSE:“‘All the days of his vow of separation no razor shall come on his head, until the days are fulfilled in which he separates himself to Yahweh. He shall be holy. He shall let the locks of the hair of his head grow long.
+LABEL:6
+VERSE:“‘All the days that he separates himself to Yahweh he shall not go near a dead body.
+LABEL:7
+VERSE:He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die, because his separation to God is on his head.
+LABEL:8
+VERSE:All the days of his separation he is holy to Yahweh.
+LABEL:9
+VERSE:“‘If any man dies very suddenly beside him, and he defiles the head of his separation, then he shall shave his head in the day of his cleansing. On the seventh day he shall shave it.
+LABEL:10
+VERSE:On the eighth day he shall bring two turtledoves or two young pigeons to the priest, to the door of the Tent of Meeting.
+LABEL:11
+VERSE:The priest shall offer one for a sin offering, and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead, and shall make his head holy that same day.
+LABEL:12
+VERSE:He shall separate to Yahweh the days of his separation, and shall bring a male lamb a year old for a trespass offering; but the former days shall be void, because his separation was defiled.
+LABEL:13
+VERSE:“‘This is the law of the Nazirite: when the days of his separation are fulfilled, he shall be brought to the door of the Tent of Meeting,
+LABEL:14
+VERSE:and he shall offer his offering to Yahweh: one male lamb a year old without defect for a burnt offering, one ewe lamb a year old without defect for a sin offering, one ram without defect for peace offerings,
+LABEL:15
+VERSE:a basket of unleavened bread, cakes of fine flour mixed with oil, and unleavened wafers anointed with oil with their meal offering and their drink offerings.
+LABEL:16
+VERSE:The priest shall present them before Yahweh, and shall offer his sin offering and his burnt offering.
+LABEL:17
+VERSE:He shall offer the ram for a sacrifice of peace offerings to Yahweh, with the basket of unleavened bread. The priest shall offer also its meal offering and its drink offering.
+LABEL:18
+VERSE:The Nazirite shall shave the head of his separation at the door of the Tent of Meeting, take the hair of the head of his separation, and put it on the fire which is under the sacrifice of peace offerings.
+LABEL:19
+VERSE:The priest shall take the boiled shoulder of the ram, one unleavened cake out of the basket, and one unleavened wafer, and shall put them on the hands of the Nazirite after he has shaved the head of his separation;
+LABEL:20
+VERSE:and the priest shall wave them for a wave offering before Yahweh. They are holy for the priest, together with the breast that is waved and the thigh that is offered. After that the Nazirite may drink wine.
+LABEL:21
+VERSE:“‘This is the law of the Nazirite who vows and of his offering to Yahweh for his separation, in addition to that which he is able to afford. According to his vow which he vows, so he must do after the law of his separation.’”
+LABEL:22
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:23
+VERSE:“Speak to Aaron and to his sons, saying, ‘This is how you shall bless the children of Israel.’ You shall tell them,
+LABEL:24
+VERSE:‘Yahweh bless you, and keep you.
+LABEL:25
+VERSE:Yahweh make his face to shine on you,
+VERSE:and be gracious to you.
+LABEL:26
+VERSE:Yahweh lift up his face toward you,
+VERSE:and give you peace.’
+LABEL:27
+VERSE:“So they shall put my name on the children of Israel; and I will bless them.”

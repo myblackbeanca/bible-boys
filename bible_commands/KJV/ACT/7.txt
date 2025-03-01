@@ -1,0 +1,135 @@
+TRANSLATION:KJV
+BOOK:ACT
+CHAPTER:7
+TITLE:Acts 7
+SECTION:Stephen's Speech
+LABEL:1
+VERSE:Then said the high priest, Are these things so?
+LABEL:2
+VERSE:And he said,
+VERSE:Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
+LABEL:3
+VERSE:and said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.
+LABEL:4
+VERSE:Then came he out of the land of the Chaldæans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.
+LABEL:5
+VERSE:And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
+LABEL:6
+VERSE:And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.
+LABEL:7
+VERSE:And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.
+LABEL:8
+VERSE:And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.
+LABEL:9
+VERSE:And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
+LABEL:10
+VERSE:and delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
+LABEL:11
+VERSE:Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.
+LABEL:12
+VERSE:But when Jacob heard that there was corn in Egypt, he sent out our fathers first.
+LABEL:13
+VERSE:And at the second time Joseph was made known to his brethren; and Joseph's kindred was made known unto Pharaoh.
+LABEL:14
+VERSE:Then sent Joseph, and called his father Jacob to him, and all his kindred, threescore and fifteen souls.
+LABEL:15
+VERSE:So Jacob went down into Egypt, and died, he, and our fathers,
+LABEL:16
+VERSE:and were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
+LABEL:17
+VERSE:But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,
+LABEL:18
+VERSE:Till another king arose, which knew not Joseph.
+LABEL:19
+VERSE:The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
+LABEL:20
+VERSE:In which time Moses was born, and was exceeding fair, and nourished up in his father's house three months:
+LABEL:21
+VERSE:and when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.
+LABEL:22
+VERSE:And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
+LABEL:23
+VERSE:And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.
+LABEL:24
+VERSE:And seeing one of them suffer wrong, he defended him, and avenged him that was oppressed, and smote the Egyptian:
+LABEL:25
+VERSE:for he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.
+LABEL:26
+VERSE:And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?
+LABEL:27
+VERSE:But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?
+LABEL:28
+VERSE:Wilt thou kill me, as thou diddest the Egyptian yesterday?
+LABEL:29
+VERSE:Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.
+LABEL:30
+VERSE:And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
+LABEL:31
+VERSE:When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,
+LABEL:32
+VERSE:saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
+LABEL:33
+VERSE:Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.
+LABEL:34
+VERSE:I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.
+LABEL:35
+VERSE:This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send to be a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
+LABEL:36
+VERSE:He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.
+LABEL:37
+VERSE:This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.
+LABEL:38
+VERSE:This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:
+LABEL:39
+VERSE:to whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
+LABEL:40
+VERSE:saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
+LABEL:41
+VERSE:And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.
+LABEL:42
+VERSE:Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets,
+VERSE:O ye house of Israel, have ye offered to me slain beasts and sacrifices
+VERSE:By the space of forty years in the wilderness?
+LABEL:43
+VERSE:Yea, ye took up the tabernacle of Moloch,
+VERSE:And the star of your god Remphan,
+VERSE:Figures which ye made to worship them:
+VERSE:And I will carry you away beyond Babylon.
+LABEL:44
+VERSE:Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.
+LABEL:45
+VERSE:Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
+LABEL:46
+VERSE:who found favour before God, and desired to find a tabernacle for the God of Jacob.
+LABEL:47
+VERSE:But Solomon built him an house.
+LABEL:48
+VERSE:Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,
+LABEL:49
+VERSE:Heaven is my throne,
+VERSE:And earth is my footstool:
+VERSE:What house will ye build me? saith the Lord:
+VERSE:Or what is the place of my rest?
+LABEL:50
+VERSE:Hath not my hand made all these things?
+LABEL:51
+VERSE:Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
+LABEL:52
+VERSE:Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
+LABEL:53
+VERSE:who have received the law by the disposition of angels, and have not kept it.
+SECTION:Death of Stephen
+LABEL:54
+VERSE:When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.
+LABEL:55
+VERSE:But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,
+LABEL:56
+VERSE:and said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
+LABEL:57
+VERSE:Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,
+LABEL:58
+VERSE:and cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.
+LABEL:59
+VERSE:And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.
+LABEL:60
+VERSE:And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.

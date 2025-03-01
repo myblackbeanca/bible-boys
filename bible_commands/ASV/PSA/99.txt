@@ -1,0 +1,37 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:99
+TITLE:Psalms 99
+LABEL:1
+VERSE:Jehovah reigneth; let the peoples tremble:
+VERSE:He sitteth above the cherubim; let the earth be moved.
+LABEL:2
+VERSE:Jehovah is great in Zion;
+VERSE:And he is high above all the peoples.
+LABEL:3
+VERSE:Let them praise thy great and terrible name:
+VERSE:Holy is he.
+LABEL:4
+VERSE:The king’s strength also loveth justice;
+VERSE:Thou dost establish equity;
+VERSE:Thou executest justice and righteousness in Jacob.
+LABEL:5
+VERSE:Exalt ye Jehovah our God,
+VERSE:And worship at his footstool:
+VERSE:Holy is he.
+LABEL:6
+VERSE:Moses and Aaron among his priests,
+VERSE:And Samuel among them that call upon his name;
+VERSE:They called upon Jehovah, and he answered them.
+LABEL:7
+VERSE:He spake unto them in the pillar of cloud:
+VERSE:They kept his testimonies,
+VERSE:And the statute that he gave them.
+LABEL:8
+VERSE:Thou answeredst them, O Jehovah our God:
+VERSE:Thou wast a God that forgavest them,
+VERSE:Though thou tookest vengeance of their doings.
+LABEL:9
+VERSE:Exalt ye Jehovah our God,
+VERSE:And worship at his holy hill;
+VERSE:For Jehovah our God is holy.

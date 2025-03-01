@@ -1,0 +1,79 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:29
+TITLE:Job 29
+LABEL:1
+VERSE:And Job again took up his parable, and said,
+LABEL:2
+VERSE:Oh that I were as in the months of old,
+VERSE:As in the days when God watched over me;
+LABEL:3
+VERSE:When his lamp shined upon my head,
+VERSE:And by his light I walked through darkness;
+LABEL:4
+VERSE:As I was in the ripeness of my days,
+VERSE:When the friendship of God was upon my tent;
+LABEL:5
+VERSE:When the Almighty was yet with me,
+VERSE:And my children were about me;
+LABEL:6
+VERSE:When my steps were washed with butter,
+VERSE:And the rock poured me out streams of oil!
+LABEL:7
+VERSE:When I went forth to the gate unto the city,
+VERSE:When I prepared my seat in the street,
+LABEL:8
+VERSE:The young men saw me and hid themselves,
+VERSE:And the aged rose up and stood;
+LABEL:9
+VERSE:The princes refrained from talking,
+VERSE:And laid their hand on their mouth;
+LABEL:10
+VERSE:The voice of the nobles was hushed,
+VERSE:And their tongue cleaved to the roof of their mouth.
+LABEL:11
+VERSE:For when the ear heard me, then it blessed me;
+VERSE:And when the eye saw me, it gave witness unto me:
+LABEL:12
+VERSE:Because I delivered the poor that cried,
+VERSE:The fatherless also, that had none to help him.
+LABEL:13
+VERSE:The blessing of him that was ready to perish came upon me;
+VERSE:And I caused the widow’s heart to sing for joy.
+LABEL:14
+VERSE:I put on righteousness, and it clothed me:
+VERSE:My justice was as a robe and a diadem.
+LABEL:15
+VERSE:I was eyes to the blind,
+VERSE:And feet was I to the lame.
+LABEL:16
+VERSE:I was a father to the needy:
+VERSE:And the cause of him that I knew not I searched out.
+LABEL:17
+VERSE:And I brake the jaws of the unrighteous,
+VERSE:And plucked the prey out of his teeth.
+LABEL:18
+VERSE:Then I said, I shall die in my nest,
+VERSE:And I shall multiply my days as the sand:
+LABEL:19
+VERSE:My root is spread out to the waters,
+VERSE:And the dew lieth all night upon my branch:
+LABEL:20
+VERSE:My glory is fresh in me,
+VERSE:And my bow is renewed in my hand.
+LABEL:21
+VERSE:Unto me men gave ear, and waited,
+VERSE:And kept silence for my counsel.
+LABEL:22
+VERSE:After my words they spake not again;
+VERSE:And my speech distilled upon them.
+LABEL:23
+VERSE:And they waited for me as for the rain;
+VERSE:And they opened their mouth wide as for the latter rain.
+LABEL:24
+VERSE:I smiled on them, when they had no confidence;
+VERSE:And the light of my countenance they cast not down.
+LABEL:25
+VERSE:I chose out their way, and sat as chief,
+VERSE:And dwelt as a king in the army,
+VERSE:As one that comforteth the mourners.

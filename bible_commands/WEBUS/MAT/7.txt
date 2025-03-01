@@ -1,0 +1,62 @@
+TRANSLATION:WEBUS
+BOOK:MAT
+CHAPTER:7
+TITLE:Matthew 7
+LABEL:1
+VERSE:  “Don’t judge, so that you won’t be judged.
+LABEL:2
+VERSE:For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.
+LABEL:3
+VERSE:Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?
+LABEL:4
+VERSE:Or how will you tell your brother, ‘Let me remove the speck from your eye,’ and behold, the beam is in your own eye?
+LABEL:5
+VERSE:You hypocrite! First remove the beam out of your own eye, and then you can see clearly to remove the speck out of your brother’s eye.
+LABEL:6
+VERSE:  “Don’t give that which is holy to the dogs, neither throw your pearls before the pigs, lest perhaps they trample them under their feet, and turn and tear you to pieces.
+LABEL:7
+VERSE:  “Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.
+LABEL:8
+VERSE:For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.
+LABEL:9
+VERSE:Or who is there among you who, if his son asks him for bread, will give him a stone?
+LABEL:10
+VERSE:Or if he asks for a fish, who will give him a serpent?
+LABEL:11
+VERSE:If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!
+LABEL:12
+VERSE:Therefore, whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.
+LABEL:13
+VERSE:  “Enter in by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it.
+LABEL:14
+VERSE:How  narrow is the gate and the way is restricted that leads to life! There are few who find it.
+LABEL:15
+VERSE:  “Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves.
+LABEL:16
+VERSE:By their fruits you will know them. Do you gather grapes from thorns or figs from thistles?
+LABEL:17
+VERSE:Even so, every good tree produces good fruit, but the corrupt tree produces evil fruit.
+LABEL:18
+VERSE:A good tree can’t produce evil fruit, neither can a corrupt tree produce good fruit.
+LABEL:19
+VERSE:Every tree that doesn’t grow good fruit is cut down and thrown into the fire.
+LABEL:20
+VERSE:Therefore by their fruits you will know them.
+LABEL:21
+VERSE:  “Not everyone who says to me, ‘Lord, Lord,’ will enter into the Kingdom of Heaven, but he who does the will of my Father who is in heaven.
+LABEL:22
+VERSE:Many will tell me in that day, ‘Lord, Lord, didn’t we prophesy in your name, in your name cast out demons, and in your name do many mighty works?’
+LABEL:23
+VERSE:Then I will tell them, ‘I never knew you. Depart from me, you who work iniquity.’
+LABEL:24
+VERSE:  “Everyone therefore who hears these words of mine and does them, I will liken him to a wise man who built his house on the rock.
+LABEL:25
+VERSE:The rain came down, the floods came, and the winds blew and beat on that house; and it didn’t fall, for it was founded on the rock.
+LABEL:26
+VERSE:Everyone who hears these words of mine and doesn’t do them will be like a foolish man who built his house on the sand.
+LABEL:27
+VERSE:The rain came down, the floods came, and the winds blew and beat on that house; and it fell—and its fall was great.”
+LABEL:28
+VERSE:When Jesus had finished saying these things, the multitudes were astonished at his teaching,
+LABEL:29
+VERSE:for he taught them with authority, and not like the scribes.

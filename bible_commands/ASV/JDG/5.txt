@@ -1,0 +1,133 @@
+TRANSLATION:ASV
+BOOK:JDG
+CHAPTER:5
+TITLE:Judges 5
+LABEL:1
+VERSE:Then sang Deborah and Barak the son of Abinoam on that day, saying,
+LABEL:2
+VERSE:For that the leaders took the lead in Israel,
+VERSE:For that the people offered themselves willingly,
+VERSE:Bless ye Jehovah.
+LABEL:3
+VERSE:Hear, O ye kings; give ear, O ye princes;
+VERSE:I, even I, will sing unto Jehovah;
+VERSE:I will sing praise to Jehovah, the God of Israel.
+LABEL:4
+VERSE:Jehovah, when thou wentest forth out of Seir,
+VERSE:When thou marchedst out of the field of Edom,
+VERSE:The earth trembled, the heavens also dropped,
+VERSE:Yea, the clouds dropped water.
+LABEL:5
+VERSE:The mountains quaked at the presence of Jehovah,
+VERSE:Even yon Sinai at the presence of Jehovah, the God of Israel.
+LABEL:6
+VERSE:In the days of Shamgar the son of Anath,
+VERSE:In the days of Jael, the highways were unoccupied,
+VERSE:And the travellers walked through byways.
+LABEL:7
+VERSE:The rulers ceased in Israel, they ceased,
+VERSE:Until that I Deborah arose,
+VERSE:That I arose a mother in Israel.
+LABEL:8
+VERSE:They chose new gods;
+VERSE:Then was war in the gates:
+VERSE:Was there a shield or spear seen
+VERSE:Among forty thousand in Israel?
+LABEL:9
+VERSE:My heart is toward the governors of Israel,
+VERSE:That offered themselves willingly among the people:
+VERSE:Bless ye Jehovah.
+LABEL:10
+VERSE:Tell of it, ye that ride on white asses,
+VERSE:Ye that sit on rich carpets,
+VERSE:And ye that walk by the way.
+LABEL:11
+VERSE:Far from the noise of archers, in the places of drawing water,
+VERSE:There shall they rehearse the righteous acts of Jehovah,
+VERSE:Even the righteous acts of his rule in Israel.
+VERSE:Then the people of Jehovah went down to the gates.
+LABEL:12
+VERSE:Awake, awake, Deborah;
+VERSE:Awake, awake, utter a song:
+VERSE:Arise, Barak, and lead away thy captives, thou son of Abinoam.
+LABEL:13
+VERSE:Then came down a remnant of the nobles and the people;
+VERSE:Jehovah came down for me against the mighty.
+LABEL:14
+VERSE:Out of Ephraim came down they whose root is in Amalek;
+VERSE:After thee, Benjamin, among thy peoples;
+VERSE:Out of Machir came down governors,
+VERSE:And out of Zebulun they that handle the marshal’s staff.
+LABEL:15
+VERSE:And the princes of Issachar were with Deborah;
+VERSE:As was Issachar, so was Barak;
+VERSE:Into the valley they rushed forth at his feet.
+VERSE:By the watercourses of Reuben
+VERSE:There were great resolves of heart.
+LABEL:16
+VERSE:Why sattest thou among the sheepfolds,
+VERSE:To hear the pipings for the flocks?
+VERSE:At the watercourses of Reuben
+VERSE:There were great searchings of heart.
+LABEL:17
+VERSE:Gilead abode beyond the Jordan:
+VERSE:And Dan, why did he remain in ships?
+VERSE:Asher sat still at the haven of the sea,
+VERSE:And abode by his creeks.
+LABEL:18
+VERSE:Zebulun was a people that jeoparded their lives unto the death,
+VERSE:And Naphtali, upon the high places of the field.
+LABEL:19
+VERSE:The kings came and fought;
+VERSE:Then fought the kings of Canaan,
+VERSE:In Taanach by the waters of Megiddo:
+VERSE:They took no gain of money.
+LABEL:20
+VERSE:From heaven fought the stars,
+VERSE:From their courses they fought against Sisera.
+LABEL:21
+VERSE:The river Kishon swept them away,
+VERSE:That ancient river, the river Kishon.
+VERSE:O my soul, march on with strength.
+LABEL:22
+VERSE:Then did the horsehoofs stamp
+VERSE:By reason of the prancings, the prancings of their strong ones.
+LABEL:23
+VERSE:Curse ye Meroz, said the angel of Jehovah.
+VERSE:Curse ye bitterly the inhabitants thereof,
+VERSE:Because they came not to the help of Jehovah,
+VERSE:To the help of Jehovah against the mighty.
+LABEL:24
+VERSE:Blessed above women shall Jael be,
+VERSE:The wife of Heber the Kenite;
+VERSE:Blessed shall she be above women in the tent.
+LABEL:25
+VERSE:He asked water, and she gave him milk;
+VERSE:She brought him butter in a lordly dish.
+LABEL:26
+VERSE:She put her hand to the tent-pin,
+VERSE:And her right hand to the workmen’s hammer;
+VERSE:And with the hammer she smote Sisera, she smote through his head;
+VERSE:Yea, she pierced and struck through his temples.
+LABEL:27
+VERSE:At her feet he bowed, he fell, he lay;
+VERSE:At her feet he bowed, he fell:
+VERSE:Where he bowed, there he fell down dead.
+LABEL:28
+VERSE:Through the window she looked forth, and cried,
+VERSE:The mother of Sisera cried through the lattice,
+VERSE:Why is his chariot so long in coming?
+VERSE:Why tarry the wheels of his chariots?
+LABEL:29
+VERSE:Her wise ladies answered her,
+VERSE:Yea, she returned answer to herself,
+LABEL:30
+VERSE:Have they not found, have they not divided the spoil?
+VERSE:A damsel, two damsels to every man;
+VERSE:To Sisera a spoil of dyed garments,
+VERSE:A spoil of dyed garments embroidered,
+VERSE:Of dyed garments embroidered on both sides, on the necks of the spoil?
+LABEL:31
+VERSE:So let all thine enemies perish, O Jehovah:
+VERSE:But let them that love him be as the sun when he goeth forth in his might.
+VERSE:And the land had rest forty years.

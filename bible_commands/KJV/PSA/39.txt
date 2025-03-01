@@ -1,0 +1,48 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:39
+TITLE:Psalm 39
+LABEL:1
+VERSE:I said, I will take heed to my ways,
+VERSE:That I sin not with my tongue:
+VERSE:I will keep my mouth with a bridle,
+VERSE:While the wicked is before me.
+LABEL:2
+VERSE:I was dumb with silence, I held my peace, even from good;
+VERSE:And my sorrow was stirred.
+LABEL:3
+VERSE:My heart was hot within me, while I was musing the fire burned:
+VERSE:Then spake I with my tongue.
+LABEL:4
+VERSE:  LORD, make me to know mine end, and the measure of my days, what it is;
+VERSE:That I may know how frail I am.
+LABEL:5
+VERSE:Behold, thou hast made my days as an handbreadth;
+VERSE:And mine age is as nothing before thee: Verily every man at his best state is altogether vanity. Selah.
+LABEL:6
+VERSE:Surely every man walketh in a vain shew: Surely they are disquieted in vain:
+VERSE:He heapeth up riches, and knoweth not who shall gather them.
+LABEL:7
+VERSE:And now, Lord, what wait I for?
+VERSE:My hope is in thee.
+LABEL:8
+VERSE:Deliver me from all my transgressions:
+VERSE:Make me not the reproach of the foolish.
+LABEL:9
+VERSE:I was dumb, I opened not my mouth;
+VERSE:Because thou didst it.
+LABEL:10
+VERSE:Remove thy stroke away from me:
+VERSE:I am consumed by the blow of thine hand.
+LABEL:11
+VERSE:When thou with rebukes dost correct man for iniquity,
+VERSE:Thou makest his beauty to consume away like a moth:
+VERSE:Surely every man is vanity. Selah.
+LABEL:12
+VERSE:Hear my prayer, O LORD, and give ear unto my cry;
+VERSE:Hold not thy peace at my tears:
+VERSE:For I am a stranger with thee,
+VERSE:And a sojourner, as all my fathers were.
+LABEL:13
+VERSE:O spare me, that I may recover strength,
+VERSE:Before I go hence, and be no more.

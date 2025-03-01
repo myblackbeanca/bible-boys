@@ -1,0 +1,91 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:118
+TITLE:Psalms 118
+LABEL:1
+VERSE:Oh give thanks unto Jehovah; for he is good;
+VERSE:For his lovingkindness endureth for ever.
+LABEL:2
+VERSE:Let Israel now say,
+VERSE:That his lovingkindness endureth for ever.
+LABEL:3
+VERSE:Let the house of Aaron now say,
+VERSE:That his lovingkindness endureth for ever.
+LABEL:4
+VERSE:Let them now that fear Jehovah say,
+VERSE:That his lovingkindness endureth for ever.
+LABEL:5
+VERSE:Out of my distress I called upon Jehovah:
+VERSE:Jehovah answered me and set me in a large place.
+LABEL:6
+VERSE:Jehovah is on my side; I will not fear:
+VERSE:What can man do unto me?
+LABEL:7
+VERSE:Jehovah is on my side among them that help me:
+VERSE:Therefore shall I see my desire upon them that hate me.
+LABEL:8
+VERSE:It is better to take refuge in Jehovah
+VERSE:Than to put confidence in man.
+LABEL:9
+VERSE:It is better to take refuge in Jehovah
+VERSE:Than to put confidence in princes.
+LABEL:10
+VERSE:All nations compassed me about:
+VERSE:In the name of Jehovah I will cut them off.
+LABEL:11
+VERSE:They compassed me about; yea, they compassed me about:
+VERSE:In the name of Jehovah I will cut them off.
+LABEL:12
+VERSE:They compassed me about like bees; they are quenched as the fire of thorns:
+VERSE:In the name of Jehovah I will cut them off.
+LABEL:13
+VERSE:Thou didst thrust sore at me that I might fall;
+VERSE:But Jehovah helped me.
+LABEL:14
+VERSE:Jehovah is my strength and song;
+VERSE:And he is become my salvation.
+LABEL:15
+VERSE:The voice of rejoicing and salvation is in the tents of the righteous:
+VERSE:The right hand of Jehovah doeth valiantly.
+LABEL:16
+VERSE:The right hand of Jehovah is exalted:
+VERSE:The right hand of Jehovah doeth valiantly.
+LABEL:17
+VERSE:I shall not die, but live,
+VERSE:And declare the works of Jehovah.
+LABEL:18
+VERSE:Jehovah hath chastened me sore;
+VERSE:But he hath not given me over unto death.
+LABEL:19
+VERSE:Open to me the gates of righteousness:
+VERSE:I will enter into them, I will give thanks unto Jehovah.
+LABEL:20
+VERSE:This is the gate of Jehovah;
+VERSE:The righteous shall enter into it.
+LABEL:21
+VERSE:I will give thanks unto thee; for thou hast answered me,
+VERSE:And art become my salvation.
+LABEL:22
+VERSE:The stone which the builders rejected
+VERSE:Is become the head of the corner.
+LABEL:23
+VERSE:This is Jehovah’s doing;
+VERSE:It is marvellous in our eyes.
+LABEL:24
+VERSE:This is the day which Jehovah hath made;
+VERSE:We will rejoice and be glad in it.
+LABEL:25
+VERSE:Save now, we beseech thee, O Jehovah:
+VERSE:O Jehovah, we beseech thee, send now prosperity.
+LABEL:26
+VERSE:Blessed be he that cometh in the name of Jehovah:
+VERSE:We have blessed you out of the house of Jehovah.
+LABEL:27
+VERSE:Jehovah is God, and he hath given us light:
+VERSE:Bind the sacrifice with cords, even unto the horns of the altar.
+LABEL:28
+VERSE:Thou art my God, and I will give thanks unto thee:
+VERSE:Thou art my God, I will exalt thee.
+LABEL:29
+VERSE:Oh give thanks unto Jehovah; for he is good;
+VERSE:For his lovingkindness endureth for ever.

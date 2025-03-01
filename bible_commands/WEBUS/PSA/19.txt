@@ -1,0 +1,51 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:19
+TITLE:Psalms 19
+LABEL:1
+VERSE:The heavens declare the glory of God.
+VERSE:The expanse shows his handiwork.
+LABEL:2
+VERSE:Day after day they pour out speech,
+VERSE:and night after night they display knowledge.
+LABEL:3
+VERSE:There is no speech nor language
+VERSE:where their voice is not heard.
+LABEL:4
+VERSE:Their voice has gone out through all the earth,
+VERSE:their words to the end of the world.
+VERSE:In them he has set a tent for the sun,
+LABEL:5
+VERSE:which is as a bridegroom coming out of his room,
+VERSE:like a strong man rejoicing to run his course.
+LABEL:6
+VERSE:His going out is from the end of the heavens,
+VERSE:his circuit to its ends.
+VERSE:There is nothing hidden from its heat.
+LABEL:7
+VERSE:Yahweh’s law is perfect, restoring the soul.
+VERSE:Yahweh’s covenant is sure, making wise the simple.
+LABEL:8
+VERSE:Yahweh’s precepts are right, rejoicing the heart.
+VERSE:Yahweh’s commandment is pure, enlightening the eyes.
+LABEL:9
+VERSE:The fear of Yahweh is clean, enduring forever.
+VERSE:Yahweh’s ordinances are true, and righteous altogether.
+LABEL:10
+VERSE:They are more to be desired than gold, yes, than much fine gold,
+VERSE:sweeter also than honey and the extract of the honeycomb.
+LABEL:11
+VERSE:Moreover your servant is warned by them.
+VERSE:In keeping them there is great reward.
+LABEL:12
+VERSE:Who can discern his errors?
+VERSE:Forgive me from hidden errors.
+LABEL:13
+VERSE:Keep back your servant also from presumptuous sins.
+VERSE:Let them not have dominion over me.
+VERSE:Then I will be upright.
+VERSE:I will be blameless and innocent of great transgression.
+LABEL:14
+VERSE:Let the words of my mouth and the meditation of my heart
+VERSE:be acceptable in your sight,
+VERSE:Yahweh, my rock, and my redeemer.

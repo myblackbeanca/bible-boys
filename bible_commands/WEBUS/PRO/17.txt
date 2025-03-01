@@ -1,0 +1,88 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:17
+TITLE:Proverbs 17
+LABEL:1
+VERSE:Better is a dry morsel with quietness,
+VERSE:than a house full of feasting with strife.
+LABEL:2
+VERSE:A servant who deals wisely will rule over a son who causes shame,
+VERSE:and shall have a part in the inheritance among the brothers.
+LABEL:3
+VERSE:The refining pot is for silver, and the furnace for gold,
+VERSE:but Yahweh tests the hearts.
+LABEL:4
+VERSE:An evildoer heeds wicked lips.
+VERSE:A liar gives ear to a mischievous tongue.
+LABEL:5
+VERSE:Whoever mocks the poor reproaches his Maker.
+VERSE:He who is glad at calamity shall not be unpunished.
+LABEL:6
+VERSE:Children’s children are the crown of old men;
+VERSE:the glory of children is their parents.
+LABEL:7
+VERSE:Excellent speech isn’t fitting for a fool,
+VERSE:much less do lying lips fit a prince.
+LABEL:8
+VERSE:A bribe is a precious stone in the eyes of him who gives it;
+VERSE:wherever he turns, he prospers.
+LABEL:9
+VERSE:He who covers an offense promotes love;
+VERSE:but he who repeats a matter separates best friends.
+LABEL:10
+VERSE:A rebuke enters deeper into one who has understanding
+VERSE:than a hundred lashes into a fool.
+LABEL:11
+VERSE:An evil man seeks only rebellion;
+VERSE:therefore a cruel messenger shall be sent against him.
+LABEL:12
+VERSE:Let a bear robbed of her cubs meet a man,
+VERSE:rather than a fool in his folly.
+LABEL:13
+VERSE:Whoever rewards evil for good,
+VERSE:evil shall not depart from his house.
+LABEL:14
+VERSE:The beginning of strife is like breaching a dam,
+VERSE:therefore stop contention before quarreling breaks out.
+LABEL:15
+VERSE:He who justifies the wicked, and he who condemns the righteous,
+VERSE:both of them alike are an abomination to Yahweh.
+LABEL:16
+VERSE:Why is there money in the hand of a fool to buy wisdom,
+VERSE:since he has no understanding?
+LABEL:17
+VERSE:A friend loves at all times;
+VERSE:and a brother is born for adversity.
+LABEL:18
+VERSE:A man void of understanding strikes hands,
+VERSE:and becomes collateral in the presence of his neighbor.
+LABEL:19
+VERSE:He who loves disobedience loves strife.
+VERSE:One who builds a high gate seeks destruction.
+LABEL:20
+VERSE:One who has a perverse heart doesn’t find prosperity,
+VERSE:and one who has a deceitful tongue falls into trouble.
+LABEL:21
+VERSE:He who becomes the father of a fool grieves.
+VERSE:The father of a fool has no joy.
+LABEL:22
+VERSE:A cheerful heart makes good medicine,
+VERSE:but a crushed spirit dries up the bones.
+LABEL:23
+VERSE:A wicked man receives a bribe in secret,
+VERSE:to pervert the ways of justice.
+LABEL:24
+VERSE:Wisdom is before the face of one who has understanding,
+VERSE:but the eyes of a fool wander to the ends of the earth.
+LABEL:25
+VERSE:A foolish son brings grief to his father,
+VERSE:and bitterness to her who bore him.
+LABEL:26
+VERSE:Also to punish the righteous is not good,
+VERSE:nor to flog officials for their integrity.
+LABEL:27
+VERSE:He who spares his words has knowledge.
+VERSE:He who is even tempered is a man of understanding.
+LABEL:28
+VERSE:Even a fool, when he keeps silent, is counted wise.
+VERSE:When he shuts his lips, he is thought to be discerning.

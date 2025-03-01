@@ -1,0 +1,44 @@
+TRANSLATION:ASV
+BOOK:HEB
+CHAPTER:8
+TITLE:Hebrews 8
+LABEL:1
+VERSE:Now in the things which we are saying the chief point is this: We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,
+LABEL:2
+VERSE:a minister of the sanctuary, and of the true tabernacle, which the Lord pitched, not man.
+LABEL:3
+VERSE:For every high priest is appointed to offer both gifts and sacrifices: wherefore it is necessary that this high priest also have somewhat to offer.
+LABEL:4
+VERSE:Now if he were on earth, he would not be a priest at all, seeing there are those who offer the gifts according to the law;
+LABEL:5
+VERSE:who serve that which is a copy and shadow of the heavenly things, even as Moses is warned of God when he is about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern that was showed thee in the mount.
+LABEL:6
+VERSE:But now hath he obtained a ministry the more excellent, by so much as he is also the mediator of a better covenant, which hath been enacted upon better promises.
+LABEL:7
+VERSE:For if that first covenant had been faultless, then would no place have been sought for a second.
+LABEL:8
+VERSE:For finding fault with them, he saith,
+VERSE:Behold, the days come, saith the Lord,
+VERSE:That I will make a new covenant with the house of Israel and with the house of Judah;
+LABEL:9
+VERSE:Not according to the covenant that I made with their fathers
+VERSE:In the day that I took them by the hand to lead them forth out of the land of Egypt;
+VERSE:For they continued not in my covenant,
+VERSE:And I regarded them not, saith the Lord.
+LABEL:10
+VERSE:For this is the covenant that I will make with the house of Israel
+VERSE:After those days, saith the Lord;
+VERSE:I will put my laws into their mind,
+VERSE:And on their heart also will I write them:
+VERSE:And I will be to them a God,
+VERSE:And they shall be to me a people:
+LABEL:11
+VERSE:And they shall not teach every man his fellow-citizen,
+VERSE:And every man his brother, saying, Know the Lord:
+VERSE:For all shall know me,
+VERSE:From the least to the greatest of them.
+LABEL:12
+VERSE:For I will be merciful to their iniquities,
+VERSE:And their sins will I remember no more.
+LABEL:13
+VERSE:In that he saith, A new covenant, he hath made the first old. But that which is becoming old and waxeth aged is nigh unto vanishing away.

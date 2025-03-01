@@ -1,0 +1,43 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:21
+TITLE:Psalm 21
+LABEL:1
+VERSE:The king shall joy in thy strength, O LORD;
+VERSE:And in thy salvation how greatly shall he rejoice!
+LABEL:2
+VERSE:Thou hast given him his heart's desire,
+VERSE:And hast not withholden the request of his lips. Selah.
+LABEL:3
+VERSE:For thou preventest him with the blessings of goodness:
+VERSE:Thou settest a crown of pure gold on his head.
+LABEL:4
+VERSE:He asked life of thee, and thou gavest it him,
+VERSE:Even length of days for ever and ever.
+LABEL:5
+VERSE:His glory is great in thy salvation:
+VERSE:Honour and majesty hast thou laid upon him.
+LABEL:6
+VERSE:For thou hast made him most blessed for ever:
+VERSE:Thou hast made him exceeding glad with thy countenance.
+LABEL:7
+VERSE:For the king trusteth in the LORD,
+VERSE:And through the mercy of the Most High he shall not be moved.
+LABEL:8
+VERSE:Thine hand shall find out all thine enemies:
+VERSE:Thy right hand shall find out those that hate thee.
+LABEL:9
+VERSE:Thou shalt make them as a fiery oven in the time of thine anger:
+VERSE:The LORD shall swallow them up in his wrath, and the fire shall devour them.
+LABEL:10
+VERSE:Their fruit shalt thou destroy from the earth,
+VERSE:And their seed from among the children of men.
+LABEL:11
+VERSE:For they intended evil against thee:
+VERSE:They imagined a mischievous device, which they are not able to perform.
+LABEL:12
+VERSE:Therefore shalt thou make them turn their back,
+VERSE:When thou shalt make ready thine arrows upon thy strings against the face of them.
+LABEL:13
+VERSE:Be thou exalted, LORD, in thine own strength:
+VERSE:So will we sing and praise thy power.

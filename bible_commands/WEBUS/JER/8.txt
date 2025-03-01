@@ -1,0 +1,98 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:8
+TITLE:Jeremiah 8
+LABEL:1
+VERSE:“At that time,” says Yahweh, “they will bring the bones of the kings of Judah, the bones of his princes, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves.
+LABEL:2
+VERSE:They will spread them before the sun, the moon, and all the army of the sky, which they have loved, which they have served, after which they have walked, which they have sought, and which they have worshiped. They will not be gathered or be buried. They will be like dung on the surface of the earth.
+LABEL:3
+VERSE:Death will be chosen rather than life by all the residue that remain of this evil family, that remain in all the places where I have driven them,” says Yahweh of Armies.
+LABEL:4
+VERSE:“Moreover you shall tell them, ‘Yahweh says:
+VERSE:“‘Do men fall, and not rise up again?
+VERSE:Does one turn away, and not return?
+LABEL:5
+VERSE:Why then have the people of Jerusalem fallen back by a perpetual backsliding?
+VERSE:They cling to deceit.
+VERSE:They refuse to return.
+LABEL:6
+VERSE:I listened and heard, but they didn’t say what is right.
+VERSE:No one repents of his wickedness, saying, “What have I done?”
+VERSE:Everyone turns to his course,
+VERSE:as a horse that rushes headlong in the battle.
+LABEL:7
+VERSE:Yes, the stork in the sky knows her appointed times.
+VERSE:The turtledove, the swallow, and the crane observe the time of their coming;
+VERSE:but my people don’t know Yahweh’s law.
+LABEL:8
+VERSE:“‘How do you say, “We are wise, and Yahweh’s law is with us”?
+VERSE:But, behold, the false pen of the scribes has made that a lie.
+LABEL:9
+VERSE:The wise men are disappointed.
+VERSE:They are dismayed and trapped.
+VERSE:Behold, they have rejected Yahweh’s word.
+VERSE:What kind of wisdom is in them?
+LABEL:10
+VERSE:Therefore I will give their wives to others
+VERSE:and their fields to those who will possess them.
+VERSE:For everyone from the least even to the greatest is given to covetousness;
+VERSE:from the prophet even to the priest everyone deals falsely.
+LABEL:11
+VERSE:They have healed the hurt of the daughter of my people slightly, saying,
+VERSE:“Peace, peace,” when there is no peace.
+LABEL:12
+VERSE:Were they ashamed when they had committed abomination?
+VERSE:No, they were not at all ashamed.
+VERSE:They couldn’t blush.
+VERSE:Therefore they will fall among those who fall.
+VERSE:In the time of their visitation they will be cast down, says Yahweh.
+LABEL:13
+VERSE:“‘I will utterly consume them, says Yahweh.
+VERSE:No grapes will be on the vine,
+VERSE:no figs on the fig tree,
+VERSE:and the leaf will fade.
+VERSE:The things that I have given them
+VERSE:will pass away from them.’”
+LABEL:14
+VERSE:“Why do we sit still?
+VERSE:Assemble yourselves!
+VERSE:Let’s enter into the fortified cities,
+VERSE:and let’s be silent there;
+VERSE:for Yahweh our God has put us to silence,
+VERSE:and given us poisoned water to drink,
+VERSE:because we have sinned against Yahweh.
+LABEL:15
+VERSE:We looked for peace, but no good came;
+VERSE:and for a time of healing, and behold, dismay!
+LABEL:16
+VERSE:The snorting of his horses is heard from Dan.
+VERSE:The whole land trembles at the sound of the neighing of his strong ones;
+VERSE:for they have come, and have devoured the land and all that is in it,
+VERSE:the city and those who dwell therein.”
+LABEL:17
+VERSE:“For, behold, I will send serpents,
+VERSE:adders among you,
+VERSE:which will not be charmed;
+VERSE:and they will bite you,” says Yahweh.
+LABEL:18
+VERSE:Oh that I could comfort myself against sorrow!
+VERSE:My heart is faint within me.
+LABEL:19
+VERSE:Behold, the voice of the cry of the daughter of my people from a land that is very far off:
+VERSE:“Isn’t Yahweh in Zion?
+VERSE:Isn’t her King in her?”
+VERSE:“Why have they provoked me to anger with their engraved images,
+VERSE:and with foreign idols?”
+LABEL:20
+VERSE:“The harvest is past.
+VERSE:The summer has ended,
+VERSE:and we are not saved.”
+LABEL:21
+VERSE:For the hurt of the daughter of my people, I am hurt.
+VERSE:I mourn.
+VERSE:Dismay has taken hold of me.
+LABEL:22
+VERSE:Is there no balm in Gilead?
+VERSE:Is there no physician there?
+VERSE:Why then isn’t the health of the daughter of my people recovered?

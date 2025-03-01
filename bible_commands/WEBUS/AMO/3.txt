@@ -1,0 +1,67 @@
+TRANSLATION:WEBUS
+BOOK:AMO
+CHAPTER:3
+TITLE:Amos 3
+LABEL:1
+VERSE:Hear this word that Yahweh has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:
+LABEL:2
+VERSE:“I have only chosen you of all the families of the earth.
+VERSE:Therefore I will punish you for all of your sins.”
+LABEL:3
+VERSE:Do two walk together,
+VERSE:unless they have agreed?
+LABEL:4
+VERSE:Will a lion roar in the thicket,
+VERSE:when he has no prey?
+VERSE:Does a young lion cry out of his den,
+VERSE:if he has caught nothing?
+LABEL:5
+VERSE:Can a bird fall in a trap on the earth,
+VERSE:where no snare is set for him?
+VERSE:Does a snare spring up from the ground,
+VERSE:when there is nothing to catch?
+LABEL:6
+VERSE:Does the trumpet alarm sound in a city,
+VERSE:without the people being afraid?
+VERSE:Does evil happen to a city,
+VERSE:and Yahweh hasn’t done it?
+LABEL:7
+VERSE:Surely the Lord Yahweh will do nothing,
+VERSE:unless he reveals his secret to his servants the prophets.
+LABEL:8
+VERSE:The lion has roared.
+VERSE:Who will not fear?
+VERSE:The Lord Yahweh has spoken.
+VERSE:Who can but prophesy?
+LABEL:9
+VERSE:Proclaim in the palaces at Ashdod,
+VERSE:and in the palaces in the land of Egypt,
+VERSE:and say, “Assemble yourselves on the mountains of Samaria,
+VERSE:and see what unrest is in her,
+VERSE:and what oppression is among them.”
+LABEL:10
+VERSE:“Indeed they don’t know to do right,” says Yahweh,
+VERSE:“Who hoard plunder and loot in their palaces.”
+LABEL:11
+VERSE:Therefore the Lord Yahweh says:
+VERSE:“An adversary will overrun the land;
+VERSE:and he will pull down your strongholds,
+VERSE:and your fortresses will be plundered.”
+LABEL:12
+VERSE:Yahweh says:
+VERSE:“As the shepherd rescues out of the mouth of the lion two legs,
+VERSE:or a piece of an ear,
+VERSE:so shall the children of Israel be rescued who sit in Samaria on the corner of a couch,
+VERSE:and on the silken cushions of a bed.”
+LABEL:13
+VERSE:“Listen, and testify against the house of Jacob,” says the Lord Yahweh, the God of Armies.
+LABEL:14
+VERSE:“For in the day that I visit the transgressions of Israel on him,
+VERSE:I will also visit the altars of Bethel;
+VERSE:and the horns of the altar will be cut off,
+VERSE:and fall to the ground.
+LABEL:15
+VERSE:I will strike the winter house with the summer house;
+VERSE:and the houses of ivory will perish,
+VERSE:and the great houses will have an end,”
+VERSE:says Yahweh.

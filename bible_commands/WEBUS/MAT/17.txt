@@ -1,0 +1,61 @@
+TRANSLATION:WEBUS
+BOOK:MAT
+CHAPTER:17
+TITLE:Matthew 17
+LABEL:1
+VERSE:After six days, Jesus took with him Peter, James, and John his brother, and brought them up into a high mountain by themselves.
+LABEL:2
+VERSE:He was changed before them. His face shone like the sun, and his garments became as white as the light.
+LABEL:3
+VERSE:Behold, Moses and Elijah appeared to them talking with him.
+LABEL:4
+VERSE:Peter answered and said to Jesus, “Lord, it is good for us to be here. If you want, let’s make three tents here: one for you, one for Moses, and one for Elijah.”
+LABEL:5
+VERSE:While he was still speaking, behold, a bright cloud overshadowed them. Behold, a voice came out of the cloud, saying, “This is my beloved Son, in whom I am well pleased. Listen to him.”
+LABEL:6
+VERSE:When the disciples heard it, they fell on their faces, and were very afraid.
+LABEL:7
+VERSE:Jesus came and touched them and said, “Get up, and don’t be afraid.”
+LABEL:8
+VERSE:Lifting up their eyes, they saw no one, except Jesus alone.
+LABEL:9
+VERSE:As they were coming down from the mountain, Jesus commanded them, saying, “Don’t tell anyone what you saw, until the Son of Man has risen from the dead.”
+LABEL:10
+VERSE:His disciples asked him, saying, “Then why do the scribes say that Elijah must come first?”
+LABEL:11
+VERSE:Jesus answered them, “Elijah indeed comes first, and will restore all things;
+LABEL:12
+VERSE:but I tell you that Elijah has come already, and they didn’t recognize him, but did to him whatever they wanted to. Even so the Son of Man will also suffer by them.”
+LABEL:13
+VERSE:Then the disciples understood that he spoke to them of John the Baptizer.
+LABEL:14
+VERSE:When they came to the multitude, a man came to him, kneeling down to him and saying,
+LABEL:15
+VERSE:“Lord, have mercy on my son, for he is epileptic and suffers grievously; for he often falls into the fire, and often into the water.
+LABEL:16
+VERSE:So I brought him to your disciples, and they could not cure him.”
+LABEL:17
+VERSE:Jesus answered, “Faithless and perverse generation! How long will I be with you? How long will I bear with you? Bring him here to me.”
+LABEL:18
+VERSE:Jesus rebuked the demon, and it went out of him, and the boy was cured from that hour.
+LABEL:19
+VERSE:Then the disciples came to Jesus privately, and said, “Why weren’t we able to cast it out?”
+LABEL:20
+VERSE:He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.
+LABEL:21
+VERSE:But this kind doesn’t go out except by prayer and fasting.”
+LABEL:22
+VERSE:While they were staying in Galilee, Jesus said to them, “The Son of Man is about to be delivered up into the hands of men,
+LABEL:23
+VERSE:and they will kill him, and the third day he will be raised up.”
+VERSE:They were exceedingly sorry.
+LABEL:24
+VERSE:When they had come to Capernaum, those who collected the didrachma coins came to Peter, and said, “Doesn’t your teacher pay the didrachma?”
+LABEL:25
+VERSE:He said, “Yes.”
+VERSE:When he came into the house, Jesus anticipated him, saying, “What do you think, Simon? From whom do the kings of the earth receive toll or tribute? From their children, or from strangers?”
+LABEL:26
+VERSE:Peter said to him, “From strangers.”
+VERSE:Jesus said to him, “Therefore the children are exempt.
+LABEL:27
+VERSE:But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin.  Take that, and give it to them for me and you.”

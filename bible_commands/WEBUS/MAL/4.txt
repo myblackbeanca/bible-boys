@@ -1,0 +1,16 @@
+TRANSLATION:WEBUS
+BOOK:MAL
+CHAPTER:4
+TITLE:Malachi 4
+LABEL:1
+VERSE:“For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch.
+LABEL:2
+VERSE:But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall.
+LABEL:3
+VERSE:You shall tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says Yahweh of Armies.
+LABEL:4
+VERSE:“Remember the law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances.
+LABEL:5
+VERSE:Behold, I will send you Elijah the prophet before the great and terrible day of Yahweh comes.
+LABEL:6
+VERSE:He will turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”

@@ -1,0 +1,24 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:13
+TITLE:Psalms 13
+LABEL:1
+VERSE:How long, Yahweh?
+VERSE:Will you forget me forever?
+VERSE:How long will you hide your face from me?
+LABEL:2
+VERSE:How long shall I take counsel in my soul,
+VERSE:having sorrow in my heart every day?
+VERSE:How long shall my enemy triumph over me?
+LABEL:3
+VERSE:Behold, and answer me, Yahweh, my God.
+VERSE:Give light to my eyes, lest I sleep in death;
+LABEL:4
+VERSE:lest my enemy say, “I have prevailed against him;”
+VERSE:lest my adversaries rejoice when I fall.
+LABEL:5
+VERSE:But I trust in your loving kindness.
+VERSE:My heart rejoices in your salvation.
+LABEL:6
+VERSE:I will sing to Yahweh,
+VERSE:because he has been good to me.

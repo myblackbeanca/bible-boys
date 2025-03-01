@@ -1,0 +1,99 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:109
+TITLE:Psalms 109
+LABEL:1
+VERSE:God of my praise, don’t remain silent,
+LABEL:2
+VERSE:for they have opened the mouth of the wicked and the mouth of deceit against me.
+VERSE:They have spoken to me with a lying tongue.
+LABEL:3
+VERSE:They have also surrounded me with words of hatred,
+VERSE:and fought against me without a cause.
+LABEL:4
+VERSE:In return for my love, they are my adversaries;
+VERSE:but I am in prayer.
+LABEL:5
+VERSE:They have rewarded me evil for good,
+VERSE:and hatred for my love.
+LABEL:6
+VERSE:Set a wicked man over him.
+VERSE:Let an adversary stand at his right hand.
+LABEL:7
+VERSE:When he is judged, let him come out guilty.
+VERSE:Let his prayer be turned into sin.
+LABEL:8
+VERSE:Let his days be few.
+VERSE:Let another take his office.
+LABEL:9
+VERSE:Let his children be fatherless,
+VERSE:and his wife a widow.
+LABEL:10
+VERSE:Let his children be wandering beggars.
+VERSE:Let them be sought from their ruins.
+LABEL:11
+VERSE:Let the creditor seize all that he has.
+VERSE:Let strangers plunder the fruit of his labor.
+LABEL:12
+VERSE:Let there be no one to extend kindness to him,
+VERSE:neither let there be anyone to have pity on his fatherless children.
+LABEL:13
+VERSE:Let his posterity be cut off.
+VERSE:In the generation following let their name be blotted out.
+LABEL:14
+VERSE:Let the iniquity of his fathers be remembered by Yahweh.
+VERSE:Don’t let the sin of his mother be blotted out.
+LABEL:15
+VERSE:Let them be before Yahweh continually,
+VERSE:that he may cut off their memory from the earth;
+LABEL:16
+VERSE:because he didn’t remember to show kindness,
+VERSE:but persecuted the poor and needy man,
+VERSE:the broken in heart, to kill them.
+LABEL:17
+VERSE:Yes, he loved cursing, and it came to him.
+VERSE:He didn’t delight in blessing, and it was far from him.
+LABEL:18
+VERSE:He clothed himself also with cursing as with his garment.
+VERSE:It came into his inward parts like water,
+VERSE:like oil into his bones.
+LABEL:19
+VERSE:Let it be to him as the clothing with which he covers himself,
+VERSE:for the belt that is always around him.
+LABEL:20
+VERSE:This is the reward of my adversaries from Yahweh,
+VERSE:of those who speak evil against my soul.
+LABEL:21
+VERSE:But deal with me, Yahweh the Lord, for your name’s sake,
+VERSE:because your loving kindness is good, deliver me;
+LABEL:22
+VERSE:for I am poor and needy.
+VERSE:My heart is wounded within me.
+LABEL:23
+VERSE:I fade away like an evening shadow.
+VERSE:I am shaken off like a locust.
+LABEL:24
+VERSE:My knees are weak through fasting.
+VERSE:My body is thin and lacks fat.
+LABEL:25
+VERSE:I have also become a reproach to them.
+VERSE:When they see me, they shake their head.
+LABEL:26
+VERSE:Help me, Yahweh, my God.
+VERSE:Save me according to your loving kindness;
+LABEL:27
+VERSE:that they may know that this is your hand;
+VERSE:that you, Yahweh, have done it.
+LABEL:28
+VERSE:They may curse, but you bless.
+VERSE:When they arise, they will be shamed,
+VERSE:but your servant shall rejoice.
+LABEL:29
+VERSE:Let my adversaries be clothed with dishonor.
+VERSE:Let them cover themselves with their own shame as with a robe.
+LABEL:30
+VERSE:I will give great thanks to Yahweh with my mouth.
+VERSE:Yes, I will praise him among the multitude.
+LABEL:31
+VERSE:For he will stand at the right hand of the needy,
+VERSE:to save him from those who judge his soul.

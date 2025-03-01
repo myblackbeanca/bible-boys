@@ -1,0 +1,76 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:14
+TITLE:Job 14
+LABEL:1
+VERSE:“Man, who is born of a woman,
+VERSE:is of few days, and full of trouble.
+LABEL:2
+VERSE:He grows up like a flower, and is cut down.
+VERSE:He also flees like a shadow, and doesn’t continue.
+LABEL:3
+VERSE:Do you open your eyes on such a one,
+VERSE:and bring me into judgment with you?
+LABEL:4
+VERSE:Who can bring a clean thing out of an unclean?
+VERSE:Not one.
+LABEL:5
+VERSE:Seeing his days are determined,
+VERSE:the number of his months is with you,
+VERSE:and you have appointed his bounds that he can’t pass.
+LABEL:6
+VERSE:Look away from him, that he may rest,
+VERSE:until he accomplishes, as a hireling, his day.
+LABEL:7
+VERSE:“For there is hope for a tree if it is cut down,
+VERSE:that it will sprout again,
+VERSE:that the tender branch of it will not cease.
+LABEL:8
+VERSE:Though its root grows old in the earth,
+VERSE:and its stock dies in the ground,
+LABEL:9
+VERSE:yet through the scent of water it will bud,
+VERSE:and sprout boughs like a plant.
+LABEL:10
+VERSE:But man dies, and is laid low.
+VERSE:Yes, man gives up the spirit, and where is he?
+LABEL:11
+VERSE:As the waters fail from the sea,
+VERSE:and the river wastes and dries up,
+LABEL:12
+VERSE:so man lies down and doesn’t rise.
+VERSE:Until the heavens are no more, they will not awake,
+VERSE:nor be roused out of their sleep.
+LABEL:13
+VERSE:“Oh that you would hide me in Sheol,
+VERSE:that you would keep me secret until your wrath is past,
+VERSE:that you would appoint me a set time and remember me!
+LABEL:14
+VERSE:If a man dies, will he live again?
+VERSE:I would wait all the days of my warfare,
+VERSE:until my release should come.
+LABEL:15
+VERSE:You would call, and I would answer you.
+VERSE:You would have a desire for the work of your hands.
+LABEL:16
+VERSE:But now you count my steps.
+VERSE:Don’t you watch over my sin?
+LABEL:17
+VERSE:My disobedience is sealed up in a bag.
+VERSE:You fasten up my iniquity.
+LABEL:18
+VERSE:“But the mountain falling comes to nothing.
+VERSE:The rock is removed out of its place.
+LABEL:19
+VERSE:The waters wear the stones.
+VERSE:The torrents of it wash away the dust of the earth.
+VERSE:So you destroy the hope of man.
+LABEL:20
+VERSE:You forever prevail against him, and he departs.
+VERSE:You change his face, and send him away.
+LABEL:21
+VERSE:His sons come to honor, and he doesn’t know it.
+VERSE:They are brought low, but he doesn’t perceive it of them.
+LABEL:22
+VERSE:But his flesh on him has pain,
+VERSE:and his soul within him mourns.”

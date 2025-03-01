@@ -1,0 +1,52 @@
+TRANSLATION:WEBUS
+BOOK:ECC
+CHAPTER:12
+TITLE:Ecclesiastes 12
+LABEL:1
+VERSE:Remember also your Creator in the days of your youth,
+VERSE:before the evil days come, and the years draw near,
+VERSE:when you will say, “I have no pleasure in them;”
+LABEL:2
+VERSE:Before the sun, the light, the moon, and the stars are darkened,
+VERSE:and the clouds return after the rain;
+LABEL:3
+VERSE:in the day when the keepers of the house shall tremble,
+VERSE:and the strong men shall bow themselves,
+VERSE:and the grinders cease because they are few,
+VERSE:and those who look out of the windows are darkened,
+LABEL:4
+VERSE:and the doors shall be shut in the street;
+VERSE:when the sound of the grinding is low,
+VERSE:and one shall rise up at the voice of a bird,
+VERSE:and all the daughters of music shall be brought low;
+LABEL:5
+VERSE:yes, they shall be afraid of heights,
+VERSE:and terrors will be on the way;
+VERSE:and the almond tree shall blossom,
+VERSE:and the grasshopper shall be a burden,
+VERSE:and desire shall fail;
+VERSE:because man goes to his everlasting home,
+VERSE:and the mourners go about the streets;
+LABEL:6
+VERSE:before the silver cord is severed,
+VERSE:or the golden bowl is broken,
+VERSE:or the pitcher is broken at the spring,
+VERSE:or the wheel broken at the cistern,
+LABEL:7
+VERSE:and the dust returns to the earth as it was,
+VERSE:and the spirit returns to God who gave it.
+LABEL:8
+VERSE:“Vanity of vanities,” says the Preacher.
+VERSE:“All is vanity!”
+LABEL:9
+VERSE:Further, because the Preacher was wise, he still taught the people knowledge. Yes, he pondered, sought out, and set in order many proverbs.
+LABEL:10
+VERSE:The Preacher sought to find out acceptable words, and that which was written blamelessly, words of truth.
+LABEL:11
+VERSE:The words of the wise are like goads; and like nails well fastened are words from the masters of assemblies, which are given from one shepherd.
+LABEL:12
+VERSE:Furthermore, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.
+LABEL:13
+VERSE:This is the end of the matter. All has been heard. Fear God and keep his commandments; for this is the whole duty of man.
+LABEL:14
+VERSE:For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.

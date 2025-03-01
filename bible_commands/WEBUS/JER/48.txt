@@ -1,0 +1,207 @@
+TRANSLATION:WEBUS
+BOOK:JER
+CHAPTER:48
+TITLE:Jeremiah 48
+LABEL:1
+VERSE:Of Moab. Yahweh of Armies, the God of Israel, says:
+VERSE:“Woe to Nebo!
+VERSE:For it is laid waste.
+VERSE:Kiriathaim is disappointed.
+VERSE:It is taken.
+VERSE:Misgab is put to shame
+VERSE:and broken down.
+LABEL:2
+VERSE:The praise of Moab is no more.
+VERSE:In Heshbon they have devised evil against her:
+VERSE:‘Come! Let’s cut her off from being a nation.’
+VERSE:You also, Madmen, will be brought to silence.
+VERSE:The sword will pursue you.
+LABEL:3
+VERSE:The sound of a cry from Horonaim,
+VERSE:desolation and great destruction!
+LABEL:4
+VERSE:Moab is destroyed.
+VERSE:Her little ones have caused a cry to be heard.
+LABEL:5
+VERSE:For they will go up by the ascent of Luhith with continual weeping.
+VERSE:For at the descent of Horonaim they have heard the distress of the cry of destruction.
+LABEL:6
+VERSE:Flee! Save your lives!
+VERSE:Be like the juniper bush in the wilderness.
+LABEL:7
+VERSE:For, because you have trusted in your works and in your treasures,
+VERSE:you also will be taken.
+VERSE:Chemosh will go out into captivity,
+VERSE:his priests and his princes together.
+LABEL:8
+VERSE:The destroyer will come on every city,
+VERSE:and no city will escape;
+VERSE:the valley also will perish,
+VERSE:and the plain will be destroyed, as Yahweh has spoken.
+LABEL:9
+VERSE:Give wings to Moab,
+VERSE:that she may fly and get herself away:
+VERSE:and her cities will become a desolation,
+VERSE:without anyone to dwell in them.
+LABEL:10
+VERSE:“Cursed is he who does the work of Yahweh negligently;
+VERSE:and cursed is he who keeps back his sword from blood.
+LABEL:11
+VERSE:“Moab has been at ease from his youth,
+VERSE:and he has settled on his dregs,
+VERSE:and has not been emptied from vessel to vessel,
+VERSE:neither has he gone into captivity;
+VERSE:therefore his taste remains in him,
+VERSE:and his scent is not changed.
+LABEL:12
+VERSE:Therefore behold, the days come,” says Yahweh,
+VERSE:“that I will send to him those who pour off,
+VERSE:and they will pour him off;
+VERSE:and they will empty his vessels,
+VERSE:and break their containers in pieces.
+LABEL:13
+VERSE:Moab will be ashamed of Chemosh,
+VERSE:as the house of Israel was ashamed of Bethel, their confidence.
+LABEL:14
+VERSE:“How do you say, ‘We are mighty men,
+VERSE:and valiant men for the war’?
+LABEL:15
+VERSE:Moab is laid waste,
+VERSE:and they have gone up into his cities,
+VERSE:and his chosen young men have gone down to the slaughter,”
+VERSE:says the King, whose name is Yahweh of Armies.
+LABEL:16
+VERSE:“The calamity of Moab is near to come,
+VERSE:and his affliction hurries fast.
+LABEL:17
+VERSE:All you who are around him, bemoan him;
+VERSE:and all you who know his name, say,
+VERSE:‘How the strong staff is broken,
+VERSE:the beautiful rod!’
+LABEL:18
+VERSE:“You daughter who dwells in Dibon,
+VERSE:come down from your glory,
+VERSE:and sit in thirst;
+VERSE:for the destroyer of Moab has come up against you.
+VERSE:He has destroyed your strongholds.
+LABEL:19
+VERSE:Inhabitant of Aroer, stand by the way and watch.
+VERSE:Ask him who flees, and her who escapes;
+VERSE:say, ‘What has been done?’
+LABEL:20
+VERSE:Moab is disappointed;
+VERSE:for it is broken down.
+VERSE:Wail and cry!
+VERSE:Tell it by the Arnon, that Moab is laid waste.
+LABEL:21
+VERSE:Judgment has come on the plain country—
+VERSE:on Holon, on Jahzah, on Mephaath,
+LABEL:22
+VERSE:on Dibon, on Nebo, on Beth Diblathaim,
+LABEL:23
+VERSE:on Kiriathaim, on Beth Gamul, on Beth Meon,
+LABEL:24
+VERSE:on Kerioth, on Bozrah,
+VERSE:and on all the cities of the land of Moab, far or near.
+LABEL:25
+VERSE:The horn of Moab is cut off,
+VERSE:and his arm is broken,” says Yahweh.
+LABEL:26
+VERSE:“Make him drunk,
+VERSE:for he magnified himself against Yahweh.
+VERSE:Moab will wallow in his vomit,
+VERSE:and he also will be in derision.
+LABEL:27
+VERSE:For wasn’t Israel a derision to you?
+VERSE:Was he found among thieves?
+VERSE:For as often as you speak of him,
+VERSE:you shake your head.
+LABEL:28
+VERSE:You inhabitants of Moab, leave the cities, and dwell in the rock.
+VERSE:Be like the dove that makes her nest over the mouth of the abyss.
+LABEL:29
+VERSE:“We have heard of the pride of Moab.
+VERSE:He is very proud in his loftiness, his pride,
+VERSE:his arrogance, and the arrogance of his heart.
+LABEL:30
+VERSE:I know his wrath,” says Yahweh, “that it is nothing;
+VERSE:his boastings have done nothing.
+LABEL:31
+VERSE:Therefore I will wail for Moab.
+VERSE:Yes, I will cry out for all Moab.
+VERSE:They will mourn for the men of Kir Heres.
+LABEL:32
+VERSE:With more than the weeping of Jazer
+VERSE:I will weep for you, vine of Sibmah.
+VERSE:Your branches passed over the sea.
+VERSE:They reached even to the sea of Jazer.
+VERSE:The destroyer has fallen on your summer fruits
+VERSE:and on your vintage.
+LABEL:33
+VERSE:Gladness and joy is taken away from the fruitful field
+VERSE:and from the land of Moab.
+VERSE:I have caused wine to cease from the wine presses.
+VERSE:No one will tread with shouting.
+VERSE:The shouting will be no shouting.
+LABEL:34
+VERSE:From the cry of Heshbon even to Elealeh,
+VERSE:even to Jahaz they have uttered their voice,
+VERSE:from Zoar even to Horonaim, to Eglath Shelishiyah;
+VERSE:for the waters of Nimrim will also become desolate.
+LABEL:35
+VERSE:Moreover I will cause to cease in Moab,” says Yahweh,
+VERSE:“him who offers in the high place,
+VERSE:and him who burns incense to his gods.
+LABEL:36
+VERSE:Therefore my heart sounds for Moab like flutes,
+VERSE:and my heart sounds like flutes for the men of Kir Heres.
+VERSE:Therefore the abundance that he has gotten has perished.
+LABEL:37
+VERSE:For every head is bald,
+VERSE:and every beard clipped.
+VERSE:There are cuttings on all the hands,
+VERSE:and sackcloth on the waist.
+LABEL:38
+VERSE:On all the housetops of Moab,
+VERSE:and in its streets, there is lamentation everywhere;
+VERSE:for I have broken Moab like a vessel in which no one delights,” says Yahweh.
+LABEL:39
+VERSE:“How it is broken down!
+VERSE:How they wail!
+VERSE:How Moab has turned the back with shame!
+VERSE:So will Moab become a derision
+VERSE:and a terror to all who are around him.”
+LABEL:40
+VERSE:For Yahweh says: “Behold, he will fly as an eagle,
+VERSE:and will spread out his wings against Moab.
+LABEL:41
+VERSE:Kerioth is taken,
+VERSE:and the strongholds are seized.
+VERSE:The heart of the mighty men of Moab at that day
+VERSE:will be as the heart of a woman in her pangs.
+LABEL:42
+VERSE:Moab will be destroyed from being a people,
+VERSE:because he has magnified himself against Yahweh.
+LABEL:43
+VERSE:Terror, the pit, and the snare are on you,
+VERSE:inhabitant of Moab,” says Yahweh.
+LABEL:44
+VERSE:“He who flees from the terror will fall into the pit;
+VERSE:and he who gets up out of the pit will be taken in the snare,
+VERSE:for I will bring on him, even on Moab,
+VERSE:the year of their visitation,” says Yahweh.
+LABEL:45
+VERSE:“Those who fled stand without strength under the shadow of Heshbon;
+VERSE:for a fire has gone out of Heshbon,
+VERSE:and a flame from the middle of Sihon,
+VERSE:and has devoured the corner of Moab,
+VERSE:and the crown of the head of the tumultuous ones.
+LABEL:46
+VERSE:Woe to you, O Moab!
+VERSE:The people of Chemosh are undone;
+VERSE:for your sons are taken away captive,
+VERSE:and your daughters into captivity.
+LABEL:47
+VERSE:“Yet I will reverse the captivity of Moab in the latter days,”
+VERSE:says Yahweh.
+VERSE:Thus far is the judgment of Moab.

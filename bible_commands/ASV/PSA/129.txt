@@ -1,0 +1,29 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:129
+TITLE:Psalms 129
+LABEL:1
+VERSE:Many a time have they afflicted me from my youth up,
+VERSE:Let Israel now say,
+LABEL:2
+VERSE:Many a time have they afflicted me from my youth up:
+VERSE:Yet they have not prevailed against me.
+LABEL:3
+VERSE:The plowers plowed upon my back;
+VERSE:They made long their furrows.
+LABEL:4
+VERSE:Jehovah is righteous:
+VERSE:He hath cut asunder the cords of the wicked.
+LABEL:5
+VERSE:Let them be put to shame and turned backward,
+VERSE:All they that hate Zion.
+LABEL:6
+VERSE:Let them be as the grass upon the housetops,
+VERSE:Which withereth before it groweth up;
+LABEL:7
+VERSE:Wherewith the reaper filleth not his hand,
+VERSE:Nor he that bindeth sheaves, his bosom:
+LABEL:8
+VERSE:Neither do they that go by say,
+VERSE:The blessing of Jehovah be upon you;
+VERSE:We bless you in the name of Jehovah.

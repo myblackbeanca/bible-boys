@@ -1,0 +1,37 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:64
+TITLE:Psalms 64
+LABEL:1
+VERSE:Hear my voice, God, in my complaint.
+VERSE:Preserve my life from fear of the enemy.
+LABEL:2
+VERSE:Hide me from the conspiracy of the wicked,
+VERSE:from the noisy crowd of the ones doing evil;
+LABEL:3
+VERSE:who sharpen their tongue like a sword,
+VERSE:and aim their arrows, deadly words,
+LABEL:4
+VERSE:to shoot innocent men from ambushes.
+VERSE:They shoot at him suddenly and fearlessly.
+LABEL:5
+VERSE:They encourage themselves in evil plans.
+VERSE:They talk about laying snares secretly.
+VERSE:They say, “Who will see them?”
+LABEL:6
+VERSE:They plot injustice, saying, “We have made a perfect plan!”
+VERSE:Surely man’s mind and heart are cunning.
+LABEL:7
+VERSE:But God will shoot at them.
+VERSE:They will be suddenly struck down with an arrow.
+LABEL:8
+VERSE:Their own tongues shall ruin them.
+VERSE:All who see them will shake their heads.
+LABEL:9
+VERSE:All mankind shall be afraid.
+VERSE:They shall declare the work of God,
+VERSE:and shall wisely ponder what he has done.
+LABEL:10
+VERSE:The righteous shall be glad in Yahweh,
+VERSE:and shall take refuge in him.
+VERSE:All the upright in heart shall praise him!

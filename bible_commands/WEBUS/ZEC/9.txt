@@ -1,0 +1,88 @@
+TRANSLATION:WEBUS
+BOOK:ZEC
+CHAPTER:9
+TITLE:Zechariah 9
+LABEL:1
+VERSE:A revelation.
+VERSE:Yahweh’s word is against the land of Hadrach,
+VERSE:and will rest upon Damascus—
+VERSE:for the eye of man
+VERSE:and of all the tribes of Israel is toward Yahweh—
+LABEL:2
+VERSE:and Hamath, also, which borders on it,
+VERSE:Tyre and Sidon, because they are very wise.
+LABEL:3
+VERSE:Tyre built herself a stronghold,
+VERSE:and heaped up silver like the dust,
+VERSE:and fine gold like the mire of the streets.
+LABEL:4
+VERSE:Behold, the Lord will dispossess her,
+VERSE:and he will strike her power in the sea;
+VERSE:and she will be devoured with fire.
+LABEL:5
+VERSE:Ashkelon will see it, and fear;
+VERSE:Gaza also, and will writhe in agony;
+VERSE:as will Ekron, for her expectation will be disappointed;
+VERSE:and the king will perish from Gaza,
+VERSE:and Ashkelon will not be inhabited.
+LABEL:6
+VERSE:Foreigners will dwell in Ashdod,
+VERSE:and I will cut off the pride of the Philistines.
+LABEL:7
+VERSE:I will take away his blood out of his mouth,
+VERSE:and his abominations from between his teeth;
+VERSE:and he also will be a remnant for our God;
+VERSE:and he will be as a chieftain in Judah,
+VERSE:and Ekron as a Jebusite.
+LABEL:8
+VERSE:I will encamp around my house against the army,
+VERSE:that no one pass through or return;
+VERSE:and no oppressor will pass through them any more:
+VERSE:for now I have seen with my eyes.
+LABEL:9
+VERSE:Rejoice greatly, daughter of Zion!
+VERSE:Shout, daughter of Jerusalem!
+VERSE:Behold, your King comes to you!
+VERSE:He is righteous, and having salvation;
+VERSE:lowly, and riding on a donkey,
+VERSE:even on a colt, the foal of a donkey.
+LABEL:10
+VERSE:I will cut off the chariot from Ephraim
+VERSE:and the horse from Jerusalem.
+VERSE:The battle bow will be cut off;
+VERSE:and he will speak peace to the nations.
+VERSE:His dominion will be from sea to sea,
+VERSE:and from the River to the ends of the earth.
+LABEL:11
+VERSE:As for you also,
+VERSE:because of the blood of your covenant,
+VERSE:I have set free your prisoners from the pit in which is no water.
+LABEL:12
+VERSE:Turn to the stronghold, you prisoners of hope!
+VERSE:Even today I declare that I will restore double to you.
+LABEL:13
+VERSE:For indeed I bend Judah as a bow for me.
+VERSE:I have loaded the bow with Ephraim.
+VERSE:I will stir up your sons, Zion,
+VERSE:against your sons, Greece,
+VERSE:and will make you like the sword of a mighty man.
+LABEL:14
+VERSE:Yahweh will be seen over them.
+VERSE:His arrow will flash like lightning.
+VERSE:The Lord Yahweh will blow the trumpet,
+VERSE:and will go with whirlwinds of the south.
+LABEL:15
+VERSE:Yahweh of Armies will defend them.
+VERSE:They will destroy and overcome with sling stones.
+VERSE:They will drink, and roar as through wine.
+VERSE:They will be filled like bowls,
+VERSE:like the corners of the altar.
+LABEL:16
+VERSE:Yahweh their God will save them in that day as the flock of his people;
+VERSE:for they are like the jewels of a crown,
+VERSE:lifted on high over his land.
+LABEL:17
+VERSE:For how great is his goodness,
+VERSE:and how great is his beauty!
+VERSE:Grain will make the young men flourish,
+VERSE:and new wine the virgins.

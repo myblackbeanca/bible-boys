@@ -1,0 +1,33 @@
+TRANSLATION:KJV
+BOOK:1PE
+CHAPTER:5
+TITLE:1 Peter 5
+LABEL:1
+VERSE:The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
+LABEL:2
+VERSE:feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;
+LABEL:3
+VERSE:neither as being lords over God's heritage, but being ensamples to the flock.
+LABEL:4
+VERSE:And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.
+LABEL:5
+VERSE:Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
+LABEL:6
+VERSE:Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
+LABEL:7
+VERSE:casting all your care upon him; for he careth for you.
+LABEL:8
+VERSE:Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
+LABEL:9
+VERSE:whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
+LABEL:10
+VERSE:But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
+LABEL:11
+VERSE:To him be glory and dominion for ever and ever. Amen.
+LABEL:12
+VERSE:By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.
+LABEL:13
+VERSE:The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.
+LABEL:14
+VERSE:Greet ye one another with a kiss of charity.
+VERSE:Peace be with you all that are in Christ Jesus. Amen.

@@ -1,0 +1,116 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:69
+TITLE:Psalms 69
+LABEL:1
+VERSE:Save me, O God;
+VERSE:For the waters are come in unto my soul.
+LABEL:2
+VERSE:I sink in deep mire, where there is no standing:
+VERSE:I am come into deep waters, where the floods overflow me.
+LABEL:3
+VERSE:I am weary with my crying; my throat is dried:
+VERSE:Mine eyes fail while I wait for my God.
+LABEL:4
+VERSE:They that hate me without a cause are more than the hairs of my head:
+VERSE:They that would cut me off, being mine enemies wrongfully, are mighty:
+VERSE:That which I took not away I have to restore.
+LABEL:5
+VERSE:O God, thou knowest my foolishness;
+VERSE:And my sins are not hid from thee.
+LABEL:6
+VERSE:Let not them that wait for thee be put to shame through me, O Lord Jehovah of hosts:
+VERSE:Let not those that seek thee be brought to dishonor through me, O God of Israel.
+LABEL:7
+VERSE:Because for thy sake I have borne reproach;
+VERSE:Shame hath covered my face.
+LABEL:8
+VERSE:I am become a stranger unto my brethren,
+VERSE:And an alien unto my mother’s children.
+LABEL:9
+VERSE:For the zeal of thy house hath eaten me up;
+VERSE:And the reproaches of them that reproach thee are fallen upon me.
+LABEL:10
+VERSE:When I wept, and chastened my soul with fasting,
+VERSE:That was to my reproach.
+LABEL:11
+VERSE:When I made sackcloth my clothing,
+VERSE:I became a byword unto them.
+LABEL:12
+VERSE:They that sit in the gate talk of me;
+VERSE:And I am the song of the drunkards.
+LABEL:13
+VERSE:But as for me, my prayer is unto thee, O Jehovah, in an acceptable time:
+VERSE:O God, in the abundance of thy lovingkindness,
+VERSE:Answer me in the truth of thy salvation.
+LABEL:14
+VERSE:Deliver me out of the mire, and let me not sink:
+VERSE:Let me be delivered from them that hate me, and out of the deep waters.
+LABEL:15
+VERSE:Let not the waterflood overwhelm me,
+VERSE:Neither let the deep swallow me up;
+VERSE:And let not the pit shut its mouth upon me.
+LABEL:16
+VERSE:Answer me, O Jehovah; for thy lovingkindness is good:
+VERSE:According to the multitude of thy tender mercies turn thou unto me.
+LABEL:17
+VERSE:And hide not thy face from thy servant;
+VERSE:For I am in distress; answer me speedily.
+LABEL:18
+VERSE:Draw nigh unto my soul, and redeem it:
+VERSE:Ransom me because of mine enemies.
+LABEL:19
+VERSE:Thou knowest my reproach, and my shame, and my dishonor:
+VERSE:Mine adversaries are all before thee.
+LABEL:20
+VERSE:Reproach hath broken my heart; and I am full of heaviness:
+VERSE:And I looked for some to take pity, but there was none;
+VERSE:And for comforters, but I found none.
+LABEL:21
+VERSE:They gave me also gall for my food;
+VERSE:And in my thirst they gave me vinegar to drink.
+LABEL:22
+VERSE:Let their table before them become a snare;
+VERSE:And when they are in peace, let it become a trap.
+LABEL:23
+VERSE:Let their eyes be darkened, so that they cannot see;
+VERSE:And make their loins continually to shake.
+LABEL:24
+VERSE:Pour out thine indignation upon them,
+VERSE:And let the fierceness of thine anger overtake them.
+LABEL:25
+VERSE:Let their habitation be desolate;
+VERSE:Let none dwell in their tents.
+LABEL:26
+VERSE:For they persecute him whom thou hast smitten;
+VERSE:And they tell of the sorrow of those whom thou hast wounded.
+LABEL:27
+VERSE:Add iniquity unto their iniquity;
+VERSE:And let them not come into thy righteousness.
+LABEL:28
+VERSE:Let them be blotted out of the book of life,
+VERSE:And not be written with the righteous.
+LABEL:29
+VERSE:But I am poor and sorrowful:
+VERSE:Let thy salvation, O God, set me up on high.
+LABEL:30
+VERSE:I will praise the name of God with a song,
+VERSE:And will magnify him with thanksgiving.
+LABEL:31
+VERSE:And it will please Jehovah better than an ox,
+VERSE:Or a bullock that hath horns and hoofs.
+LABEL:32
+VERSE:The meek have seen it, and are glad:
+VERSE:Ye that seek after God, let your heart live.
+LABEL:33
+VERSE:For Jehovah heareth the needy,
+VERSE:And despiseth not his prisoners.
+LABEL:34
+VERSE:Let heaven and earth praise him,
+VERSE:The seas, and everything that moveth therein.
+LABEL:35
+VERSE:For God will save Zion, and build the cities of Judah;
+VERSE:And they shall abide there, and have it in possession.
+LABEL:36
+VERSE:The seed also of his servants shall inherit it;
+VERSE:And they that love his name shall dwell therein.

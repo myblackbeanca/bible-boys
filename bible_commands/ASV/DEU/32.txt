@@ -1,0 +1,205 @@
+TRANSLATION:ASV
+BOOK:DEU
+CHAPTER:32
+TITLE:Deuteronomy 32
+LABEL:1
+VERSE:Give ear, ye heavens, and I will speak;
+VERSE:And let the earth hear the words of my mouth.
+LABEL:2
+VERSE:My doctrine shall drop as the rain;
+VERSE:My speech shall distil as the dew,
+VERSE:As the small rain upon the tender grass,
+VERSE:And as the showers upon the herb.
+LABEL:3
+VERSE:For I will proclaim the name of Jehovah:
+VERSE:Ascribe ye greatness unto our God.
+LABEL:4
+VERSE:The Rock, his work is perfect;
+VERSE:For all his ways are justice:
+VERSE:A God of faithfulness and without iniquity,
+VERSE:Just and right is he.
+LABEL:5
+VERSE:They have dealt corruptly with him, they are not his children, it is their blemish;
+VERSE:They are a perverse and crooked generation.
+LABEL:6
+VERSE:Do ye thus requite Jehovah,
+VERSE:O foolish people and unwise?
+VERSE:Is not he thy father that hath bought thee?
+VERSE:He hath made thee, and established thee.
+LABEL:7
+VERSE:Remember the days of old,
+VERSE:Consider the years of many generations:
+VERSE:Ask thy father, and he will show thee;
+VERSE:Thine elders, and they will tell thee.
+LABEL:8
+VERSE:When the Most High gave to the nations their inheritance,
+VERSE:When he separated the children of men,
+VERSE:He set the bounds of the peoples
+VERSE:According to the number of the children of Israel.
+LABEL:9
+VERSE:For Jehovah’s portion is his people;
+VERSE:Jacob is the lot of his inheritance.
+LABEL:10
+VERSE:He found him in a desert land,
+VERSE:And in the waste howling wilderness;
+VERSE:He compassed him about, he cared for him,
+VERSE:He kept him as the apple of his eye.
+LABEL:11
+VERSE:As an eagle that stirreth up her nest,
+VERSE:That fluttereth over her young,
+VERSE:He spread abroad his wings, he took them,
+VERSE:He bare them on his pinions.
+LABEL:12
+VERSE:Jehovah alone did lead him,
+VERSE:And there was no foreign god with him.
+LABEL:13
+VERSE:He made him ride on the high places of the earth,
+VERSE:And he did eat the increase of the field;
+VERSE:And he made him to suck honey out of the rock,
+VERSE:And oil out of the flinty rock;
+LABEL:14
+VERSE:Butter of the herd, and milk of the flock,
+VERSE:With fat of lambs,
+VERSE:And rams of the breed of Bashan, and goats,
+VERSE:With the finest of the wheat;
+VERSE:And of the blood of the grape thou drankest wine.
+LABEL:15
+VERSE:But Jeshurun waxed fat, and kicked:
+VERSE:Thou art waxed fat, thou art grown thick, thou art become sleek;
+VERSE:Then he forsook God who made him,
+VERSE:And lightly esteemed the Rock of his salvation.
+LABEL:16
+VERSE:They moved him to jealousy with strange gods;
+VERSE:With abominations provoked they him to anger.
+LABEL:17
+VERSE:They sacrificed unto demons, which were no God,
+VERSE:To gods that they knew not,
+VERSE:To new gods that came up of late,
+VERSE:Which your fathers dreaded not.
+LABEL:18
+VERSE:Of the Rock that begat thee thou art unmindful,
+VERSE:And hast forgotten God that gave thee birth.
+LABEL:19
+VERSE:And Jehovah saw it, and abhorred them,
+VERSE:Because of the provocation of his sons and his daughters.
+LABEL:20
+VERSE:And he said, I will hide my face from them,
+VERSE:I will see what their end shall be:
+VERSE:For they are a very perverse generation,
+VERSE:Children in whom is no faithfulness.
+LABEL:21
+VERSE:They have moved me to jealousy with that which is not God;
+VERSE:They have provoked me to anger with their vanities:
+VERSE:And I will move them to jealousy with those that are not a people;
+VERSE:I will provoke them to anger with a foolish nation.
+LABEL:22
+VERSE:For a fire is kindled in mine anger,
+VERSE:And burneth unto the lowest Sheol,
+VERSE:And devoureth the earth with its increase,
+VERSE:And setteth on fire the foundations of the mountains.
+LABEL:23
+VERSE:I will heap evils upon them;
+VERSE:I will spend mine arrows upon them:
+LABEL:24
+VERSE:  They shall be wasted with hunger, and devoured with burning heat
+VERSE:And bitter destruction;
+VERSE:And the teeth of beasts will I send upon them,
+VERSE:With the poison of crawling things of the dust.
+LABEL:25
+VERSE:Without shall the sword bereave,
+VERSE:And in the chambers terror;
+VERSE:It shall destroy both young man and virgin,
+VERSE:The suckling with the man of gray hairs.
+LABEL:26
+VERSE:I said, I would scatter them afar,
+VERSE:I would make the remembrance of them to cease from among men;
+LABEL:27
+VERSE:Were it not that I feared the provocation of the enemy,
+VERSE:Lest their adversaries should judge amiss,
+VERSE:Lest they should say, Our hand is exalted,
+VERSE:And Jehovah hath not done all this.
+LABEL:28
+VERSE:For they are a nation void of counsel,
+VERSE:And there is no understanding in them.
+LABEL:29
+VERSE:Oh that they were wise, that they understood this,
+VERSE:That they would consider their latter end!
+LABEL:30
+VERSE:How should one chase a thousand,
+VERSE:And two put ten thousand to flight,
+VERSE:Except their Rock had sold them,
+VERSE:And Jehovah had delivered them up?
+LABEL:31
+VERSE:For their rock is not as our Rock,
+VERSE:Even our enemies themselves being judges.
+LABEL:32
+VERSE:For their vine is of the vine of Sodom,
+VERSE:And of the fields of Gomorrah:
+VERSE:Their grapes are grapes of gall,
+VERSE:Their clusters are bitter:
+LABEL:33
+VERSE:Their wine is the poison of serpents,
+VERSE:And the cruel venom of asps.
+LABEL:34
+VERSE:Is not this laid up in store with me,
+VERSE:Sealed up among my treasures?
+LABEL:35
+VERSE:Vengeance is mine, and recompense,
+VERSE:At the time when their foot shall slide:
+VERSE:For the day of their calamity is at hand,
+VERSE:And the things that are to come upon them shall make haste.
+LABEL:36
+VERSE:For Jehovah will judge his people,
+VERSE:And repent himself for his servants;
+VERSE:When he seeth that their power is gone,
+VERSE:And there is none remaining, shut up or left at large.
+LABEL:37
+VERSE:And he will say, Where are their gods,
+VERSE:The rock in which they took refuge;
+LABEL:38
+VERSE:Which did eat the fat of their sacrifices,
+VERSE:And drank the wine of their drink-offering?
+VERSE:Let them rise up and help you,
+VERSE:Let them be your protection.
+LABEL:39
+VERSE:See now that I, even I, am he,
+VERSE:And there is no god with me:
+VERSE:I kill, and I make alive;
+VERSE:I wound, and I heal;
+VERSE:And there is none that can deliver out of my hand.
+LABEL:40
+VERSE:For I lift up my hand to heaven,
+VERSE:And say, As I live for ever,
+LABEL:41
+VERSE:If I whet my glittering sword,
+VERSE:And my hand take hold on judgment;
+VERSE:I will render vengeance to mine adversaries,
+VERSE:And will recompense them that hate me.
+LABEL:42
+VERSE:I will make mine arrows drunk with blood,
+VERSE:And my sword shall devour flesh;
+VERSE:With the blood of the slain and the captives,
+VERSE:From the head of the leaders of the enemy.
+LABEL:43
+VERSE:Rejoice, O ye nations, with his people:
+VERSE:For he will avenge the blood of his servants,
+VERSE:And will render vengeance to his adversaries,
+VERSE:And will make expiation for his land, for his people.
+LABEL:44
+VERSE:And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.
+LABEL:45
+VERSE:And Moses made an end of speaking all these words to all Israel;
+LABEL:46
+VERSE:and he said unto them, Set your heart unto all the words which I testify unto you this day, which ye shall command your children to observe to do, even all the words of this law.
+LABEL:47
+VERSE:For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days in the land, whither ye go over the Jordan to possess it.
+LABEL:48
+VERSE:And Jehovah spake unto Moses that selfsame day, saying,
+LABEL:49
+VERSE:Get thee up into this mountain of Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession;
+LABEL:50
+VERSE:and die in the mount whither thou goest up, and be gathered unto thy people, as Aaron thy brother died in mount Hor, and was gathered unto his people:
+LABEL:51
+VERSE:because ye trespassed against me in the midst of the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.
+LABEL:52
+VERSE:For thou shalt see the land before thee; but thou shalt not go thither into the land which I give the children of Israel.

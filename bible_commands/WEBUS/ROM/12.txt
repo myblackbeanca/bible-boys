@@ -1,0 +1,49 @@
+TRANSLATION:WEBUS
+BOOK:ROM
+CHAPTER:12
+TITLE:Romans 12
+LABEL:1
+VERSE:Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.
+LABEL:2
+VERSE:Don’t be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.
+LABEL:3
+VERSE:For I say through the grace that was given me, to everyone who is among you, not to think of yourself more highly than you ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.
+LABEL:4
+VERSE:For even as we have many members in one body, and all the members don’t have the same function,
+LABEL:5
+VERSE:so we, who are many, are one body in Christ, and individually members of one another,
+LABEL:6
+VERSE:having gifts differing according to the grace that was given to us: if prophecy, let’s prophesy according to the proportion of our faith;
+LABEL:7
+VERSE:or service, let’s give ourselves to service; or he who teaches, to his teaching;
+LABEL:8
+VERSE:or he who exhorts, to his exhorting; he who gives, let him do it with generosity; he who rules, with diligence; he who shows mercy, with cheerfulness.
+LABEL:9
+VERSE:Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good.
+LABEL:10
+VERSE:In love of the brothers be tenderly affectionate to one another; in honor prefer one another,
+LABEL:11
+VERSE:not lagging in diligence, fervent in spirit, serving the Lord,
+LABEL:12
+VERSE:rejoicing in hope, enduring in troubles, continuing steadfastly in prayer,
+LABEL:13
+VERSE:contributing to the needs of the saints, and given to hospitality.
+LABEL:14
+VERSE:Bless those who persecute you; bless, and don’t curse.
+LABEL:15
+VERSE:Rejoice with those who rejoice. Weep with those who weep.
+LABEL:16
+VERSE:Be of the same mind one toward another. Don’t set your mind on high things, but associate with the humble. Don’t be wise in your own conceits.
+LABEL:17
+VERSE:Repay no one evil for evil. Respect what is honorable in the sight of all men.
+LABEL:18
+VERSE:If it is possible, as much as it is up to you, be at peace with all men.
+LABEL:19
+VERSE:Don’t seek revenge yourselves, beloved, but give place to God’s wrath. For it is written, “Vengeance belongs to me; I will repay, says the Lord.”
+LABEL:20
+VERSE:Therefore
+VERSE:“If your enemy is hungry, feed him.
+VERSE:If he is thirsty, give him a drink;
+VERSE:for in doing so, you will heap coals of fire on his head.”
+LABEL:21
+VERSE:Don’t be overcome by evil, but overcome evil with good.

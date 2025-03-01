@@ -1,0 +1,70 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:34
+TITLE:Psalms 34
+LABEL:1
+VERSE:   I will bless Yahweh at all times.
+VERSE:His praise will always be in my mouth.
+LABEL:2
+VERSE:My soul shall boast in Yahweh.
+VERSE:The humble shall hear of it and be glad.
+LABEL:3
+VERSE:Oh magnify Yahweh with me.
+VERSE:Let’s exalt his name together.
+LABEL:4
+VERSE:I sought Yahweh, and he answered me,
+VERSE:and delivered me from all my fears.
+LABEL:5
+VERSE:They looked to him, and were radiant.
+VERSE:Their faces shall never be covered with shame.
+LABEL:6
+VERSE:This poor man cried, and Yahweh heard him,
+VERSE:and saved him out of all his troubles.
+LABEL:7
+VERSE:Yahweh’s angel encamps around those who fear him,
+VERSE:and delivers them.
+LABEL:8
+VERSE:Oh taste and see that Yahweh is good.
+VERSE:Blessed is the man who takes refuge in him.
+LABEL:9
+VERSE:Oh fear Yahweh, you his saints,
+VERSE:for there is no lack with those who fear him.
+LABEL:10
+VERSE:The young lions do lack, and suffer hunger,
+VERSE:but those who seek Yahweh shall not lack any good thing.
+LABEL:11
+VERSE:Come, you children, listen to me.
+VERSE:I will teach you the fear of Yahweh.
+LABEL:12
+VERSE:Who is someone who desires life,
+VERSE:and loves many days, that he may see good?
+LABEL:13
+VERSE:Keep your tongue from evil,
+VERSE:and your lips from speaking lies.
+LABEL:14
+VERSE:Depart from evil, and do good.
+VERSE:Seek peace, and pursue it.
+LABEL:15
+VERSE:Yahweh’s eyes are toward the righteous.
+VERSE:His ears listen to their cry.
+LABEL:16
+VERSE:Yahweh’s face is against those who do evil,
+VERSE:to cut off their memory from the earth.
+LABEL:17
+VERSE:The righteous cry, and Yahweh hears,
+VERSE:and delivers them out of all their troubles.
+LABEL:18
+VERSE:Yahweh is near to those who have a broken heart,
+VERSE:and saves those who have a crushed spirit.
+LABEL:19
+VERSE:Many are the afflictions of the righteous,
+VERSE:but Yahweh delivers him out of them all.
+LABEL:20
+VERSE:He protects all of his bones.
+VERSE:Not one of them is broken.
+LABEL:21
+VERSE:Evil shall kill the wicked.
+VERSE:Those who hate the righteous shall be condemned.
+LABEL:22
+VERSE:Yahweh redeems the soul of his servants.
+VERSE:None of those who take refuge in him shall be condemned.

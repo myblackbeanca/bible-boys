@@ -1,0 +1,24 @@
+TRANSLATION:WEBUS
+BOOK:JOS
+CHAPTER:16
+TITLE:Joshua 16
+LABEL:1
+VERSE:The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel.
+LABEL:2
+VERSE:It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth;
+LABEL:3
+VERSE:and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea.
+LABEL:4
+VERSE:The children of Joseph, Manasseh and Ephraim, took their inheritance.
+LABEL:5
+VERSE:This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper.
+LABEL:6
+VERSE:The border went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah.
+LABEL:7
+VERSE:It went down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan.
+LABEL:8
+VERSE:From Tappuah the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families;
+LABEL:9
+VERSE:together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages.
+LABEL:10
+VERSE:They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor.

@@ -1,0 +1,21 @@
+TRANSLATION:WEBUS
+BOOK:LEV
+CHAPTER:12
+TITLE:Leviticus 12
+LABEL:1
+VERSE:Yahweh spoke to Moses, saying,
+LABEL:2
+VERSE:“Speak to the children of Israel, saying, ‘If a woman conceives, and bears a male child, then she shall be unclean seven days; as in the days of her monthly period she shall be unclean.
+LABEL:3
+VERSE:In the eighth day the flesh of his foreskin shall be circumcised.
+LABEL:4
+VERSE:She shall continue in the blood of purification thirty-three days. She shall not touch any holy thing, nor come into the sanctuary, until the days of her purifying are completed.
+LABEL:5
+VERSE:But if she bears a female child, then she shall be unclean two weeks, as in her period; and she shall continue in the blood of purification sixty-six days.
+LABEL:6
+VERSE:“‘When the days of her purification are completed for a son or for a daughter, she shall bring to the priest at the door of the Tent of Meeting, a year old lamb for a burnt offering, and a young pigeon or a turtledove, for a sin offering.
+LABEL:7
+VERSE:He shall offer it before Yahweh, and make atonement for her; then she shall be cleansed from the fountain of her blood.
+VERSE:“‘This is the law for her who bears, whether a male or a female.
+LABEL:8
+VERSE:If she cannot afford a lamb, then she shall take two turtledoves or two young pigeons: the one for a burnt offering, and the other for a sin offering. The priest shall make atonement for her, and she shall be clean.’”

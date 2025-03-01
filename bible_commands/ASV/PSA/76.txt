@@ -1,0 +1,41 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:76
+TITLE:Psalms 76
+LABEL:1
+VERSE:In Judah is God known:
+VERSE:His name is great in Israel.
+LABEL:2
+VERSE:In Salem also is his tabernacle,
+VERSE:And his dwelling-place in Zion.
+LABEL:3
+VERSE:There he brake the arrows of the bow;
+VERSE:The shield, and the sword, and the battle. [Selah
+LABEL:4
+VERSE:Glorious art thou and excellent,
+VERSE:From the mountains of prey.
+LABEL:5
+VERSE:The stouthearted are made a spoil,
+VERSE:They have slept their sleep;
+VERSE:And none of the men of might have found their hands.
+LABEL:6
+VERSE:At thy rebuke, O God of Jacob,
+VERSE:Both chariot and horse are cast into a dead sleep.
+LABEL:7
+VERSE:Thou, even thou, art to be feared;
+VERSE:And who may stand in thy sight when once thou art angry?
+LABEL:8
+VERSE:Thou didst cause sentence to be heard from heaven;
+VERSE:The earth feared, and was still,
+LABEL:9
+VERSE:When God arose to judgment,
+VERSE:To save all the meek of the earth. [Selah
+LABEL:10
+VERSE:Surely the wrath of man shall praise thee:
+VERSE:The residue of wrath shalt thou gird upon thee.
+LABEL:11
+VERSE:Vow, and pay unto Jehovah your God:
+VERSE:Let all that are round about him bring presents unto him that ought to be feared.
+LABEL:12
+VERSE:He will cut off the spirit of princes:
+VERSE:He is terrible to the kings of the earth.

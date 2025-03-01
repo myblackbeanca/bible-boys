@@ -1,0 +1,84 @@
+TRANSLATION:WEBUS
+BOOK:JOB
+CHAPTER:3
+TITLE:Job 3
+LABEL:1
+VERSE:After this Job opened his mouth, and cursed the day of his birth.
+LABEL:2
+VERSE:Job answered:
+LABEL:3
+VERSE:“Let the day perish in which I was born,
+VERSE:the night which said, ‘There is a boy conceived.’
+LABEL:4
+VERSE:Let that day be darkness.
+VERSE:Don’t let God from above seek for it,
+VERSE:neither let the light shine on it.
+LABEL:5
+VERSE:Let darkness and the shadow of death claim it for their own.
+VERSE:Let a cloud dwell on it.
+VERSE:Let all that makes the day black terrify it.
+LABEL:6
+VERSE:As for that night, let thick darkness seize on it.
+VERSE:Let it not rejoice among the days of the year.
+VERSE:Let it not come into the number of the months.
+LABEL:7
+VERSE:Behold, let that night be barren.
+VERSE:Let no joyful voice come therein.
+LABEL:8
+VERSE:Let them curse it who curse the day,
+VERSE:who are ready to rouse up leviathan.
+LABEL:9
+VERSE:Let the stars of its twilight be dark.
+VERSE:Let it look for light, but have none,
+VERSE:neither let it see the eyelids of the morning,
+LABEL:10
+VERSE:because it didn’t shut up the doors of my mother’s womb,
+VERSE:nor did it hide trouble from my eyes.
+LABEL:11
+VERSE:“Why didn’t I die from the womb?
+VERSE:Why didn’t I give up the spirit when my mother bore me?
+LABEL:12
+VERSE:Why did the knees receive me?
+VERSE:Or why the breast, that I should nurse?
+LABEL:13
+VERSE:For now I should have lain down and been quiet.
+VERSE:I should have slept, then I would have been at rest,
+LABEL:14
+VERSE:with kings and counselors of the earth,
+VERSE:who built up waste places for themselves;
+LABEL:15
+VERSE:or with princes who had gold,
+VERSE:who filled their houses with silver;
+LABEL:16
+VERSE:or as a hidden untimely birth I had not been,
+VERSE:as infants who never saw light.
+LABEL:17
+VERSE:There the wicked cease from troubling.
+VERSE:There the weary are at rest.
+LABEL:18
+VERSE:There the prisoners are at ease together.
+VERSE:They don’t hear the voice of the taskmaster.
+LABEL:19
+VERSE:The small and the great are there.
+VERSE:The servant is free from his master.
+LABEL:20
+VERSE:“Why is light given to him who is in misery,
+VERSE:life to the bitter in soul,
+LABEL:21
+VERSE:who long for death, but it doesn’t come;
+VERSE:and dig for it more than for hidden treasures,
+LABEL:22
+VERSE:who rejoice exceedingly,
+VERSE:and are glad, when they can find the grave?
+LABEL:23
+VERSE:Why is light given to a man whose way is hidden,
+VERSE:whom God has hedged in?
+LABEL:24
+VERSE:For my sighing comes before I eat.
+VERSE:My groanings are poured out like water.
+LABEL:25
+VERSE:For the thing which I fear comes on me,
+VERSE:that which I am afraid of comes to me.
+LABEL:26
+VERSE:I am not at ease, neither am I quiet, neither do I have rest;
+VERSE:but trouble comes.”

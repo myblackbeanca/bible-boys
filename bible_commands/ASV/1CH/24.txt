@@ -1,0 +1,66 @@
+TRANSLATION:ASV
+BOOK:1CH
+CHAPTER:24
+TITLE:1 Chronicles 24
+LABEL:1
+VERSE:And the courses of the sons of Aaron were these. The sons of Aaron: Nadab and Abihu, Eleazar and Ithamar.
+LABEL:2
+VERSE:But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.
+LABEL:3
+VERSE:And David with Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service.
+LABEL:4
+VERSE:And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and thus were they divided: of the sons of Eleazar there were sixteen, heads of fathers’ houses; and of the sons of Ithamar, according to their fathers’ houses, eight.
+LABEL:5
+VERSE:Thus were they divided by lot, one sort with another; for there were princes of the sanctuary, and princes of God, both of the sons of Eleazar, and of the sons of Ithamar.
+LABEL:6
+VERSE:And Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and the heads of the fathers’ houses of the priests and of the Levites; one fathers’ house being taken for Eleazar, and one taken for Ithamar.
+LABEL:7
+VERSE:Now the first lot came forth to Jehoiarib, the second to Jedaiah,
+LABEL:8
+VERSE:the third to Harim, the fourth to Seorim,
+LABEL:9
+VERSE:the fifth to Malchijah, the sixth to Mijamin,
+LABEL:10
+VERSE:the seventh to Hakkoz, the eighth to Abijah,
+LABEL:11
+VERSE:the ninth to Jeshua, the tenth to Shecaniah,
+LABEL:12
+VERSE:the eleventh to Eliashib, the twelfth to Jakim,
+LABEL:13
+VERSE:the thirteenth to Huppah, the fourteenth to Jeshebeab,
+LABEL:14
+VERSE:the fifteenth to Bilgah, the sixteenth to Immer,
+LABEL:15
+VERSE:the seventeenth to Hezir, the eighteenth to Happizzez,
+LABEL:16
+VERSE:the nineteenth to Pethahiah, the twentieth to Jehezkel,
+LABEL:17
+VERSE:the one and twentieth to Jachin, the two and twentieth to Gamul,
+LABEL:18
+VERSE:the three and twentieth to Delaiah, the four and twentieth to Maaziah.
+LABEL:19
+VERSE:This was the ordering of them in their service, to come into the house of Jehovah according to the ordinance given unto them by Aaron their father, as Jehovah, the God of Israel, had commanded him.
+LABEL:20
+VERSE:And of the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.
+LABEL:21
+VERSE:Of Rehabiah: of the sons of Rehabiah, Isshiah the chief.
+LABEL:22
+VERSE:Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath.
+LABEL:23
+VERSE:And the sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, Jekameam the fourth.
+LABEL:24
+VERSE:The sons of Uzziel, Micah; of the sons of Micah, Shamir.
+LABEL:25
+VERSE:The brother of Micah, Isshiah; of the sons of Isshiah, Zechariah.
+LABEL:26
+VERSE:The sons of Merari: Mahli and Mushi; the sons of Jaaziah: Beno.
+LABEL:27
+VERSE:The sons of Merari: of Jaaziah, Beno, and Shoham, and Zaccur, and Ibri.
+LABEL:28
+VERSE:Of Mahli: Eleazar, who had no sons.
+LABEL:29
+VERSE:Of Kish; the sons of Kish: Jerahmeel.
+LABEL:30
+VERSE:And the sons of Mushi: Mahli, and Eder, and Jerimoth. These were the sons of the Levites after their fathers’ houses.
+LABEL:31
+VERSE:These likewise cast lots even as their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the heads of the fathers’ houses of the priests and of the Levites; the fathers’ houses of the chief even as those of his younger brother.

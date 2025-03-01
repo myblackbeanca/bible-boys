@@ -1,0 +1,48 @@
+TRANSLATION:WEBUS
+BOOK:EXO
+CHAPTER:1
+TITLE:Exodus 1
+LABEL:1
+VERSE:Now these are the names of the sons of Israel, who came into Egypt (every man and his household came with Jacob):
+LABEL:2
+VERSE:Reuben, Simeon, Levi, and Judah,
+LABEL:3
+VERSE:Issachar, Zebulun, and Benjamin,
+LABEL:4
+VERSE:Dan and Naphtali, Gad and Asher.
+LABEL:5
+VERSE:All the souls who came out of Jacob’s body were seventy souls, and Joseph was in Egypt already.
+LABEL:6
+VERSE:Joseph died, as did all his brothers, and all that generation.
+LABEL:7
+VERSE:The children of Israel were fruitful, and increased abundantly, and multiplied, and grew exceedingly mighty; and the land was filled with them.
+LABEL:8
+VERSE:Now there arose a new king over Egypt, who didn’t know Joseph.
+LABEL:9
+VERSE:He said to his people, “Behold, the people of the children of Israel are more and mightier than we.
+LABEL:10
+VERSE:Come, let’s deal wisely with them, lest they multiply, and it happen that when any war breaks out, they also join themselves to our enemies and fight against us, and escape out of the land.”
+LABEL:11
+VERSE:Therefore they set taskmasters over them to afflict them with their burdens. They built storage cities for Pharaoh: Pithom and Raamses.
+LABEL:12
+VERSE:But the more they afflicted them, the more they multiplied and the more they spread out. They started to dread the children of Israel.
+LABEL:13
+VERSE:The Egyptians ruthlessly made the children of Israel serve,
+LABEL:14
+VERSE:and they made their lives bitter with hard service in mortar and in brick, and in all kinds of service in the field, all their service, in which they ruthlessly made them serve.
+LABEL:15
+VERSE:The king of Egypt spoke to the Hebrew midwives, of whom the name of the one was Shiphrah, and the name of the other Puah,
+LABEL:16
+VERSE:and he said, “When you perform the duty of a midwife to the Hebrew women, and see them on the birth stool, if it is a son, then you shall kill him; but if it is a daughter, then she shall live.”
+LABEL:17
+VERSE:But the midwives feared God, and didn’t do what the king of Egypt commanded them, but saved the baby boys alive.
+LABEL:18
+VERSE:The king of Egypt called for the midwives, and said to them, “Why have you done this thing and saved the boys alive?”
+LABEL:19
+VERSE:The midwives said to Pharaoh, “Because the Hebrew women aren’t like the Egyptian women; for they are vigorous and give birth before the midwife comes to them.”
+LABEL:20
+VERSE:God dealt well with the midwives, and the people multiplied, and grew very mighty.
+LABEL:21
+VERSE:Because the midwives feared God, he gave them families.
+LABEL:22
+VERSE:Pharaoh commanded all his people, saying, “You shall cast every son who is born into the river, and every daughter you shall save alive.”

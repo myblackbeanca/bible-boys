@@ -1,0 +1,63 @@
+TRANSLATION:WEBUS
+BOOK:2KI
+CHAPTER:2
+TITLE:2 Kings 2
+LABEL:1
+VERSE:When Yahweh was about to take Elijah up by a whirlwind into heaven, Elijah went with Elisha from Gilgal.
+LABEL:2
+VERSE:Elijah said to Elisha, “Please wait here, for Yahweh has sent me as far as Bethel.”
+VERSE:Elisha said, “As Yahweh lives, and as your soul lives, I will not leave you.” So they went down to Bethel.
+LABEL:3
+VERSE:The sons of the prophets who were at Bethel came out to Elisha, and said to him, “Do you know that Yahweh will take away your master from over you today?”
+VERSE:He said, “Yes, I know it. Hold your peace.”
+LABEL:4
+VERSE:Elijah said to him, “Elisha, please wait here, for Yahweh has sent me to Jericho.”
+VERSE:He said, “As Yahweh lives, and as your soul lives, I will not leave you.” So they came to Jericho.
+LABEL:5
+VERSE:The sons of the prophets who were at Jericho came near to Elisha, and said to him, “Do you know that Yahweh will take away your master from over you today?”
+VERSE:He answered, “Yes, I know it. Hold your peace.”
+LABEL:6
+VERSE:Elijah said to him, “Please wait here, for Yahweh has sent me to the Jordan.”
+VERSE:He said, “As Yahweh lives, and as your soul lives, I will not leave you.” Then they both went on.
+LABEL:7
+VERSE:Fifty men of the sons of the prophets went and stood opposite them at a distance; and they both stood by the Jordan.
+LABEL:8
+VERSE:Elijah took his mantle, and rolled it up, and struck the waters; and they were divided here and there, so that they both went over on dry ground.
+LABEL:9
+VERSE:When they had gone over, Elijah said to Elisha, “Ask what I shall do for you, before I am taken from you.”
+VERSE:Elisha said, “Please let a double portion of your spirit be on me.”
+LABEL:10
+VERSE:He said, “You have asked a hard thing. If you see me when I am taken from you, it will be so for you; but if not, it will not be so.”
+LABEL:11
+VERSE:As they continued on and talked, behold, a chariot of fire and horses of fire separated them; and Elijah went up by a whirlwind into heaven.
+LABEL:12
+VERSE:Elisha saw it, and he cried, “My father, my father, the chariots of Israel and its horsemen!”
+VERSE:He saw him no more. Then he took hold of his own clothes and tore them in two pieces.
+LABEL:13
+VERSE:He also took up Elijah’s mantle that fell from him, and went back and stood by the bank of the Jordan.
+LABEL:14
+VERSE:He took Elijah’s mantle that fell from him, and struck the waters, and said, “Where is Yahweh, the God of Elijah?” When he also had struck the waters, they were divided apart, and Elisha went over.
+LABEL:15
+VERSE:When the sons of the prophets who were at Jericho facing him saw him, they said, “The spirit of Elijah rests on Elisha.” They came to meet him, and bowed themselves to the ground before him.
+LABEL:16
+VERSE:They said to him, “See now, there are with your servants fifty strong men. Please let them go and seek your master. Perhaps Yahweh’s Spirit has taken him up, and put him on some mountain or into some valley.”
+VERSE:He said, “Don’t send them.”
+LABEL:17
+VERSE:When they urged him until he was ashamed, he said, “Send them.”
+VERSE:Therefore they sent fifty men; and they searched for three days, but didn’t find him.
+LABEL:18
+VERSE:They came back to him while he stayed at Jericho; and he said to them, “Didn’t I tell you, ‘Don’t go’?”
+LABEL:19
+VERSE:The men of the city said to Elisha, “Behold, please, the situation of this city is pleasant, as my lord sees; but the water is bad, and the land is barren.”
+LABEL:20
+VERSE:He said, “Bring me a new jar, and put salt in it.” Then they brought it to him.
+LABEL:21
+VERSE:He went out to the spring of the waters, and threw salt into it, and said, “Yahweh says, ‘I have healed these waters. There shall not be from there any more death or barren wasteland.’”
+LABEL:22
+VERSE:So the waters were healed to this day, according to Elisha’s word which he spoke.
+LABEL:23
+VERSE:He went up from there to Bethel. As he was going up by the way, some youths came out of the city and mocked him, and said to him, “Go up, you baldy! Go up, you baldy!”
+LABEL:24
+VERSE:He looked behind him and saw them, and cursed them in Yahweh’s name. Then two female bears came out of the woods and mauled forty-two of those youths.
+LABEL:25
+VERSE:He went from there to Mount Carmel, and from there he returned to Samaria.

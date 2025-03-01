@@ -1,0 +1,70 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:103
+TITLE:Psalm 103
+LABEL:1
+VERSE:Bless the LORD, O my soul:
+VERSE:And all that is within me, bless his holy name.
+LABEL:2
+VERSE:Bless the LORD, O my soul,
+VERSE:And forget not all his benefits:
+LABEL:3
+VERSE:Who forgiveth all thine iniquities;
+VERSE:Who healeth all thy diseases;
+LABEL:4
+VERSE:Who redeemeth thy life from destruction;
+VERSE:Who crowneth thee with lovingkindness and tender mercies;
+LABEL:5
+VERSE:Who satisfieth thy mouth with good things;
+VERSE:So that thy youth is renewed like the eagle's.
+LABEL:6
+VERSE:The LORD executeth righteousness and judgment
+VERSE:For all that are oppressed.
+LABEL:7
+VERSE:He made known his ways unto Moses,
+VERSE:His acts unto the children of Israel.
+LABEL:8
+VERSE:The LORD  is merciful and gracious,
+VERSE:Slow to anger, and plenteous in mercy.
+LABEL:9
+VERSE:He will not always chide:
+VERSE:Neither will he keep his anger for ever.
+LABEL:10
+VERSE:He hath not dealt with us after our sins;
+VERSE:Nor rewarded us according to our iniquities.
+LABEL:11
+VERSE:For as the heaven is high above the earth,
+VERSE:So great is his mercy toward them that fear him.
+LABEL:12
+VERSE:As far as the east is from the west,
+VERSE:So far hath he removed our transgressions from us.
+LABEL:13
+VERSE:Like as a father pitieth his children,
+VERSE:So the LORD pitieth them that fear him.
+LABEL:14
+VERSE:For he knoweth our frame;
+VERSE:He remembereth that we are dust.
+LABEL:15
+VERSE:  As for man, his days are as grass:
+VERSE:As a flower of the field, so he flourisheth.
+LABEL:16
+VERSE:For the wind passeth over it, and it is gone;
+VERSE:And the place thereof shall know it no more.
+LABEL:17
+VERSE:But the mercy of the LORD  is from everlasting to everlasting upon them that fear him,
+VERSE:And his righteousness unto children's children;
+LABEL:18
+VERSE:To such as keep his covenant,
+VERSE:And to those that remember his commandments to do them.
+LABEL:19
+VERSE:The LORD hath prepared his throne in the heavens;
+VERSE:And his kingdom ruleth over all.
+LABEL:20
+VERSE:Bless the LORD, ye his angels, that excel in strength,
+VERSE:That do his commandments, hearkening unto the voice of his word.
+LABEL:21
+VERSE:Bless ye the LORD, all ye his hosts;
+VERSE:Ye ministers of his, that do his pleasure.
+LABEL:22
+VERSE:Bless the LORD, all his works in all places of his dominion:
+VERSE:Bless the LORD, O my soul.

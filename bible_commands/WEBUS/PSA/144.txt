@@ -1,0 +1,55 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:144
+TITLE:Psalms 144
+LABEL:1
+VERSE:Blessed be Yahweh, my rock,
+VERSE:who trains my hands to war,
+VERSE:and my fingers to battle—
+LABEL:2
+VERSE:my loving kindness, my fortress,
+VERSE:my high tower, my deliverer,
+VERSE:my shield, and he in whom I take refuge,
+VERSE:who subdues my people under me.
+LABEL:3
+VERSE:Yahweh, what is man, that you care for him?
+VERSE:Or the son of man, that you think of him?
+LABEL:4
+VERSE:Man is like a breath.
+VERSE:His days are like a shadow that passes away.
+LABEL:5
+VERSE:Part your heavens, Yahweh, and come down.
+VERSE:Touch the mountains, and they will smoke.
+LABEL:6
+VERSE:Throw out lightning, and scatter them.
+VERSE:Send out your arrows, and rout them.
+LABEL:7
+VERSE:Stretch out your hand from above,
+VERSE:rescue me, and deliver me out of great waters,
+VERSE:out of the hands of foreigners,
+LABEL:8
+VERSE:whose mouths speak deceit,
+VERSE:whose right hand is a right hand of falsehood.
+LABEL:9
+VERSE:I will sing a new song to you, God.
+VERSE:On a ten-stringed lyre, I will sing praises to you.
+LABEL:10
+VERSE:You are he who gives salvation to kings,
+VERSE:who rescues David, his servant, from the deadly sword.
+LABEL:11
+VERSE:Rescue me, and deliver me out of the hands of foreigners,
+VERSE:whose mouths speak deceit,
+VERSE:whose right hand is a right hand of falsehood.
+LABEL:12
+VERSE:Then our sons will be like well-nurtured plants,
+VERSE:our daughters like pillars carved to adorn a palace.
+LABEL:13
+VERSE:Our barns are full, filled with all kinds of provision.
+VERSE:Our sheep produce thousands and ten thousands in our fields.
+LABEL:14
+VERSE:Our oxen will pull heavy loads.
+VERSE:There is no breaking in, and no going away,
+VERSE:and no outcry in our streets.
+LABEL:15
+VERSE:Happy are the people who are in such a situation.
+VERSE:Happy are the people whose God is Yahweh.

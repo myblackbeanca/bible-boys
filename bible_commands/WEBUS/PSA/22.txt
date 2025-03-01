@@ -1,0 +1,106 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:22
+TITLE:Psalms 22
+LABEL:1
+VERSE:My God, my God, why have you forsaken me?
+VERSE:Why are you so far from helping me, and from the words of my groaning?
+LABEL:2
+VERSE:My God, I cry in the daytime, but you don’t answer;
+VERSE:in the night season, and am not silent.
+LABEL:3
+VERSE:But you are holy,
+VERSE:you who inhabit the praises of Israel.
+LABEL:4
+VERSE:Our fathers trusted in you.
+VERSE:They trusted, and you delivered them.
+LABEL:5
+VERSE:They cried to you, and were delivered.
+VERSE:They trusted in you, and were not disappointed.
+LABEL:6
+VERSE:But I am a worm, and no man;
+VERSE:a reproach of men, and despised by the people.
+LABEL:7
+VERSE:All those who see me mock me.
+VERSE:They insult me with their lips. They shake their heads, saying,
+LABEL:8
+VERSE:“He trusts in Yahweh.
+VERSE:Let him deliver him.
+VERSE:Let him rescue him, since he delights in him.”
+LABEL:9
+VERSE:But you brought me out of the womb.
+VERSE:You made me trust while at my mother’s breasts.
+LABEL:10
+VERSE:I was thrown on you from my mother’s womb.
+VERSE:You are my God since my mother bore me.
+LABEL:11
+VERSE:Don’t be far from me, for trouble is near.
+VERSE:For there is no one to help.
+LABEL:12
+VERSE:Many bulls have surrounded me.
+VERSE:Strong bulls of Bashan have encircled me.
+LABEL:13
+VERSE:They open their mouths wide against me,
+VERSE:lions tearing prey and roaring.
+LABEL:14
+VERSE:I am poured out like water.
+VERSE:All my bones are out of joint.
+VERSE:My heart is like wax.
+VERSE:It is melted within me.
+LABEL:15
+VERSE:My strength is dried up like a potsherd.
+VERSE:My tongue sticks to the roof of my mouth.
+VERSE:You have brought me into the dust of death.
+LABEL:16
+VERSE:For dogs have surrounded me.
+VERSE:A company of evildoers have enclosed me.
+VERSE:They have pierced my hands and feet.
+LABEL:17
+VERSE:I can count all of my bones.
+VERSE:They look and stare at me.
+LABEL:18
+VERSE:They divide my garments among them.
+VERSE:They cast lots for my clothing.
+LABEL:19
+VERSE:But don’t be far off, Yahweh.
+VERSE:You are my help. Hurry to help me!
+LABEL:20
+VERSE:Deliver my soul from the sword,
+VERSE:my precious life from the power of the dog.
+LABEL:21
+VERSE:Save me from the lion’s mouth!
+VERSE:Yes, you have rescued me from the horns of the wild oxen.
+LABEL:22
+VERSE:I will declare your name to my brothers.
+VERSE:Among the assembly, I will praise you.
+LABEL:23
+VERSE:You who fear Yahweh, praise him!
+VERSE:All you descendants of Jacob, glorify him!
+VERSE:Stand in awe of him, all you descendants of Israel!
+LABEL:24
+VERSE:For he has not despised nor abhorred the affliction of the afflicted,
+VERSE:neither has he hidden his face from him;
+VERSE:but when he cried to him, he heard.
+LABEL:25
+VERSE:My praise of you comes in the great assembly.
+VERSE:I will pay my vows before those who fear him.
+LABEL:26
+VERSE:The humble shall eat and be satisfied.
+VERSE:They shall praise Yahweh who seek after him.
+VERSE:Let your hearts live forever.
+LABEL:27
+VERSE:All the ends of the earth shall remember and turn to Yahweh.
+VERSE:All the relatives of the nations shall worship before you.
+LABEL:28
+VERSE:For the kingdom is Yahweh’s.
+VERSE:He is the ruler over the nations.
+LABEL:29
+VERSE:All the rich ones of the earth shall eat and worship.
+VERSE:All those who go down to the dust shall bow before him,
+VERSE:even he who can’t keep his soul alive.
+LABEL:30
+VERSE:Posterity shall serve him.
+VERSE:Future generations shall be told about the Lord.
+LABEL:31
+VERSE:They shall come and shall declare his righteousness to a people that shall be born,
+VERSE:for he has done it.

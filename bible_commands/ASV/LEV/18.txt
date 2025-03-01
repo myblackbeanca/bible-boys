@@ -1,0 +1,64 @@
+TRANSLATION:ASV
+BOOK:LEV
+CHAPTER:18
+TITLE:Leviticus 18
+LABEL:1
+VERSE:And Jehovah spake unto Moses, saying,
+LABEL:2
+VERSE:Speak unto the children of Israel, and say unto them, I am Jehovah your God.
+LABEL:3
+VERSE:After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do; neither shall ye walk in their statutes.
+LABEL:4
+VERSE:Mine ordinances shall ye do, and my statutes shall ye keep, to walk therein: I am Jehovah your God.
+LABEL:5
+VERSE:Ye shall therefore keep my statutes, and mine ordinances; which if a man do, he shall live in them: I am Jehovah.
+LABEL:6
+VERSE:None of you shall approach to any that are near of kin to him, to uncover their nakedness: I am Jehovah.
+LABEL:7
+VERSE:The nakedness of thy father, even the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.
+LABEL:8
+VERSE:The nakedness of thy father’s wife shalt thou not uncover; it is thy father’s nakedness.
+LABEL:9
+VERSE:The nakedness of thy sister, the daughter of thy father, or the daughter of thy mother, whether born at home, or born abroad, even their nakedness thou shalt not uncover.
+LABEL:10
+VERSE:The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.
+LABEL:11
+VERSE:The nakedness of thy father’s wife’s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness.
+LABEL:12
+VERSE:Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near kinswoman.
+LABEL:13
+VERSE:Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman.
+LABEL:14
+VERSE:Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt.
+LABEL:15
+VERSE:Thou shalt not uncover the nakedness of thy daughter-in-law: she is thy son’s wife; thou shalt not uncover her nakedness.
+LABEL:16
+VERSE:Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.
+LABEL:17
+VERSE:Thou shalt not uncover the nakedness of a woman and her daughter; thou shalt not take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; they are near kinswomen: it is wickedness.
+LABEL:18
+VERSE:And thou shalt not take a wife to her sister, to be a rival to her, to uncover her nakedness, besides the other in her life-time.
+LABEL:19
+VERSE:And thou shalt not approach unto a woman to uncover her nakedness, as long as she is impure by her uncleanness.
+LABEL:20
+VERSE:And thou shalt not lie carnally with thy neighbor’s wife, to defile thyself with her.
+LABEL:21
+VERSE:And thou shalt not give any of thy seed to make them pass through the fire to Molech; neither shalt thou profane the name of thy God: I am Jehovah.
+LABEL:22
+VERSE:Thou shalt not lie with mankind, as with womankind: it is abomination.
+LABEL:23
+VERSE:And thou shalt not lie with any beast to defile thyself therewith; neither shall any woman stand before a beast, to lie down thereto: it is confusion.
+LABEL:24
+VERSE:Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out from before you;
+LABEL:25
+VERSE:and the land is defiled: therefore I do visit the iniquity thereof upon it, and the land vomiteth out her inhabitants.
+LABEL:26
+VERSE:Ye therefore shall keep my statutes and mine ordinances, and shall not do any of these abominations; neither the home-born, nor the stranger that sojourneth among you
+LABEL:27
+VERSE:(for all these abominations have the men of the land done, that were before you, and the land is defiled);
+LABEL:28
+VERSE:that the land vomit not you out also, when ye defile it, as it vomited out the nation that was before you.
+LABEL:29
+VERSE:For whosoever shall do any of these abominations, even the souls that do them shall be cut off from among their people.
+LABEL:30
+VERSE:Therefore shall ye keep my charge, that ye practise not any of these abominable customs, which were practised before you, and that ye defile not yourselves therein: I am Jehovah your God.

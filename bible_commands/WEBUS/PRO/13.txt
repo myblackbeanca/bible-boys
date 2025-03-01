@@ -1,0 +1,79 @@
+TRANSLATION:WEBUS
+BOOK:PRO
+CHAPTER:13
+TITLE:Proverbs 13
+LABEL:1
+VERSE:A wise son listens to his father’s instruction,
+VERSE:but a scoffer doesn’t listen to rebuke.
+LABEL:2
+VERSE:By the fruit of his lips, a man enjoys good things,
+VERSE:but the unfaithful crave violence.
+LABEL:3
+VERSE:He who guards his mouth guards his soul.
+VERSE:One who opens wide his lips comes to ruin.
+LABEL:4
+VERSE:The soul of the sluggard desires, and has nothing,
+VERSE:but the desire of the diligent shall be fully satisfied.
+LABEL:5
+VERSE:A righteous man hates lies,
+VERSE:but a wicked man brings shame and disgrace.
+LABEL:6
+VERSE:Righteousness guards the way of integrity,
+VERSE:but wickedness overthrows the sinner.
+LABEL:7
+VERSE:There are some who pretend to be rich, yet have nothing.
+VERSE:There are some who pretend to be poor, yet have great wealth.
+LABEL:8
+VERSE:The ransom of a man’s life is his riches,
+VERSE:but the poor hear no threats.
+LABEL:9
+VERSE:The light of the righteous shines brightly,
+VERSE:but the lamp of the wicked is snuffed out.
+LABEL:10
+VERSE:Pride only breeds quarrels,
+VERSE:but wisdom is with people who take advice.
+LABEL:11
+VERSE:Wealth gained dishonestly dwindles away,
+VERSE:but he who gathers by hand makes it grow.
+LABEL:12
+VERSE:Hope deferred makes the heart sick,
+VERSE:but when longing is fulfilled, it is a tree of life.
+LABEL:13
+VERSE:Whoever despises instruction will pay for it,
+VERSE:but he who respects a command will be rewarded.
+LABEL:14
+VERSE:The teaching of the wise is a spring of life,
+VERSE:to turn from the snares of death.
+LABEL:15
+VERSE:Good understanding wins favor,
+VERSE:but the way of the unfaithful is hard.
+LABEL:16
+VERSE:Every prudent man acts from knowledge,
+VERSE:but a fool exposes folly.
+LABEL:17
+VERSE:A wicked messenger falls into trouble,
+VERSE:but a trustworthy envoy gains healing.
+LABEL:18
+VERSE:Poverty and shame come to him who refuses discipline,
+VERSE:but he who heeds correction shall be honored.
+LABEL:19
+VERSE:Longing fulfilled is sweet to the soul,
+VERSE:but fools detest turning from evil.
+LABEL:20
+VERSE:One who walks with wise men grows wise,
+VERSE:but a companion of fools suffers harm.
+LABEL:21
+VERSE:Misfortune pursues sinners,
+VERSE:but prosperity rewards the righteous.
+LABEL:22
+VERSE:A good man leaves an inheritance to his children’s children,
+VERSE:but the wealth of the sinner is stored for the righteous.
+LABEL:23
+VERSE:An abundance of food is in poor people’s fields,
+VERSE:but injustice sweeps it away.
+LABEL:24
+VERSE:One who spares the rod hates his son,
+VERSE:but one who loves him is careful to discipline him.
+LABEL:25
+VERSE:The righteous one eats to the satisfying of his soul,
+VERSE:but the belly of the wicked goes hungry.

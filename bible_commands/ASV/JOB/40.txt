@@ -1,0 +1,73 @@
+TRANSLATION:ASV
+BOOK:JOB
+CHAPTER:40
+TITLE:Job 40
+LABEL:1
+VERSE:Moreover Jehovah answered Job, and said,
+LABEL:2
+VERSE:Shall he that cavilleth contend with the Almighty?
+VERSE:He that argueth with God, let him answer it.
+LABEL:3
+VERSE:Then Job answered Jehovah, and said,
+LABEL:4
+VERSE:Behold, I am of small account; what shall I answer thee?
+VERSE:I lay my hand upon my mouth.
+LABEL:5
+VERSE:Once have I spoken, and I will not answer;
+VERSE:Yea, twice, but I will proceed no further.
+LABEL:6
+VERSE:Then Jehovah answered Job out of the whirlwind, and said,
+LABEL:7
+VERSE:Gird up thy loins now like a man:
+VERSE:I will demand of thee, and declare thou unto me.
+LABEL:8
+VERSE:Wilt thou even annul my judgment?
+VERSE:Wilt thou condemn me, that thou mayest be justified?
+LABEL:9
+VERSE:Or hast thou an arm like God?
+VERSE:And canst thou thunder with a voice like him?
+LABEL:10
+VERSE:Deck thyself now with excellency and dignity;
+VERSE:And array thyself with honor and majesty.
+LABEL:11
+VERSE:Pour forth the overflowings of thine anger;
+VERSE:And look upon every one that is proud, and abase him.
+LABEL:12
+VERSE:Look on every one that is proud, and bring him low;
+VERSE:And tread down the wicked where they stand.
+LABEL:13
+VERSE:Hide them in the dust together;
+VERSE:Bind their faces in the hidden place.
+LABEL:14
+VERSE:Then will I also confess of thee
+VERSE:That thine own right hand can save thee.
+LABEL:15
+VERSE:Behold now, behemoth, which I made as well as thee;
+VERSE:He eateth grass as an ox.
+LABEL:16
+VERSE:Lo now, his strength is in his loins,
+VERSE:And his force is in the muscles of his belly.
+LABEL:17
+VERSE:He moveth his tail like a cedar:
+VERSE:The sinews of his thighs are knit together.
+LABEL:18
+VERSE:His bones are as tubes of brass;
+VERSE:His limbs are like bars of iron.
+LABEL:19
+VERSE:He is the chief of the ways of God:
+VERSE:He only that made him giveth him his sword.
+LABEL:20
+VERSE:Surely the mountains bring him forth food,
+VERSE:Where all the beasts of the field do play.
+LABEL:21
+VERSE:He lieth under the lotus-trees,
+VERSE:In the covert of the reed, and the fen.
+LABEL:22
+VERSE:The lotus-trees cover him with their shade;
+VERSE:The willows of the brook compass him about.
+LABEL:23
+VERSE:Behold, if a river overflow, he trembleth not;
+VERSE:He is confident, though a Jordan swell even to his mouth.
+LABEL:24
+VERSE:Shall any take him when he is on the watch,
+VERSE:Or pierce through his nose with a snare?

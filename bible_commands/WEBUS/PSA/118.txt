@@ -1,0 +1,93 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:118
+TITLE:Psalms 118
+LABEL:1
+VERSE:Give thanks to Yahweh, for he is good,
+VERSE:for his loving kindness endures forever.
+LABEL:2
+VERSE:Let Israel now say
+VERSE:that his loving kindness endures forever.
+LABEL:3
+VERSE:Let the house of Aaron now say
+VERSE:that his loving kindness endures forever.
+LABEL:4
+VERSE:Now let those who fear Yahweh say
+VERSE:that his loving kindness endures forever.
+LABEL:5
+VERSE:Out of my distress, I called on Yah.
+VERSE:Yah answered me with freedom.
+LABEL:6
+VERSE:Yahweh is on my side. I will not be afraid.
+VERSE:What can man do to me?
+LABEL:7
+VERSE:Yahweh is on my side among those who help me.
+VERSE:Therefore I will look in triumph at those who hate me.
+LABEL:8
+VERSE:It is better to take refuge in Yahweh,
+VERSE:than to put confidence in man.
+LABEL:9
+VERSE:It is better to take refuge in Yahweh,
+VERSE:than to put confidence in princes.
+LABEL:10
+VERSE:All the nations surrounded me,
+VERSE:but in Yahweh’s name I cut them off.
+LABEL:11
+VERSE:They surrounded me, yes, they surrounded me.
+VERSE:In Yahweh’s name I indeed cut them off.
+LABEL:12
+VERSE:They surrounded me like bees.
+VERSE:They are quenched like the burning thorns.
+VERSE:In Yahweh’s name I cut them off.
+LABEL:13
+VERSE:You pushed me back hard, to make me fall,
+VERSE:but Yahweh helped me.
+LABEL:14
+VERSE:Yah is my strength and song.
+VERSE:He has become my salvation.
+LABEL:15
+VERSE:The voice of rejoicing and salvation is in the tents of the righteous.
+VERSE:“The right hand of Yahweh does valiantly.
+LABEL:16
+VERSE:The right hand of Yahweh is exalted!
+VERSE:The right hand of Yahweh does valiantly!”
+LABEL:17
+VERSE:I will not die, but live,
+VERSE:and declare Yah’s works.
+LABEL:18
+VERSE:Yah has punished me severely,
+VERSE:but he has not given me over to death.
+LABEL:19
+VERSE:Open to me the gates of righteousness.
+VERSE:I will enter into them.
+VERSE:I will give thanks to Yah.
+LABEL:20
+VERSE:This is the gate of Yahweh;
+VERSE:the righteous will enter into it.
+LABEL:21
+VERSE:I will give thanks to you, for you have answered me,
+VERSE:and have become my salvation.
+LABEL:22
+VERSE:The stone which the builders rejected
+VERSE:has become the cornerstone.
+LABEL:23
+VERSE:This is Yahweh’s doing.
+VERSE:It is marvelous in our eyes.
+LABEL:24
+VERSE:This is the day that Yahweh has made.
+VERSE:We will rejoice and be glad in it!
+LABEL:25
+VERSE:Save us now, we beg you, Yahweh!
+VERSE:Yahweh, we beg you, send prosperity now.
+LABEL:26
+VERSE:Blessed is he who comes in Yahweh’s name!
+VERSE:We have blessed you out of Yahweh’s house.
+LABEL:27
+VERSE:Yahweh is God, and he has given us light.
+VERSE:Bind the sacrifice with cords, even to the horns of the altar.
+LABEL:28
+VERSE:You are my God, and I will give thanks to you.
+VERSE:You are my God, I will exalt you.
+LABEL:29
+VERSE:Oh give thanks to Yahweh, for he is good,
+VERSE:for his loving kindness endures forever.

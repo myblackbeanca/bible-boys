@@ -1,0 +1,39 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:63
+TITLE:Psalm 63
+LABEL:1
+VERSE:O God, thou art
+VERSE:My God; early will I seek thee:
+VERSE:My soul thirsteth for thee, my flesh longeth for thee
+VERSE:In a dry and thirsty land, where no water is;
+LABEL:2
+VERSE:To see thy power and thy glory,
+VERSE:So as I have seen thee in the sanctuary.
+LABEL:3
+VERSE:Because thy lovingkindness
+VERSE:Is better than life,
+VERSE:My lips shall praise thee.
+LABEL:4
+VERSE:Thus will I bless thee while I live: I will lift up my hands in thy name.
+LABEL:5
+VERSE:My soul shall be satisfied as with marrow and fatness;
+VERSE:And my mouth shall praise thee with joyful lips:
+LABEL:6
+VERSE:When I remember thee upon my bed,
+VERSE:And meditate on thee in the night watches.
+LABEL:7
+VERSE:Because thou hast been my help,
+VERSE:Therefore in the shadow of thy wings will I rejoice.
+LABEL:8
+VERSE:My soul followeth hard after thee:
+VERSE:Thy right hand upholdeth me.
+LABEL:9
+VERSE:But those that seek my soul, to destroy it,
+VERSE:Shall go into the lower parts of the earth.
+LABEL:10
+VERSE:They shall fall by the sword:
+VERSE:They shall be a portion for foxes.
+LABEL:11
+VERSE:But the king shall rejoice in God; Every one that sweareth by him shall glory:
+VERSE:But the mouth of them that speak lies shall be stopped.

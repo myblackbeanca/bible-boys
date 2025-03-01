@@ -1,0 +1,60 @@
+TRANSLATION:ASV
+BOOK:PSA
+CHAPTER:132
+TITLE:Psalms 132
+LABEL:1
+VERSE:Jehovah, remember for David
+VERSE:All his affliction;
+LABEL:2
+VERSE:How he sware unto Jehovah,
+VERSE:And vowed unto the Mighty One of Jacob:
+LABEL:3
+VERSE:Surely I will not come into the tabernacle of my house,
+VERSE:Nor go up into my bed;
+LABEL:4
+VERSE:I will not give sleep to mine eyes,
+VERSE:Or slumber to mine eyelids;
+LABEL:5
+VERSE:Until I find out a place for Jehovah,
+VERSE:A tabernacle for the Mighty One of Jacob.
+LABEL:6
+VERSE:Lo, we heard of it in Ephrathah:
+VERSE:We found it in the field of the wood.
+LABEL:7
+VERSE:We will go into his tabernacles;
+VERSE:We will worship at his footstool.
+LABEL:8
+VERSE:Arise, O Jehovah, into thy resting-place;
+VERSE:Thou, and the ark of thy strength.
+LABEL:9
+VERSE:Let thy priests be clothed with righteousness;
+VERSE:And let thy saints shout for joy.
+LABEL:10
+VERSE:For thy servant David’s sake
+VERSE:Turn not away the face of thine anointed.
+LABEL:11
+VERSE:Jehovah hath sworn unto David in truth;
+VERSE:He will not turn from it:
+VERSE:Of the fruit of thy body will I set upon thy throne.
+LABEL:12
+VERSE:If thy children will keep my covenant
+VERSE:And my testimony that I shall teach them,
+VERSE:Their children also shall sit upon thy throne for evermore.
+LABEL:13
+VERSE:For Jehovah hath chosen Zion;
+VERSE:He hath desired it for his habitation.
+LABEL:14
+VERSE:This is my resting-place for ever:
+VERSE:Here will I dwell; for I have desired it.
+LABEL:15
+VERSE:I will abundantly bless her provision:
+VERSE:I will satisfy her poor with bread.
+LABEL:16
+VERSE:Her priests also will I clothe with salvation;
+VERSE:And her saints shall shout aloud for joy.
+LABEL:17
+VERSE:There will I make the horn of David to bud:
+VERSE:I have ordained a lamp for mine anointed.
+LABEL:18
+VERSE:His enemies will I clothe with shame;
+VERSE:But upon himself shall his crown flourish.

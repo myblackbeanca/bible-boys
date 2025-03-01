@@ -1,0 +1,65 @@
+TRANSLATION:KJV
+BOOK:PSA
+CHAPTER:49
+TITLE:Psalm 49
+LABEL:1
+VERSE:Hear this, all ye people;
+VERSE:Give ear, all ye inhabitants of the world:
+LABEL:2
+VERSE:Both low and high,
+VERSE:Rich and poor, together.
+LABEL:3
+VERSE:My mouth shall speak of wisdom;
+VERSE:And the meditation of my heart shall be of understanding.
+LABEL:4
+VERSE:I will incline mine ear to a parable:
+VERSE:I will open my dark saying upon the harp.
+LABEL:5
+VERSE:Wherefore should I fear in the days of evil,
+VERSE:When the iniquity of my heels shall compass me about?
+LABEL:6
+VERSE:They that trust in their wealth,
+VERSE:And boast themselves in the multitude of their riches;
+LABEL:7
+VERSE:None of them can by any means redeem his brother,
+VERSE:Nor give to God a ransom for him:
+LABEL:8
+VERSE:(For the redemption of their soul is precious,
+VERSE:And it ceaseth for ever:)
+LABEL:9
+VERSE:That he should still live for ever,
+VERSE:And not see corruption.
+LABEL:10
+VERSE:For he seeth that wise men die,
+VERSE:Likewise the fool and the brutish person perish, and leave their wealth to others.
+LABEL:11
+VERSE:Their inward thought is, that their houses shall continue for ever,
+VERSE:And their dwelling places to all generations;
+VERSE:They call their lands after their own names.
+LABEL:12
+VERSE:Nevertheless man being in honour abideth not:
+VERSE:He is like the beasts that perish.
+LABEL:13
+VERSE:This their way is their folly:
+VERSE:Yet their posterity approve their sayings. Selah.
+LABEL:14
+VERSE:Like sheep they are laid in the grave; Death shall feed on them; And the upright shall have dominion over them in the morning;
+VERSE:And their beauty shall consume in the grave from their dwelling.
+LABEL:15
+VERSE:But God will redeem my soul from the power of the grave:
+VERSE:For he shall receive me. Selah.
+LABEL:16
+VERSE:Be not thou afraid when one is made rich,
+VERSE:When the glory of his house is increased;
+LABEL:17
+VERSE:For when he dieth he shall carry nothing away:
+VERSE:His glory shall not descend after him.
+LABEL:18
+VERSE:Though while he lived he blessed his soul,
+VERSE:And men will praise thee, when thou doest well to thyself.
+LABEL:19
+VERSE:He shall go to the generation of his fathers;
+VERSE:They shall never see light.
+LABEL:20
+VERSE:Man that is in honour, and understandeth not,
+VERSE:Is like the beasts that perish.

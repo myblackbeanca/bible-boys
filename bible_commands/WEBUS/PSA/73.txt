@@ -1,0 +1,90 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:73
+TITLE:Psalms 73
+SECTION:BOOK 3
+LABEL:1
+VERSE:Surely God is good to Israel,
+VERSE:to those who are pure in heart.
+LABEL:2
+VERSE:But as for me, my feet were almost gone.
+VERSE:My steps had nearly slipped.
+LABEL:3
+VERSE:For I was envious of the arrogant,
+VERSE:when I saw the prosperity of the wicked.
+LABEL:4
+VERSE:For there are no struggles in their death,
+VERSE:but their strength is firm.
+LABEL:5
+VERSE:They are free from burdens of men,
+VERSE:neither are they plagued like other men.
+LABEL:6
+VERSE:Therefore pride is like a chain around their neck.
+VERSE:Violence covers them like a garment.
+LABEL:7
+VERSE:Their eyes bulge with fat.
+VERSE:Their minds pass the limits of conceit.
+LABEL:8
+VERSE:They scoff and speak with malice.
+VERSE:In arrogance, they threaten oppression.
+LABEL:9
+VERSE:They have set their mouth in the heavens.
+VERSE:Their tongue walks through the earth.
+LABEL:10
+VERSE:Therefore their people return to them,
+VERSE:and they drink up waters of abundance.
+LABEL:11
+VERSE:They say, “How does God know?
+VERSE:Is there knowledge in the Most High?”
+LABEL:12
+VERSE:Behold, these are the wicked.
+VERSE:Being always at ease, they increase in riches.
+LABEL:13
+VERSE:Surely I have cleansed my heart in vain,
+VERSE:and washed my hands in innocence,
+LABEL:14
+VERSE:For all day long I have been plagued,
+VERSE:and punished every morning.
+LABEL:15
+VERSE:If I had said, “I will speak thus”,
+VERSE:behold, I would have betrayed the generation of your children.
+LABEL:16
+VERSE:When I tried to understand this,
+VERSE:it was too painful for me—
+LABEL:17
+VERSE:until I entered God’s sanctuary,
+VERSE:and considered their latter end.
+LABEL:18
+VERSE:Surely you set them in slippery places.
+VERSE:You throw them down to destruction.
+LABEL:19
+VERSE:How they are suddenly destroyed!
+VERSE:They are completely swept away with terrors.
+LABEL:20
+VERSE:As a dream when one wakes up,
+VERSE:so, Lord, when you awake, you will despise their fantasies.
+LABEL:21
+VERSE:For my soul was grieved.
+VERSE:I was embittered in my heart.
+LABEL:22
+VERSE:I was so senseless and ignorant.
+VERSE:I was a brute beast before you.
+LABEL:23
+VERSE:Nevertheless, I am continually with you.
+VERSE:You have held my right hand.
+LABEL:24
+VERSE:You will guide me with your counsel,
+VERSE:and afterward receive me to glory.
+LABEL:25
+VERSE:Whom do I have in heaven?
+VERSE:There is no one on earth whom I desire besides you.
+LABEL:26
+VERSE:My flesh and my heart fails,
+VERSE:but God is the strength of my heart and my portion forever.
+LABEL:27
+VERSE:For, behold, those who are far from you shall perish.
+VERSE:You have destroyed all those who are unfaithful to you.
+LABEL:28
+VERSE:But it is good for me to come close to God.
+VERSE:I have made the Lord Yahweh my refuge,
+VERSE:that I may tell of all your works.

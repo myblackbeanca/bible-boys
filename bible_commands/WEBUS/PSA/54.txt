@@ -1,0 +1,26 @@
+TRANSLATION:WEBUS
+BOOK:PSA
+CHAPTER:54
+TITLE:Psalms 54
+LABEL:1
+VERSE:Save me, God, by your name.
+VERSE:Vindicate me in your might.
+LABEL:2
+VERSE:Hear my prayer, God.
+VERSE:Listen to the words of my mouth.
+LABEL:3
+VERSE:For strangers have risen up against me.
+VERSE:Violent men have sought after my soul.
+VERSE:They haven’t set God before them. Selah.
+LABEL:4
+VERSE:Behold, God is my helper.
+VERSE:The Lord is the one who sustains my soul.
+LABEL:5
+VERSE:He will repay the evil to my enemies.
+VERSE:Destroy them in your truth.
+LABEL:6
+VERSE:With a free will offering, I will sacrifice to you.
+VERSE:I will give thanks to your name, Yahweh, for it is good.
+LABEL:7
+VERSE:For he has delivered me out of all trouble.
+VERSE:My eye has seen triumph over my enemies.

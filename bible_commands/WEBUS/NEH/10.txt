@@ -1,0 +1,82 @@
+TRANSLATION:WEBUS
+BOOK:NEH
+CHAPTER:10
+TITLE:Nehemiah 10
+LABEL:1
+VERSE:Now those who sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah,
+LABEL:2
+VERSE:Seraiah, Azariah, Jeremiah,
+LABEL:3
+VERSE:Pashhur, Amariah, Malchijah,
+LABEL:4
+VERSE:Hattush, Shebaniah, Malluch,
+LABEL:5
+VERSE:Harim, Meremoth, Obadiah,
+LABEL:6
+VERSE:Daniel, Ginnethon, Baruch,
+LABEL:7
+VERSE:Meshullam, Abijah, Mijamin,
+LABEL:8
+VERSE:Maaziah, Bilgai, and Shemaiah. These were the priests.
+LABEL:9
+VERSE:The Levites: Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
+LABEL:10
+VERSE:and their brothers, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+LABEL:11
+VERSE:Mica, Rehob, Hashabiah,
+LABEL:12
+VERSE:Zaccur, Sherebiah, Shebaniah,
+LABEL:13
+VERSE:Hodiah, Bani, and Beninu.
+LABEL:14
+VERSE:The chiefs of the people: Parosh, Pahathmoab, Elam, Zattu, Bani,
+LABEL:15
+VERSE:Bunni, Azgad, Bebai,
+LABEL:16
+VERSE:Adonijah, Bigvai, Adin,
+LABEL:17
+VERSE:Ater, Hezekiah, Azzur,
+LABEL:18
+VERSE:Hodiah, Hashum, Bezai,
+LABEL:19
+VERSE:Hariph, Anathoth, Nobai,
+LABEL:20
+VERSE:Magpiash, Meshullam, Hezir,
+LABEL:21
+VERSE:Meshezabel, Zadok, Jaddua,
+LABEL:22
+VERSE:Pelatiah, Hanan, Anaiah,
+LABEL:23
+VERSE:Hoshea, Hananiah, Hasshub,
+LABEL:24
+VERSE:Hallohesh, Pilha, Shobek,
+LABEL:25
+VERSE:Rehum, Hashabnah, Maaseiah,
+LABEL:26
+VERSE:Ahiah, Hanan, Anan,
+LABEL:27
+VERSE:Malluch, Harim, and Baanah.
+LABEL:28
+VERSE:The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all those who had separated themselves from the peoples of the lands to the law of God, their wives, their sons, and their daughters—everyone who had knowledge and understanding—
+LABEL:29
+VERSE:joined with their brothers, their nobles, and entered into a curse and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of Yahweh our Lord, and his ordinances and his statutes;
+LABEL:30
+VERSE:and that we would not give our daughters to the peoples of the land, nor take their daughters for our sons;
+LABEL:31
+VERSE:and if the peoples of the land bring wares or any grain on the Sabbath day to sell, that we would not buy from them on the Sabbath, or on a holy day; and that we would forego the seventh year crops and the exaction of every debt.
+LABEL:32
+VERSE:Also we made ordinances for ourselves, to charge ourselves yearly with the third part of a shekel for the service of the house of our God:
+LABEL:33
+VERSE:for the show bread, for the continual meal offering, for the continual burnt offering, for the Sabbaths, for the new moons, for the set feasts, for the holy things, for the sin offerings to make atonement for Israel, and for all the work of the house of our God.
+LABEL:34
+VERSE:We, the priests, the Levites, and the people, cast lots for the wood offering, to bring it into the house of our God, according to our fathers’ houses, at times appointed year by year, to burn on Yahweh our God’s altar, as it is written in the law;
+LABEL:35
+VERSE:and to bring the first fruits of our ground and the first fruits of all fruit of all kinds of trees, year by year, to Yahweh’s house;
+LABEL:36
+VERSE:also the firstborn of our sons and of our livestock, as it is written in the law, and the firstborn of our herds and of our flocks, to bring to the house of our God, to the priests who minister in the house of our God;
+LABEL:37
+VERSE:and that we should bring the first fruits of our dough, our wave offerings, the fruit of all kinds of trees, and the new wine and the oil, to the priests, to the rooms of the house of our God; and the tithes of our ground to the Levites; for they, the Levites, take the tithes in all our farming villages.
+LABEL:38
+VERSE:The priest, the descendent of Aaron, shall be with the Levites when the Levites take tithes. The Levites shall bring up the tithe of the tithes to the house of our God, to the rooms, into the treasure house.
+LABEL:39
+VERSE:For the children of Israel and the children of Levi shall bring the wave offering of the grain, of the new wine, and of the oil, to the rooms where the vessels of the sanctuary are, and the priests who minister, with the gatekeepers and the singers. We will not forsake the house of our God.

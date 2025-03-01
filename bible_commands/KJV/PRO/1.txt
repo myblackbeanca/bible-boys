@@ -1,0 +1,106 @@
+TRANSLATION:KJV
+BOOK:PRO
+CHAPTER:1
+TITLE:Proverbs 1
+LABEL:1
+VERSE:The proverbs of Solomon the son of David, king of Israel;
+LABEL:2
+VERSE:To know wisdom and instruction;
+VERSE:To perceive the words of understanding;
+LABEL:3
+VERSE:To receive the instruction of wisdom,
+VERSE:Justice, and judgment, and equity;
+LABEL:4
+VERSE:To give subtilty to the simple,
+VERSE:To the young man knowledge and discretion.
+LABEL:5
+VERSE:A wise man will hear, and will increase learning;
+VERSE:And a man of understanding shall attain unto wise counsels:
+LABEL:6
+VERSE:To understand a proverb, and the interpretation;
+VERSE:The words of the wise, and their dark sayings.
+LABEL:7
+VERSE:The fear of the LORD  is the beginning of knowledge:
+VERSE:But fools despise wisdom and instruction.
+LABEL:8
+VERSE:My son, hear the instruction of thy father,
+VERSE:And forsake not the law of thy mother:
+LABEL:9
+VERSE:For they shall be an ornament of grace unto thy head,
+VERSE:And chains about thy neck.
+LABEL:10
+VERSE:My son, if sinners entice thee,
+VERSE:Consent thou not.
+LABEL:11
+VERSE:If they say, Come with us, let us lay wait for blood,
+VERSE:Let us lurk privily for the innocent without cause:
+LABEL:12
+VERSE:Let us swallow them up alive as the grave;
+VERSE:And whole, as those that go down into the pit:
+LABEL:13
+VERSE:We shall find all precious substance,
+VERSE:We shall fill our houses with spoil:
+LABEL:14
+VERSE:Cast in thy lot among us;
+VERSE:Let us all have one purse:
+LABEL:15
+VERSE:My son, walk not thou in the way with them;
+VERSE:Refrain thy foot from their path:
+LABEL:16
+VERSE:For their feet run to evil,
+VERSE:And make haste to shed blood.
+LABEL:17
+VERSE:Surely in vain the net is spread
+VERSE:In the sight of any bird.
+LABEL:18
+VERSE:And they lay wait for their own blood;
+VERSE:They lurk privily for their own lives.
+LABEL:19
+VERSE:So are the ways of every one that is greedy of gain;
+VERSE:Which taketh away the life of the owners thereof.
+SECTION:The Cry of Wisdom
+LABEL:20
+VERSE:Wisdom crieth without;
+VERSE:She uttereth her voice in the streets:
+LABEL:21
+VERSE:She crieth in the chief place of concourse, in the openings of the gates:
+VERSE:In the city she uttereth her words, saying,
+LABEL:22
+VERSE:How long, ye simple ones, will ye love simplicity?
+VERSE:And the scorners delight in their scorning,
+VERSE:And fools hate knowledge?
+LABEL:23
+VERSE:Turn you at my reproof:
+VERSE:Behold, I will pour out my spirit unto you,
+VERSE:I will make known my words unto you.
+LABEL:24
+VERSE:Because I have called, and ye refused;
+VERSE:I have stretched out my hand, and no man regarded;
+LABEL:25
+VERSE:But ye have set at nought all my counsel,
+VERSE:And would none of my reproof:
+LABEL:26
+VERSE:I also will laugh at your calamity;
+VERSE:I will mock when your fear cometh;
+LABEL:27
+VERSE:When your fear cometh as desolation,
+VERSE:And your destruction cometh as a whirlwind;
+VERSE:When distress and anguish cometh upon you.
+LABEL:28
+VERSE:Then shall they call upon me, but I will not answer;
+VERSE:They shall seek me early, but they shall not find me:
+LABEL:29
+VERSE:For that they hated knowledge,
+VERSE:And did not choose the fear of the LORD:
+LABEL:30
+VERSE:They would none of my counsel:
+VERSE:They despised all my reproof.
+LABEL:31
+VERSE:Therefore shall they eat of the fruit of their own way,
+VERSE:And be filled with their own devices.
+LABEL:32
+VERSE:For the turning away of the simple shall slay them,
+VERSE:And the prosperity of fools shall destroy them.
+LABEL:33
+VERSE:But whoso hearkeneth unto me shall dwell safely,
+VERSE:And shall be quiet from fear of evil.

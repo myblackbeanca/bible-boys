@@ -1,0 +1,86 @@
+TRANSLATION:ASV
+BOOK:PRO
+CHAPTER:27
+TITLE:Proverbs 27
+LABEL:1
+VERSE:Boast not thyself of to-morrow;
+VERSE:For thou knowest not what a day may bring forth.
+LABEL:2
+VERSE:Let another man praise thee, and not thine own mouth;
+VERSE:A stranger, and not thine own lips.
+LABEL:3
+VERSE:A stone is heavy, and the sand weighty;
+VERSE:But a fool’s vexation is heavier than they both.
+LABEL:4
+VERSE:Wrath is cruel, and anger is overwhelming;
+VERSE:But who is able to stand before jealousy?
+LABEL:5
+VERSE:Better is open rebuke
+VERSE:Than love that is hidden.
+LABEL:6
+VERSE:Faithful are the wounds of a friend;
+VERSE:But the kisses of an enemy are profuse.
+LABEL:7
+VERSE:The full soul loatheth a honeycomb;
+VERSE:But to the hungry soul every bitter thing is sweet.
+LABEL:8
+VERSE:As a bird that wandereth from her nest,
+VERSE:So is a man that wandereth from his place.
+LABEL:9
+VERSE:Oil and perfume rejoice the heart;
+VERSE:So doth the sweetness of a man’s friend that cometh of hearty counsel.
+LABEL:10
+VERSE:Thine own friend, and thy father’s friend, forsake not;
+VERSE:And go not to thy brother’s house in the day of thy calamity:
+VERSE:Better is a neighbor that is near than a brother far off.
+LABEL:11
+VERSE:My son, be wise, and make my heart glad,
+VERSE:That I may answer him that reproacheth me.
+LABEL:12
+VERSE:A prudent man seeth the evil, and hideth himself;
+VERSE:But the simple pass on, and suffer for it.
+LABEL:13
+VERSE:Take his garment that is surety for a stranger;
+VERSE:And hold him in pledge that is surety for a foreign woman.
+LABEL:14
+VERSE:He that blesseth his friend with a loud voice, rising early in the morning,
+VERSE:It shall be counted a curse to him.
+LABEL:15
+VERSE:A continual dropping in a very rainy day
+VERSE:And a contentious woman are alike:
+LABEL:16
+VERSE:He that would restrain her restraineth the wind;
+VERSE:And his right hand encountereth oil.
+LABEL:17
+VERSE:Iron sharpeneth iron;
+VERSE:So a man sharpeneth the countenance of his friend.
+LABEL:18
+VERSE:Whoso keepeth the fig-tree shall eat the fruit thereof;
+VERSE:And he that regardeth his master shall be honored.
+LABEL:19
+VERSE:As in water face answereth to face,
+VERSE:So the heart of man to man.
+LABEL:20
+VERSE:Sheol and Abaddon are never satisfied;
+VERSE:And the eyes of man are never satisfied.
+LABEL:21
+VERSE:The refining pot is for silver, and the furnace for gold;
+VERSE:And a man is tried by his praise.
+LABEL:22
+VERSE:Though thou shouldest bray a fool in a mortar with a pestle along with bruised grain,
+VERSE:Yet will not his foolishness depart from him.
+LABEL:23
+VERSE:Be thou diligent to know the state of thy flocks,
+VERSE:And look well to thy herds:
+LABEL:24
+VERSE:For riches are not for ever;
+VERSE:And doth the crown endure unto all generations?
+LABEL:25
+VERSE:The hay is carried, and the tender grass showeth itself,
+VERSE:And the herbs of the mountains are gathered in.
+LABEL:26
+VERSE:The lambs are for thy clothing,
+VERSE:And the goats are the price of the field;
+LABEL:27
+VERSE:And there will be goats’ milk enough for thy food, for the food of thy household,
+VERSE:And maintenance for thy maidens.

@@ -67,7 +67,7 @@ func main() {
 		}
 
 		vbf.WriteJSON(w, 200, verse)
-	}, vbf.MwLogger)
+	}, vbf.MwCORS, vbf.MwLogger)
 
 	err = vbf.Serve(mux, "8080")
 	if err != nil {
